@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+  xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+  <channel>
+    <title>testfeed</title>
+    <description>testfeedforapplenews</description>
+    <pubDate>Fri, 22 May 2020 08:10:35 +0000</pubDate>
+    <lastBuildDate>Fri, 10 May 2020 11:34:07 +0000</lastBuildDate>
+    <link>https://wearemathematics.co.uk</link>
+    <language>en-US</language>
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">612345674</guid>
+      <!-- must include CDATA wrapper -->
+      <title>no body</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Fri, 22 May 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>NewsArticle</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <media:group>
+        <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-652/gorka-marquez-a.jpg" type="image/jpeg" medium="image">
+        <media:title/>
+        <media:text>Hello! Magazine</media:text>
+        <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+        <mi:licenseId>Photo: © Instagram</mi:licenseId>
+        <mi:licensorName>Photo: © Instagram</mi:licensorName>
+        <media:description>
+        <![CDATA[ <p><strong><a href="https://www.hellomagazine.com/tags/strictly/"><em>Strictly Come Dancing</em></a></strong> may not be on telly right now but we still love hearing all the latest news from the professional dancers. And with <strong><a href="https://www.hellomagazine.com/tags/fathers-day/">Father&#39;s Day</a></strong> on 21 June, what better opportunity to look at some adorable photos of our favourite male pros cuddling their cute babies? Exactly. It&#39;s a must.</p> <p> </p> <p>From the delectable <strong><a href="https://www.hellomagazine.com/tags/james-jordan/">James Jordan</a></strong> and charming <strong><a href="https://www.hellomagazine.com/tags/pasha-kovalev/">Pasha Kovalev</a></strong> to <strong><a href="https://www.hellomagazine.com/tags/gorka-marquez/">Gorka Marquez</a></strong> and original <em>Strictly</em> dancer <strong><a href="https://www.hellomagazine.com/tags/darren-bennett/">Darren Bennett</a></strong>, we&#39;ve rounded up some super sweet pictures of the famous dads cooing over their children. Take a look…</p> <p> </p> <h2><span style="background-color:initial">Gorka Marquez</span></h2> <p>Now that&#39;s daddy-daughter love right there. <em>Strictly </em>pro Gorka often shares sweet photos of himself and his little girl Mia on his social media. On June 4 he wrote beside this picture: "11 months today!! Can’t believe next month she’s going to be 1 year." Gorka welcomed Mia with his partner, actress <strong><a href="https://www.hellomagazine.com/tags/gemma-atkinson/">Gemma Atkinson</a></strong>, in July 2019.</p> ]]>
+        </media:description>
+        </media:content>
+      <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-654/pasha-a.jpg" type="image/jpeg" medium="image">
+      <media:title/>
+      <media:text>Hello! Magazine</media:text>
+      <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+      <mi:licenseId>Photo: © Instagram</mi:licenseId>
+      <mi:licensorName>Photo: © Instagram</mi:licensorName>
+      <media:description>
+      <![CDATA[ <h2>Pasha Kovalev</h2> <p>Aw, lovely Pacha looks smitten with his baby girl Maven in this shot. The dancer welcomed his first child with <em>Countdown </em>star <strong><a href="https://www.hellomagazine.com/tags/rachel-riley/">Rachel Riley</a></strong> in December 2019 and we are so happy for them! Rachel shared this snap on her Instagram page to celebrate Pacha&#39;s birthday, writing: "Celebrating 40 years of this wonderful human today. We couldn’t love him more."</p> ]]>
+      </media:description>
+      </media:content>
+      <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-653/james-jordan-a.jpg" type="image/jpeg" medium="image">
+      <media:title/>
+      <media:text>Hello! Magazine</media:text>
+      <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+      <mi:licenseId>Photo: © Instagram</mi:licenseId>
+      <mi:licensorName>Photo: © Instagram</mi:licensorName>
+      <media:description>
+      <![CDATA[ <h2>James Jordan</h2> <p>Just how cute are James and his daughter Ella? The dancer and his fellow pro wife <strong><a href="https://www.hellomagazine.com/tags/ola-jordan/">Ola Jordan</a></strong> have spoken of their difficult three-year battle to conceive, so we were thrilled when little Ella arrived on 27 February 2020.</p> <p><strong>James told HELLO! on first setting eyes on his baby girl:</strong> <strong>"I could stare at her all day. I didn&#39;t want to let her go."</strong></p> ]]>
+      </media:description>
+      </media:content>
+      <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-651/gleb-a.jpg" type="image/jpeg" medium="image">
+      <media:title/>
+      <media:text>Hello! Magazine</media:text>
+      <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+      <mi:licenseId>Photo: © Instagram</mi:licenseId>
+      <mi:licensorName>Photo: © Instagram</mi:licensorName>
+      <media:description>
+      <![CDATA[ <h2>Gleb Savchenko</h2> <p>Dancer Gleb is one doting dad in this 2018 picture with his children Olivia and Zalara. Gleb joined <em>Strictly</em> in its thirteenth series but didn&#39;t return for the fourteenth series, deciding he wanted to spend more time with his wife and daughter, Olivia. The family welcomed Zalara in August 2017.</p> ]]>
+      </media:description>
+      </media:content>
+      <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-650/darren-bennett-a.jpg" type="image/jpeg" medium="image">
+      <media:title/>
+      <media:text>Hello! Magazine</media:text>
+      <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+      <mi:licenseId>Photo: © Instagram</mi:licenseId>
+      <mi:licensorName>Photo: © Instagram</mi:licensorName>
+      <media:description>
+      <![CDATA[ <h2>Darren Bennett</h2> <p>We were huge fans of dancer Darren on <em>Strictly </em>and here is with his daughter Valentina Rosa back in 2015, who he shares with his wife Lilia, another fellow former <em>Strictly </em>dancer Lilia. What a sweet pair Darren and Valentina are in this photo.</p> ]]>
+      </media:description>
+      </media:content>
+      <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-649/brendan-cole-a.jpg" type="image/jpeg" medium="image">
+      <media:title/>
+      <media:text>Hello! Magazine</media:text>
+      <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+      <mi:licenseId>Photo: © Instagram</mi:licenseId>
+      <mi:licensorName>Photo: © Instagram</mi:licensorName>
+      <media:description>
+      <![CDATA[ <h2>Brendan Cole</h2> <p>Oh we love this snap of Brendan Cole and his son Dante from 2018 – nothing beats a guy with a baby carrier! Brendan and his wife Zoe Hobbs are also parents to Aurelia, who they welcomed in 2012; little Dante arrived in March 2018.</p> <p>MORE: <strong><a href="https://www.hellomagazine.com/healthandbeauty/mother-and-baby/2020061091347/best-moses-baskets-newborns/">10 of the best Moses baskets for newborns to help your baby sleep soundly</a></strong></p> ]]>
+      </media:description>
+      </media:content>
+      <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-647/anton-du-beke-a.jpg" type="image/jpeg" medium="image">
+      <media:title/>
+      <media:text>Hello! Magazine</media:text>
+      <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+      <mi:licenseId>Photo: © Instagram</mi:licenseId>
+      <mi:licensorName>Photo: © Instagram</mi:licensorName>
+      <media:description>
+      <![CDATA[ <h2>Anton du Beke</h2> <p><em>Strictly</em>&#39;s Anton is absolutely adorable reading to his twins George and Henrietta. The star became a father in 2017 with his then-girlfriend, Hannah Summers, who he later married in secret shortly after the birth. Anton shared this snap on World Book Day.</p> <p>MORE:<strong> <a href="https://www.hellomagazine.com/healthandbeauty/mother-and-baby/gallery/2020061591597/kate-middleton-princess-charlotte-sweetest-moments/1/"><strong>14 sweet moments between Duchess Kate and </strong>daughter Princess Charlotte</a></strong></p> ]]>
+      </media:description>
+      </media:content>
+      <media:content url="https://www.hellomagazine.com/imagenes/healthandbeauty/mother-and-baby/2020061791749/strictly-dancer-dads-baby-photos/0-439-648/artem-a.jpg" type="image/jpeg" medium="image">
+      <media:title/>
+      <media:text>Hello! Magazine</media:text>
+      <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+      <mi:licenseId>Photo: © Instagram</mi:licenseId>
+      <mi:licensorName>Photo: © Instagram</mi:licensorName>
+      <media:description>
+      <![CDATA[ <h2>Dad-to-be Artem Chigvintsev</h2> <p>OK, so he&#39;s not, er, strictly a dad yet but we just had to include Artem in our line-up. Artem and fiancée Nikki Bella are expecting their first child together, recently posting this snap to Instagram. "It&#39;s a boy!" revealed the dancer.</p> ]]>
+      </media:description>
+      </media:content>
+      </media:group>
+      <!--  @@@ end images @@@  -->
+      </item>
+  </channel>
+</rss>
