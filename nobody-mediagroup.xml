@@ -18,7 +18,7 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">6123423345674</guid>
       <!-- must include CDATA wrapper -->
-      <title>removal of content:encoded and description</title>
+      <title>extra removal of content:encoded and description</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Fri, 22 May 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
