@@ -30,7 +30,7 @@
       <flatplan:template identifier="template_name"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
-        <![CDATA[
+        < ![CDATA[
         <div id="section-L65PzrEWJr" class="Theme-Section Theme-TitleSection Theme-Section-Position-1 DisplayContainerHeight DisplayContainerHeight--minHeight DisplayContainerHeight--flex Theme-Section-Layout--Full Theme-Section-Dark Theme-Section-HasOverlay">
                 <div class="Layout FullSize--fullHeight Theme-Layer-TextBlock Layer--one">
                   <div class="Layout__flex--xleft Layout__flex--ytop Theme-Layer-TextBlock-Container" data-scrollymoly-basis="true">
@@ -52,14 +52,14 @@
 
                 <div class="Layer--two FullSize FullSize--scrollChild FullSize--child Theme-BackgroundMedia Theme-BackgroundVideo" data-background-video="true">
                   <div class="FullSize--fullWidth FullSize--fullHeight PositionSticky BackgroundVideo__sticky"><video data-video="true" preload="none" loop muted class="FullSize--basic ObjectFit--cover" style="opacity:0" playsinline data-landscape="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/landscape/video-1OJJyQZwPy/levitate-cropped-scaled_1.20percent.mp4" data-portrait="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/landscape/video-1OJJyQZwPy/levitate-cropped-scaled_1.20percent.mp4" data-type="video/mp4"></video>
-                    <picture class="FullSize--fullWidth FullSize--fullHeight BackgroundVideo__fallback FullSize--scrollChild Levels--basement Theme-Item-Picture">
+                    <figure class="FullSize--fullWidth FullSize--fullHeight BackgroundVideo__fallback FullSize--scrollChild Levels--basement Theme-Item-Picture">
                       <source srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/landscape/fallback-EIjONKO5lh/title--landscape-750x422.jpeg 750w,https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/landscape/fallback-EIjONKO5lh/title--landscape-1719x967.jpeg 1719w,https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/landscape/fallback-EIjONKO5lh/title--landscape-2255x1268.jpeg 2255w,https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/landscape/fallback-EIjONKO5lh/title--landscape-2560x1440.jpeg 2560w" media="(min-aspect-ratio: 1/1)" sizes="100vw" data-width="2560" data-height="1440">
                       <source srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/portrait/fallback-GLZBHUD0nR/title--portrait-750x1333.jpeg 750w,https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/portrait/fallback-GLZBHUD0nR/title--portrait-1045x1858.jpeg 1045w,https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/portrait/fallback-GLZBHUD0nR/title--portrait-1293x2299.jpeg 1293w,https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/portrait/fallback-GLZBHUD0nR/title--portrait-1440x2560.jpeg 1440w" media="(max-aspect-ratio: 1/1)" sizes="100vw" data-width="1440" data-height="2560"><img class="FullSize FullSize--fullWidth FullSize--fullHeight ObjectFit--cover" src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-Tnakgm2cIi/landscape/fallback-EIjONKO5lh/title--landscape-2560x1440.jpeg"></figure>
                     <div class="FullSize Theme-Overlay Theme-Section-Dark" style="opacity:0.3;background-color:#222222"></div>
                   </div>
                 </div>
               </div>
-
+              xx
               <div id="section-4RC2Hkq7iX" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
                 <div class="Layout Layer--one">
                   <div class="Layout__row">
@@ -143,7 +143,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-oXONVKntfC/2cs-pass-01-750x664.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-oXONVKntfC/2cs-pass-01-750x664.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-oXONVKntfC/2cs-pass-01-750x664.jpeg" alt="[object Object]" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -160,7 +160,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-21eFg4UjFL/2cs-pass-02-750x664.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-21eFg4UjFL/2cs-pass-02-750x664.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-21eFg4UjFL/2cs-pass-02-750x664.jpeg" alt="[object Object]" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -177,7 +177,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-Jkc597P2gC/2cs-pass-03-750x664.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-Jkc597P2gC/2cs-pass-03-750x664.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-ejx556cHDF/landscape/image-Jkc597P2gC/2cs-pass-03-750x664.jpeg" alt="[object Object]" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -301,7 +301,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-Tn5UcJBrR5/kellar-2cs0-700x1031.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-Tn5UcJBrR5/kellar-2cs0-700x1031.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-Tn5UcJBrR5/kellar-2cs0-700x1031.jpeg" alt="A photo of Kellar" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -318,7 +318,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-ThnRkNoQxh/kellar-2cs1-700x1031.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-ThnRkNoQxh/kellar-2cs1-700x1031.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-ThnRkNoQxh/kellar-2cs1-700x1031.jpeg" alt="A poster illustrating Kellar&apos;s &quot;self-decapitation&quot; illusion" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -335,7 +335,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-gWIVli1P5A/levitate-card-03-1266x1703.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-gWIVli1P5A/levitate-card-03-1266x1703.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-gWIVli1P5A/levitate-card-03-1266x1703.jpeg" alt="A show poster of Kellar and 3 red devils" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -352,7 +352,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-XotjWNbNQ7/levitate-card-06-700x877.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-XotjWNbNQ7/levitate-card-06-700x877.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-XotjWNbNQ7/levitate-card-06-700x877.jpeg" alt="A poster of Kellar levitating a woman in a red dress" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -369,7 +369,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-zAEUEsyLrq/levitate-card-04-967x1172.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-zAEUEsyLrq/levitate-card-04-967x1172.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-zAEUEsyLrq/levitate-card-04-967x1172.jpeg" alt="A poster of Kellar levitating a woman in a pink dress" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -386,7 +386,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-HoSox1jyCd/levitate-card-05-700x882.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-HoSox1jyCd/levitate-card-05-700x882.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-BBUl1CTL2x/landscape/image-HoSox1jyCd/levitate-card-05-700x882.jpeg" alt="A poster of Kellar levitating an Indian princess" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -491,7 +491,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-HdViEFtwTf/landscape/image-V0FW1NqSQx/thurston-levitate2-700x891.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-HdViEFtwTf/landscape/image-V0FW1NqSQx/thurston-levitate2-700x891.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-HdViEFtwTf/landscape/image-V0FW1NqSQx/thurston-levitate2-700x891.jpeg" alt="A poster of Thurston. World&apos;s famous magician and wonder show of the earth" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
@@ -508,7 +508,7 @@
                               </div>
                             </div>
                             <div data-lazyload-item="true" class="FullSize">
-                              <picture class="Display--block FullSize--basic CardCanvasItem__image">
+                              <figure class="Display--block FullSize--basic CardCanvasItem__image">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-HdViEFtwTf/landscape/image-ybBEKBLtwJ/thurston-levitate-700x891.jpeg" media="(max-width: 900px)">
                                 <source data-srcset="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-HdViEFtwTf/landscape/image-ybBEKBLtwJ/thurston-levitate-700x891.jpeg" media="(min-width: 900px)"><img data-src="https://media.shorthand.com/media/organisations/gwGPDUUO4T/page-L7aAvU7cgZ/section-HdViEFtwTf/landscape/image-ybBEKBLtwJ/thurston-levitate-700x891.jpeg" alt="An illustrated poster of Thurston levitating an Egyptian princess" class="Theme-CardCanvas-ImageItem"></figure>
                             </div>
