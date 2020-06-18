@@ -19,6 +19,7 @@
       <guid isPermaLink="false">6234123423345674</guid>
       <!-- must include CDATA wrapper -->
       <title>shorthand + figures</title>
+
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Fri, 22 May 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -93,7 +94,7 @@
                           <p class>
                             When one of his music pupils became his wife, she persuaded him to take up magic again, without the phony stage persona. This more natural presentation was a success.
                           </p>
-                          <figure class="InlineMedia InlineMedia--image null" data-lazyload-container="true" data-lazyload-trigger="true">
+                          <div class="InlineMedia InlineMedia--image null" data-lazyload-container="true" data-lazyload-trigger="true">
                             <div class="InlineMedia--image__inner">
                               <div class="Lazyload__loading" aria-hidden="true">
                                 <div class="Display--none Display--md-block"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgMTI5NyAxNjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMjk3IiBoZWlnaHQ9IjE2MDAiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiPjwvcmVjdD48L3N2Zz4=">
@@ -115,7 +116,7 @@
                               <div class="Display--none Display--md-block"></div>
                               <div class="Display--md-none"></div>
                             </figcaption>
-                          </figure>
+                          </div>
                           <p class>
                             With an act consisting of easy-to-travel illusions relying on the sleight-of-hand techniques of coin and card palming and &apos;spiritual&apos; S&#xE9;ance, Heller toured the US, UK, Europe and Asia for six years before retiring magic for musical performance back in DC.
                           </p>
@@ -235,7 +236,7 @@
                           </p>
                           <p class>That entertainment was the &#x201C;Egyptian Hall&#x201D;, a permanent playhouse in London to a troupe of magicians managed by John Nevil Maskelyne and George Alfred Cooke.
                           </p>
-                          <figure class="InlineMedia InlineMedia--image null" data-lazyload-container="true" data-lazyload-trigger="true">
+                          <div class="InlineMedia InlineMedia--image null" data-lazyload-container="true" data-lazyload-trigger="true">
                             <div class="InlineMedia--image__inner">
                               <div class="Lazyload__loading" aria-hidden="true">
                                 <div class="Display--none Display--md-block"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDU1MSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzAwIiBoZWlnaHQ9IjU1MSI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSI+PC9yZWN0Pjwvc3ZnPg==">
@@ -257,7 +258,7 @@
                               <div class="Display--none Display--md-block"></div>
                               <div class="Display--md-none"></div>
                             </figcaption>
-                          </figure>
+                          </div>
                           <p class>Keller became entranced by the Egyptian Hall and the idea that a magician could have a permanent home rather than have the need to continually tour. He also became fascinated with one of their acts. It involved the story of an Indian mystic somehow being able to float a young princess.
                           </p>
                           <p class>He could not discern the secret.
@@ -441,7 +442,8 @@
                           <p class>Thurston became that successor and eventually the most famous magician of his time, well surpassing the career heights of Hermann. </p>
                           <p class>His traveling magic show was the biggest one of all; it was so large that it needed eight train cars to transport. </p>
                           <p class>Among all that new and inherited equipment was a trunk containing &#x201C;<em>the levi</em>&#x201D; : a collection of weights, wires, counter balances and levers made in part by the Otis Elevator Company. </p>
-                          <figure class="InlineMedia InlineMedia--image null" data-lazyload-container="true" data-lazyload-trigger="true">
+
+                          <div class="InlineMedia InlineMedia--image null" data-lazyload-container="true" data-lazyload-trigger="true">
                             <div class="InlineMedia--image__inner">
                               <div class="Lazyload__loading" aria-hidden="true">
                                 <div class="Display--none Display--md-block"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgNzAwIDU2MyIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNzAwIiBoZWlnaHQ9IjU2MyI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSI+PC9yZWN0Pjwvc3ZnPg==">
@@ -463,7 +465,8 @@
                               <div class="Display--none Display--md-block"></div>
                               <div class="Display--md-none"></div>
                             </figcaption>
-                          </figure>
+                          </div>
+
                           <p class></p>
                           <p class>Despite being made famous by Kellar, it was said that in Thurston&apos;s hands, the <em>Levitation of Princess Karnac</em> became a masterpiece.
                           </p>
