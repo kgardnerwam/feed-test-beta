@@ -30,7 +30,7 @@
       <flatplan:template identifier="template_name"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
-        < ![CDATA[
+        <![CDATA[
         <div id="section-L65PzrEWJr" class="Theme-Section Theme-TitleSection Theme-Section-Position-1 DisplayContainerHeight DisplayContainerHeight--minHeight DisplayContainerHeight--flex Theme-Section-Layout--Full Theme-Section-Dark Theme-Section-HasOverlay">
                 <div class="Layout FullSize--fullHeight Theme-Layer-TextBlock Layer--one">
                   <div class="Layout__flex--xleft Layout__flex--ytop Theme-Layer-TextBlock-Container" data-scrollymoly-basis="true">
