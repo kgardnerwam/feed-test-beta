@@ -18,7 +18,7 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">6234123423345674</guid>
       <!-- must include CDATA wrapper -->
-      <title>shorthand + figures + div</title>
+      <title>shorthand + figures + div + no pictures</title>
 
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Fri, 22 May 2020 09:01:07 +0000</pubDate>
