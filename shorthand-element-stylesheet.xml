@@ -838,11 +838,129 @@
       <flatplan:template identifier="template_name"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded> <![CDATA[
+        <!-- @@ text blockquote -->
+        <section class="flatplan-stack" data-stack-id="sh-text-blockquote">
+          <section>
+            <h3>Text - blockquote</h3>
+            <h4>Blockquote source</h4>
+          </section>
+        </section>
+
+        <!-- @@ text indent -->
+        <section class="flatplan-stack" data-stack-id="sh-text-indent">
+          <section>
+            <p>Text - indent</p>
+          </section>
+        </section>
+
+        <!-- @@ text dropcap -->
+        <section class="flatplan-stack" data-stack-id="sh-text-dropcap">
+          <section>
+            <p>Text - Drop cap. To edit the text in this story, while in the editor, click on existing text and you can begin typing</p>
+          </section>
+        </section>
+
+        <!-- @@ text breakout -->
+        <section class="flatplan-stack" data-stack-id="sh-text-breakout">
+          <section>
+            <p>Text - breakout</p>
+          </section>
+        </section>
+
+        <!-- @@ inline button -->
+        <section class="flatplan-stack" data-stack-id="sh-inline-button">
+          <section>
+            <a href="https://www.apple.com" target="_blank" rel class="InlineElement--Button Theme-Layer-BodyText-Button null">Button CTA</a>
+          </section>
+        </section>
+
+        <!-- @@ inline divider -->
+        <section class="flatplan-stack" data-stack-id="sh-inline-divider">
+          <section>
+            <p>&#x2001;</p>
+          </section>
+        </section>
+
+        <!-- @@ inline image -->
         <section class="flatplan-stack" data-stack-id="sh-inline-media-image">
           <section>
             <figure><img src="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - inline - image - caption</p> </figcaption></figure>
           </section>
         </section>
+
+        <!-- @@ inline video native -->
+        <section class="flatplan-stack" data-stack-id="sh-inline-media-video">
+          <section>
+            <iframe src="./assets/templates/set-a/placeholders/media-landscape-video-0.mp4"></iframe>
+            <p>Media - inline - video - native - caption</p>
+          </section>
+        </section>
+
+        <!-- @@ inline youtube -->
+        <section class="flatplan-stack" data-stack-id="sh-inline-media-youtube">
+          <section>
+            <iframe allowfullscreen src="https://youtube.com/embed/IB-3R70GS7M"></iframe>
+            <p>Media - inline - video - youtube - caption</p>
+          </section>
+        </section>
+
+        <!-- @@ inline soundcloud -->
+        <section class="flatplan-stack" data-stack-id="sh-inline-media-soundcloud">
+          <section>
+            <a href="https://w.soundcloud.com/player/?url=https://soundcloud.com/acornavi/jim-wilson-crickets-audio&amp;auto_play=false&amp;buying=true&amp;liking=true&amp;download=true&amp;sharing=true&amp;show_artwork=true&amp;show_comments=true&amp;show_playcount=true&amp;show_user=true&amp;hide_related=false&amp;visual=true&amp;start_track=0&amp;callback=true">Listen on soundcloud.com</a>
+          </section>
+        </section>
+
+        <!-- @@ media image -->
+        <section class="flatplan-stack" data-stack-id="sh-media-image">
+          <section>
+            <figure><img src="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - image - caption</p> </figcaption></figure>
+          </section>
+        </section>
+
+        <!-- @@ media gallery -->
+        <section class="flatplan-stack" data-stack-id="sh-media-gallery">
+          <section>
+            <figure class="flatplan-gallery">
+                  <!-- 1st image in gallery -->
+                  <figure class="flatplan-gallery-item">
+                    <!--both child elements are required-->
+                    <img src="/assets/OvGl9mYk0S/placeholder-square-orange-750x750.png" alt="Image alt text"/>
+                    <figcaption>Media - gallery - mosaic 1</figcaption>
+                  </figure>
+
+                  <!-- 2nd image in gallery -->
+                  <figure class="flatplan-gallery-item">
+                    <!--both child elements are required -->
+                    <img src="/assets/Gm9eiW4A1U/placeholder-square-750x750.png" alt="Image alt text"/>
+                    <figcaption>Media - gallery - mosaic 2</figcaption>
+                  </figure>
+                  <figure class="flatplan-gallery-item">
+                    <!--both child elements are required -->
+                    <img src="/assets/irLBNDFsn4/placeholder-square-green-750x750.png" alt="Image alt text"/>
+                    <figcaption>Media - gallery - mosaic 3</figcaption>
+                  </figure>
+                </figure>
+          </section>
+        </section>
+
+        <!-- @@ media video native -->
+        <section class="flatplan-stack" data-stack-id="sh-xxx">
+          <section>
+            <iframe src="./assets/templates/set-a/placeholders/media-landscape-video-0.mp4"></iframe>
+            <p>Media - video - native - caption</p>
+          </section>
+        </section>
+
+        <!-- media video youtube -->
+        <section class="flatplan-stack" data-stack-id="sh-media-youtube">
+          <section>
+            <iframe src="https://youtube.com/embed/bMOX6puG9UU"></iframe>
+            <p>Media - video - youtube - caption</p>
+          </section>
+        </section>
+
+        
         ]]>
       </content:encoded>
     </item>
