@@ -18,7 +18,7 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">412rf2334567a4</guid>
       <!-- must include CDATA wrapper -->
-      <title>shorthand-element-stylesheet - basic</title>
+      <title>shorthand-element-stylesheet - basic - original</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 29 June 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -376,7 +376,7 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">412rf2fd4334567a4</guid>
       <!-- must include CDATA wrapper -->
-      <title>shorthand-element-stylesheet - advanced</title>
+      <title>shorthand-element-stylesheet - advanced - original</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Tue, 30 June 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -820,6 +820,52 @@
 
 
         ]]></content:encoded>
+    </item>
+
+    <item>
+
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412rf2fr54334567a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>shorthand-element-stylesheet - basic - transformed - manual</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Fri, 03 July 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>News Article</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded> <![CDATA[
+        <section class="flatplan-stack" data-stack-id="sh-inline-media-image">
+          <section>
+            <figure><img src="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - inline - image - caption</p> </figcaption></figure>
+          </section>
+        </section>
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412rf2frr9334567a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>shorthand-element-stylesheet - advanced - transformed - manual</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Fri, 03 July 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>News Article</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded> <![CDATA[
+
+        ]]>
+      </content:encoded>
     </item>
 
   </channel>
