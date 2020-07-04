@@ -835,7 +835,7 @@
       <dc:creator>KG</dc:creator>
       <category>Shorthand</category>
       <!-- optional custom metadata fields -->
-      <flatplan:template identifier="template_name"/>
+      <flatplan:template identifier="system-fonts"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded> <![CDATA[
         <div id="section-hon1YffHYJ" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
