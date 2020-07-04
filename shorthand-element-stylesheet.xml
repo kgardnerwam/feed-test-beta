@@ -838,87 +838,117 @@
       <flatplan:template identifier="template_name"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded> <![CDATA[
-        <!-- @@ text blockquote -->
-        <section class="flatplan-stack" data-stack-id="sh-text-blockquote">
-          <section>
-            <h3>Text - blockquote</h3>
-            <h4>Blockquote source</h4>
-          </section>
-        </section>
+        <div id="section-hon1YffHYJ" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class>Text - paragraph 1. To edit the text in this story, while in the editor, click on existing text and you can begin typing. Highlight some of the text and you&apos;ll see a toolbar appear that enables you to set various styles.</p>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large">Text - h2</h2>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Text - h3</h3>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Text - h4</h4>
+                    <section class="flatplan-stack" data-stack-id="sh-text-blockquote">
+                      <section>
+                        <h3>Text - blockquote</h3>
+                        <h4>Blockquote source</h4>
+                      </section>
+                    </section>
+                    <section class="flatplan-stack" data-stack-id="sh-text-indent">
+                      <section>
+                        <p>Text - indent</p>
+                      </section>
+                    </section>
+                    <section class="flatplan-stack" data-stack-id="sh-text-dropcap">
+                      <section>
+                        <p>Text - Drop cap. To edit the text in this story, while in the editor, click on existing text and you can begin typing</p>
+                      </section>
+                    </section>
+                    <ol class="Theme-Layer-BodyText-List-Ordered"><li class="Theme-Layer-BodyText-ListItem">Text - Ordered list item</li>
+                      <li class="Theme-Layer-BodyText-ListItem"> Text - Ordered list item</li>
+                      <li class="Theme-Layer-BodyText-ListItem"> Text - Ordered list item</li>
+                    </ol>
+                    <ul class="Theme-Layer-BodyText-List-Unordered"><li class="Theme-Layer-BodyText-ListItem">Text - Unordered list item</li>
+                      <li class="Theme-Layer-BodyText-ListItem"> Text - Unordered list item</li>
+                      <li class="Theme-Layer-BodyText-ListItem"> Text - Unordered list item</li>
+                    </ul>
+                    <section class="flatplan-stack" data-stack-id="sh-text-breakout">
+                      <section>
+                        <p>Text - breakout</p>
+                      </section>
+                    </section>
+                    <section class="flatplan-stack" data-stack-id="sh-inline-button">
+                      <section>
+                        <a href="https://www.apple.com" target="_blank" rel class="InlineElement--Button Theme-Layer-BodyText-Button null">Button CTA</a>
+                      </section>
+                    </section>
+                    <section class="flatplan-stack" data-stack-id="sh-inline-divider">
+                      <section>
+                        <p>&#x2001;</p>
+                      </section>
+                    </section>
+                    <div class="Theme-Layer-BodyText-Spacer  Theme-SpacerSize-20"><p>put spacer here - delete this text</p></div>
+                    <p class>Text paragraph 2 - Shorthand story, whether simple like this one, or rich with images, animation and video, is made of sections. In the editor, you can see thumbnail-sized versions of the sections that comprise the story in the dark vertical bar on the left. </p>
 
-        <!-- @@ text indent -->
-        <section class="flatplan-stack" data-stack-id="sh-text-indent">
-          <section>
-            <p>Text - indent</p>
-          </section>
-        </section>
+                    <!-- @@ inline image -->
+                    <section class="flatplan-stack" data-stack-id="sh-inline-media-image">
+                      <section>
+                        <figure><img src="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - inline - image - caption</p> </figcaption></figure>
+                      </section>
+                    </section>
 
-        <!-- @@ text dropcap -->
-        <section class="flatplan-stack" data-stack-id="sh-text-dropcap">
-          <section>
-            <p>Text - Drop cap. To edit the text in this story, while in the editor, click on existing text and you can begin typing</p>
-          </section>
-        </section>
+                    <!-- ends -->
 
-        <!-- @@ text breakout -->
-        <section class="flatplan-stack" data-stack-id="sh-text-breakout">
-          <section>
-            <p>Text - breakout</p>
-          </section>
-        </section>
+                    <!-- @@ inline video - native -->
 
-        <!-- @@ inline button -->
-        <section class="flatplan-stack" data-stack-id="sh-inline-button">
-          <section>
-            <a href="https://www.apple.com" target="_blank" rel class="InlineElement--Button Theme-Layer-BodyText-Button null">Button CTA</a>
-          </section>
-        </section>
+                    <section class="flatplan-stack" data-stack-id="sh-inline-media-video">
+                      <section>
+                        <iframe src="./assets/templates/set-a/placeholders/media-landscape-video-0.mp4"></iframe>
+                        <p>Media - inline - video - native - caption</p>
+                      </section>
+                    </section>
 
-        <!-- @@ inline divider -->
-        <section class="flatplan-stack" data-stack-id="sh-inline-divider">
-          <section>
-            <p>&#x2001;</p>
-          </section>
-        </section>
+                    <!-- ends -->
 
-        <!-- @@ inline image -->
-        <section class="flatplan-stack" data-stack-id="sh-inline-media-image">
-          <section>
-            <figure><img src="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - inline - image - caption</p> </figcaption></figure>
-          </section>
-        </section>
+                    <!-- @@ inline video - youtube -->
 
-        <!-- @@ inline video native -->
-        <section class="flatplan-stack" data-stack-id="sh-inline-media-video">
-          <section>
-            <iframe src="./assets/templates/set-a/placeholders/media-landscape-video-0.mp4"></iframe>
-            <p>Media - inline - video - native - caption</p>
-          </section>
-        </section>
+                    <section class="flatplan-stack" data-stack-id="sh-inline-media-youtube">
+                      <section>
+                        <iframe allowfullscreen src="https://youtube.com/embed/IB-3R70GS7M"></iframe>
+                        <p>Media - inline - video - youtube - caption</p>
+                      </section>
+                    </section>
 
-        <!-- @@ inline youtube -->
-        <section class="flatplan-stack" data-stack-id="sh-inline-media-youtube">
-          <section>
-            <iframe allowfullscreen src="https://youtube.com/embed/IB-3R70GS7M"></iframe>
-            <p>Media - inline - video - youtube - caption</p>
-          </section>
-        </section>
+                    <!-- ends -->
 
-        <!-- @@ inline soundcloud -->
-        <section class="flatplan-stack" data-stack-id="sh-inline-media-soundcloud">
-          <section>
-            <a href="https://w.soundcloud.com/player/?url=https://soundcloud.com/acornavi/jim-wilson-crickets-audio&amp;auto_play=false&amp;buying=true&amp;liking=true&amp;download=true&amp;sharing=true&amp;show_artwork=true&amp;show_comments=true&amp;show_playcount=true&amp;show_user=true&amp;hide_related=false&amp;visual=true&amp;start_track=0&amp;callback=true">Listen on soundcloud.com</a>
-          </section>
-        </section>
+                    <!-- @@ inline - soundcloud -->
 
-        <!-- @@ media image -->
+                    <section class="flatplan-stack" data-stack-id="sh-inline-media-soundcloud">
+                      <section>
+                        <a href="https://w.soundcloud.com/player/?url=https://soundcloud.com/acornavi/jim-wilson-crickets-audio&amp;auto_play=false&amp;buying=true&amp;liking=true&amp;download=true&amp;sharing=true&amp;show_artwork=true&amp;show_comments=true&amp;show_playcount=true&amp;show_user=true&amp;hide_related=false&amp;visual=true&amp;start_track=0&amp;callback=true">Listen on soundcloud.com</a>
+                      </section>
+                    </section>
+
+                    <!-- ends -->
+
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- ends-->
+
+        <!-- @@ media - image landscape -->
         <section class="flatplan-stack" data-stack-id="sh-media-image">
           <section>
             <figure><img src="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - image - caption</p> </figcaption></figure>
           </section>
         </section>
+        <!-- ends -->
 
-        <!-- @@ media gallery -->
+        <!-- @@ media - image gallery / mosaic -->
         <section class="flatplan-stack" data-stack-id="sh-media-gallery">
           <section>
             <figure class="flatplan-gallery">
@@ -943,16 +973,33 @@
                 </figure>
           </section>
         </section>
+        <!-- ends -->
 
-        <!-- @@ media video native -->
+        <!-- @@ media - image w/ link-->
+        <div id="section-Tpe9ACjyji" class="Theme-Section Theme-MediaSection Theme-Section-Position-6 Theme-Section-Layout--Full Theme-Section-Light">
+          <div class="InstantImage InstantImage--isLoading Theme-Layer-ResponsiveMedia Theme-Layer-ResponsiveMedia-image Layer--one"><a href="http://www.apple.com"><div data-lazyload-container="true" data-lazyload-trigger="true" class="Lazyload Lazyload--isLoading"><div class="Lazyload__loading" aria-hidden="true"><div class="Responsive--hide-portrait Theme-Lazyload-Box"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDQ1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iIzAwN0JGRSI+PC9yZWN0Pjwvc3ZnPg==" class="FullSize--basic" alt><div class="Lazyload__spinner Theme-Lazyload-Spinner"></div></div><div class="Responsive--hide-landscape Theme-Lazyload-Box"><img src="data:image/svg+xml;base64,PHN2ZyB2aWV3Qm94PSIwIDAgODAwIDQ1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iODAwIiBoZWlnaHQ9IjQ1MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iIzAwN0JGRSI+PC9yZWN0Pjwvc3ZnPg==" class="FullSize--basic" alt><div class="Lazyload__spinner Theme-Lazyload-Spinner"></div></div></div><div data-lazyload-item="true" class="FullSize"><picture class="FullSize--fullWidth FullSize--fullHeight FullSize--scrollChild Theme-Item-Picture FullSize"><source data-srcset="./assets/LnJfX9o5Ys/placeholder-landscape-750x422.png 750w,./assets/LnJfX9o5Ys/placeholder-landscape-2560x1440.png 2560w,./assets/LnJfX9o5Ys/placeholder-landscape-3200x1800.png 3200w" media="(min-aspect-ratio: 1/1)" sizes="100vw" data-width="3200" data-height="1800" style="background-color:#007BFE"><source data-srcset="./assets/LnJfX9o5Ys/placeholder-landscape-750x422.png 750w,./assets/LnJfX9o5Ys/placeholder-landscape-2560x1440.png 2560w,./assets/LnJfX9o5Ys/placeholder-landscape-3200x1800.png 3200w" media="(max-aspect-ratio: 1/1)" sizes="100vw" data-width="3200" data-height="1800" style="background-color:#007BFE"><img class="FullSize--fullWidth FullSize--fullHeight" data-src="./assets/LnJfX9o5Ys/placeholder-landscape-3200x1800.png" alt="Media - image w/ link"></picture></div></div></a>
+            <div class="Theme-Caption Layout">
+              <div class="Display--none Display--md-block">
+                <p class>Media - image w/ link</p>
+              </div>
+              <div class="Display--md-none">
+                <p class>Media - image w/ link</p>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- ends -->
+
+        <!-- @@ media - video native -->
         <section class="flatplan-stack" data-stack-id="sh-xxx">
           <section>
             <iframe src="./assets/templates/set-a/placeholders/media-landscape-video-0.mp4"></iframe>
             <p>Media - video - native - caption</p>
           </section>
         </section>
+        <!-- ends -->
 
-        <!-- media video youtube -->
+        <!-- @@ media - video youtube-->
         <section class="flatplan-stack" data-stack-id="sh-media-youtube">
           <section>
             <iframe src="https://youtube.com/embed/bMOX6puG9UU"></iframe>
