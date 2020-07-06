@@ -834,6 +834,7 @@
       <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
       <dc:creator>KG</dc:creator>
       <category>Shorthand</category>
+      <description>shorthand-element-stylesheet - basic — introduction text</description>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="system-fonts"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
