@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+  xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  >
+  <channel>
+    <title>shorthand-NBC-examples</title>
+    <description>test feed for shorthand-NBC-examples</description>
+    <pubDate>Wed, 8 July 2020 08:10:35 +0000</pubDate>
+    <lastBuildDate>Wed, 8 July 2020 11:34:07 +0000</lastBuildDate>
+    <link>https://wearemathematics.co.uk</link>
+    <language>en-US</language>
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412rf2334567a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>13 hours, 22 bodies: <br>The long, lonesome shift of a crematory worker in the heat of COVID-19</title>
+      <link>https://www.nbcnews.com/news/us-news/13-hours-22-bodies-long-lonesome-shift-crematory-worker-heat-n1186981</link>
+      <pubDate>Wed, 19 April 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/ZNWVhbx19D/10sec_smoke_cut_1.mp4" caption="Smoke rises from a chimney of the crematorium at the Green-Wood Cemetery in Brooklyn."/>
+      <dc:creator>By Rich Schapiro <br>Photos by Debbie Egan-Chin</dc:creator>
+      <category>Shorthand</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="NBC"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded> <![CDATA[
+
+        <!-- #2 -->
+        <div id="section-raGPYCxKky" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class=" h-align-center"><sup>By Rich Schapiro <br>Photos by Debbie Egan-Chin <br>April 19, 2020</sup></p>
+                    <p class=" h-align-left">Gus Padilla stepped outside the drab gray building and squinted in the afternoon light. He had arrived seven hours earlier, just before 7:30 a.m., after grabbing breakfast at the bodega across the street.</p>
+                    <p class="">Two egg whites, honey turkey, a buttered roll, toasted.</p>
+                    <p class="">Padilla scarfed down his breakfast and changed into his work clothes. A long-sleeve navy shirt, teal pants, white face mask, black plastic gloves.&nbsp;</p>
+                    <p class="">Then he got to work, placing body after body after body into a large furnace, known as a retort, inside the crematorium at Green-Wood Cemetery in Brooklyn, New York.</p>
+                    <p class="">“It’s nonstop,” Padilla said, his skin moist from sweat.&nbsp;</p>
+                    <p class="">&nbsp;“We’re up to 26, 27 today, I think,” he said of the number of bodies. “And more than half are COVID.”&nbsp;</p>
+                    <p class="">The influx of bodies — almost triple pre-coronavirus levels — hadn’t let up in weeks.</p>
+                    <p class="">Not even Easter Sunday provided a reprieve.</p>
+                    <p class="">“I worked from 8 a.m. to 8 p.m.” he recalled. “We’re just getting bombarded.”</p>
+                    <p class="">Padilla didn’t have time to dwell. On that Thursday afternoon, there were all of those bodies to cremate, and more arriving by the hour.</p>
+                    <p class="">Padilla would soon disappear inside and not leave for the day until long after the sun went down.</p>
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- #3 -->
+        <section class="flatplan-stack" data-stack-id="sh-media-image">
+          <section>
+            <figure><img src="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/L6V1OcbiVh/200417-green-wood-cemetery-mn-1645-1920x1281.jpeg" alt="Media - inline - image - caption"><figcaption><p>Gus Padilla at the Green-Wood Cemetery in Brooklyn</p> </figcaption></figure>
+          </section>
+        </section>
+
+        <!-- #4 -->
+        <div id="section-MJ9QN85nJ2" class="Theme-Section Theme-TextSection Theme-Section-Position-4 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class=""></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider null null">
+                    </div>
+                    <p class=""><a href="https://www1.nyc.gov/site/doh/covid/covid-19-data.page" target="blank">More than 12,000 people are believed to have died</a> from the coronavirus in New York City, a death toll that's
+                      still rising. The disease has fueled an exponential increase in the average number of deaths per day, placing an unprecedented strain on morgues, funeral homes and cemeteries.&nbsp;</p>
+                      <p class="">The challenges and dangers that the pandemic has thrust upon front-line medical workers have been well documented. So, too, has the plight of those who keep Americans fed and the mail moving —
+                        postal workers, truck drivers and grocery store clerks.&nbsp;</p>
+                        <p class="">But workers who spend their days digging graves or&nbsp;moving bodies into 1,850-degree furnaces&nbsp;have continued to labor largely in the shadows, doing the same work as always, only a lot more
+                          of it.</p>
+                          <p class="">“It’s all hands on deck at this point,” said Gerry Viggiano, a 40-year employee at St. Raymond’s Cemetery in the Bronx who has been called upon to assist with burials instead of performing his
+                            usual chauffeur job.&nbsp;</p>
+                            <p class="">Viggiano said the days are long and physically grueling, but the emotional toll of seeing families unable to bid loved ones a proper farewell is especially draining. At St. Raymond’s, mourners are
+                              required to stay in their cars during burial services, which Viggiano said has led to heartbreaking encounters, with family members beckoning him to car windows and asking if he would place things like
+                              flowers or a cross near their loved ones’ graves.</p>
+                              <p class="">Viggiano said he always obliges.&nbsp;</p>
+                              <p class="">“My heart goes out to these families,” he said. “I always think of ourselves as being in a service-oriented business and I try to go out of my way for people, but we’re at such a distance from
+                                them now.”</p>
+                                <p class="">“Now it’s so impersonal, it’s like an assembly line,” he added. “It’s just really sad.”</p>
+                                <p class="">Phil Tassi, a member of the board of directors at the Ferncliff Cemetery in hard-hit Westchester County, New York, said the cemetery is under unparalleled strain, far beyond even the aftermath of
+                                  the Sept. 11 attacks.</p>
+                                  <p class="">“I’ve never seen anything like this,” Tassi said. “With 9/11, although there were a substantial number of deaths, a lot of the bodies weren’t recovered, and they were finding remains over multiple
+                                    days so it wasn’t all at once.”</p>
+                                    <p class="">Padilla began working at Green-Wood three years after the 9/11 attacks.&nbsp;</p>
+                                    <p class="">He started as a part-time landscaper, but three years later, in 2007, a full-time job opened up. To land it, Padilla had to complete a 40-day trial that culminated in a unique test given to all
+                                      prospective Green-Wood employees: dig a full-size grave by himself in under four hours.</p>
+                                      <p class="">“I dug the hole, and I cried the minute I was done, like a little baby,” said Padilla, who was then 27. “It was a major accomplishment for myself.”</p>
+                                    </div>
+                                    <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                                  </div>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+        <!-- #5 -->
+
+        <section class="flatplan-stack" data-stack-id="sh-media-reveal">
+          <section>
+            <figure><img src="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/hUpUgMPKkl/200417-green-wood-cemeter-mn-1725-2000x1333.jpeg" alt="Media - inline - image - caption"><figcaption><p></p> </figcaption></figure>
+          </section>
+          <section>
+            <figure><img src="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/DkssX3wUJ7/200417-green-wood-cemeter-mn-1730-2000x1411.jpeg" alt="Media - inline - image - caption"><figcaption><p>Workers fill in a grave at Green-Wood Cemetery in Brooklyn. / A worker unloads a coffin from a hearse at the crematorium.</p> </figcaption></figure>
+          </section>
+        </section>
+
+        <!-- #6 -->
+        <div id="section-xfkYWzWp3M" class="Theme-Section Theme-TextSection Theme-Section-Position-6 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class="">He worked for several years as a gravedigger, which he knows is not the kind of job that would interest most people. But Green-Wood, he notes, doesn’t look like a typical roadside cemetery.</p>
+                    <p class="">Perched on a steep slope, with a sweeping view of New York City, the 478-acre burial ground features rolling hills, glacial ponds and a soaring Civil War monument. The cemetery has <a
+                      href="https://www.nytimes.com/2020/03/24/nyregion/coronavirus-greenwood-cemetery-nyc.html?searchResultPosition=1" target="blank">extended its visiting hours</a> during the pandemic to offer a respite to
+                      cooped-up New Yorkers seeking fresh air and tranquility.</p>
+                      <p class="">“I love coming here every day, even with everything that’s happening,” Padilla said.&nbsp;</p>
+                      <p class="">“Have you seen this place?” he said when asked why. “How beautiful it is?”</p>
+                      <p class="">Padilla, who was born in Puerto Rico and raised by a single mother, was forced to reckon with death at an early age.&nbsp;&nbsp;</p>
+                      <p class="">He was a young boy living with his mother and four siblings outside Boston when she died of meningitis.&nbsp;</p>
+                      <p class="">“I was 9. She was 28,” Padilla said. “She was a baby herself.”</p>
+                      <p class="">He moved in with his aunt in Brooklyn on 20th Street, just five blocks from Green-Wood. Anytime he passed it as a young kid, which was often, he got the spooks.</p>
+                      <p class="">“I can still remember driving by the cemetery and being so scared to look inside,” he said.&nbsp;</p>
+                      <p class="">Now 40, he’s one of Green-Wood’s most trusted and versatile workers. He had been working in the restoration department in recent years, but soon after the coronavirus began ravaging New York, he
+                        was pulled in to work full-time at the crematorium – seven days on, seven days off.</p>
+                        <p class="">Work got especially hectic in early March when the bodies first began showing up by the dozens.&nbsp;</p>
+                        <p class="">Before the virus hit, the cemetery would do about 60 cremations a week. But in mid-March, Green-Wood was receiving that amount of bodies in two days.</p>
+                        <p class="">“We didn’t have space in our refrigerator to hold all of them,” Padilla said.&nbsp;</p>
+                        <p class="">The cemetery has since moved to cap the number it can take each day at 25. No new cremations are accepted on Sundays, a day devoted to clearing the backlog before the next batch arrives. The
+                          facility is booked through mid-May, officials said, performing up to 150 cremations per week (burials have surged from two to three a day pre-coronavirus to up to 15).</p>
+                          <p class="">Padilla and his fellow retort operators take special precautions with the COVID-19 victims. These bodies arrive like all of the others in a cardboard or wooden box loaded in the back of a hearse.
+                            But as soon as they’re brought into the facility, the workers disinfect the cases with a clorox solution or other cleaning agent.&nbsp;</p>
+                            <p class="">The COVID-19 bodies are put aside rather than placed in the facility's refrigerator, and cremated as soon as one of the four working retorts becomes available.&nbsp;</p>
+                            <p class="">“We don’t want to leave them sitting around,” Padilla said.</p>
+                            <p class="">Each cremation takes roughly three hours — the process hidden from view, except for the puffs of gray smoke that occasionally rise out of the stacks atop the crematory.</p>
+                            <p class="">Padilla said the crisis hit him especially hard one day last week when he noticed two sets of remains came in the same day, a man and woman with the same last name. Padilla said it appeared they
+                              were a husband and wife who both died from COVID-19, apparently within hours of each other.</p>
+                              <p class="">“That got me,” he said. “It made this feel even more real.”</p>
+                              <p class="">Padilla said he learned long ago that he has to adopt a specific mindset to cope with a job in which he’s literally surrounded by death. Unlike gravediggers, crematory workers rarely see the loved
+                                ones of the dead. The work of a retort operator is more solitary, but it also requires more intimacy with the deceased.&nbsp;&nbsp;</p>
+                                <p class="">“We don’t spend time with a lot of other people. We’re not attending burial services,” Padilla&nbsp;said. “We’re around the bodies all day, taking them from the hearse, putting them in the
+                                  freezer, loading them into the retort, doing the final processing.”</p>
+                                  <p class="">The retort operators never touch the bodies directly, only the boxes they come in. But Padilla said he never loses sight of his responsibility to treat the remains with care and respect.</p>
+                                  <p class="">“If I involve my emotions, then I wouldn’t be able to do it,” he said. “But that doesn’t mean I don’t care.”</p>
+                                  <p class="">“We are people that care,” he added, “and we are going to do the right thing by everybody who comes into these gates, whether they died from the virus or not.”</p>
+                                </div>
+                                <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+        <!-- #7 -->
+        <section class="flatplan-stack" data-stack-id="sh-media-image">
+          <section>
+            <figure><img src="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/bH8WjiJklH/200417-green-wood-cemetery-mn-1646-2000x1333.jpeg" alt="Media - inline - image - caption"><figcaption><p>Gus Padilla sits in the crematory chapel.</p> </figcaption></figure>
+          </section>
+        </section>
+
+        <!-- #8 -->
+        <div id="section-7AZo62mRNo" class="Theme-Section Theme-TextSection Theme-Section-Position-8 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class=""></p>
+
+
+                    <!-- transformed <hr>-->
+                    <section class="flatplan-stack" data-stack-id="sh-inline-divider">
+                      <section>
+                        <p>&#x2001;</p>
+                      </section>
+                    </section>
+
+
+                    <p class="">On Thursday, Padilla finished cremating the last body, the 22nd of the day, about 9 p.m.</p>
+                    <p class="">He then went into the locker room, changed out of his work clothes, punched out his 13-hour day and made his way to his car, a platinum-white 2018 Honda Accord.</p>
+                    <p class="">Padilla drove toward the Brooklyn-Queens Expressway and headed east, nodding his head to tracks from the late rapper Pop Smoke. He soon pulled up outside his home in Middle Village, Queens, where
+                      he lives with his girlfriend.</p>
+                      <p class="">It was nearing 10 p.m. Padilla knew there were about two dozen sets of remains waiting for him when he showed up at work the next morning. Thursday was the first day of his work week. He had six
+                        more days ahead of him.&nbsp;</p>
+                        <p class="">But he wasn’t thinking about that now. He was exhausted and just wanted to take a shower.&nbsp;</p>
+                        <p class="">Padilla walked into his bedroom and kicked off his shoes, but he never made it to the shower.&nbsp;</p>
+                        <p class="endmarkEnabled">He lay down in his bed, still fully dressed, and drifted off into a deep sleep.</p>
+                        <p class=""></p>
+                      </div>
+                      <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+
+
+
+
+        ]]> </content:encoded>
+
+        <!--  @@@ end images @@@  -->
+      </item>
+
+
+
+
+    <item>
+
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412rf2frr9334567a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>shorthand-element-stylesheet - advanced - transformed - manual</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Fri, 03 July 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>Shorthand</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded> <![CDATA[
+
+        ]]>
+      </content:encoded>
+    </item>
+
+  </channel>
+</rss>
