@@ -10,15 +10,15 @@
   <channel>
     <title>shorthand-NBC-examples</title>
     <description>test feed for shorthand-NBC-examples</description>
-    <pubDate>Wed, 8 July 2020 08:10:35 +0000</pubDate>
-    <lastBuildDate>Wed, 8 July 2020 11:34:07 +0000</lastBuildDate>
+    <pubDate>Wed, 8 June 2020 08:10:35 +0000</pubDate>
+    <lastBuildDate>Wed, 8 June 2020 11:34:07 +0000</lastBuildDate>
     <link>https://wearemathematics.co.uk</link>
     <language>en-US</language>
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">412rf2334567a4</guid>
       <!-- must include CDATA wrapper -->
-      <title>13 hours, 22 bodies: <br>The long, lonesome shift of a crematory worker in the heat of COVID-19</title>
+      <title><![CDATA[13 hours, 22 bodies: <br>The long, lonesome shift of a crematory worker in the heat of COVID-19]]></title>
       <link>https://www.nbcnews.com/news/us-news/13-hours-22-bodies-long-lonesome-shift-crematory-worker-heat-n1186981</link>
       <pubDate>Wed, 19 April 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
