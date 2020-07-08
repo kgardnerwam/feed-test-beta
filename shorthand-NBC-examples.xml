@@ -10,8 +10,8 @@
   <channel>
     <title>shorthand-NBC-examples</title>
     <description>test feed for shorthand-NBC-examples</description>
-    <pubDate>Wed, 8 June 2020 08:10:35 +0000</pubDate>
-    <lastBuildDate>Wed, 8 June 2020 11:34:07 +0000</lastBuildDate>
+    <pubDate>Wed, 8 July 2020 08:10:35 +0000</pubDate>
+    <lastBuildDate>Wed, 8 July 2020 11:34:07 +0000</lastBuildDate>
     <link>https://wearemathematics.co.uk</link>
     <language>en-US</language>
     <item>
@@ -23,7 +23,7 @@
       <pubDate>Wed, 19 April 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
       <media:thumbnail url="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/ZNWVhbx19D/10sec_smoke_cut_1.mp4" caption="Smoke rises from a chimney of the crematorium at the Green-Wood Cemetery in Brooklyn."/>
-      <dc:creator>By Rich Schapiro <br>Photos by Debbie Egan-Chin</dc:creator>
+      <dc:creator>By Rich Schapiro. Photos by Debbie Egan-Chin</dc:creator>
       <category>Shorthand</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="NBC"/>
