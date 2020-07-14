@@ -231,7 +231,7 @@
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
       <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
       <dc:creator>KG</dc:creator>
-      <description><![CDATA[What each state is doing — or not doing — amid widespread coronavirus lockdowns.]]>
+      <description><![CDATA[What each state is doing — or not doing — amid widespread coronavirus lockdowns.]]></description>
       <category>Shorthand</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="NBC"/>
