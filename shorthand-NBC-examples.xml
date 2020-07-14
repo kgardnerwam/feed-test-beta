@@ -225,17 +225,701 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">412rf2frr9334567a4</guid>
       <!-- must include CDATA wrapper -->
-      <title>shorthand-element-stylesheet - advanced - transformed - manual</title>
+      <title>Stay-at-home orders across the country</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
-      <pubDate>Fri, 03 July 2020 09:01:07 +0000</pubDate>
+      <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
-      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
       <dc:creator>KG</dc:creator>
+      <description><![CDATA[What each state is doing — or not doing — amid widespread coronavirus lockdowns.]]>
       <category>Shorthand</category>
       <!-- optional custom metadata fields -->
-      <flatplan:template identifier="template_name"/>
+      <flatplan:template identifier="NBC"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded> <![CDATA[
+        <div id="intro-ZVYXBhqdJq" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light sh-intro Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class=" h-align-center"><sub>By Jiachuan Wu, Savannah Smith, Mansee Khurana, Corky Siemaszko and Brianna DeJesus-Banos<br>March 25, 2020 / Updated April 29, 2020</sub></p>
+                    <div class="Theme-Layer-BodyText-Spacer  Theme-SpacerSize-10"></div>
+                    <p class=" h-align-left">The White House and all prominent public health officials have urged people across the country to stay at home as much as possible to prevent the spread of the coronavirus. Nonetheless, governors
+                      of five states have yet to issue lockdown orders for their residents, and three states have issued only partial measures.&nbsp;</p>
+                    <p class="">The vast majority of states have officially ordered most residents to stay indoors, except for essential workers or in specific circumstances. In hardest-hit New York, for example, <a
+                        href="https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-california-issues-stay-home-order-no-new-local-n1164541/ncrd1164921#liveBlogHeader" target="blank" class=" vilynx_listened">Gov. Andrew
+                        Cuomo has ordered residents to stay at home</a> and all nonessential businesses to close.&nbsp;</p>
+                    <p class="">“It’s not about staying home. It’s about avoiding contact,” <a href="https://www.journaltrib.com/articles/crosby-journal/no-stay-at-home-order-in-nd-for-now/" target="blank">North Dakota Gov. Doug Burgum, a
+                        Republican, said</a> recently when asked why he has not given that order.</p>
+                    <p class=""><em><strong>See the latest </strong></em><a href="https://www.nbcnews.com/news/us-news/reopening-america-see-what-states-across-u-s-are-starting-n1195676" target="blank" rel="nofollow"
+                        class=" vilynx_listened"><em><strong>reopen plans</strong></em></a><em><strong> in your state. </strong></em></p>
+
+                    <!-- @@chart -->
+                    <p>add still of chart with link to original</p>
+                    <div class="InlineHTML">
+                      <style>
+                        #embed-20200331-covid-us-states-per-day iframe {
+                          width: 1px;
+                          min-width: 100%
+                        }
+                      </style>
+                      <div id="embed-20200331-covid-us-states-per-day"><iframe src="./Coronavirus lockdowns and stay-at-home orders across the U.S._files/index-stay-at-home.html" width="100%" scrolling="no" marginheight="0" frameborder="0"
+                          title="States without stay at home order" height="539px"></iframe></div>
+                    </div>
+
+
+                    <p class="">Oklahoma, Utah and Wyoming have partial stay-at-home orders so far.&nbsp;</p>
+                    <p class="">See our state-by-state breakdown of existing lockdown orders to help you figure out how much room you have to move. This data will be updated as new measures go into effect. If you notice measures not
+                      published on the map, please email datagraphics@nbcuni.com with more information.</p>
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- @@2 -->
+        <p>add still of map</p>
+        <div id="map-PLlkBzrrvD" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-3 Theme-Section-Layout--Full sh-map">
+          <div class="Layer--one">
+            <div class="BlockHTML">
+              <style>
+                #embed-20200324-covid-state-by-state-stay-home iframe {
+                  width: 1px;
+                  min-width: 100%
+                }
+              </style>
+              <div id="embed-20200324-covid-state-by-state-stay-home"><iframe src="./Coronavirus lockdowns and stay-at-home orders across the U.S._files/index.html" width="100%" scrolling="no" marginheight="0" frameborder="0"
+                  height="547px"></iframe></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- @@3 buttons for sections below -->
+        <div id="button-c1RSZYDxdW" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-4 Theme-Section-Layout--Full sh-button">
+          <div class="Layer--one">
+            <div class="BlockHTML">
+              <div class="button-container">
+                <div class="button-group">
+                  <div class="button-group_menu">
+                    <div id="button-group_menu-select" class="button-group_menu-select">
+                      <p>Select a state</p>
+                      <ul id="button-group_ul" class="button-group_ul">
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#alabama">Alabama</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#alaska">Alaska</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#arizona">Arizona</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#arkansas">Arkansas</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#california">California</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#colorado">Colorado</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#connecticut">Connecticut</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#delaware">Delaware</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#district-of-columbia">District of Columbia</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#florida">Florida</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#georgia">Georgia</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#hawaii">Hawaii</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#idaho">Idaho</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#illinois">Illinois</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#indiana">Indiana</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#iowa">Iowa</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#kansas">Kansas</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#kentucky">Kentucky</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#louisiana">Louisiana</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#maine">Maine</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#maryland">Maryland</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#massachusetts">Massachusetts</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#michigan">Michigan</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#minnesota">Minnesota</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#mississippi">Mississippi</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#missouri">Missouri</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#montana">Montana</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#nebraska">Nebraska</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#nevada">Nevada</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#new-hampshire">New Hampshire</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#new-jersey">New Jersey</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#new-mexico">New Mexico</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#new-york">New York</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#north-carolina">North Carolina</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#north-dakota">North Dakota</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#ohio">Ohio</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#oklahoma">Oklahoma</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#oregon">Oregon</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#pennsylvania">Pennsylvania</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#rhode-island">Rhode Island</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#south-carolina">South Carolina</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#south-dakota">South Dakota</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#tennessee">Tennessee</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#texas">Texas</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#utah">Utah</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#vermont">Vermont</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#virginia">Virginia</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#washington">Washington</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#west-virginia">West Virginia</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#wisconsin">Wisconsin</a></li>
+                        <li><a class="alink null" href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#wyoming">Wyoming</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- @@text for buttons - add anchor links -->
+        <div id="section-DSV3m94Myt" class="Theme-Section Theme-TextSection Theme-Section-Position-5 Theme-Section-Layout--Full Theme-Section-Light sh-state Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="alabama">Alabama</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Kay Ivey (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. CDT, April 4 until 5 p.m. CDT, April 30</h4>
+                    <p class=""><a href="https://governor.alabama.gov/assets/2020/04/Final-Statewide-Order-4.3.2020.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="alaska">Alaska</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Mike Dunleavy (R)</span></p>
+                    </div>
+                    <p class="">‘We crossed a line today,’ Gov. Dunleavy orders statewide shelter in place, limits travel. Anchorage mayor issued “Hunker Down” order previously: nonessential businesses to close, people to stay home if
+                      possible. It was issued until April 21 then extended to May 20.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. ADT, March 28 until May 20.</h4>
+                    <p class=""><a href="https://covid19.alaska.gov/health-mandates/" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="arizona">Arizona</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Doug Ducey (R)</span></p>
+                    </div>
+                    <p class="">Gov. Doug Ducey issued a stay-at-home on March 30. This order will not affect the operations of essential businesses which include health care facilities and grocery stores.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. MST, March 31 until April 30.</h4>
+                    <p class=""><a href="https://www.azdhs.gov/documents/preparedness/epidemiology-disease-control/infectious-disease-epidemiology/novel-coronavirus/eo-stay-home-stay-healthy-stay-connected.pdf" target="blank"><sup>See
+                          official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="arkansas">Arkansas</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Asa Hutchinson (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">No statewide stay-at-home order issued</h4>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="california">California</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Gavin Newsom (D)</span></p>
+                    </div>
+                    <p class="">Gov. Gavin Newsom issued a stay-at-home order on March 19 to protect the health and well being of all Californians and to establish consistency across the state to slow the spread of COVID-19.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 19 until further notice.</h4>
+                    <p class=""><a href="https://www.gov.ca.gov/wp-content/uploads/2020/03/3.19.20-attested-EO-N-33-20-COVID-19-HEALTH-ORDER.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="colorado">Colorado</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Jared Polis (D)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective 6:00 a.m. MDT, March 26 until April 26.</h4>
+                    <p class=""><a href="https://www.nbc11news.com/content/news/BREAKING-Governor-Jared-Polis-extends-Stay-At-Home-Order-569426411.html" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="connecticut">Connecticut</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Ned Lamont (D)</span></p>
+                    </div>
+                    <p class="">Gov. Ned Lamont signed an executive order asking Connecticut businesses and residents to “Stay Safe, Stay Home.” “At this critical time it is essential that everyone just stay home so we can contain the
+                      spread of this virus while keeping essential services running,” Lamont said.&nbsp;</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 8 p.m. EDT, March 23 until May 20.</h4>
+                    <p class=""><a href="https://portal.ct.gov/-/media/Office-of-the-Governor/Executive-Orders/Lamont-Executive-Orders/Executive-Order-No-7X.pdf?la=en" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="delaware">Delaware</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">John Carney (D)</span></p>
+                    </div>
+                    <p class="">“We’re acting with urgency to prevent a spike in coronavirus cases that could overwhelm our hospital system,” said Gov. John Carney. Carney ordered Delawareans to stay at home whenever possible and closed all
+                      nonessential businesses in the state to help fight the spread of COVID-19.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 8 a.m. EDT, March 24 until May 15.</h4>
+                    <p class=""><a href="https://governor.delaware.gov/wp-content/uploads/sites/24/2020/03/Fifth-Modification-to-State-of-Emergency-03222020.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="district-of-columbia">District of Columbia</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Mayor: <span class="dparty">Muriel Bowser (D)</span></p>
+                    </div>
+                    <p class="">Following moves by the governors of Maryland and Virginia, D.C. Mayor Muriel Bowser also issued a “stay at home” order, directing residents to stay in their homes except for getting food and other essential
+                      household goods, obtaining medical care, traveling to perform “essential” work and a few other exceptions, including outside recreation. It was issued until April 24 then extended to May 15.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m. EDT, April 1 until May 15.</h4>
+                    <p class=""><a href="https://coronavirus.dc.gov/release/mayor-bowser-extends-public-health-emergency-stay-home-order-and-closure-non-essential" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="florida">Florida</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Ron DeSantis (R)</span></p>
+                    </div>
+                    <p class="">Gov. DeSantis had been previously criticized for refusing to implement statewide social distancing guidelines, particularly as beach-goers and students on spring break continued to gather in large groups. He
+                      issued a stay-at-home order for the entire state as it grapples with a rapidly spreading coronavirus outbreak on Wednesday.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m. EDT, April 3 until April 30.</h4>
+                    <p class=""><a href="https://www.flgov.com/wp-content/uploads/orders/2020/EO_20-91-compressed.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="georgia">Georgia</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Brian Kemp (R)</span></p>
+                    </div>
+                    <p class="">Gov. Brian Kemp plans to sign an order requiring residents to shelter-in-place from Friday through April 13 and another closing public grade schools for the rest of the academic year. It was issued until
+                      April 13 then extended to April 30.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Shelter in place, effective April 3 until April 30</h4>
+                    <p class=""><a href="https://georgia.gov/covid-19-state-services-georgia/covid-19-statewide-shelter-place-order" target="blank"><sup>See announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="hawaii">Hawaii</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">David Ige (D)</span></p>
+                    </div>
+                    <p class="">Residents may leave home only for essential activities and business, or if they cannot work from home.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m. HST, March 25 until 11:59 pm, May 31.</h4>
+                    <p class=""><a href="https://governor.hawaii.gov/newsroom/latest-news/governors-office-news-release-gov-ige-extends-stay-at-home-order-across-the-state-through-may-31/" target="blank"><sup>See official
+                          announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="idaho">Idaho</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Brad Little (R)</span></p>
+                    </div>
+                    <p class="">Self-isolate at home unless residents are healthcare workers, public safety employees or other “essential workers” such as grocery store employees. It was issued until April 15 then extended to April 30.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. MDT, March 25 until April 30.</h4>
+                    <p class=""><a href="https://coronavirus.idaho.gov/wp-content/uploads/sites/127/2020/04/amended-statewide-stay-home-order_041520.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="illinois">Illinois</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">J.B. Pritzker (D)</span></p>
+                    </div>
+                    <p class="">May leave home for essential activities, including outdoor activity, certain kinds of work, to retrieve supplies and to care for others. &nbsp;It was issued until April 7 then extended to&nbsp;April 30.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. CDT, March 21 until April 30.</h4>
+                    <p class=""><a href="https://www2.illinois.gov/Pages/Executive-Orders/ExecutiveOrder2020-18.aspx" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="indiana">Indiana</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Eric Holcomb (R)</span></p>
+                    </div>
+                    <p class="">May leave home for “essential activities, essential governmental functions, or to participate in essential business and operations.” It was issued until April 6 then extended to&nbsp;May 1.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 11:59 p.m. EDT, March 24 until May 1..</h4>
+                    <p class=""><a href="https://www.in.gov/gov/files/Executive%20Order%2020-22%20Extension%20of%20Stay%20at%20Home.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="iowa">Iowa</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Kim Reynolds (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs"> No statewide stay-at-home order issued</h4>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="kansas">Kansas</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Laura Kelly (D)</span></p>
+                    </div>
+                    <p class="">It was issued until April 19 then extended to May 3.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m. CST, March 30 until May 3.</h4>
+                    <p class=""><a href="https://governor.kansas.gov/wp-content/uploads/2020/04/EO-20-24-Executed.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="kentucky">Kentucky</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Andy Beshear (D)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay healthy at home, effective 8:00 p.m. EDT, March 26.</h4>
+                    <p class=""><a href="https://governor.ky.gov/attachments/20200325_Executive-Order_2020-257_Healthy-at-Home.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="louisiana">Louisiana</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">John Bel Edwards (D)</span></p>
+                    </div>
+                    <p class="">All state buildings have been closed; places of amusement like playgrounds, theaters and mall stores are closed to the public. It was issued until April 13 then extended to May 15.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. CST, March 23 until May 15</h4>
+                    <p class=""><a href="https://gov.louisiana.gov/home-order-extended-may15/" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="maine">Maine</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Janet Mills (D)</span></p>
+                    </div>
+                    <p class="">It was issued until April 13 then extended to May 31.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m EDT, April 2 until May 31</h4>
+                    <p class=""><a href="https://www.maine.gov/covid19/sites/maine.gov.covid19/files/inline-files/Restarting_Maines_Economy_Slides_042820-3.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="maryland">Maryland</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Larry Hogan (R)</span></p>
+                    </div>
+                    <p class="">Maryland Gov. Larry Hogan announced the “stay at home” order, directing Maryland residents not to leave their homes unless it’s for an “essential” purpose, such as getting food or medicine or going to work at
+                      a job that’s been deemed essential.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 8 p.m. EDT, March 30 until terminated by the governor.</h4>
+                    <p class=""><a href="https://governor.maryland.gov/wp-content/uploads/2020/03/Gatherings-FOURTH-AMENDED-3.30.20.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="massachusetts">Massachusetts</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Charlie Baker (R)</span></p>
+                    </div>
+                    <p class="">Order extends through May 4; places of worship aren't required to close; company cafeterias and school cafeterias aren't required to close.&nbsp;</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective 12 p.m. EDT, March 24 until 12 a.m., EDT, May 4.</h4>
+                    <p class=""><a href="https://www.mass.gov/news/baker-polito-administration-extends-non-essential-business-closures-and-executive-branch" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="michigan">Michigan</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Gretchen Whitmer (D)</span></p>
+                    </div>
+                    <p class="">Volunteering at food pantries and shelters and exercise are considered essential. It was issued until April 7 then extended to May 15.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective 12:01 a.m. EDT, March 24 until May 15.</h4>
+                    <p class=""><a href="https://www.michigan.gov/whitmer/0,9309,7-387-90499_90640-526896--,00.html" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="minnesota">Minnesota</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Tim Walz (D)</span></p>
+                    </div>
+                    <p class="">Stay at home and limit movements outside of their home beyond essential needs. It was issued until April 10 then extended to May 4.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective 11:59 p.m. CDT, March 27 until 11:59 pm, May 3.</h4>
+                    <p class=""><a href="https://mn.gov/governor/covid-19/news/?id=1055-428429#/detail/appId/1/id/427372" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="mississippi">Mississippi</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Tate Reeves (R)</span></p>
+                    </div>
+                    <p class="">It was issued until April 20 then extended to April May 11.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Shelter in place, effective at 5 p.m. CDT, April 3 until 8 a.m. CDT, May 11.</h4>
+                    <p class=""><a href="https://www.sos.ms.gov/content/executiveorders/ExecutiveOrders/1477.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="missouri">Missouri</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Michael L. Parson (R)</span></p>
+                    </div>
+                    <p class="">It was issued until April 16 then extended to May 3.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m., CST, April 6 until May 3</h4>
+                    <p class=""><a href="https://governor.mo.gov/press-releases/archive/governor-parson-extends-statewide-stay-home-missouri-order-through-may-3" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="montana">Montana</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Steve Bullock (D)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m. MDT, March 28 until April 10</h4>
+                    <p class=""><a href="https://covid19.mt.gov/Portals/223/Documents/Stay%20at%20Home%20Directive.pdf?ver=2020-03-26-173332-177" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="nebraska">Nebraska</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Pete Ricketts (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs"> No statewide stay-at-home order issued</h4>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="nevada">Nevada</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Steve Sisolak (D)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective April 1 until April 30.</h4>
+                    <p class=""><a href="https://nvhealthresponse.nv.gov/wp-content/uploads/2020/04/Declaration-of-Emergency-Directive-010-Stay-at-Home-3-31-20.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="new-hampshire">New Hampshire</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Chris Sununu (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective 11:59 p.m. EDT, March 27.</h4>
+                    <p class=""><a href="https://twitter.com/GovChrisSununu/status/1243252548104065030?s=20" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="new-jersey">New Jersey</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Phil Murphy (D)</span></p>
+                    </div>
+                    <p class="">Gov. Phil Murphy signed an executive stay-at-home order that invalidated any county exceptions; construction and utility workers are exempt; pet stores and car dealerships can also remain open.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 24 until revoked or modified by the governor.</h4>
+                    <p class=""><a href="https://nj.gov/infobank/eo/056murphy/pdf/EO-107.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="new-mexico">New Mexico</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Michelle Lujan Grisham (D)</span></p>
+                    </div>
+                    <p class="">It was issued until April 10 then extended to May 15.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 24 until May 15.</h4>
+                    <p class=""><a href="https://twitter.com/GovMLG/status/1254900659037466624?s=20" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="new-york">New York</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Andrew Cuomo (D)</span></p>
+                    </div>
+                    <p class="">Gov. Andrew Cuomo announced the "New York State on PAUSE" executive order, a 10-point policy to assure uniform safety for everyone. New York State on PAUSE: 100 percent of the workforce must stay home,
+                      excluding essential services;</p>
+                    <p class="">All nonessential gatherings of individuals of any size for any reason are temporarily banned.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 8 p.m. EDT, March 22 until May 15.</h4>
+                    <p class=""><a href="https://coronavirus.health.ny.gov/new-york-state-pause" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="north-carolina">North Carolina</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Roy Cooper (D)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. EDT, March 30 until 5 p.m. EDT, May 8</h4>
+                    <p class=""><a href="https://files.nc.gov/governor/documents/files/EO135-Extensions.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="north-dakota">North Dakota</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Doug Burgum (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs"> No statewide stay-at-home order issued</h4>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="ohio">Ohio</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Mike DeWine (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 11:59 p.m. EDT, March 23 until 11:59 p.m. EDT, May 1.</h4>
+                    <p class=""><a href="https://content.govdelivery.com/attachments/OHOOD/2020/04/02/file_attachments/1418062/Signed%20Amended%20Director%27s%20Stay%20At%20Home%20Order.pdf" target="blank"><sup>See official
+                          announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="oklahoma">Oklahoma</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Kevin Stitt (R)</span></p>
+                    </div>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Oklahoma City</h3>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Shelter in place, effective at 11:59 p.m. CDT, March 28 until April 16</h4>
+                    <p class=""><a href="https://www.okc.gov/Home/Components/News/News/3321/18" target="blank"><sup>See official announcement</sup></a></p>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Tulsa</h3>
+                    <p class="">It was issued until April 15 then extended to April 30.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Safer at home, effective at 11:59 p.m. CDT, March 28 until April 30</h4>
+                    <p class=""><a href="https://www.cityoftulsa.org/press-room/mayor-bynum-issues-safer-at-home-order-for-all-tulsans/" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="oregon">Oregon</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Kate Brown (D)</span></p>
+                    </div>
+                    <p class="">On March 23, Gov. Kate Brown issued Executive Order 20-12, effective immediately until further notice. A statewide order, Failure to comply will be considered an immediate danger to public health.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 23.</h4>
+                    <p class=""><a href="https://govsite-assets.s3.amazonaws.com/jkAULYKcSh6DoDF8wBM0_EO%2020-12.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="pennsylvania">Pennsylvania</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Tom Wolf (D)</span></p>
+                    </div>
+                    <p class="">Gov. Tom Wolf issued an executive order to more than 20 counties and extended to the whole state on April 1. Residents must stay at home except for certain essential activities and work to provide
+                      life-sustaining business and government services.&nbsp;It was issued until April 30 then extended to May 8.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 8 p.m. EDT, April 1 until May 8.</h4>
+                    <p class=""><a href="https://www.governor.pa.gov/newsroom/gov-wolf-sec-of-health-extend-statewide-stay-at-home-order-until-may-8/" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="rhode-island">Rhode Island</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Gina Raimondo (D)</span></p>
+                    </div>
+                    <p class="">It was issued until April 13 then extended to May 8.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 4:00 p.m. EDT, March 28 until May 8</h4>
+                    <p class=""><a href="https://governor.ri.gov/documents/orders/Executive-Order-20-18.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="south-carolina">South Carolina</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Henry McMaster (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. EDT, April 6</h4>
+                    <p class=""><a href="https://www.wistv.com/2020/04/06/new-executive-order-forces-more-non-essential-businesses-close-beginning-pm/" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="south-dakota">South Dakota</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Kristi Noem (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs"> No statewide stay-at-home order issued</h4>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="tennessee">Tennessee</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Bill Lee (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 11:59 p.m. CDT, March 31 until April 30.</h4>
+                    <p class=""><a href="https://publications.tnsosfiles.com/pub/execorders/exec-orders-lee27.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="texas">Texas</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Greg Abbott (R)</span></p>
+                    </div>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m. CDT, April 2 until April 30</h4>
+                    <p class=""><a href="https://gov.texas.gov/uploads/files/press/EO-GA-14_Statewide_Essential_Service_and_Activity_COVID-19_IMAGE_03-31-2020.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="utah">Utah</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Gary Herbert (R)</span></p>
+                    </div>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Davis County</h3>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective April 1 until May 1</h4>
+                    <p class=""><a href="http://www.co.davis.ut.us/docs/librariesprovider5/covid-19/public-health-order-4-1-20/public-health-order-april-1-2020.pdf?sfvrsn=4b453153_2" target="blank">See official announcement</a></p>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Salt Lake County</h3>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 30 until April 13</h4>
+                    <p class=""><a href="https://slco.org/globalassets/1-site-files/health/programs/covid/pho/staysafestayhome_newsrelease.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Summit County</h3>
+                    <p class="">All residents stay at home and cease non-essential travel. This order applies to non-essential businesses, services, and visitors in addition to residents.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 12:01 a.m. MDT, March 27 until 11:59 p.m. MDT, May 1</h4>
+                    <p class=""><a href="https://www.summitcounty.org/DocumentCenter/View/10751/Joint-Public-Health-Order-2020-03-FINAL" target="blank"><sup>See official announcement</sup></a></p>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Wasatch County</h3>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 30 until April 14</h4>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs"><a href="http://coronavirus.wasatch.utah.gov/Portals/9/Signed%20copy%20of%20stay%20at%20home%20order%203_30_2020.pdf" target="blank"><sup>See official announcement</sup></a>
+                    </h4>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="vermont">Vermont</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Phil Scott (R)</span></p>
+                    </div>
+                    <p class="">Gov. Phil Scott issued a “Stay Home, Stay Safe” order on March 24 and directed the closure of in-person operations for all nonessential businesses. It was issued until April 15 then extended to May 15.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 5 p.m. EDT, March 25 until May 15.</h4>
+                    <p class=""><a href="https://governor.vermont.gov/press-release/governor-phil-scott-extends-state-emergency-vermont" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="virginia">Virginia</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Ralph Northam (D)</span></p>
+                    </div>
+                    <p class="">Gov. Ralph Northam issued a “stay at home” order, directing Virginians to stay home except for getting food, supplies, medical care, to go to work and to get fresh air and exercise.&nbsp;</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at March 30 until June 10.</h4>
+                    <p class=""><a href="https://www.governor.virginia.gov/media/governorvirginiagov/executive-actions/EO-55-Temporary-Stay-at-Home-Order-Due-to-Novel-Coronavirus-(COVID-19).pdf" target="blank"><sup>See official
+                          announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="washington">Washington</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Jay Inslee (D)</span></p>
+                    </div>
+                    <p class="">Gov. Jay Inslee issued a “Stay Home, Stay Healthy” order on March 23 prohibiting residents from leaving their homes except to conduct essential activities.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 23 until May 4.</h4>
+                    <p class=""><a href="https://www.governor.wa.gov/news-media/inslee-extends-stay-home-stay-healthy-through-may-4" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="west-virginia">West Virginia</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Jim Justice (R)</span></p>
+                    </div>
+                    <p class="">Gov. Jim Justice issued an executive order on March 23 directing all West Virginians to stay home unless performing an essential activity.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 8 p.m. EDT, March 24 until further notice.</h4>
+                    <p class=""><a href="https://coronavirus-wvgovstatus-cdn.azureedge.net/STAY_AT_HOME_ORDER.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="wisconsin">Wisconsin</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="dparty">Tony Evers (D)</span></p>
+                    </div>
+                    <p class="">The Wisconsin Department of Health Services issued the “Safer at Home” order on March 24, ordering residents to stay in their homes except for essential activities. It was issued until April 24 then extended
+                      to May 26.</p>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective at 8 a.m. CDT, March 25 until May 26.</h4>
+                    <p class=""><a href="https://content.govdelivery.com/attachments/WIGOV/2020/04/16/file_attachments/1428995/EMO28-SaferAtHome.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <div class="InlineElement InlineElement--Divider__container ">
+                      <hr class="Theme-Layer-BodyText-Divider Theme-DividerSize-xlarge null">
+                    </div>
+                    <h2 class="Theme-Layer-BodyText-Heading-Large" id="wyoming">Wyoming</h2>
+                    <div class="InlineHTML">
+                      <p class="govname">Governor: <span class="rparty">Mark Gordon (R)</span></p>
+                    </div>
+                    <h3 class="Theme-Layer-BodyText-Heading-Small">Jackson</h3>
+                    <h4 class="Theme-Layer-BodyText-Heading-xs">Stay at home, effective March 28 until&nbsp; 11:59 p.m. MDT, April 17</h4>
+                    <p class=""><a href="https://2zk8ci15bz0240i2m999gkf1-wpengine.netdna-ssl.com/wp-content/uploads/2020/03/Mar28-EmOrd1249-StayAtHomeOrder.pdf" target="blank"><sup>See official announcement</sup></a></p>
+                    <p class=""></p>
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+        <!-- @@end of post links -->
+        <div id="section-jOJhLZ9PTj" class="Theme-Section Theme-TextSection Theme-Section-Position-6 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class="endmarkEnabled"><em>See&nbsp;</em><a href="https://www.nbcnews.com/health/coronavirus" target="blank" class=" vilynx_listened"><em>NBC News’ coverage of the coronavirus</em></a><em>, and&nbsp;</em><a
+                        href="https://www.nbcnews.com/health/health-news/live-blog/coronavirus-updates-senate-passes-2-trillion-stimulus-plan-u-s-n1168156" target="blank" class=" vilynx_listened"><em>read the coronavirus live
+                          blog</em></a><em>, or,&nbsp;</em><a href="https://www.nbcnews.com/health/health-news/coronavirus-timeline-tracking-critical-moments-covid-19-n1154341" target="blank" class=" vilynx_listened"><em>read a timeline of
+                          the spread of the coronavirus</em></a><em>, see&nbsp;</em><a href="https://www.nbcnews.com/health/health-news/coronavirus-u-s-map-where-virus-has-been-confirmed-across-n1124546" target="blank"
+                        class=" vilynx_listened"><em>a map of the U.S. coronavirus cases</em></a><em>&nbsp;and&nbsp;</em><a href="https://www.nbcnews.com/health/health-news/coronavirus-map-confirmed-cases-2020-n1120686" target="blank"
+                        class=" vilynx_listened"><em>a map of coronavirus cases around the world</em></a><em>.</em></p>
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
 
         ]]>
       </content:encoded>
