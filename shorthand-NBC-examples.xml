@@ -230,7 +230,7 @@
       <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
       <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
-      <dc:creator>KG</dc:creator>
+      <dc:creator>By Jiachuan Wu, Savannah Smith, Mansee Khurana, Corky Siemaszko and Brianna DeJesus-Banos</dc:creator>
       <description><![CDATA[What each state is doing — or not doing — amid widespread coronavirus lockdowns.]]></description>
       <category>Shorthand</category>
       <!-- optional custom metadata fields -->
@@ -243,7 +243,7 @@
               <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
                 <div class="Theme-Layer-BodyText">
                   <div class="Theme-Layer-BodyText--inner">
-                    <p class=" h-align-center"><sub>By Jiachuan Wu, Savannah Smith, Mansee Khurana, Corky Siemaszko and Brianna DeJesus-Banos<br>March 25, 2020 / Updated April 29, 2020</sub></p>
+
                     <div class="Theme-Layer-BodyText-Spacer  Theme-SpacerSize-10"></div>
                     <p class=" h-align-left">The White House and all prominent public health officials have urged people across the country to stay at home as much as possible to prevent the spread of the coronavirus. Nonetheless, governors
                       of five states have yet to issue lockdown orders for their residents, and three states have issued only partial measures.&nbsp;</p>
@@ -913,6 +913,179 @@
                           the spread of the coronavirus</em></a><em>, see&nbsp;</em><a href="https://www.nbcnews.com/health/health-news/coronavirus-u-s-map-where-virus-has-been-confirmed-across-n1124546" target="blank"
                         class=" vilynx_listened"><em>a map of the U.S. coronavirus cases</em></a><em>&nbsp;and&nbsp;</em><a href="https://www.nbcnews.com/health/health-news/coronavirus-map-confirmed-cases-2020-n1120686" target="blank"
                         class=" vilynx_listened"><em>a map of coronavirus cases around the world</em></a><em>.</em></p>
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412rf2frr9334567a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>The coronavirus has destroyed the job market in every state</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
+      <dc:creator>By Nigel Chiwaya and Jiachuan Wu</dc:creator>
+      <description><![CDATA[See the per-state jobless numbers and how they’ve changed.]]></description>
+      <category>Shorthand</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="NBC"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded> <![CDATA[
+
+        <div id="section-1dN2aWYi6m" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light sh-intro Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+
+                    <p class=" h-align-left">The <a href="https://www.nbcnews.com/health/coronavirus" target="blank" class=" vilynx_listened">coronavirus outbreak</a> made America’s job market go from 60 to zero in the blink of an eye.</p>
+                    <p class=""><a href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736" target="blank" class=" vilynx_listened">Stay-at-home orders</a> issued by states to stem the spread of
+                      the virus have frozen the economy. More than 49 million Americans have filed for initial unemployment benefits since mid-March, a burst that economists say is unprecedented.</p>
+                    <p class="">“I compare it to a natural disaster, a terrorist attack and a financial shock all at once,” said Gregory Daco, chief U.S. economist at Oxford Economics. “We've never had this in history.”&nbsp;</p>
+                    <p class="">California was the first state to issue a stay-at-home order and has seen the greatest number of job losses. In a state with an estimated labor force of 19.5 million, 6.2 million Californians have filed
+                      unemployment applications since March 14.&nbsp;</p>
+                    <p class="">But the torrent of claims is coming from everywhere. Fifty-two states and territories have seen more than one-in-10 eligible workers file for claims since mid-March. Georgia and Kentucky have seen the largest
+                      percentage of cuts, with more than half of workers in those states losing their jobs.</p>
+                    <p class="">Comparing the weekly claims reported by the Department of Labor to the same period a year ago shows that while job losses have hit every state and territory, the damage has been unique to each region.</p>
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <p>chart still with CTA link to source </p>
+
+        <!-- @@1-->
+        <div id="section-YjqYxAir8X" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-3 Theme-Section-Layout--Full">
+          <div class="Layer--one">
+            <div class="BlockHTML">
+              <style>
+                #embed-20200403-unemployment-heat-map iframe {
+                  width: 1px;
+                  min-width: 100%
+                }
+              </style>
+              <div id="embed-20200403-unemployment-heat-map"><iframe src="./Unemployment claims by state_ See how COVID-19 has destroyed the job market_files/index.html" width="100%" scrolling="no" marginheight="0" frameborder="0"
+                  height="1195px"></iframe></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- @@1-->
+        <div id="section-lHKDZpSpfh" class="Theme-Section Theme-TextSection Theme-Section-Position-4 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class="">In Massachusetts, Maryland&nbsp;and Michigan, the virus was like a brick wall, putting a stop to more than a year of job growth. While in Texas and Puerto Rico, economies that Daco said were struggling from
+                      falling oil prices and <a href="https://www.nbcnews.com/news/latino/puerto-ricans-are-vigilant-coronavirus-response-hurricane-recovery-coincide-n1167746" target="blank" class=" vilynx_listened">the long recovery from
+                        Hurricane Maria</a> and two earthquakes, respectively, the viral shutdowns have made things even worse.</p>
+                    <p class="">While the week of March 21 is when unemployment claims spiked nationwide, most regions saw increases earlier, with Nevada, Texas and Washington, D.C., seeing the biggest changes&nbsp; the week before,
+                      beginning March 14.</p>
+
+                    <p>table with CTA link to source for sortable version</p>
+                    <div class="InlineHTML">
+                      <style>
+                        #embed-20200414-unemployment-state-table iframe {
+                          width: 1px;
+                          min-width: 100%
+                        }
+                      </style>
+                      <div id="embed-20200414-unemployment-state-table"><iframe src="./Unemployment claims by state_ See how COVID-19 has destroyed the job market_files/index(5).html" width="100%" scrolling="no" marginheight="0"
+                          frameborder="0" height="679px"></iframe></div>
+                    </div>
+
+                    <p class=""></p>
+                    <p class="">Experts warn the job losses will likely get worse. Oxford Economics forecasts that the unemployment rate will rise to 16 percent by May, and Daco noted that <a
+                        href="https://resources.oxfordeconomics.com/hubfs/News%20release%20090420/Ranking%20states%20by%20coronavirus%20structural%20vulnerabilities%20.pdf" target="blank">several states, including Maine, Nevada, Vermont and
+                        Florida, are more vulnerable</a> to severe economic shock because of a combination of factors, including older populations, a large reliance on retail or hospitality, or limited work-from-home possibilities.</p>
+                    <p class=""><a href="https://www.nbcnews.com/business/economy/america-s-stunning-unemployment-surge-during-coronavirus-visualized-n1174801" target="blank" class=" vilynx_listened"><strong><em>America’s stunning
+                            unemployment surge during coronavirus, visualized</em></strong></a></p>
+                    <p class=""></p>
+                  </div>
+
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- @@1-->
+
+        <p>map still with CTA link to source </p>
+        <div id="section-M2uiWlJc4F" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-5 Theme-Section-Layout--Full">
+          <div class="Layer--one">
+            <div class="BlockHTML">
+              <style>
+                #embed-20200627-unemployment-counties-2020 iframe {
+                  width: 1px;
+                  min-width: 100%
+                }
+              </style>
+              <div id="embed-20200627-unemployment-counties-2020"><iframe src="./Unemployment claims by state_ See how COVID-19 has destroyed the job market_files/index(6).html" width="100%" scrolling="no" marginheight="0" frameborder="0"
+                  height="870px"></iframe></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- @@1-->
+        <div id="section-Kkmb2sn5ME" class="Theme-Section Theme-TextSection Theme-Section-Position-6 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class="">Diane Swonk, chief economist at the auditing firm Grant Thornton, said many laid-off workers have yet to file for benefits simply because state unemployment portals were not built for the wave of traffic they
+                      are now receiving.&nbsp;</p>
+                    <p class="">“As bad as this is, it's still an undercount.” Swonk said.</p>
+                    <p class="">In addition, Swonk noted that cash-strapped states are likely to cut back on public services without federal aid. Already <a
+                        href="https://www.nbcnews.com/business/economy/nearly-half-states-do-not-have-enough-funds-pay-all-n1175246" target="blank" class=" vilynx_listened">experts are warning that several states won’t have enough money to
+                        pay all of the new unemployment claims</a>, and a Labor Department report from February found that unemployment trust funds were underfunded in nearly half of the states.</p>
+                    <p class="">“States are much more limited in the amount they can fund via deficit funding,” Swonk said. “That means cuts to essential services including garbage pickup.”</p>
+                    <p class="">Such cuts hampered the recovery from the 2008 financial crisis, and they might be unavoidable without federal assistance.</p>
+                    <p class="endmarkEnabled">“Congress has to get transfers to the states,” Swonk said. “We're going to have them working in the opposite direction if we don't get them aid.”</p>
+                  </div>
+                  <div class="FullSize Theme-Overlay" style="opacity:0"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- @@1-->
+        <div id="section-iLxHn8ep1s" class="Theme-Section Theme-TextSection Theme-Section-Position-7 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
+          <div class="Layout Layer--one">
+            <div class="Layout__row">
+              <div class="Layout__col Layout__col-lg-6 Layout__col-lg-center Layout__col-md-8 Layout__col-md-center Layout__col-sm-10 Layout__col-sm-center Layout__col-xs-12 Layout__col-xs-left Theme-Column">
+                <div class="Theme-Layer-BodyText">
+                  <div class="Theme-Layer-BodyText--inner">
+                    <p class=""></p>
+
+                    <div class="InlineHTML">
+                      <div class="lastbyline">
+                        <p class="creditline">Note: Weekly unemployment claims data as of July 9, 2020.</p>
+                        <p class="creditline">Sources: Bureau of Labor Statistics</p>
+                      </div>
+                    </div>
+
+                    <p class=""></p>
                   </div>
                   <div class="FullSize Theme-Overlay" style="opacity:0"></div>
                 </div>
