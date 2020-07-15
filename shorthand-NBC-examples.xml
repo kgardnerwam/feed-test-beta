@@ -226,7 +226,7 @@
       <guid isPermaLink="false">412rf2s46tgvfrr9334567a4</guid>
       <!-- must include CDATA wrapper -->
       <title>Stay-at-home orders across the country</title>
-      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <link>https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#alaska</link>
       <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
       <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
@@ -257,17 +257,21 @@
                         class=" vilynx_listened"><em><strong>reopen plans</strong></em></a><em><strong> in your state. </strong></em></p>
 
                     <!-- @@chart -->
-                    <p>add still of chart with link to original</p>
-                    <div class="InlineHTML">
-                      <style>
-                        #embed-20200331-covid-us-states-per-day iframe {
-                          width: 1px;
-                          min-width: 100%
-                        }
-                      </style>
-                      <div id="embed-20200331-covid-us-states-per-day"><iframe src="./Coronavirus lockdowns and stay-at-home orders across the U.S._files/index-stay-at-home.html" width="100%" scrolling="no" marginheight="0" frameborder="0"
-                          title="States without stay at home order" height="539px"></iframe></div>
-                    </div>
+
+
+                    <h2>Confirmed cases in states without stay-at-home orders</h2>
+
+                    <section class="flatplan-stack" data-stack-id="sh-media-image">
+                      <section>
+                        <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/Stay-at-home-chart-a-still.png" srcset="" alt="Media - inline - image - caption"><figcaption><p></p> </figcaption></figure>
+                      </section>
+                    </section>
+
+                    <section class="flatplan-stack" data-stack-id="sh-fallback-to-source">
+                      <section>
+                        <a href="https://www.nbcnews.com/health/health-news/here-are-stay-home-orders-across-country-n1168736#alaska" target="_blank" rel class="InlineElement--Button Theme-Layer-BodyText-Button null">Button CTA</a>
+                      </section>
+                    </section>
 
 
                     <p class="">Oklahoma, Utah and Wyoming have partial stay-at-home orders so far.&nbsp;</p>
@@ -282,21 +286,15 @@
         </div>
 
         <!-- @@2 -->
-        <p>add still of map</p>
-        <div id="map-PLlkBzrrvD" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-3 Theme-Section-Layout--Full sh-map">
-          <div class="Layer--one">
-            <div class="BlockHTML">
-              <style>
-                #embed-20200324-covid-state-by-state-stay-home iframe {
-                  width: 1px;
-                  min-width: 100%
-                }
-              </style>
-              <div id="embed-20200324-covid-state-by-state-stay-home"><iframe src="./Coronavirus lockdowns and stay-at-home orders across the U.S._files/index.html" width="100%" scrolling="no" marginheight="0" frameborder="0"
-                  height="547px"></iframe></div>
-            </div>
-          </div>
-        </div>
+
+
+        <section class="flatplan-stack" data-stack-id="sh-media-image">
+          <section>
+            <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/Stay-at-home-map-a-still.png" srcset="/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p></p> </figcaption></figure>
+          </section>
+        </section>
+
+
 
         <!-- @@3 buttons for sections below -->
         <div id="button-c1RSZYDxdW" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-4 Theme-Section-Layout--Full sh-button">
@@ -932,7 +930,7 @@
       <guid isPermaLink="false">412rf2frr9334567a4</guid>
       <!-- must include CDATA wrapper -->
       <title>The coronavirus has destroyed the job market in every state</title>
-      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <link>https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686</link>
       <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
       <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
@@ -968,23 +966,15 @@
           </div>
         </div>
 
-        <p>chart still with CTA link to source </p>
+        <h2>The coronavirus has destroyed America’s job market</h2>
+        <h3>Weekly percent change in new unemployment claims compared with the same period one year earlier.</h3>
 
-        <!-- @@1-->
-        <div id="section-YjqYxAir8X" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-3 Theme-Section-Layout--Full">
-          <div class="Layer--one">
-            <div class="BlockHTML">
-              <style>
-                #embed-20200403-unemployment-heat-map iframe {
-                  width: 1px;
-                  min-width: 100%
-                }
-              </style>
-              <div id="embed-20200403-unemployment-heat-map"><iframe src="./Unemployment claims by state_ See how COVID-19 has destroyed the job market_files/index.html" width="100%" scrolling="no" marginheight="0" frameborder="0"
-                  height="1195px"></iframe></div>
-            </div>
-          </div>
-        </div>
+        <section class="flatplan-stack" data-stack-id="sh-fallback-to-source">
+          <section>
+            <a href="https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686" target="_blank" rel class="InlineElement--Button Theme-Layer-BodyText-Button null">Button CTA</a>
+          </section>
+        </section>
+
 
         <!-- @@1-->
         <div id="section-lHKDZpSpfh" class="Theme-Section Theme-TextSection Theme-Section-Position-4 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
@@ -1000,16 +990,12 @@
                       beginning March 14.</p>
 
                     <p>table with CTA link to source for sortable version</p>
-                    <div class="InlineHTML">
-                      <style>
-                        #embed-20200414-unemployment-state-table iframe {
-                          width: 1px;
-                          min-width: 100%
-                        }
-                      </style>
-                      <div id="embed-20200414-unemployment-state-table"><iframe src="./Unemployment claims by state_ See how COVID-19 has destroyed the job market_files/index(5).html" width="100%" scrolling="no" marginheight="0"
-                          frameborder="0" height="679px"></iframe></div>
-                    </div>
+
+                    <section class="flatplan-stack" data-stack-id="sh-fallback-to-source">
+                      <section>
+                        <a href="https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686" target="_blank" rel class="InlineElement--Button Theme-Layer-BodyText-Button null">Button CTA</a>
+                      </section>
+                    </section>
 
                     <p class=""></p>
                     <p class="">Experts warn the job losses will likely get worse. Oxford Economics forecasts that the unemployment rate will rise to 16 percent by May, and Daco noted that <a
@@ -1029,21 +1015,29 @@
 
         <!-- @@1-->
 
-        <p>map still with CTA link to source </p>
-        <div id="section-M2uiWlJc4F" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-5 Theme-Section-Layout--Full">
-          <div class="Layer--one">
-            <div class="BlockHTML">
-              <style>
-                #embed-20200627-unemployment-counties-2020 iframe {
-                  width: 1px;
-                  min-width: 100%
-                }
-              </style>
-              <div id="embed-20200627-unemployment-counties-2020"><iframe src="./Unemployment claims by state_ See how COVID-19 has destroyed the job market_files/index(6).html" width="100%" scrolling="no" marginheight="0" frameborder="0"
-                  height="870px"></iframe></div>
-            </div>
-          </div>
-        </div>
+        <h2>The coronavirus has destroyed America’s job market</h2>
+        <h3>Weekly percent change in new unemployment claims compared with the same period one year earlier.</h3>
+
+        <section class="flatplan-stack" data-stack-id="sh-media-image">
+          <section>
+            <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/unemployment-map-key-still.png" srcset="" alt="Media - inline - image - caption"><figcaption><p></p> </figcaption></figure>
+          </section>
+        </section>
+
+        <section class="flatplan-stack" data-stack-id="sh-media-image">
+          <section>
+            <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/unemployment-map-still.png" srcset="" alt="Media - inline - image - caption"><figcaption><p></p> </figcaption></figure>
+          </section>
+        </section>
+
+        <section class="flatplan-stack" data-stack-id="sh-fallback-to-source">
+          <section>
+            <a href="https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686" target="_blank" rel class="InlineElement--Button Theme-Layer-BodyText-Button null">Button CTA</a>
+          </section>
+        </section>
+
+
+
 
         <!-- @@1-->
         <div id="section-Kkmb2sn5ME" class="Theme-Section Theme-TextSection Theme-Section-Position-6 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
