@@ -24,7 +24,7 @@
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
       <media:thumbnail url="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/ZNWVhbx19D/10sec_smoke_cut_1.mp4" caption="Smoke rises from a chimney of the crematorium at the Green-Wood Cemetery in Brooklyn."/>
       <dc:creator>By Rich Schapiro. Photos by Debbie Egan-Chin</dc:creator>
-      <category>Shorthand</category>
+      <category>NBC</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="NBC"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
@@ -233,7 +233,7 @@
       <dc:creator>By Jiachuan Wu, Savannah Smith, Mansee Khurana, Corky Siemaszko and Brianna DeJesus-Banos
       </dc:creator>
       <description><![CDATA[What each state is doing — or not doing — amid widespread coronavirus lockdowns.]]></description>
-      <category>Shorthand</category>
+      <category>NBC</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="NBC"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
@@ -938,7 +938,7 @@
       <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
       <dc:creator>By Nigel Chiwaya and Jiachuan Wu</dc:creator>
       <description><![CDATA[See the per-state jobless numbers and how they’ve changed.]]></description>
-      <category>Shorthand</category>
+      <category>NBC</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="NBC"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
