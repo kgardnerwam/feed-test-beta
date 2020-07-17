@@ -28,7 +28,7 @@
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="NBC"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
-      <content:encoded> <![CDATA[
+      <content:encoded> <![ CDATA[
 
         <!-- #2 -->
         <div id="section-raGPYCxKky" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
@@ -55,11 +55,18 @@
             </div>
           </div>
         </div>
+        <!-- @@ media - image landscape -->
+        <section class="flatplan-stack" data-stack-id="sh-media-image">
+          <section>
+            <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - image - caption</p></figcaption></figure>
+          </section>
+        </section>
+        <!-- ends -->
 
         <!-- #3 -->
         <section class="flatplan-stack" data-stack-id="sh-media-image">
           <section>
-            <figure><img src="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/L6V1OcbiVh/200417-green-wood-cemetery-mn-1645-1920x1281.jpeg" alt="Media - inline - image - caption"><figcaption><p>Gus Padilla at the Green-Wood Cemetery in Brooklyn</p> </figcaption></figure>
+            <figure><img src="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/L6V1OcbiVh/200417-green-wood-cemetery-mn-1645-1920x1281.jpeg" srcset="https://nbcnews.shorthandstories.com/13-hours--22-bodies---the-long--lonesome-shift-of-a-crematory-worker-in-the-heat-of-covid-19/assets/L6V1OcbiVh/200417-green-wood-cemetery-mn-1645-1920x1281.jpeg" alt="Media - inline - image - caption"><figcaption><p>Gus Padilla at the Green-Wood Cemetery in Brooklyn</p> </figcaption></figure>
           </section>
         </section>
 
