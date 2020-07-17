@@ -28,7 +28,7 @@
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="NBC"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
-      <content:encoded> <![ CDATA[
+      <content:encoded> <![CDATA[
 
         <!-- #2 -->
         <div id="section-raGPYCxKky" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
