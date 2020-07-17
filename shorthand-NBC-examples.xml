@@ -55,13 +55,7 @@
             </div>
           </div>
         </div>
-        <!-- @@ media - image landscape -->
-        <section class="flatplan-stack" data-stack-id="sh-media-image">
-          <section>
-            <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - image - caption</p></figcaption></figure>
-          </section>
-        </section>
-        <!-- ends -->
+        
 
         <!-- #3 -->
         <section class="flatplan-stack" data-stack-id="sh-media-image">
