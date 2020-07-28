@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+  xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+  <channel>
+    <title>testfeed amendeddd</title>
+    <description>testfeedforapplenews</description>
+    <pubDate>Fri, 22 May 2020 08:10:35 +0000</pubDate>
+    <lastBuildDate>Fri, 10 May 2020 11:34:07 +0000</lastBuildDate>
+    <link>https://wearemathematics.co.uk</link>
+    <language>en-US</language>
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">6234123423345674</guid>
+      <!-- must include CDATA wrapper -->
+      <title>shorthand + figures + div + no pictures + img</title>
+
+
+
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Fri, 22 May 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>NewsArticle</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA [
+        <!--  @@ PinkNews "read next" -->
+
+        <section class="flatplan-stack" data-stack-id="pn-read-next">
+          <!--wrap each group of content in a section-->
+          <section>
+            <!--both child elements are required-->
+            <img src="https://mywebsite.com/article1-thumbnail-image.jpg" data-use-stack="false">
+            <p><a href="http://www.mywebsite.com/page1-URL">Title of article 1</a></p>
+          </section>
+          <!--repeat structure with 2nd group of content-->
+          <section>
+            <!--both child elements are required-->
+            <img src="https://mywebsite.com/article1-thumbnail-image.jpg" data-use-stack="false">
+            <p><a href="http://www.mywebsite.com/page1-URL">Title of article 1</a></p>
+          </section>
+          <!--repeat structure with 3rd group of content-->
+          <section>
+            <!--both child elements are required-->
+            <img src="https://mywebsite.com/article1-thumbnail-image.jpg" data-use-stack="false">
+            <p><a href="http://www.mywebsite.com/page1-URL">Title of article 1</a></p>
+          </section>
+        </section>
+
+
+        <!-- @@ HOLA "related" -->
+
+        <section class="flatplan-stack" data-stack-id="hola-related">
+          <!--wrap each item in a discrete section-->
+          <section>
+            <!--include the link as a child element-->
+            <h3><a href="https://us.hola.com/tags/jennifer-lopez/">Jennifer Lopez and Alex Rodriguez take couples' challenge</a></h3>
+          </section>
+          <!--repeat structure with optional 2nd item of content-->
+          <section>
+            <!--include the link as a child element-->
+            <h3><a href="https://us.hola.com/celebrities/20200326flwt5h5ff5/karol-g-anuel-extend-family">Meet Karol G and Anuel AA's new family member</a></h3>
+          </section>
+        </section>
+
+
+        <!-- @@ House of Houston "read next"
+
+        <section class="flatplan-stack" data-stack-id="fs-read-next">
+          <!-/-wrap content in a section-/->
+          <section>
+            <a href="https://w3docs.com" data-role="link_button">Never use the words 'click here'</a>
+          </section>
+        </section>
+
+         -->
+
+
+        <!--  @@ Hello "quiz" -->
+
+        <section class="flatplan-stack" data-stack-id="hello-quiz">
+          <!--wrap each item in a discrete section-->
+          <img src="https://mywebsite.com/article1-thumbnail-image.jpg" data-use-stack="false" data-role="section-image-fill">
+          <!--include the link as a child element-->
+          <section>
+            <section>
+              <h2>Quiz: Which Prince to Marry *quiz title*</h2>
+              <h4>Take the Quiz on hellomagazine.co.uk</h4>
+              <section>
+                <a href="https://w3docs.com" data-role="link_button">Never use the words 'click here'</a>
+              </section>
+            </section>
+          </section>
+        </section>
+
+
+
+
+        ]]>
+      </content:encoded>
+
+
+      </item>
+
+
+  </channel>
+</rss>
