@@ -32,7 +32,7 @@
       <flatplan:template identifier="template_name"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
-        <![CDATA [
+        <![CDATA[
         <!--  @@ PinkNews "read next" -->
 
         <section class="flatplan-stack" data-stack-id="pn-read-next">
