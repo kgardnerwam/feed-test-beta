@@ -89,13 +89,11 @@
           <img src="https://mywebsite.com/article1-thumbnail-image.jpg" data-use-stack="false" data-role="section-image-fill">
           <!--include the link as a child element-->
           <section>
-            <section>
-              <h2>Quiz: Which Prince to Marry *quiz title*</h2>
-              <h4>Take the Quiz on hellomagazine.co.uk</h4>
-              <section>
-                <a href="https://w3docs.com" data-role="link_button">Never use the words 'click here'</a>
-              </section>
-            </section>
+            <h2>Quiz: Which Prince to Marry *quiz title*</h2>
+            <h4>Take the Quiz on hellomagazine.co.uk</h4>
+          </section>
+          <section>
+            <a href="https://w3docs.com" data-role="link_button">Never use the words 'click here'</a>
           </section>
         </section>
 
