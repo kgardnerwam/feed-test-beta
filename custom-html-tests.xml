@@ -84,16 +84,16 @@
 
         <!--  @@ Hello "quiz" -->
 
-        <section class="flatplan-stack" data-stack-id="hello-quiz">
-          <!--wrap each item in a discrete section-->
-          <img src="https://mywebsite.com/article1-thumbnail-image.jpg" data-use-stack="false" data-role="section-image-fill">
-          <!--include the link as a child element-->
+        section class="flatplan-stack" data-stack-id="hello-quiz">
           <section>
-            <h2>Quiz: Which Prince to Marry *quiz title*</h2>
-            <h4>Take the Quiz on hellomagazine.co.uk</h4>
+            <!--include the title of the quiz-->
+            <h3>Quiz: Title goes here</h3>
+            <!--include the generic call to action-->
+            <h4>Take the quiz on hellomagazine.com</h4>
           </section>
+          <!--include link in a 2nd child element-->
           <section>
-            <a href="https://w3docs.com" data-role="link_button">Never use the words 'click here'</a>
+            <h3><a href="https://www.hello.com/link-to-quiz">take quiz</a></h3>
           </section>
         </section>
 
