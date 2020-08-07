@@ -84,7 +84,7 @@
 
         <!--  @@ Hello "quiz" -->
 
-        section class="flatplan-stack" data-stack-id="hello-quiz">
+        <section class="flatplan-stack" data-stack-id="hello-quiz">
           <section>
             <!--include the title of the quiz-->
             <h3>Quiz: Title goes here</h3>
