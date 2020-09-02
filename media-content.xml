@@ -1,21 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss
-  version="2.0"
-  xmlns:media="http://search.yahoo.com/mrss/"
-  xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
-  xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
-  xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:mi="http://schemas.ingestion.microsoft.com/common/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" version="2.0">
+  <!--  feed info: items:19 publication:hello type:apple section: content:gallery -->
   <channel>
-    <title>testfeed media-content</title>
-    <description>testfeedforapplenews</description>
-    <pubDate>Wed, 02 September 2020 08:10:35 +0000</pubDate>
-    <lastBuildDate>Wed, 02 September 2020 11:34:07 +0000</lastBuildDate>
-    <link>https://wearemathematics.co.uk</link>
-    <language>en-US</language>
+    <title>Latest Slideshows</title>
+    <description>The latest slideshows.</description>
+    <lastBuildDate>Wed, 02 Sep 2020 18:39:09 +0200</lastBuildDate>
     <item>
-      <guid isPermaLink="false">9357389mnj</guid>
+      <guid isPermaLink="false">/noticias/hello/96407</guid>
       <title>
         <![CDATA[ Heartbeat cast before and after: take a look at how stars have changed over the years ]]>
       </title>
@@ -35,7 +25,7 @@
       <media:group>
         <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-787/heartbeat-nick-berry-a.jpg" type="image/jpeg" medium="image">
           <media:title/>
-          <media:text>image w/type</media:text>
+          <media:text>Hello! Magazine</media:text>
           <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
           <mi:licenseId>Photo: © Rex</mi:licenseId>
           <mi:licensorName>Photo: © Rex</mi:licensorName>
@@ -43,9 +33,9 @@
             <![CDATA[ <p>It hasn&#039;t aired a new episode since 2010 – but fans of <a href="https://www.hellomagazine.com/tags/whats-on-tv/"><em><strong>Heartbeat</strong></em></a> are enjoying reminiscing over the family-favourite police drama thanks to re-runs on ITV3. Set in Yorkshire in the 1960s, Heartbeat followed the lives of a group of policemen and women in the Aidensfield and Ashfordly area.</p> <p>But what have the stars of the show been up to in the 28 years since they wrapped the series? <strong>Let&#039;s take a look…</strong></p> <p> </p> <h2>Nick Berry</h2> <p><strong>Nick Berry</strong> played PC Nick Rowan in Heartbeat for six years from series one to series seven – he even sang the theme tune to the show! Following his character&#039;s exit – he left for Canada – Nick had a successful career as a singer. His other most notable role included playing Simon Wicks in <a href="https://www.hellomagazine.com/tags/eastenders/"><em><strong>EastEnders</strong></em></a> from 1985 to 1990. He retired from acting in 2012 to be a stay-at-home father to his two sons.</p> <p><strong>MORE: </strong><a href="https://www.hellomagazine.com/film/2020090196319/heartbeat-what-happened-to-derek-fowlds/"><strong>Find out what happened to Heartbeat actor Derek Fowlds</strong></a></p> ]]>
           </media:description>
         </media:content>
-        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-788/heartbeat-mark-jordan-a.jpg">
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-788/heartbeat-mark-jordan-a.jpg" type="image/jpeg" medium="image">
           <media:title/>
-          <media:text>Image w/no type</media:text>
+          <media:text>Hello! Magazine</media:text>
           <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
           <mi:licenseId>Photo: © Twitter</mi:licenseId>
           <mi:licensorName>Photo: © Twitter</mi:licensorName>
@@ -53,9 +43,9 @@
             <![CDATA[ <h2>Mark Jordan</h2> <p><strong>Mark Jordan </strong>played PC Phil Bellamy for 15 years, leaving the show in its 17th season in 2007 when his character was tragically killed off. He was best known for his on/off relationship with barmaid Gina Ward, who he eventually married.</p> <p>Since his exit, Mark has continued to be a regular on TV, with roles in <a href="https://www.hellomagazine.com/tags/coronation-street/"><em><strong>Coronation Street</strong></em></a>, <em>Hollyoaks </em>and <em>Casualty</em>. He also enjoyed a regular stint as Daz Spencer in <em>Emmerdale</em> from 2017 until 2019.</p> <p><strong>MORE: <a href="https://www.hellomagazine.com/film/2020090196296/strike-lethal-white-viewers-struggle-understand-plot-confusing/">Strike: Lethal White viewers saying the same thing about the new series</a></strong></p> ]]>
           </media:description>
         </media:content>
-        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-788/heartbeat-mark-jordan-a.jpg" type="image/jpeg" medium="image">
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-789/heartbeat-tricia-penrose-a.jpg" type="image/jpeg" medium="image">
           <media:title/>
-          <media:text>Video w/type</media:text>
+          <media:text>Hello! Magazine</media:text>
           <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
           <mi:licenseId>Photo: © Rex</mi:licenseId>
           <mi:licensorName>Photo: © Rex</mi:licensorName>
@@ -63,9 +53,69 @@
             <![CDATA[ <h2>Tricia Penrose</h2> <p><strong>Tricia </strong>played barmaid Gina Ward from 1993 until the show&#39;s end in 2010. She was equally recognised for her eye-catching 60s outfits as she was for her singing in the show. She has kept a low profile since Heartbeat ended but does now appear on radio.</p> <p><em><strong>Keep scrolling for more photos...</strong></em></p> ]]>
           </media:description>
         </media:content>
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-790/heartbeat-joe-mcfadden-a.jpg" type="image/jpeg" medium="image">
+          <media:title/>
+          <media:text>Hello! Magazine</media:text>
+          <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+          <mi:licenseId>Photo: © Rex</mi:licenseId>
+          <mi:licensorName>Photo: © Rex</mi:licensorName>
+          <media:description>
+            <![CDATA[ <h2>Joe McFadden</h2> <p><a href="https://www.hellomagazine.com/tags/strictly-come-dancing/"><em><strong>Strictly</strong></em></a> winner<a href="https://www.hellomagazine.com/tags/joe-mcfadden/"> <strong>Joe McFadden</strong></a> may be recognised for his moves on the dancefloor now, but he onc ]]>
+            <![CDATA[ e played PC Joe Mason from 2007 until 2010. He moved into roles on Casualty and then Holby City, and of course, lifted the Glitterball trophy alongside <strong>Katya Jones</strong> in 2017.</p> <p><strong>Exclusive: <a href="https://www.hellomagazine.com/fashion/celebrity-style/2020062592271/inside-katya-jones-wardrobe-exclusive-interview/">Inside Strictly Come Dancing star Katya Jones&#39; wardrobe</a></strong></p> ]]>
+          </media:description>
+        </media:content>
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-791/heartbeat-jason-durr-a.jpg" type="image/jpeg" medium="image">
+          <media:title/>
+          <media:text>Hello! Magazine</media:text>
+          <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+          <mi:licenseId>Photo: © Rex</mi:licenseId>
+          <mi:licensorName>Photo: © Rex</mi:licensorName>
+          <media:description>
+            <![CDATA[ <h2>Jason Durr</h2> <p><strong>Jason</strong> held the role of PC/DC Mike Bradley from 1997 until 2003. Following his exit, he enjoyed appearances in <em>Lewis, New Tricks</em>, and <em>Midsomer Murders</em>. Since 2016, he has been playing Nurse David Hide in <em>Casualty.</em></p> ]]>
+          </media:description>
+        </media:content>
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-792/heartbeat-nikki-sanderson-a.jpg" type="image/jpeg" medium="image">
+          <media:title/>
+          <media:text>Hello! Magazine</media:text>
+          <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+          <mi:licenseId>Photo: © Rex</mi:licenseId>
+          <mi:licensorName>Photo: © Rex</mi:licensorName>
+          <media:description>
+            <![CDATA[ <h2>Nikki Sanderson </h2> <p>While her time on the show may have been brief compared to most, <a href="https://www.hellomagazine.com/tags/nikki-sanderson/"><strong>Nikki </strong></a>played popular Dawn Bellamy from 2008 to 2009. Nikki is now best known for her role as Maxine Minnver in <a href="https://www.hellomagazine.com/tags/hollyoaks/"><em><strong>Hollyoaks</strong></em></a>, which she has been playing since 2012. </p> ]]>
+          </media:description>
+        </media:content>
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-793/heartbeat-derek-fowlds-a.jpg" type="image/jpeg" medium="image">
+          <media:title/>
+          <media:text>Hello! Magazine</media:text>
+          <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+          <mi:licenseId>Photo: © Rex</mi:licenseId>
+          <mi:licensorName>Photo: © Rex</mi:licensorName>
+          <media:description>
+            <![CDATA[ <h2>Derek Fowlds</h2> <p><strong>Derek</strong> sadly passed away in January aged 82, but he will always be remembered for his role as Sgt Oscar Blaketon, which he played for 18 years! Following his character&#39;s heart attack in season eight, he became owner of the Aidensfield Arms pub. After the series came to an end he had roles in other TV shows like Casualty, Doctors, and Yes Minister. </p> <p><strong>MORE: <a href="https://www.hellomagazine.com/homes/gallery/2020050489254/hollyoaks-stars-homes-stephanie-davis-jennifer-metcalfe-jessica-fox/1/">Inside Hollyoaks stars&#39; real-life homes away from the village</a></strong></p> ]]>
+          </media:description>
+        </media:content>
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-794/heartbeat-william-simons-a.jpg" type="image/jpeg" medium="image">
+          <media:title/>
+          <media:text>Hello! Magazine</media:text>
+          <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+          <mi:licenseId>Photo: © Rex</mi:licenseId>
+          <mi:licensorName>Photo: © Rex</mi:licensorName>
+          <media:description>
+            <![CDATA[ <h2>William Simons</h2> <p>Another cast member who sadly passed away in June 2019 at the age of 78. William played PC Alf Ventress from season one right until the end in 2010. His other acting credits include The Bill, Coronation Street, Emmerdale and Casualty.</p> ]]>
+          </media:description>
+        </media:content>
+        <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-795/heartbeat-bill-maynard-a.jpg" type="image/jpeg" medium="image">
+          <media:title/>
+          <media:text>Hello! Magazine</media:text>
+          <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
+          <mi:licenseId>Photo: © Rex</mi:licenseId>
+          <mi:licensorName>Photo: © Rex</mi:licensorName>
+          <media:description>
+            <![CDATA[ <h2>Bill Maynard</h2> <p>Who doesn&#039;t remember Bill Maynard&#039;s character Greengrass? Bill played the role from 1992 until 2000 and was known as the loveable rogue who caused trouble for the local constables. A regular fixture on British TV, Bill appeared in Carry On films during the 1970s and also starred in Oh No, It’s Selwyn Froggitt. He sadly passed away in 2018 aged 82.</p> <p><em><strong>Like this story?<a href="https://www.hellomagazine.com/newsletter/?utm_source=article&utm_medium=website&utm_campaign=newsletter-signup"> Sign up to our newsletter</a> to get other stories like this delivered straight to your inbox.</strong></em></p> ]]>
+          </media:description>
+        </media:content>
       </media:group>
+      <!--  @@@ end images @@@  -->
     </item>
-
-
   </channel>
 </rss>
