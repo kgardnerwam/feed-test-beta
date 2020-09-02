@@ -25,7 +25,7 @@
       <media:group>
         <media:content url="https://www.hellomagazine.com/imagenes/film/2020090296407/heartbeat-cast-then-now-joe-mcfadden-nikki-sanderson-more/0-461-787/heartbeat-nick-berry-a.jpg" type="image/jpeg" medium="image">
           <media:title/>
-          <media:text>Hello! Magazine</media:text>
+          <media:text>image w/ type</media:text>
           <mi:hasSyndicationRights>1</mi:hasSyndicationRights>
           <mi:licenseId>Photo: © Rex</mi:licenseId>
           <mi:licensorName>Photo: © Rex</mi:licensorName>
