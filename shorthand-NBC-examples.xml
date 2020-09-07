@@ -1133,7 +1133,7 @@
                 <li class="state__info-mono">\u2717</li>
               </ul>
             </div>
-            <p class="state__info-note"></p>
+            
           </div>
 
           <div class="state__info-cont">
@@ -1168,7 +1168,7 @@
                 <li class="state__info-mono">\u2713</li>
               </ul>
             </div>
-            <p class="state__info-note"></p>
+
           </div>
 
           <div class="state__info-cont">
