@@ -218,9 +218,6 @@
         <!--  @@@ end images @@@  -->
       </item>
 
-
-
-
     <item>
 
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
@@ -1089,6 +1086,108 @@
             </div>
           </div>
         </div>
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412rf2fs9923rr9334567a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>Plan your vote - snippet</title>
+      <link>https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686</link>
+      <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
+      <dc:creator>By Nigel Chiwaya and Jiachuan Wu</dc:creator>
+      <description><![CDATA[See the per-state jobless numbers and how they’ve changed.]]></description>
+      <category>NBC</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="NBC"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded> <![CDATA[
+
+        <div class="state__cont-top">
+          <h2 class="state__h2">Alabama</h2>
+          <div class="state__info-cont">
+            <h3 class="state__info-h3">When is the deadline to register to vote?</h3>
+            <p class="state__info-p">
+              You have <span class="highlight">45 days</span> left to register online, the deadline is <span class="highlight">Monday, Oct. 19</span>.  There are <span class="highlight">60 days</span> left until Election Day, <span class="highlight">Tuesday, Nov. 3</span>.
+            </p>
+            <p class="state__info-link">
+              <a href="https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action" target="blank">See more information on registering to vote in Alabama here.</a>
+            </p>
+            <div class="state__info-ul-cont state__info-ul-cont__reg">
+              <ul class="state__info-ul info__ul-reg">
+                <li class="state__info-cond">Deadlines for all ways to register in Alabama</li>
+                <li class="state__info-mono">Online, by mail and in person: Monday, Oct. 19</li>
+              </ul>
+              <ul class="state__info-ul">
+                <li class="state__info-cond">Can I register to vote and cast my ballot on the same day?</li>
+                <li class="state__info-mono">\u2717</li>
+              </ul>
+              <ul class="state__info-ul">
+                <li class="state__info-cond">Can I vote without a photo ID?</li>
+                <li class="state__info-mono">\u2717</li>
+              </ul>
+            </div>
+            <p class="state__info-note"></p>
+          </div>
+
+          <div class="state__info-cont">
+            <h3 class="state__info-h3">Can I vote by mail without an excuse?</h3>
+            <p class="state__info-p">Yes, you can vote by mail if COVID-19 is your excuse.</p>
+            <p class="state__info-link">
+              <a href="https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting" target="blank">See more information on mail ballots for Alabama here.</a>
+            </p>
+            <div class="state__info-ul-cont">
+              <ul class="state__info-ul info__ul-mail">
+                <li class="state__info-cond">When is the deadline to request a mail-in ballot?</li>
+                <li class="state__info-mono">Thursday, Oct. 29</li>
+              </ul>
+              <ul class="state__info-ul">
+                <li class="state__info-cond">When do I need to mail my ballot by?</li>
+                <li class="state__info-mono">Must be postmarked by Monday, Nov. 2 and received by noon on Tuesday, Nov. 3 (Election Day)</li>
+              </ul>
+              <ul class="state__info-ul info__ul-mail">
+                <li class="state__info-cond">Can I drop off my ballot in person?</li>
+                <li class="state__info-mono">\u2713</li>
+              </ul>
+              <ul class="state__info-ul info__ul-mail">
+                <li class="state__info-cond">Can I vote without a notary or witness?</li>
+                <li class="state__info-mono">\u2717</li>
+              </ul>
+              <ul class="state__info-ul info__ul-mail">
+                <li class="state__info-cond">Can I use COVID-19 as an excuse?</li>
+                <li class="state__info-mono">\u2713</li>
+              </ul>
+              <ul class="state__info-ul info__ul-mail">
+                <li class="state__info-cond">After I vote by mail, can I track my ballot? <span><a href="https://myinfo.alabamavotes.gov/VoterView/AbsenteeBallotSearch.do" class="state__info-ballot-track" target="_blank"> (Check here)</a></span></li>
+                <li class="state__info-mono">\u2713</li>
+              </ul>
+            </div>
+            <p class="state__info-note"></p>
+          </div>
+
+          <div class="state__info-cont">
+            <h3 class="state__info-h3">Can I vote in person before Election Day?</h3>
+            <p class="state__info-p">Yes, but only early absentee voting.</p>
+
+            <div class="state__info-ul-cont">
+              <ul class="state__info-ul info__ul-person">
+                <li class="state__info-cond">When is the first day I can vote early in person?</li>
+                <li class="state__info-mono">Wednesday, Sept. 9</li>
+              </ul>
+              <ul class="state__info-ul info__ul-person">
+                <li class="state__info-cond">When is the last day I can vote early in person?</li>
+                <li class="state__info-mono">Thursday, Oct. 29</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
 
         ]]>
       </content:encoded>
