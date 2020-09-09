@@ -1110,41 +1110,49 @@
       <content:encoded> <![CDATA[
 
         <div id="graphic-main" class="graphic-main">
-  <div class="state__wrap">
-    <section class="state__cont" id="alabama">
-      <div class="state__cont-top">
-        <h2 class="state__h2">Alabama</h2>
-        <div class="state__info-cont">
-          <h3 class="state__info-h3">¿Cuándo es la fecha límite para registrarse para votar?</h3>
-          <p class="state__info-p"> La fecha límite es <span class="highlight">lunes, 19 de oct.</span> </p>
-          <p class="state__info-link"> <a href="https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action" target="blank">Ve quí más información sobre cómo registrarse para votar en el estado de Alabama.</a> </p>
-          <div class="state__info-ul-cont state__info-ul-cont__reg">
-            <section class="flatplan-stack" data-stack-id="nbc-data-table">
-              <section>
-                <h3>Fechas límite para todas las formas de registrarse en el estado de Alabama</h3>
-              </section>
-              <section>
-                <h4>En línea, por correo y en persona: lunes, <time>19 de oct.</time></h4>
-              </section>
-            </section>
-            <section class="flatplan-stack" data-stack-id="nbc-data-table">
-              <section>
-                <h3>¿Puedo registrarme para votar y emitir mi boleta el mismo día?</h3>
-              </section>
-              <section>
-                <h4><span class="state__info-span"><div class="x-mark" role="img" arial-label="No"></div></span></h4>
-              </section>
-            </section>
-            <section class="flatplan-stack" data-stack-id="nbc-data-table">
-              <section>
-                <h3>¿Puedo votar sin presentar un carné con foto?</h3></section><section><h4><span class="state__info-span"><div class="x-mark" role="img" arial-label="No"></div></span></h4></section></section>
+          <div class="state__wrap">
+            <section class="state__cont" id="alabama">
+              <div class="state__cont-top">
+                <h2 class="state__h2">Alabama</h2>
+                <div class="state__info-cont">
+                  <h3 class="state__info-h3">¿Cuándo es la fecha límite para registrarse para votar?</h3>
+                  <p class="state__info-p"> La fecha límite es <span class="highlight">lunes, 19 de oct.</span> </p>
+                  <p class="state__info-link"> <a href="https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action" target="blank">Ve quí más información sobre cómo registrarse para votar en el estado de Alabama.</a> </p>
+                  <div class="state__info-ul-cont state__info-ul-cont__reg">
+                    <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                      <section>
+                        <h3>Fechas límite para todas las formas de registrarse en el estado de Alabama</h3>
+                      </section>
+                      <section>
+                        <h4>En línea, por correo y en persona: lunes, <time>19 de oct.</time></h4>
+                      </section>
+                    </section>
+                    <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                      <section>
+                        <h3>¿Puedo registrarme para votar y emitir mi boleta el mismo día?</h3>
+                      </section>
+                      <section>
+                        <h4>&check;</h4>
+
+
+                      </section>
+                    </section>
+                    <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                      <section>
+                        <h3>¿Puedo votar sin presentar un carné con foto?</h3>
+                      </section>
+                      <section>
+                        <h4>&check;</h4>
+                      </section>
+                    </section>
+                  </div>
+                  <p class="state__info-note"></p>
+                </div>
               </div>
-              <p class="state__info-note"></p>
-            </div>
+            </section>
           </div>
-        </section>
-      </div>
-    </div>
+        </div>
+
 
 
 
