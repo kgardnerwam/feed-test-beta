@@ -1174,7 +1174,7 @@
       <description><![CDATA[See the per-state jobless numbers and how they’ve changed.]]></description>
       <category>NBC</category>
       <!-- optional custom metadata fields -->
-      <flatplan:template identifier="NBC"/>
+      <flatplan:template identifier="specials"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded> <![CDATA[
 
