@@ -1122,15 +1122,17 @@
                     <section class="flatplan-stack" data-stack-id="nbc-data-table">
                       <section>
                         <h3>Fechas límite para todas las formas de registrarse en el estado de Alabama</h3>
-
+                      </section>
+                      <section>
                         <h4>En línea, por correo y en persona: lunes, <time>19 de oct.</time></h4>
                       </section>
                     </section>
                     <section class="flatplan-stack" data-stack-id="nbc-data-table">
                       <section>
                         <h3>¿Puedo registrarme para votar y emitir mi boleta el mismo día?</h3>
-
-                        <h4>&check;</h4>
+                      </section>
+                      <section>
+                        <h4>&check; U+02713 &#x2713; &#10003;</h4>
 
 
                       </section>
@@ -1138,7 +1140,8 @@
                     <section class="flatplan-stack" data-stack-id="nbc-data-table">
                       <section>
                         <h3>¿Puedo votar sin presentar un carné con foto?</h3>
-
+                      </section>
+                      <section>
                         <h4>&check;</h4>
                       </section>
                     </section>
