@@ -6990,9 +6990,9 @@
     <item>
 
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
-      <guid isPermaLink="false">412rf2fs9923dr9334597a4</guid>
+      <guid isPermaLink="false">412df2fs2923dr9334597a4</guid>
       <!-- must include CDATA wrapper -->
-      <title>Plan your vote - spanish - full text</title>
+      <title>Plan your vote - spanish - wrapper test</title>
       <link>https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686</link>
       <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
