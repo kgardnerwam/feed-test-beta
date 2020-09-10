@@ -838,7 +838,7 @@
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="system-fonts"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
-      <content:encoded> <![CDATA[
+      <content:encoded> <![ CDATA[
         <div id="section-hon1YffHYJ" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center">
           <div class="Layout Layer--one">
             <div class="Layout__row">
@@ -897,7 +897,14 @@
                         <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" srcset="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption><p>Media - inline - image - caption</p> </figcaption></figure>
                       </section>
                     </section>
+                    <!-- ends -->
 
+                    <!-- @@ inline image -->
+                    <section class="flatplan-stack" data-stack-id="sh-inline-media-image-w-bg">
+                      <section>
+                        <figure><img src="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" data-use-stack="false" srcset="https://heuristic-aryabhata-d86fd4.netlify.app/assets/templates/set-a/placeholders/media-landscape-image-0.breakpoints-@0-2560x1440~206941.jpg" alt="Media - inline - image - caption"><figcaption>Media - inline - image - caption - with BG</figcaption></figure>
+                      </section>
+                    </section>
                     <!-- ends -->
 
                     <!-- @@ inline video - native -->

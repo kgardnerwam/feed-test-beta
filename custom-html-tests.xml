@@ -84,18 +84,18 @@
 
         <!--  @@ Hello "quiz" -->
 
-        <section class="flatplan-stack" data-stack-id="hello-quiz">
-          <section>
-            <!--include the title of the quiz-->
-            <h3>Quiz: Title goes here</h3>
-            <!--include the generic call to action-->
-            <h4>Take the quiz on hellomagazine.com</h4>
-          </section>
-          <!--include link in a 2nd child element-->
-          <section>
-            <h3><a href="https://www.hello.com/link-to-quiz">take quiz</a></h3>
-          </section>
-        </section>
+<section class="flatplan-stack" data-stack-id="hello-quiz">
+  <section>
+    <!--include the title of the quiz-->
+    <h3>Quiz: Title goes here</h3>
+    <!--include the generic call to action-->
+    <h4>Take the quiz on hellomagazine.com</h4>
+  </section>
+  <!--include link in a 2nd child element-->
+  <section>
+    <h3><a href="https://www.hellomagazine.com/celebrities/2020061491452/celebrity-net-worth-2020-quiz/">take quiz</a></h3>
+  </section>
+</section>
 
 
 
