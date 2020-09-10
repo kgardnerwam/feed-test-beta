@@ -6987,5 +6987,152 @@
       </content:encoded>
     </item>
 
+    <item>
+
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412rf2fs9923dr9334597a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>Plan your vote - spanish - full text</title>
+      <link>https://www.nbcnews.com/business/economy/unemployment-claims-state-see-how-covid-19-has-destroyed-job-n1183686</link>
+      <pubDate>Tue, 14 July 2020 09:01:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://nbcnews.shorthandstories.com/coronavirus-stay-at-home-orders/assets/tcTCOtzo95/200325-home-apartment-coronavirus-vertical-cs-1046a-1080x1920.jpeg" caption="A resident looks out their apartment window in Seattle on March 20, 2020. (Brian Snyder/Reuters)"/>
+      <dc:creator>By Nigel Chiwaya and Jiachuan Wu</dc:creator>
+      <description><![CDATA[See the per-state jobless numbers and how they’ve changed.]]></description>
+      <category>NBC</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="specials"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded> <![CDATA[
+
+        <div class="state__wrap">
+          <section class="state__cont" id="alabama">
+            <div class="state__cont-top">
+              <h2 class="state__h2">Alabama</h2>
+              <div class="state__info-cont">
+                <h3 class="state__info-h3">¿Cuándo es la fecha límite para registrarse para votar?</h3>
+                <p class="state__info-p"> La fecha límite es <span class="highlight">lunes, 19 de oct.</span> Día de las elecciones, el <span class="highlight">martes 3 de nov</span>.</p>
+                <p class="state__info-link"> <a href="https://www.alabamainteractive.org/sos/voter_registration/voterRegistrationWelcome.action" target="blank">Ve quí más información sobre cómo registrarse para votar en el estado de Alabama.</a></p>
+                <section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>Fechas límite para todas las formas de registrarse en el estado de Alabama</h3>
+                    </section>
+                    <section>
+                      <h4> En línea, por correo y en persona: lunes, <time>19 de oct.</time></h4>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Puedo registrarme para votar y emitir mi boleta el mismo día?</h3>
+                    </section>
+                    <section>
+                      <h5>&#x2717;</h5>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Puedo votar sin presentar un carné con foto?</h3>
+                    </section>
+                    <section>
+                      <h5>&#x2717;</h5>
+                    </section>
+                  </section>
+                </section>
+                <p class="state__info-note"></p>
+              </div>
+              <div class="state__info-cont">
+                <h3 class="state__info-h3">¿Puedo votar por correo sin una excusa?</h3>
+                <p class="state__info-p">Sí, puedes votar por correo si COVID-19 es tu excusa.</p>
+                <p class="state__info-link"> <a href="https://www.sos.alabama.gov/alabama-votes/voter/absentee-voting" target="blank">Ve aquí más información sobre las boletas de votación por correo para el estado de Alabama.</a></p>
+                <section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Cuándo es la fecha límite para solicitar una boleta por correo?</h3>
+                    </section>
+                    <section>
+                      <h4> Jueves, 29 de oct.</h4>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Cuándo debo enviar mi boleta por correo?</h3>
+                    </section>
+                    <section>
+                      <h4> Debe tener matasellos a más tardar el lunes 2 de nov. y recibirse antes del mediodía del martes 3 de nov. (día de las elecciones)</h4>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Puedo entregar mi boleta en persona?</h3>
+                    </section>
+                    <section>
+                      <h6>&#x2713;</h6>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Puedo votar sin notario o testigo?</h3>
+                    </section>
+                    <section>
+                      <h5>&#x2717;</h5>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Puedo usar COVID-19 como excusa?</h3>
+                    </section>
+                    <section>
+                      <h6>&#x2713;</h6>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>Después de votar por correo, ¿puedo rastrear mi boleta? <span><a href="https://myinfo.alabamavotes.gov/VoterView/AbsenteeBallotSearch.do" class="state__info-ballot-track" target="_blank"> (Chequear aquí)</a></span></h3>
+                    </section>
+                    <section>
+                      <h6>&#x2713;</h6>
+                    </section>
+                  </section>
+                </section>
+                <p class="state__info-note"></p>
+              </div>
+              <div class="state__info-cont">
+                <h3 class="state__info-h3">¿Puedo votar en persona antes del día de las elecciones?</h3>
+                <p class="state__info-p">Sí, pero solo votación anticipada en ausencia.</p>
+                <section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Cuándo es el primer día que puedo votar anticipadamente en persona?</h3>
+                    </section>
+                    <section>
+                      <h4> Miércoles, 9 de sept.</h4>
+                    </section>
+                  </section>
+                  <section class="flatplan-stack" data-stack-id="nbc-data-table">
+                    <section>
+                      <h3>¿Cuándo es el último día en que puedo votar anticipadamente en persona?</h3>
+                    </section>
+                    <section>
+                      <h4> Jueves, 29 de oct.</h4>
+                    </section>
+                  </section>
+                </section>
+              </div>
+            </div>
+          </section>
+
+        </div>
+
+
+
+
+
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
   </channel>
 </rss>
