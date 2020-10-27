@@ -34,7 +34,7 @@
     </item>
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
-      <guid isPermaLink="false">412342334567a4</guid>
+      <guid isPermaLink="false">41223f42333i567a4</guid>
       <!-- must include CDATA wrapper -->
       <title>flatplan keywords tag</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
