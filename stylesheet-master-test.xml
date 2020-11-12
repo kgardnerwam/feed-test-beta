@@ -107,6 +107,15 @@
 
         <img src="https://flatplan-assets.netlify.app/2_Client/dump/t5quFec.png" alt="Image" />
 
+        <p>image in <img> tag no content</p>
+
+        <img src="" alt="Image" />
+
+        <p>image in <img> tag no image path but some content</p>
+
+        <img src="undefined" alt="Image" />
+
+
         <p>native video - Hola - JWPlayer</p>
 
         <iframe frameborder="0" width="560" height="315" src="https://content.jwplatform.com/videos/2jKJheXo.mp4?player=jwplayer"></iframe>
