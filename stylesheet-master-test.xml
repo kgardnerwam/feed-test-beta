@@ -147,7 +147,7 @@
 
           <!--  @@ PinkNews "read next" -->
 
-          <section class="flatplan-stack" data-stack-id="stylesheet-master-pn-read-next">
+          <section class="flatplan-stack" data-stack-id="stylesheet-master-read-next">
             <!--wrap each group of content in a section-->
             <section>
               <!--both child elements are required-->
