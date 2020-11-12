@@ -27,6 +27,7 @@
       <category>NewsArticle</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="template_name"/>
+      <flatplan:sponsor name="sponsor name" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png">
       <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
 
       <!-- if this is used it replaces <dc:creator> -->
@@ -36,11 +37,11 @@
       <content:encoded>
         <![CDATA[
 
-        <--! body-->
+        <!-- body-->
 
         <p>Body — <b>Bold — b tag</b> dream <strong>Bold — strong tag</strong>of breaking <em>Italic — em tag</em>the music industry <i>Italic — i tag</i> but so few actually do. It’s hard work and it takes dedication, knowledge, and drive. <b>No one knows that more than Tuma Basa</b>, currently working as the<i> Director of Black Music and Culture</i> at YouTube and the most recent guest on Turning Point with Mo Kheirs. He’s a pretty huge deal, but he didn’t land this role overnight.&nbsp; </p>
 
-        <--! headings-->
+        <!-- headings-->
 
         <h1>H1 — On where he gets his drive</h1>
 
@@ -54,11 +55,11 @@
 
         <h6>H6 — On where he gets his drive</h6>
 
-        <--! quotes-->
+        <!-- quotes-->
 
         <blockquote><p><span>But when you work artfully, when you do things in an artistic manner, in a way that is unique to you or an expression or extension of what's inside of you, no one can replicate that. </span></p></blockquote>
 
-        <--! lists-->
+        <!-- lists-->
 
         <ul class="state__info-ul info__ul-reg">
           <li class="state__info-cond">Unordered List item 1</li>
@@ -70,9 +71,9 @@
           <li class="state__info-mono">Ordered List item 2</li>
         </ol>
 
-        <--! table data-->
+        <!-- table data-->
 
-        <--! embeds-->
+        <!-- embeds-->
 
           <p>facebook</p>
 
@@ -96,7 +97,7 @@
 
 
 
-        <--! media-->
+        <!-- media-->
 
         <p>image with caption in <figure> tag</p>
 
@@ -110,9 +111,9 @@
 
         <iframe frameborder="0" width="560" height="315" src="https://content.jwplatform.com/videos/2jKJheXo.mp4?player=jwplayer"></iframe>
 
-        <--! custom tags-->
+        <!-- custom tags-->
 
-          <--! ANF gallery-->
+          <!-- ANF gallery-->
 
           <figure class="flatplan-gallery">
             <figure class="flatplan-gallery-item">
@@ -133,9 +134,9 @@
           </figure>
 
 
-          <--! Button stack-->
+          <!-- Button stack-->
 
-          <--! Client stacks-->
+          <!-- Client stacks-->
 
           <!--  @@ PinkNews "read next" -->
 
