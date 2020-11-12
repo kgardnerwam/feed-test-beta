@@ -108,7 +108,6 @@
 
         <p>image in "img" tag with content but no image path</p>
 
-        <img src="undefined" alt="Image" />
 
         <p>image in "img" tag with no content</p>
 
