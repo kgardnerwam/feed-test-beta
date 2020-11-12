@@ -148,7 +148,7 @@
 
           <!--  @@ PinkNews "read next" -->
 
-          <section class="flatplan-stack" data-stack-id="pn-read-next">
+          <section class="flatplan-stack" data-stack-id="stylesheet-master-pn-read-next">
             <!--wrap each group of content in a section-->
             <section>
               <!--both child elements are required-->
@@ -172,7 +172,7 @@
 
           <!-- @@ HOLA "related" -->
 
-          <section class="flatplan-stack" data-stack-id="hola-related">
+          <section class="flatplan-stack" data-stack-id="stylesheet-master-hola-related">
             <!--wrap each item in a discrete section-->
             <section>
               <!--include the link as a child element-->
@@ -188,7 +188,7 @@
 
            <!--  @@ Hello "quiz" -->
 
-           <section class="flatplan-stack" data-stack-id="hello-quiz">
+           <section class="flatplan-stack" data-stack-id="stylesheet-master-hello-quiz">
              <section>
                <!--include the title of the quiz-->
                <h3>Quiz: Title goes here</h3>
