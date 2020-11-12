@@ -171,34 +171,8 @@
 
           <!-- @@ HOLA "related" -->
 
-          <section class="flatplan-stack" data-stack-id="stylesheet-master-hola-related">
-            <!--wrap each item in a discrete section-->
-            <section>
-              <!--include the link as a child element-->
-              <h3><a href="https://w3docs.com">Jennifer Lopez and Alex Rodriguez take couples' challenge</a></h3>
-            </section>
-            <!--repeat structure with optional 2nd item of content-->
-            <section>
-              <!--include the link as a child element-->
-              <h3><a href="https://w3docs.com">Meet Karol G and Anuel AA's new family member</a></h3>
-            </section>
-          </section>
+          <!--  @@ Hello "quiz" -->
 
-
-           <!--  @@ Hello "quiz" -->
-
-           <section class="flatplan-stack" data-stack-id="stylesheet-master-hello-quiz">
-             <section>
-               <!--include the title of the quiz-->
-               <h3>Quiz: Title goes here</h3>
-               <!--include the generic call to action-->
-               <h4>Take the quiz on hellomagazine.com</h4>
-             </section>
-             <!--include link in a 2nd child element-->
-             <section>
-               <h3><a href="https://www.hellomagazine.com/celebrities/2020061491452/celebrity-net-worth-2020-quiz/">take quiz</a></h3>
-             </section>
-           </section>
 
         ]]>
       </content:encoded>
