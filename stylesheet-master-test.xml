@@ -109,7 +109,7 @@
 
         <p>image in <img> tag no content</p>
 
-        <img src="" alt="Image" />
+        
 
         <p>image in <img> tag no image path but some content</p>
 
