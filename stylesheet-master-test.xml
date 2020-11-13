@@ -29,6 +29,7 @@
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="template_name"/>
       <flatplan:sponsor name="sponsor name" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"/>
+      <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
 
       <!-- if this is used it replaces <dc:creator> -->
       <flatplan:author name="Custom Author Name" role="Custom author role details" url="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/WIRE_GettyImages-824530132-0e8de99806117cf4a076ee278738307f.jpg"/>
