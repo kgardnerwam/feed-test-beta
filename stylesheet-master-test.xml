@@ -18,7 +18,7 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">62343412348765674</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - master]]></title>
+      <title><![CDATA[stylesheet - master - test 15.11 - 07:31]]></title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Thu, 12 Nov 2020 09:01:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -40,7 +40,7 @@
 
         <!-- body-->
 
-        <p>Body — <b>Bold — b tag</b> dream <strong>Bold — strong tag</strong>of breaking <em>Italic — em tag</em>the music industry <i>Italic — i tag</i> but so few actually do. It’s hard work and it takes dedication, knowledge, and drive. <b>No one knows that more than Tuma Basa</b>, currently working as the<i> Director of Black Music and Culture</i> at YouTube and the most recent guest on Turning Point with Mo Kheirs. He’s a pretty huge deal, but he didn’t land this role overnight.&nbsp; </p>
+        <p>Body — <b>Bold — b tag</b> dream <strong>Bold — strong tag</strong> of breaking <em>Italic — em tag</em> the music industry <i>Italic — i tag</i> but so few <a href="https://www.hellomagazine.com/tags/joe-wicks/" target="_blank" rel="">Linky</a> actually do. It’s hard work and it takes dedication, knowledge, and drive. <b>No one knows that more than Tuma Basa</b>, currently working as the<i> Director of Black Music and Culture</i> at YouTube and the most recent guest on Turning Point with Mo Kheirs. He’s a pretty huge deal, but he didn’t land this role overnight.&nbsp; </p>
 
         <!-- headings-->
 
