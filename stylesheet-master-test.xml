@@ -78,7 +78,17 @@
 
           <p>facebook</p>
 
-          <p>can't find example in feeds</p>
+          <div class="content-builder__block content-builder__block--facebook-embed" data-block="325808">
+            <div class="content-builder__block--s">
+              <div class="facebook-embed">
+                <div class="fb-post" data-href="https://www.facebook.com/trackse7/posts/2763233480608310?__cft__[0]=AZXSgbP67iuBE1w_XIBDGhRG51djWIlZQXUw7IEyH7jWTy79woty0sxu7EAaKsX4HYA6vPtl-otYZ6jEzO1J58eXrYggXHEiuha6oPMvN0Bg1mc0y4XMd0WYYz3zT8Ze2ZqH0H_ibVRS75Qg6cM8-XS6FLk4X_wugL69HAWnMZFUeQRyH_0PlIea684gqGU9pk-t-6JIgD-02ZcrmU9Duj_R&amp;__tn__=%2CO%2CP-R" data-show-text="true">
+                  <blockquote cite="https://www.facebook.com/trackse7/posts/2763233480608310?__cft__[0]=AZXSgbP67iuBE1w_XIBDGhRG51djWIlZQXUw7IEyH7jWTy79woty0sxu7EAaKsX4HYA6vPtl-otYZ6jEzO1J58eXrYggXHEiuha6oPMvN0Bg1mc0y4XMd0WYYz3zT8Ze2ZqH0H_ibVRS75Qg6cM8-XS6FLk4X_wugL69HAWnMZFUeQRyH_0PlIea684gqGU9pk-t-6JIgD-02ZcrmU9Duj_R&amp;__tn__=%2CO%2CP-R" class="fb-xfbml-parse-ignore"></blockquote>
+                </div>
+              </div>
+              <div id="fb-root"></div>
+              <script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2"></script>
+            </div>
+          </div>
 
           <p>twitter</p>
 
@@ -94,7 +104,13 @@
 
           <p>vimeo</p>
 
-          <p>can't find example in feeds</p>
+          <div class="content-builder__block content-builder__block--youtube-or-vimeo" data-block="325809">
+            <div class="content-builder__block--l">
+              <div class="video video--vimeo video--horizontal">
+                <iframe src="https://player.vimeo.com/video/136303529" frameborder="0" allowfullscreen="true" allowscriptaccess="true" allow="autoplay; encrypted-media"></iframe>
+              </div>
+            </div>
+          </div>
 
 
 
