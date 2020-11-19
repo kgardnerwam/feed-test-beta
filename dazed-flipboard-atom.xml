@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Dazed</title>
   <subtitle type="text">Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</subtitle>
   <id>https://www.dazeddigital.com/RSSFeed</id>
   <updated>2020-11-18T15:26:57Z</updated>
-  
+
   <link rel="alternate" href="https://www.dazeddigital.com/rss/flipboard"/><link rel="self" href="https://www.dazeddigital.com/rss/flipboard"/>
   <entry>
     <id>https://www.dazeddigital.com/51130</id>
@@ -15,7 +15,7 @@
     <published>2020-11-18T12:29:00Z</published>
     <updated>2020-11-18T12:29:00Z</updated>
     <author>
-      <name>Jessica Heron-Langton</name>
+      <name>Jessica Heron Langton</name>
     </author>
     <link
       rel="alternate"
