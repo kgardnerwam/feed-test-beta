@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="https://www.creativereview.co.uk/media" xmlns:flatplan="https://www.creativereview.co.uk/flatplan">
+  <title type="html">Creative Review</title>
+  <link rel="alternate" href="https://www.creativereview.co.uk/wordpress/feed/flatplan-atom/"/>
+  <link rel="self" href="https://www.creativereview.co.uk/wordpress/feed/flatplan-atom/"/>
+  <updated>2020-11-19T13:08:52+00:00</updated>
+  <id>https://www.creativereview.co.uk/wordpress/feed/flatplan-atom/</id>
+  <entry>
+    <title><![CDATA[Javier Jaén’s monograph provides an insight into his process]]></title>
+    <link href="https://www.creativereview.co.uk/javier-jaen-counter-print-book/"/>
+    <id>170457</id>
+    <updated>2020-11-19T07:31:38+00:00</updated>
+    <rights type="html">CC-BY-SA</rights>
+    <media:thumbnail url="https://centaur-wp.s3.eu-central-1.amazonaws.com/creativereview/prod/content/uploads/2020/11/GFJJS-Cover-Flat-featured.jpg"/>
+    <flatplan:taxonomy name="Types"><![CDATA[Creative Inspiration]]></flatplan:taxonomy>
+    <flatplan:template identifier="single-feature"/>
+    <flatplan:standfirst><![CDATA[The Barcelona-based graphic designer shares the journey he's been on during his career and gives readers some nuggets of advice]]></flatplan:standfirst>
+    <content type="html">
+      <![CDATA[
+        <p><em>Greetings from Javier Jaén Studio is available from <a href="https://www.counter-print.co.uk/collections/all-books/products/greeting-from-javier-jaen-studio-pre-order">counter-print.co.uk</a>; <a href="https://javierjaen.com/">javierjaen.com</a></em></p>
+      ]]>
+    </content>
+    <author>
+      <name>Rebecca Fulleylove</name>
+    </author>
+    <published>2020-11-19T07:31:38+00:00</published>
+  </entry>
+</feed>
