@@ -1,29 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
   <title type="text">Dazed</title>
-  <subtitle type="text">Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</subtitle>
+  <link rel="alternate" href="https://www.dazeddigital.com/rss/flipboard"/>
+  <link rel="self" href="https://www.dazeddigital.com/rss/flipboard"/>
+  <updated>2020-11-19T13:41:53Z</updated>
   <id>https://www.dazeddigital.com/RSSFeed</id>
-  <updated>2020-11-18T15:26:57Z</updated>
+  <subtitle type="text">Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</subtitle>
+  <author>
+    <name>Dazed</name>
+    <uri>https://www.dazeddigital.com/</uri>
+    <email>info@dazedgroup.com</email>
+  </author>
 
-  <link rel="alternate" href="https://www.dazeddigital.com/rss/flipboard"/><link rel="self" href="https://www.dazeddigital.com/rss/flipboard"/>
   <entry>
     <title type="text">Lisa Michalik creates 90s Dior-clad bunnies for her latest project</title>
-    <link rel="alternate" href="https://www.dazeddigital.com/beauty/head/article/51130/1/lisa-michalik-creates-90s-dior-clad-bunnies-for-her-latest-project-snowbunny?utm_source=Link&amp;utm_medium=Link&amp;utm_campaign=Flipboard&amp;utm_term=lisa-michalik-creates-90s-dior-clad-bunnies-for-her-latest-project"/>
+    <link
+      rel="alternate"
+      href="https://www.dazeddigital.com/beauty/head/article/51130/1/lisa-michalik-creates-90s-dior-clad-bunnies-for-her-latest-project-snowbunny?utm_source=Link&amp;utm_medium=Link&amp;utm_campaign=Flipboard&amp;utm_term=lisa-michalik-creates-90s-dior-clad-bunnies-for-her-latest-project"/>
     <id>https://www.dazeddigital.com/51130</id>
     <updated>2020-11-18T12:29:00Z</updated>
     <summary type="html">Pairing rabbit teeth with ‘bling bling’ manicures for Parisian vintage shop Snowbunny</summary>
 
-
     <content type="html">
-        <![CDATA[
+      <![CDATA[
           <p>Shot by <a href="https://www.instagram.com/antoine_caillet/">Antoine Caillet</a>, the images will serve as promotion for Snowbunny, whose fans include Jazzelle (@<a href="https://www.instagram.com/p/B_PMmYVKkPF/">uglyworldwide</a>) and <a href="https://www.instagram.com/p/B7iUWjKoFDv/">Bella Hadid</a>. Check out the full campaign above.</p>
         ]]>
-      </content>
-      <author>
-        <name>Rebecca Fulleylove</name>
-      </author>
-      <published>2020-11-18T12:29:00Z</published>
+    </content>
+    
+    <published>2020-11-18T12:29:00Z</published>
 
-    </entry>
+  </entry>
 
-  </feed>
+</feed>
