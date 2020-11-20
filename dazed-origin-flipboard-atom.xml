@@ -1,14 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom">
+<feed xml:lang="en-GB" xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title type="text">Dazed</title>
   <subtitle type="text">Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</subtitle>
   <id>https://www.dazeddigital.com/RSSFeed</id>
   <updated>2020-11-20T10:09:42Z</updated>
-  <author>
-    <name>Dazed</name>
-    <uri>https://www.dazeddigital.com/</uri>
-    <email>info@dazedgroup.com</email>
-  </author><link rel="alternate" href="https://www.dazeddigital.com/rss/flipboard"/><link rel="self" href="https://www.dazeddigital.com/rss/flipboard"/>
+  <link rel="alternate" href="https://www.dazeddigital.com/rss/flipboard"/><link rel="self" href="https://www.dazeddigital.com/rss/flipboard"/>
   <entry>
     <id>https://www.dazeddigital.com/51159</id>
     <title type="text">Watch Miley Cyrus’s video for the Dua Lipa-featuring song ‘Prisoner’</title>
