@@ -10,10 +10,193 @@
   <channel>
     <title>stylesheet - master</title>
     <description>stylesheet - master</description>
-    <pubDate>Sat, 21 Nov 2020 06:33:35 +0000</pubDate>
+    <pubDate>Sat, 21 Nov 2020 06:45:35 +0000</pubDate>
     <lastBuildDate>Thu, 12 Nov 2020 11:34:07 +0000</lastBuildDate>
     <link>https://wearemathematics.co.uk</link>
     <language>en-US</language>
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">6222234234856741</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[stylesheet - master - test 21.11 - 06:33]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Sat, 21 Nov 2020 06:45:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <category>Article category</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <flatplan:sponsor name="sponsor name" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"/>
+      <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
+
+      <!-- if this is used it replaces <dc:creator> -->
+      <flatplan:author name="Custom Author Name" role="Custom author role details" url="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/WIRE_GettyImages-824530132-0e8de99806117cf4a076ee278738307f.jpg"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <!-- body-->
+
+        <p>Body — <b>Bold — b tag</b> dream <strong>Bold — strong tag</strong> of breaking <em>Italic — em tag</em> the music industry <i>Italic — i tag</i> but so few <a href="https://www.hellomagazine.com/tags/joe-wicks/" target="_blank" rel="">Linky</a> actually do. It’s hard work and it takes dedication, knowledge, and drive. <b>No one knows that more than Tuma Basa</b>, currently working as the<i> Director of Black Music and Culture</i> at YouTube and the most recent guest on Turning Point with Mo Kheirs. He’s a pretty huge deal, but he didn’t land this role overnight.&nbsp; </p>
+
+        <!-- headings-->
+
+        <h1>H1 — On where he gets his drive</h1>
+
+        <h2>H2 — On where he gets his drive</h2>
+
+        <h3>H3 — On where he gets his drive</h3>
+
+        <h4>H4 — On where he gets his drive</h4>
+
+        <h5>H5 — On where he gets his drive</h5>
+
+        <h6>H6 — On where he gets his drive</h6>
+
+        <!-- quotes-->
+
+        <blockquote><p><span>But when you work artfully, when you do things in an artistic manner, in a way that is unique to you or an expression or extension of what's inside of you, no one can replicate that. </span></p></blockquote>
+
+        <!-- lists-->
+
+        <ul class="state__info-ul info__ul-reg">
+          <li class="state__info-cond">Unordered List item 1</li>
+          <li class="state__info-mono">Unordered List item 2</li>
+        </ul>
+
+        <ol class="state__info-ul info__ul-reg">
+          <li class="state__info-cond">Ordered List item 1</li>
+          <li class="state__info-mono">Ordered List item 2</li>
+        </ol>
+
+        <!-- table data-->
+
+        <!-- embeds-->
+
+          <p>facebook</p>
+
+          <div class="content-builder__block content-builder__block--facebook-embed" data-block="325808">
+            <div class="content-builder__block--s">
+              <div class="facebook-embed">
+                <div class="fb-post" data-href="https://www.facebook.com/trackse7/posts/2763233480608310?__cft__[0]=AZXSgbP67iuBE1w_XIBDGhRG51djWIlZQXUw7IEyH7jWTy79woty0sxu7EAaKsX4HYA6vPtl-otYZ6jEzO1J58eXrYggXHEiuha6oPMvN0Bg1mc0y4XMd0WYYz3zT8Ze2ZqH0H_ibVRS75Qg6cM8-XS6FLk4X_wugL69HAWnMZFUeQRyH_0PlIea684gqGU9pk-t-6JIgD-02ZcrmU9Duj_R&amp;__tn__=%2CO%2CP-R" data-show-text="true">
+                  <blockquote cite="https://www.facebook.com/trackse7/posts/2763233480608310?__cft__[0]=AZXSgbP67iuBE1w_XIBDGhRG51djWIlZQXUw7IEyH7jWTy79woty0sxu7EAaKsX4HYA6vPtl-otYZ6jEzO1J58eXrYggXHEiuha6oPMvN0Bg1mc0y4XMd0WYYz3zT8Ze2ZqH0H_ibVRS75Qg6cM8-XS6FLk4X_wugL69HAWnMZFUeQRyH_0PlIea684gqGU9pk-t-6JIgD-02ZcrmU9Duj_R&amp;__tn__=%2CO%2CP-R" class="fb-xfbml-parse-ignore"></blockquote>
+                </div>
+              </div>
+              <div id="fb-root"></div>
+              <script async defer src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v3.2"></script>
+            </div>
+          </div>
+
+          <p>twitter</p>
+
+          <figure><blockquote class="twitter-tweet"><p lang="en" dir="ltr">? No music<br>?ï¸ No commentary<br><br>Just ????? ? <a href="https://t.co/YLV1vlwaIj">pic.twitter.com/YLV1vlwaIj</a></p>â€” Aston Villa (@AVFCOfficial) <a href="https://twitter.com/AVFCOfficial/status/1326110854325088256?ref_src=twsrc%5Etfw">November 10, 2020</a></blockquote></figure>
+
+          <p>instagram</p>
+
+          <figure><blockquote class="instagram-media" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CHOA_oKjr68/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="13" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:16px;"> <a href="https://www.instagram.com/p/CHOA_oKjr68/?utm_source=ig_embed&amp;utm_campaign=loading" style=" background:#FFFFFF; line-height:0; padding:0 0; text-align:center; text-decoration:none; width:100%;" target="_blank"> <div style=" display: flex; flex-direction: row; align-items: center;"> <div style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div></div></div><div style="padding: 19% 0;"></div> <div style="display:block; height:50px; margin:0 auto 12px; width:50px;"></div><div style="padding-top: 8px;"> <div style=" color:#3897f0; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:550; line-height:18px;"> View this post on Instagram</div></div><div style="padding: 12.5% 0;"></div> <div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;"><div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div> <div style="background-color: #F4F4F4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div> <div style="background-color: #F4F4F4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div></div><div style="margin-left: 8px;"> <div style=" background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div> <div style=" width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg)"></div></div><div style="margin-left: auto;"> <div style=" width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div> <div style=" background-color: #F4F4F4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div> <div style=" width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div></div></div> <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;"> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div> <div style=" background-color: #F4F4F4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div></div></a><p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;"><a href="https://www.instagram.com/p/CHOA_oKjr68/?utm_source=ig_embed&amp;utm_campaign=loading" style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none;" target="_blank">A post shared by Serhou Guirassy (@guirassy19off)</a> on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2020-11-05T18:23:17+00:00">Nov 5, 2020 at 10:23am PST</time></p></div></blockquote></figure>
+
+          <p>youtube</p>
+
+          <iframe width=" 480" height="270" src="https://www.youtube.com/embed/_GoEuEZA1Ts?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+          <p>vimeo</p>
+
+          <div class="content-builder__block content-builder__block--youtube-or-vimeo" data-block="325809">
+            <div class="content-builder__block--l">
+              <div class="video video--vimeo video--horizontal">
+                <iframe src="https://player.vimeo.com/video/136303529" frameborder="0" allowfullscreen="true" allowscriptaccess="true" allow="autoplay; encrypted-media"></iframe>
+              </div>
+            </div>
+          </div>
+
+
+
+        <!-- media-->
+
+        <p>image with caption in "figure" tag</p>
+
+        <figure><img src="https://us.hola.com/images/0263-10d28be99a6a-f42d1a9b0ea0-1000/vertical-480/la-icono-latina-gloria-estefan-habla-de-su-visa-en-red-table-talk.jpg" alt="Gloria Estefan for HOLA! USA"/><figcaption class="news-figure__caption">“I also think that there are so many Latino families, from all over the world, but, it‘s a Latino thing or I see it a lot. It’s a large family and very close all the time, but also in those families many times things are not talked about. They don’t talk about sex, they don’t talk about drugs.” Photo: Aysia Marotta</figcaption></figure>
+
+        <p>image in "img" tag</p>
+
+        <img src="https://flatplan-assets.netlify.app/2_Client/dump/t5quFec.png" alt="Image" />
+
+        <p>image in "img" tag with content but no image path</p>
+
+
+        <p>image in "img" tag with no content</p>
+
+        <img src="" alt="Image" />
+
+
+        <p>native video - Hola - JWPlayer</p>
+
+        <iframe frameborder="0" width="560" height="315" src="https://content.jwplatform.com/videos/2jKJheXo.mp4?player=jwplayer"></iframe>
+
+        <!-- custom tags-->
+
+          <!-- ANF gallery-->
+
+          <figure class="flatplan-gallery">
+            <figure class="flatplan-gallery-item">
+              <img src="https://anotherimg-dazedgroup.netdna-ssl.com/786/azure/another-prod/400/3/403383.jpg" alt="AN39_SP1_Cartier_Federico_03_150dpi" />        <figcaption>
+              Watch with an 18-carat pink gold case, bezel set with brilliant-cut diamonds, fluted crown cap and crown set with a sapphire, silver flinqué dial, blue steel hands and 18-carat pink gold bracelet by CARTIER. Photography by Federico Berardi        </figcaption>
+
+            </figure>
+            <figure class="flatplan-gallery-item">
+              <img src="https://anotherimg-dazedgroup.netdna-ssl.com/786/azure/another-prod/400/3/403382.jpg" alt="AN39_SP1_Cartier_Federico_02_150dpi" />        <figcaption>
+              Watches with 18-carat pink gold cases, fluted crown caps and crowns set with sapphires, silver flinqué dials, blue steel hands and alligator straps by CARTIER. Photography by Federico Berardi        </figcaption>
+
+            </figure>
+            <figure class="flatplan-gallery-item">
+              <img src="https://anotherimg-dazedgroup.netdna-ssl.com/786/azure/another-prod/400/3/403386.jpg" alt="AN39_SP1_Cartier_Federico_06_150dpi" />        <figcaption>
+              Watches with 18-carat pink gold cases, bezels set with brilliant-cut diamonds, fluted crown caps and crowns set with sapphires, silver flinqué dials, blue steel hands and alligator straps by CARTIER. Photography by Federico Berardi        </figcaption>
+
+            </figure>
+          </figure>
+
+
+          <!-- Button stack-->
+
+          <!-- Client stacks-->
+
+          <!--  @@ PinkNews "read next" -->
+
+          <section class="flatplan-stack" data-stack-id="stylesheet-master-read-next">
+            <!--wrap each group of content in a section-->
+            <section>
+              <!--both child elements are required-->
+              <img src="https://flatplan-assets.netlify.app/2_Client/dump/t5quFec.png" data-use-stack="false">
+              <p><a href="https://w3docs.com">Title of article 1</a></p>
+            </section>
+            <!--repeat structure with 2nd group of content-->
+            <section>
+              <!--both child elements are required-->
+              <img src="https://flatplan-assets.netlify.app/2_Client/dump/t5quFec.png" data-use-stack="false">
+              <p><a href="https://w3docs.com">Title of article 1</a></p>
+            </section>
+            <!--repeat structure with 3rd group of content-->
+            <section>
+              <!--both child elements are required-->
+              <img src="https://flatplan-assets.netlify.app/2_Client/dump/t5quFec.png" data-use-stack="false">
+              <p><a href="https://w3docs.com">Title of article 1</a></p>
+            </section>
+          </section>
+
+
+          <!-- @@ HOLA "related" -->
+
+          <!--  @@ Hello "quiz" -->
+
+
+        ]]>
+      </content:encoded>
+
+
+      </item>
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">62234341234856741</guid>
