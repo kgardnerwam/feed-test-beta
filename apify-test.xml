@@ -129,7 +129,7 @@
                 <source media="(min-width: 680px)" data-srcset="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                   <source data-srcset="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                     <source media="(min-width: 680px)" data-srcset="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg">
-                      <img src="/build/front/usa/images/pixels/pixel-3x5.gif" data-src="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></picture>
+                      <img src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></picture>
                     </div>
                   </div>
                   <!-- BEGIN BLOCK: blocks.AdslotBlock -->
