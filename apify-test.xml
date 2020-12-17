@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+  xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+  <channel>
+    <title>apify test</title>
+    <description>stylesheet - master</description>
+    <pubDate>Thu, 17 Dec 2020 06:41:35 +0000</pubDate>
+    <lastBuildDate>Thu, 17 Dec 2020 06:41:35 +0000</lastBuildDate>
+    <link>https://wearemathematics.co.uk</link>
+    <language>en-US</language>
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">122453252325278</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[apify test]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Thu, 17 Dec 2020 06:41:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <category>Article category</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <flatplan:sponsor name="sponsor name" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"/>
+      <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
+
+      <!-- if this is used it replaces <dc:creator> -->
+      <flatplan:author name="Custom Author Name" role="Custom author role details" url="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/WIRE_GettyImages-824530132-0e8de99806117cf4a076ee278738307f.jpg"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+        <div class="new__tools">
+          <div class="news__metadata">
+            <time class="news__date" pubdate="October 13, 2020" itemprop="dateModified" datetime="October 13, 2020">
+              October 13, 2020
+            </time>
+            <meta itemprop="datePublished" content="2020-10-12T21:37:00Z">
+              <span class="news__author">BY</span>
+              <a href="/authors/alonso-collantes/" rel="nofollow" class="news__author news__author--link" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person" title="Alonso Collantes">
+                <span itemprop="name" data-author="Alonso Collantes">
+                  Alonso Collantes,
+                </span>
+              </a>
+              <a href="/authors/shirley-gomez/" rel="nofollow" class="news__author news__author--link" itemprop="author" itemscope="itemscope" itemtype="http://schema.org/Person" title="Shirley Gomez">
+                <span itemprop="name" data-author="Shirley Gomez">
+                  Shirley Gomez
+                </span>
+              </a>
+            </div>
+          </div>
+          <div class="news-translate">
+            <a hreflang="es" class="news-translate__button" href="/es/celebrities/20201012fs0085j8r2/anitta-la-reina-del-pop-brasileno-que-conquista-el-mundo">
+              LEER EN ESPA&amp;#xF1;OL
+            </a>
+          </div>
+          <!-- BEGIN BODY ELEMENT p_0 -->
+          <p data-score="160">
+            <b>Anitta</b>&amp;#x2019;s artistic talent is beyond impressive. She possesses the skills, style, and attitude it takes to become a superstar on the music scene. At 27,
+            <b>&amp;#xA0;<a href="https://us.hola.com/tags/anitta/" title="Larissa de Macedo Machado" target="_blank">Larissa de Macedo Machado</a>&amp;#xA0;</b>
+            &amp;#x2014; her birth name &amp;#x2014; has already released five records, each of them different from the other. All of these albums are original, a word she likes to use when defining herself. It is not surprising that she has established herself
+            as the number one singer in Brazil and the queen of global pop only ten years into her career. In a candid interview with HOLA! USA, Anitta reflects on her humble beginnings in the neighborhoods of Rio de Janeiro and her rise to stardom as the Queen
+            of Brazilian pop.</p>
+          <div class="block-banner col-12">
+            <!-- BEGIN BLOCK: blocks.AdslotBlock -->
+            <div data-js-ad-manager-slot="div-hola-slot-robapaginas" class="block-banner" ad="ad" data-shortcode="MPU" data-js-maxw="990"></div>
+            <!-- END BLOCK: blocks.AdslotBlock -->
+          </div>
+          <!-- END BODY ELEMENT p_0 index 1-->
+          <!-- BEGIN BODY ELEMENT p_1 -->
+          <p data-score="124">She has been her own agent since she was 21 years old. The singer was born in the humble favela of Honorio Gurgel. This did not stop Anitta. Her vision of scaling and taking over the musical landscape is not a coincidence. She has
+            a perfectly planned marketing strategy which has single handedly been crucial to her success. Anitta has (only on IG) over 49 million followers, let alone millions of followers in fan clubs worldwide. Her social media reach has had an incredible
+            impact on her global market presence. Everything she has accomplished has positioned her as the tenth most relevant artist on the planet.
+          </p>
+          <!-- END BODY ELEMENT p_1 index 2-->
+          <!-- BEGIN BODY ELEMENT p_2 -->
+          <p data-score="150">Topics of her songs include women empowerment, love, and fun which have been successful everywhere. Anitta has collaborated with
+            <b>&amp;#xA0;<a href="https://us.hola.com/tags/j-balvin/" title="J Balvin" target="_self">J Balvin</a>&amp;#xA0;</b>,
+            <b>&amp;#xA0;<a href="https://us.hola.com/tags/maluma/" title="Maluma" target="_blank">Maluma</a>&amp;#xA0;</b>,
+            <b>&amp;#xA0;<a href="https://us.hola.com/celebrities/20200918frbje3rdfy/anitta-cardi-b-new-single-me-gusta-total-latin-success" title="Cardi B" target="_blank">Cardi B</a>&amp;#xA0;</b>,
+            <b>Snoop Dog
+            </b>and
+            <b>&amp;#xA0;<a href="https://us.hola.com/tags/madonna/" title="Madonna" target="_self">Madonna</a>&amp;#xA0;</b>, among others. Let&amp;#x2019;s fully appreciate all Anitta has to offer as we get to know her in this sincere and thoughtful interview.</p>
+          <!-- END BODY ELEMENT p_2 index 3-->
+          <!-- BEGIN BODY ELEMENT blockquote_3 -->
+          <blockquote data-score="255">Every person controls their own path. We should not listen to what other people have to say about the decisions we make for our future. My advice is to follow your intuition and your dreams because you have to believe in yourself.</blockquote>
+          <!-- BEGIN BLOCK: blocks.AdslotBlock -->
+          <div data-js-ad-manager-slot="recurrent_fa7320896f207c534fa872cf0a076c5f_3" class="recurrent-banner" data-js-maxw="990" data-block="top2_mobile"></div>
+          <!-- END BLOCK: blocks.AdslotBlock -->
+          <!-- END BODY ELEMENT blockquote_3 index 4-->
+          <!-- BEGIN BODY ELEMENT div_4 -->
+          <div
+            data-type="figure picture"
+            data-title="The queen of Brazilian pop tells all about her global success and future plans, including motherhood"
+            data-credits="data-credits"
+            data-caption="data-caption"
+            data-src="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg"
+            data-height="1332"
+            data-width="799"
+            data-alt="data-alt"
+            data-figure-crop="vertical"
+            data-big-src="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg"
+            data-big-size="240151"
+            data-big-height="1332"
+            data-big-width="799"
+            data-big-type="image/jpeg"
+            data-small-src="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg"
+            data-small-size="77734"
+            data-small-height="800"
+            data-small-width="480"
+            data-small-type="image/jpeg"
+            data-logo-enabled="false"
+            data-logo-horizontal-crop="data-logo-horizontal-crop"
+            data-logo-vertical-crop="data-logo-vertical-crop"
+            data-logo-square-crop="data-logo-square-crop"
+            data-crop-horizontal="/images/0262-1098b98aa18a-f0b793983f40-1000/horizontal-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg"
+            data-crop-square="/images/0262-1098b98aa18b-534ce29db83b-1000/square-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg"
+            data-crop-vertical="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-1150/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg"
+            data-score="500">
+            <div class="picture-container">
+              <picture class="news-figure__picture">
+                <source media="(min-width: 680px)" data-srcset="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
+                  <source data-srcset="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
+                    <source media="(min-width: 680px)" data-srcset="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg">
+                      <img src="/build/front/usa/images/pixels/pixel-3x5.gif" data-src="/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></picture>
+                    </div>
+                  </div>
+                  <!-- BEGIN BLOCK: blocks.AdslotBlock -->
+                  <div data-js-ad-manager-slot="recurrent_fa7320896f207c534fa872cf0a076c5f_4" class="recurrent-banner" data-js-maxw="990" data-block="mpu2_mobile"></div>
+                  <!-- END BLOCK: blocks.AdslotBlock -->
+                  <!-- END BODY ELEMENT div_4 index 5-->
+                  <!-- BEGIN BODY ELEMENT div_5 -->
+                  <div class="interview" data-score="500">
+                    <div class="interview-block-title"></div>
+                    <div class="interview-block-title"></div>
+                    <div class="interview-item" interview-item-id="3">
+                      <div data-type="question" class="question">HOLA! USA: How have you lived through this quarantine?</div>
+                      <div class="radio" data-type="answer">
+                        <input type="radio" name="answerId-" id="id" value="value">
+                          <label for="for">Anitta: Very sad because I was here, canceling many things. I was going to sing at Coachella. I had many television interviews, a lot of launchings ... and then I was discouraged about all that. Later, I realized that I was forced to
+                            be indoors, which made me think a lot. I realized that I have been in my house all this time, I have this house for a long time, and I had never slept more than a week in it. That helped me to realize how important my life is and to value some time
+                            for myself. I took advantage of that time to study and be more with my dogs, mother, and family. It helped me rest, eat things that I can&amp;#x2019;t while on tour or traveling the world. Later, there was another moment when I released a song in
+                            Italian, it was a great success in Italy, and I had to go there to take advantage of the success of the song. I didn&amp;#x2019;t stop working, and those two have been different moments that I have spent in this quarantine.</label>
+                        </div>
+                      </div>
+                      <div class="interview-item" interview-item-id="4">
+                        <div data-type="question" class="question">You have become a queen of pop globally; how do you see yourself at this point in your career?</div>
+                        <div class="radio" data-type="answer">
+                          <input type="radio" name="answerId-" id="id" value="value">
+                            <label for="for">I try not to think so much about this so as not to go crazy because there are too many things that happen, events, people ... new things that happen in my life that I try not to get confused in the weight it has. I prefer to be calm
+                              and think that things have changed, but I am not aware of my work&amp;#x2019;s size or how people see me as I believe I am fine like that.</label>
+                          </div>
+                        </div>
+                        <div class="interview-item" interview-item-id="5">
+                          <div data-type="question" class="question">You are 27 years old, almost ten years into your career, and you are at your best moment. Is it true that you plan to retire from the spotlight at 30?</div>
+                          <div class="radio" data-type="answer">
+                            <input type="radio" name="answerId-" id="id" value="value">
+                              <label for="for">I don&amp;#x2019;t know if at precisely 30, but it&amp;#x2019;s my plan because I&amp;#x2019;ve been working here in Brazil a lot for ten years, and I&amp;#x2019;m the type of person who really loves to dedicate myself to what
+                                I&amp;#x2019;m doing; I&amp;#x2019;m very demanding. For this reason, I want to have my family moment, so when I do this, I prefer to stop singing because, with all this life as a hefty singer, a routine that demands a lot from me, I would like to
+                                have time for my family. Besides, I have other jobs. I&amp;#x2019;m not just a singer, I was my manager. I was the manager of other artists here in Brazil. I don&amp;#x2019;t want to be over 35 and not be a mom.</label>
+                            </div>
+                          </div>
+                          <div class="interview-item" interview-item-id="6">
+                            <div data-type="question" class="question">You are a girl from humble origins; what do you remember from your childhood in the favelas of Rio de Janeiro?</div>
+                            <div class="radio" data-type="answer">
+                              <input type="radio" name="answerId-" id="id" value="value">
+                                <label for="for">I was a very playful girl, and I still am. I still have that same personality when I was little because I always had this way of being with many jokes, very relaxed. I remember playing a lot on the street with my friends. The bad
+                                  things had to do with the reality I saw of the other children. My family is from humble origins, and the tricky part was wanting to do some things and not being able or having the opportunity or the resources.</label>
+                              </div>
+                            </div>
+                          </div>
+
+        ]]>
+      </content:encoded>
+
+
+      </item>
+
+
+
+  </channel>
+</rss>
