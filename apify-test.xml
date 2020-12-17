@@ -36,7 +36,7 @@
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
-        <![CDATA[
+        <![CDATA [
         <div class="new__tools">
           <div class="news__metadata">
             <time class="news__date" pubdate="October 13, 2020" itemprop="dateModified" datetime="October 13, 2020">
@@ -129,7 +129,7 @@
                 <source media="(min-width: 680px)" data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                   <source data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                     <source media="(min-width: 680px)" data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg">
-                      <img src="/build/front/usahttps://us.hola.com/images/pixels/pixel-3x5.gif" data-src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></figure>
+                      <img src="https://us.hola.com/images/pixels/pixel-3x5.gif" data-src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></figure>
                     </div>
                   </div>
                   <!-- BEGIN BLOCK: blocks.AdslotBlock -->
