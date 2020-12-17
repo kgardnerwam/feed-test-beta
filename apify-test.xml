@@ -125,11 +125,11 @@
             data-crop-vertical="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-1150/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg"
             data-score="500">
             <div class="picture-container">
-              <picture class="news-figure__picture">
+              <figure class="news-figure__picture">
                 <source media="(min-width: 680px)" data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                   <source data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                     <source media="(min-width: 680px)" data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg">
-                      <img src="/build/front/usahttps://us.hola.com/images/pixels/pixel-3x5.gif" data-src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></picture>
+                      <img src="/build/front/usahttps://us.hola.com/images/pixels/pixel-3x5.gif" data-src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></figure>
                     </div>
                   </div>
                   <!-- BEGIN BLOCK: blocks.AdslotBlock -->
