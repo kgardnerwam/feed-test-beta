@@ -36,7 +36,7 @@
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
-        <![CDATA [
+        <![CDATA[
         <div class="new__tools">
           <div class="news__metadata">
             <time class="news__date" pubdate="October 13, 2020" itemprop="dateModified" datetime="October 13, 2020">
