@@ -126,10 +126,11 @@
             data-score="500">
             <div class="picture-container">
               <figure class="news-figure__picture">
+                <img src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" data-src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt">
                 <source media="(min-width: 680px)" data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                   <source data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.webp" type="image/webp">
                     <source media="(min-width: 680px)" data-srcset="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-800/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg">
-                      <img src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" data-src="https://us.hola.com/images/0263-10d64d2d7040-19b0f80c86d2-1000/vertical-480/the-queen-of-brazilian-pop-tells-all-about-her-global-success-and-future-plans-including-motherhood.jpg" alt="alt"></figure>
+                      </figure>
                     </div>
                   </div>
                   <figure><img src="https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape/cover/sport/Liverpool-v-Tottenham-Hotspur---Premier-League-b58c29a579cfc741500db900aef1f17d.jpg" data-has-syndication-rights=1 HasImageSyndicationRights=1 data-license-id="Getty Images" data-licensor-name="Getty Images" data-portal-copyright="Clive Brunskill/Getty Images"></figure>
