@@ -132,6 +132,9 @@
 
         <figure><img src="https://us.hola.com/images/0263-10d28be99a6a-f42d1a9b0ea0-1000/vertical-480/la-icono-latina-gloria-estefan-habla-de-su-visa-en-red-table-talk.jpg" alt="Gloria Estefan for HOLA! USA"/><figcaption class="news-figure__caption">“I also think that there are so many Latino families, from all over the world, but, it‘s a Latino thing or I see it a lot. It’s a large family and very close all the time, but also in those families many times things are not talked about. They don’t talk about sex, they don’t talk about drugs.” Photo: Aysia Marotta</figcaption></figure>
 
+        <figure <img src="https://us.hola.com/images/0263-10d28be99a6a-f42d1a9b0ea0-1000/vertical-480/la-icono-latina-gloria-estefan-habla-de-su-visa-en-red-table-talk.jpg> <figcaption>Employees work to create to-go donation meals for a company called Collective Fare on May 20, 2020, in the Brownsville neighborhood of New York City.</br>Credit: Stephanie Keith/Getty Images</figcaption></figure> 
+
+
         <p>image in "img" tag</p>
 
         <img src="https://flatplan-assets.netlify.app/2_Client/dump/t5quFec.png" alt="Image" />
