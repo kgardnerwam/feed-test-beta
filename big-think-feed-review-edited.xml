@@ -41,7 +41,7 @@
         type="image/jpeg"></media:content>
     </item>
 
-    <!--
+    
     <item>
       <title>Cancer cells hibernate to survive chemotherapy, finds study</title>
       <link>https://bigthink.com/surprising-science/cancer-cells-hibernate-chemotherapy</link>
@@ -783,7 +783,6 @@ So, I presume I can get this tomorrow?</h3><br/><iframe allow="accelerometer; au
         medium="image"
         type="image/jpeg"></media:content>
     </item>
-  -->
 
   </channel>
 </rss>
