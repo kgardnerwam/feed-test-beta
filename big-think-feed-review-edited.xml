@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
     <title>Big Think</title>
     <link>https://bigthink.com/</link>
@@ -41,7 +41,7 @@
         type="image/jpeg"></media:content>
     </item>
 
-    
+
     <item>
       <title>Cancer cells hibernate to survive chemotherapy, finds study</title>
       <link>https://bigthink.com/surprising-science/cancer-cells-hibernate-chemotherapy</link>
