@@ -28,7 +28,7 @@
       <category>Article category</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="template_name"/>
-      <flatplan:sponsor name="<a href="https://aeon.co/?utm_campaign=republished-article" target="_blank">Institute for Humane Studies</a>" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"/>
+      <flatplan:sponsor name="Institute for Humane Studies" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"/>
       <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
       <flatplan:standfirst><![CDATA[Custom introduction]]></flatplan:standfirst>
 
