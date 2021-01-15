@@ -28,8 +28,9 @@
       <category>Article category</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="template_name"/>
-      <flatplan:sponsor name="sponsor name" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"/>
+      <flatplan:sponsor name="<a href="https://aeon.co/?utm_campaign=republished-article" target="_blank">Institute for Humane Studies</a>" url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"/>
       <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
+      <flatplan:standfirst><![CDATA[Custom introduction]]></flatplan:standfirst>
 
       <!-- if this is used it replaces <dc:creator> -->
       <flatplan:author name="Custom Author Name" role="Custom author role details" url="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_1:1,f_auto,q_auto,g_auto/shape/cover/sport/WIRE_GettyImages-824530132-0e8de99806117cf4a076ee278738307f.jpg"/>
@@ -132,7 +133,7 @@
 
         <figure><img src="https://us.hola.com/images/0263-10d28be99a6a-f42d1a9b0ea0-1000/vertical-480/la-icono-latina-gloria-estefan-habla-de-su-visa-en-red-table-talk.jpg" alt="Gloria Estefan for HOLA! USA"/><figcaption class="news-figure__caption">“I also think that there are so many Latino families, from all over the world, but, it‘s a Latino thing or I see it a lot. It’s a large family and very close all the time, but also in those families many times things are not talked about. They don’t talk about sex, they don’t talk about drugs.” Photo: Aysia Marotta</figcaption></figure>
 
-        <figure <img src="https://us.hola.com/images/0263-10d28be99a6a-f42d1a9b0ea0-1000/vertical-480/la-icono-latina-gloria-estefan-habla-de-su-visa-en-red-table-talk.jpg> <figcaption>Employees work to create to-go donation meals for a company called Collective Fare on May 20, 2020, in the Brownsville neighborhood of New York City.</br>Credit: Stephanie Keith/Getty Images</figcaption></figure> 
+        <figure <img src="https://us.hola.com/images/0263-10d28be99a6a-f42d1a9b0ea0-1000/vertical-480/la-icono-latina-gloria-estefan-habla-de-su-visa-en-red-table-talk.jpg> <figcaption>Employees work to create to-go donation meals for a company called Collective Fare on May 20, 2020, in the Brownsville neighborhood of New York City.</br>Credit: Stephanie Keith/Getty Images</figcaption></figure>
 
 
         <p>image in "img" tag</p>
