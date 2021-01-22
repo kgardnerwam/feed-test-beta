@@ -18,7 +18,7 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">7678282325310</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - category name ampersand no CDATA tag - 21/01/21]]></title>
+      <title><![CDATA[stylesheet - category name &-amp-; no CDATA tag - 21/01/21]]></title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Fri, 22 Jan 2021 06:51:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -41,7 +41,7 @@
         ]]>
       </content:encoded>
     </item>
-    
+
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1678342325398</guid>
