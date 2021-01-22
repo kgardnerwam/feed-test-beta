@@ -54,7 +54,11 @@
       <description>Article introduction</description>
       <dc:creator>Author Name</dc:creator>
       <category>
-        <![CDATA[Mapping & category]]>
+        <![CDATA[ Mapping & category ]]>
+      </category>
+
+      <category>
+        <![CDATA[ Culture & Religion ]]>
       </category>
 
 
