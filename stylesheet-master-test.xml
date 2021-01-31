@@ -11,9 +11,39 @@
     <title>stylesheet - master</title>
     <description>stylesheet - master</description>
     <pubDate>Sat, 21 Nov 2020 06:51:35 +0000</pubDate>
-    <lastBuildDate>Thu, 12 Nov 2020 11:34:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 Jan 2021 07:24:35 +0000</lastBuildDate>
     <link>https://wearemathematics.co.uk</link>
     <language>en-US</language>
+
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">6423035327113</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[stylesheet - parameters - 31/01/21]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Sun, 31 Jan 2021 07:24:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <flatplan:parameters isPreview="true" accessoryText="My accessory Text" isCandidateToBeFeatured="true" isHidden="false" maturityRating="GENERAL" targetTerritoryCountryCodes="GB" />
+      <category>
+        category
+      </category>
+
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <!-- body-->
+
+        <p>Body — <b>Bold — b tag</b> dream <strong>Bold — strong tag</strong> of breaking <em>Italic — em tag</em> the music industry <i>Italic — i tag</i> but so few <a href="https://www.hellomagazine.com/tags/joe-wicks/" target="_blank" rel="">Linky</a> actually do. It’s hard work and it takes dedication, knowledge, and drive. <b>No one knows that more than Tuma Basa</b>, currently working as the<i> Director of Black Music and Culture</i> at YouTube and the most recent guest on Turning Point with Mo Kheirs. He’s a pretty huge deal, but he didn’t land this role overnight.&nbsp; </p>
+
+        ]]>
+      </content:encoded>
+    </item>
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
