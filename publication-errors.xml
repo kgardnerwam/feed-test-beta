@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
+  xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+>
+  <channel>
+    <title>stylesheet - master</title>
+    <description>stylesheet - master</description>
+    <pubDate>Sat, 21 Nov 2020 06:51:35 +0000</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2021 07:24:35 +0000</lastBuildDate>
+    <link>https://wearemathematics.co.uk</link>
+    <language>en-US</language>
+
+    <item>
+      <flatplan:template identifier="default-article"/>
+      <guid isPermaLink="false">522982</guid>
+      <title>
+        <![CDATA[Pink News - A 20ft Margaret Thatcher statue is bad enough, but the bill for its unveiling ceremony is eye-watering]]>
+      </title>
+      <link>https://www.pinknews.co.uk/2021/02/03/margaret-thatcher-grantham-bronze-statue-unveiling-ceremony/</link>
+      <pubDate>Wed, 03 Feb 2021 10:41:10 +0000</pubDate>
+      <media:thumbnail url="https://s31242.pcdn.co/wp-content/uploads/2021/02/GettyImages-166130233-1024x683.jpg" caption="A marble statue of Baroness Margaret Thatcher stands in the Guildhall Art Gallery on April 9, 2013 (Dan Kitwood/Getty)"/>
+      <description>
+        <![CDATA[<p>The town of Margaret Thatcher’s birth has revealed plans for an eye-watering £300,000 bronze statue of the Tory tyrant, complete with a £100,000 unveiling ceremony.</p>]]>
+      </description>
+      <dc:creator>Emma Powys Maurice</dc:creator>
+      <category>UK</category>
+      <content:encoded>
+        <![CDATA[
+
+        <h3>The town of Margaret Thatcher’s birth has revealed plans for an eye-watering £300,000 bronze statue of the Tory tyrant, complete with a £100,000 unveiling ceremony.</h3>
+      <p>The ostentatious monument in Grantham, Lincolnshire, was <a href="https://www.pinknews.co.uk/2017/07/07/bronze-statue-for-section-28-prime-minister-margaret-thatcher-rejected-by-the-government/" target="_blank" rel="noopener noreferrer">originally intended</a> to stand in London’s Parliament Square until plans were rejected for attracting protests.</p>
+      <p>Thatcher’s memorial remains so controversial that the town will erect it atop a 10ft plinth in a bid to prevent it being attacked, making it a terrifying 20ft tall overall.</p>
+      <p>“It’s way beyond time that we recognise Margaret Thatcher for her abilities and what she did for this country,” councillor Jacky Smith told <a href="https://thelincolnite.co.uk/2019/02/political-vandals-fail-to-deter-thatcher-statue-approval/" target="_blank" rel="noopener noreferrer"><em>The Lincolnite</em></a> – a judgement not shared by the many LGBT+ people who still live with <a href="https://www.pinknews.co.uk/2020/11/18/section-28-margaret-thatcher-anniversary-homophobia-repeal-england-wales/" target="_blank" rel="noopener noreferrer">the scars of Section 28</a>.</p>
+      <p>In spite of her questionable legacy the town plans to honour the infamous Iron Lady at an extravagant unveiling event for more than 200 guests, reserving up to 50 seats for the biggest donors.</p>
+      <p>An estimated £50,200 will go towards external events organisation, audio and media for guests, staging, seating, an unveiling mechanism and crew labour.</p>
+      <p>Approximately £24,250 will cover the cost of public safety, including medical support, stewarding, security, barriers, road closures, refreshments and infrastructure.</p>
+      <p>And an extra cost of £35,040 has been proposed for a sound system, stage lighting, shelter for the seated area, a web page with live streaming as well as filming and editing of the event and promotional material.</p>
+      <p>The plans were pushed through by South Kesteven District Council, which insists all money will be recuperated through fundraising, <a href="https://thelincolnite.co.uk/2021/02/council-sets-out-100k-thatcher-statue-unveiling-budget/" target="_blank" rel="noopener noreferrer"><em>The Lincolnite</em></a> reports.</p>
+
+      <section class="flatplan-stack" data-stack-id="pn-read-next">
+        <section>
+          <img src="https://s31242.pcdn.co/wp-content/uploads/2019/09/GettyImages-611652070-1024x683.jpg" data-use-stack="false">
+          <p><a href="https://www.pinknews.co.uk/pagicle/hollywood-stars-who-went-gay-for-pay-internal/?utm_source=AppleNews&utm_medium=pn_article_widget">The stars who went gay for pay</a></p>
+        </section>
+        <section>
+          <img src="https://s31242.pcdn.co/wp-content/uploads/2019/06/Jodie-Foster-e1584356671423.jpg" data-use-stack="false">
+          <p><a href="https://www.pinknews.co.uk/pagicle/43-celebrities-you-didnt-know-are-gay-bisexual-or-lesbian-internal-2/?utm_source=AppleNews&utm_medium=pn_article_widget">56 celebrities you didn’t know are gay, bisexual or lesbian</a></p>
+        </section>
+      </section>
+
+        <p>When scrutiny councillors called on the authority to show exactly how they intend to do this, the council replied with plans for a private fundraising appeal, the details of which have yet to be finalised.</p>
+        <p>Council leader Kelham Cooke said: “The unveiling of the statute provides a unique opportunity to celebrate our heritage and harness national and international interest to promote South Kesteven as a visitor destination and attracting investment, all of which support plans to boost the local economy and regenerate the local area.”</p>
+        <p>Unfortunately for the council, news of the statue has also revived opposition to the <a href="https://www.pinknews.co.uk/2020/05/24/section-28-uk-scotland-what-was-anniversary-history-trans-rights-margaret-thatcher-liz-truss/" target="_blank" rel="noopener noreferrer">much-reviled</a> former prime minister, who <a href="https://www.pinknews.co.uk/2020/11/16/margaret-thatcher-lgbt-the-crown-section-28-gay-promotion-gillian-anderson/" target="_blank" rel="noopener noreferrer">was notorious</a> for her anti-LGBT+ attitudes while in power.</p>
+        <p><a href="https://thelincolnite.co.uk/2020/12/14000-people-interested-in-egging-thatcher-statue/">More than 14,000 people on Facebook</a> registered their interest in attending an egg-throwing contest at the monument when it is installed.</p>]]>
+      </content:encoded>
+    </item>
+
+
+  </channel>
+</rss>
