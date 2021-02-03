@@ -88,7 +88,7 @@
 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
 
 <audio class="wp-audio-shortcode" id="audio-522937-1" preload="none" style="width: 100%;" controls="controls">
-  <source type="audio/mpeg" src="https://s31242.pcdn.co/wp-content/uploads/2021/02/Is-there-room-for-gays-and-lesbian-in-Islam_.mp3?_=1" >
+  <source data-type="audio" type="audio/mpeg" src="https://s31242.pcdn.co/wp-content/uploads/2021/02/Is-there-room-for-gays-and-lesbian-in-Islam_.mp3?_=1" />
 </audio>
 
 <p>Other clips preach that husbands “hold a degree of superiority over their wives”, with a sermon titled <a href="https://www.ghamidi.tv/audios/misconceptions-about-women-the-right-to-beat-wives-91">“The Right to Beat Wives”</a> appearing to conclude that husbands should have a right to “punish” their wives – though only in ways that do not leave physical injuries.</p>
