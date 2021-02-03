@@ -5,8 +5,7 @@
   xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
   xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
->
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>stylesheet - master</title>
     <description>stylesheet - master</description>
@@ -60,6 +59,63 @@
       </content:encoded>
     </item>
 
+    <item>
+      <flatplan:template identifier="default-article"/>
+      <guid isPermaLink="false">522937</guid>
+      <title>
+        <![CDATA[UK-based Muslim charity hosts sermons insisting gay people are diseased and need to be cured]]>
+      </title>
+      <link>https://www.pinknews.co.uk/2021/02/03/ghamidi-centre-islamic-communication-muslim-charity-commission-gay-cure/</link>
+      <pubDate>Wed, 03 Feb 2021 09:24:40 +0000</pubDate>
+      <media:thumbnail url="https://s31242.pcdn.co/wp-content/uploads/2021/02/Khalid-Zaheer-1024x600.jpg" caption="Islamic scholar Khalid Zaheer delivers a 2014 anti-gay lecture hosted on the charity website"/>
+      <description>
+        <![CDATA[<p>A newly-registered Muslim charity is facing scrutiny over sermons on its website that suggest homosexuality is a disease that needs to be cured.</p>]]>
+      </description>
+      <dc:creator>Nick Duffy</dc:creator>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<h3>A newly-registered Muslim charity is facing scrutiny over sermons on its website that suggest homosexuality is a disease that needs to be cured.</h3>
+<p>The Cheshire-based Ghamidi Centre of Islamic Communication, which registered as a charity in December, hosted videos and audio clips in which speakers discuss “the right to beat wives” and liken gay people to murderers.</p>
+<p>Islamic scholar Khalid Zaheer delivers <a href="https://www.ghamidi.tv/audios/is-there-room-for-gays-and-lesbian-in-islam-1134">one 2014 lecture</a> hosted on the charity’s website, titled: “Is There Room for Gays and Lesbians in Islam?”</p>
+<p>In the clip, Zaheer says: “There’s no denying the fact that there are some people who have their own nature, inclined unnaturally towards people belonging to their own gender. It’s a disease, and this disease needs to be cured.”</p>
+<h2>Muslim scholar suggests gay people help to ‘overcome disease’</h2>
+<p>He continues: “The existence of a disease does not justify that the person who is suffering from it should be allowed to go for it.</p>
+<p>“There are people who lose their senses and are inclined to killing others. Of course we’re not going to allow killing, because there is somebody who has a problem in his mind or is is mentally ill.”</p>
+<figure id="attachment_522972" aria-describedby="caption-attachment-522972" style="width: 2048px" class="wp-caption alignnone"><img loading="lazy" class="size-full wp-image-522972" src="https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-scaled.jpg" alt="The charity's website likens gay people to murderers" width="2048" height="1365" srcset="https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-scaled.jpg 2048w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-300x200.jpg 300w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-1024x683.jpg 1024w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-150x100.jpg 150w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-768x512.jpg 768w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-1536x1024.jpg 1536w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-257x171.jpg 257w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-210x140.jpg 210w, https://s31242.pcdn.co/wp-content/uploads/2021/02/gay-couple-cuddling-in-bed-JWBHYVT-72x48.jpg 72w" sizes="(max-width: 2048px) 100vw, 2048px" /><figcaption id="caption-attachment-522972" class="wp-caption-text">The charity’s website likens gay people to murderers (File photo/Envato)</figcaption></figure>
+<p>Zaheer adds: “What is wrong morally is wrong. It needs to be stopped. It needs to be curved, and there are people who are suffering from diseases, which are causing them to be inclined to do things which are illegitimate.</p>
+<p>“Well, we need to cure such patients and prevent them from coming close to doing what is otherwise unacceptable and illegitimate.</p>
+<p>“So, we will sympathise with such people, we will help them to overcome this problem, but we will most certainly defend the principle that what is obscene is obscene, and therefore it cannot be allowed, it cannot be promoted, and in no way it can ever be declared as legitimate.”</p>
+<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+
+<audio class="wp-audio-shortcode" id="audio-522937-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="https://s31242.pcdn.co/wp-content/uploads/2021/02/Is-there-room-for-gays-and-lesbian-in-Islam_.mp3?_=1" /><a href="https://s31242.pcdn.co/wp-content/uploads/2021/02/Is-there-room-for-gays-and-lesbian-in-Islam_.mp3">https://www.pinknews.co.uk/wp-content/uploads/2021/02/Is-there-room-for-gays-and-lesbian-in-Islam_.mp3</a></audio>
+<p>Other clips preach that husbands “hold a degree of superiority over their wives”, with a sermon titled <a href="https://www.ghamidi.tv/audios/misconceptions-about-women-the-right-to-beat-wives-91">“The Right to Beat Wives”</a> appearing to conclude that husbands should have a right to “punish” their wives – though only in ways that do not leave physical injuries.</p>
+<p>In its registration with the <a href="https://www.pinknews.co.uk/2020/12/28/lgb-alliance-john-nicolson-charity-commission-abusive-transphobic-gay-snp-mp/">Charity Commission</a>, the centre lists its purpose as “the advancement of the religion of Islam for the benefit of the public, primarily but not exclusively through the provision of online information, learning and study”.</p>
+<h2>Challenge over charity status for ‘gay cure’ body</h2>
+<p>The sermons were challenged by the National Secular Society, which has called for the centre’s charitable status to be reviewed.</p>
+<p>NSS head of policy and research Megan Manson said: “The Charity Commission should quickly review the status of the Ghamidi Centre and consider whether the material on its website is compatible with the expectation that charities provide a public benefit.</p>
+<p>“And this should prompt questions over the status of ‘the advancement of religion’ as a charitable purpose in law.”</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Ghamidi Centre of Islamic Communication has been granted charity status despite saying that homosexuality is a &#39;disease&#39; that &#39;needs to be cured&#39; & that husbands can beat disobedient wives. Shocking that <a href="https://twitter.com/ChtyCommission?ref_src=twsrc%5Etfw">@ChtyCommission</a> has allowed this   <a href="https://t.co/BwHo21MW4W">https://t.co/BwHo21MW4W</a> Via <a href="https://twitter.com/NatSecSoc?ref_src=twsrc%5Etfw">@NatSecSoc</a></p>
+<p>— Peter Tatchell (@PeterTatchell) <a href="https://twitter.com/PeterTatchell/status/1356189313269190657?ref_src=twsrc%5Etfw">February 1, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>LGBT+ campaigner Peter Tatchell also challenged the “shocking” material and questioned why the body has charitable status, which enables it to claim tax relief and taxpayer-funded Gift Aid on donations.</p>
+<p>The Ghamidi Centre of Islamic Communication did not immediately respond to a request for comment from <em>PinkNews</em>.</p>
+<p>In an email to National Secular Society, a trustee for the centre agreed that “some of the content does not seem compatible with our charitable status”.</p><section class="flatplan-stack" data-stack-id="pn-read-next">
+        <section>
+        <img src="https://s31242.pcdn.co/wp-content/uploads/2019/09/GettyImages-611652070-1024x683.jpg" data-use-stack="false">
+        <p><a href="https://www.pinknews.co.uk/pagicle/hollywood-stars-who-went-gay-for-pay-internal/?utm_source=AppleNews&utm_medium=pn_article_widget">The stars who went gay for pay</a></p>
+        </section>
+        <section>
+        <img src="https://s31242.pcdn.co/wp-content/uploads/2019/06/Jodie-Foster-e1584356671423.jpg" data-use-stack="false">
+        <p><a href="https://www.pinknews.co.uk/pagicle/43-celebrities-you-didnt-know-are-gay-bisexual-or-lesbian-internal-2/?utm_source=AppleNews&utm_medium=pn_article_widget">56 celebrities you didn’t know are gay, bisexual or lesbian</a></p>
+        </section>
+        </section>
+<p>The trustee added: “As a first step, we have temporarily removed these videos from the website. We will be reviewing these in more detail along with other content on the website. For this purpose we will also be seeking advice from our legal advisor and guidance from Charity Commission.</p>
+<p>“Some of these videos are old and their titles may give wrong impression about their intended message. Certainly, there is no intention of imposing any religious ideas or values on others.</p>
+<p>“We believe in freedom of expression, and the right to freedom of religion and belief are protected by the Human Rights Act. We all enjoy this freedom in a democratic country.”</p>
+<p>Though the sermons in their video form have been removed from the centre’s website, they remain available as audio files.</p>]]>
+      </content:encoded>
+    </item>
 
   </channel>
 </rss>
