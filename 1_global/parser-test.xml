@@ -524,6 +524,10 @@
 
         <fieldset class="video video-en" data-autoplay="false" data-idplayer="" data-idvideo="vhkilwKE" data-isplayercodeneeded="true" data-provider="jwplayer" data-videoads="false"><iframe frameborder="0" width="560" height="315" src="https://cdn.jwplayer.com/players/vhkilwKE-UU9GOUT4.html"></iframe></fieldset>
 
+        <p>iframe tag with jwpalyer (Hello example removed <fieldset> wrapper)</p>
+
+        <iframe frameborder="0" width="560" height="315" src="https://cdn.jwplayer.com/players/vhkilwKE-UU9GOUT4.html"></iframe>
+
         <p>iframe tag with jwpalyer (Hola example)</p>
 
         <iframe frameborder="0" width="560" height="315" src="https://content.jwplatform.com/videos/FxCOVjYJ.mp4?player=jwplayer"></iframe>
