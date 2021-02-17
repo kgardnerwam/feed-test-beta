@@ -541,9 +541,6 @@
 
         <img src="https://flatplan-assets.netlify.app/2_Client/dump/t5quFec.png" alt="Image" />
 
-        <p>image in "img" tag with content but no image path</p>
-
-
         <p>image in "img" tag with no content</p>
 
         <img src="" alt="Image" />
