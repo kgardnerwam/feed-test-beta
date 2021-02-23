@@ -6,7 +6,7 @@
   xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:content="http://purl.org/rss/1.0/modules/content/"
->
+  >
   <channel>
     <title>test feed audio</title>
     <description>test feed for apple news</description>
@@ -14,6 +14,108 @@
     <lastBuildDate>Fri, 10 May 2020 11:34:07 +0000</lastBuildDate>
     <link>https://wearemathematics.co.uk</link>
     <language>en-US</language>
+
+    <item>
+      <!-- REQUIRED - ust be unique to each article, alphanumeric only (not contain slug data or article URL), and be set once and never change -->
+      <guid isPermaLink="false">012345</guid>
+
+      <!-- REQUIRED - must include CDATA wrapper -->
+      <title><![CDATA[Example title]]></title>
+
+      <!-- REQUIRED - must include CDATA wrapper -->
+      <link>"https://www.cannonicalURL/article-slug-example/"</link>
+
+      <!-- REQUIRED - must include CDATA wrapper -->
+      <pubDate>Fri, 10 May 2020 11:34:07 +0000</pubDate>
+
+      <!-- REQUIRED - this is used for the article thumbnail in the channel index page, and for the on-article lead image. Send the highest resolution available. The minimum size of the image must be 500 px wide x 500 px high -->
+      <media:thumbnail url="http://absolute-path-to-image.com" caption="caption text for lead image"/>
+
+      <!-- REQUIRED - must include CDATA wrapper -->
+      <description>Article introduction</description>
+
+      <!-- REQUIRED -  -->
+      <dc:creator>Author name</dc:creator>
+
+      <!-- include CDATA wrapper if content will contain "&"-->
+      <category><![CDATA[Article category]]></category>
+
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <flatplan:sponsor name="sponsor name" url="https://sponsor-logo-URL.jpg"/>
+      <flatplan:audio-article src="https://path-to-audio.mp3" type="audio/mpeg" data-type="audio" data-caption="caption text" data-image="https://path-to-thumbnail-image.jpg"/>
+      <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
+      <flatplan:standfirst><![CDATA[The introduction to the article *if* <description> tag is used for the body]]></flatplan:standfirst>
+
+      <!-- if this is used it replaces <dc:creator> -->
+      <flatplan:author name="author name" role="author role details" url="https://absolute-path-to-image.jpg"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded><![CDATA[
+        <p>This is the first paragraph of the article</p>
+        <h2>This is an examople heading</h2>
+        <blockquote><p>Text to display as a pullquote</p></blockquote>
+        <img src="https://absolute-path-to-image.jpg/>
+        <figure <img src="https://absolute-path-to-image.jpg/> <figcaption>image caption and credit</figcaption></figure>
+        <iframe width="560" height="315" src="https://www.youtube.com/watch?v=UF8uR6Z6KLc"></iframe>
+        <iframe width="320" height="320" frameBorder="0" src="https://www.instagram.com/p/BpiRTBYlkY5" frameborder="0"></iframe>
+        <iframe src="https://absolute-path-to-video.mp4"></iframe>
+        <iframe src="https://absolute-path-to-video-playlist.m3u8"></iframe>
+
+
+        <!-- optional custom tag — this will build an ANF native gallery - must contain at least 2 gallery items — must be set at the route level of <content:encoded> -->
+        <figure class="flatplan-gallery">
+
+          <!-- 1st image in gallery -->
+          <figure class="flatplan-gallery-item">
+
+            <!--both child elements are required-->
+            <img src="https://absolute-path-to-image.jpg" alt="Image alt text"/>
+            <figcaption>Image caption</figcaption>
+          </figure>
+
+          <!-- 2nd image in gallery -->
+          <figure class="flatplan-gallery-item">
+
+            <!--both child elements are required -->
+            <img src="https://absolute-path-to-image.jpg" alt="Image alt text"/>
+            <figcaption>Image caption</figcaption>
+          </figure>
+          ...
+        </figure>
+
+      ]]></content:encoded>
+
+      <!-- use the following element and sub-elements to deliver a series of images and associated text to be displayed inline after all content in <content:encoded>. The sub-element order represents the on-page order -->
+      <media:group>
+        <!-- 1st image in series - send at highest possible quality -->
+        <media:content url="https://www.flatplan-magazine.com/images/example-1.jpg" type="image/jpeg" medium="image">
+
+          <!-- Credit / copyright data for the image to be displayed -->
+          <media:credit role="author">
+            <![CDATA[© Getty Images]]>
+          </media:credit>
+
+          <!-- Title of image to be displayed -->
+          <media:title>Image title text</media:title>
+
+          <!-- Description / caption of image to be displayed -->
+          <media:description>
+            <![CDATA[<p>Caption text for the image with <em>italic</em> or <b>bold</b> text, and a <a href="https://www.flatplan-magazine.com/">link</a>.</p><h2>A heading</h2>]]>
+          </media:description>
+        </media:content>
+
+        <!-- 2nd image in series -->
+        <media:content url="https://www.flatplan-magazine.com/images/example-2.jpg" type="image/jpeg" medium="image">
+          ...
+        </media:content>
+      ...
+      </media:group>
+
+      </item>
+
+      <!--reference-->
+
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">412342334567a4</guid>
