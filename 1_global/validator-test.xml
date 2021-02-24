@@ -27,39 +27,51 @@
     <!-- REQUIRED -->
     <language>en-US</language>
 
+    <!-- REQUIRED - Element to hold data for each article -->
     <item>
+
       <!-- REQUIRED - must be unique to each article, alphanumeric only (not contain slug data or article URL), and be set once and never change -->
       <guid isPermaLink="false">012345</guid>
 
-      <!-- REQUIRED - must include CDATA wrapper -->
+      <!-- REQUIRED - must include CDATA wrapper. Used on the article page, and in the channel's index page within Apple News -->
       <title><![CDATA[Example title]]></title>
 
       <!-- REQUIRED - must be the cannonical URL of the artilce -->
       <link>"https://www.cannonicalURL/article-slug-example/"</link>
 
-      <!-- REQUIRED - Date and time the article was published (must comply with RFC822) -->
+      <!-- REQUIRED - Date and time the article was published (must comply with RFC822). Used on the article page -->
       <pubDate>Fri, 10 May 2020 11:34:07 +0000</pubDate>
 
-      <!-- REQUIRED - A absolutle URL of an image to represent the article. Will be used in the channel's index page, and as the lead image of the article. Send largest available version. The minimum size of the image must be 500 px wide x 500 px high -->
+      <!-- REQUIRED - A absolutle URL of an image to represent the article. Used as the lead image of the article, and in the channel's index page within Apple News. Send largest available version. The minimum size of the image must be 500 px wide x 500 px high -->
       <media:thumbnail url="http://absolute-path-to-image.com" caption="caption text for lead image"/>
 
-      <!-- REQUIRED - The introduction text to the article - this will be used on the article page and in the channel index pages -->
+      <!-- REQUIRED - The introduction text to the article. Used on the article page, and in the channel's index page within Apple News -->
       <description>Article introduction</description>
 
-      <!-- REQUIRED - Author of the article -->
+      <!-- REQUIRED - Author of the article. Used on the article page, and in the channel's index page within Apple News -->
       <dc:creator>Author name</dc:creator>
 
-      <!-- OPTIONAL - The top level category the article pertains to - include CDATA wrapper if content will contain "&"-->
+      <!-- OPTIONAL - The top level category the article pertains to - include CDATA wrapper if content will contain "&". Used for on page slug and mapping content to Apple News sections -->
       <category><![CDATA[Article category]]></category>
 
-      <!-- OPTIONAL - custom metadata fields -->
+      <!-- Custom metadata fields -->
+
+      <!-- OPTIONAL - Used to determine the article template (Enterprise only) -->
       <flatplan:template identifier="template_name"/>
+
+      <!-- REQUIRED if sponsored content is published. Used on the article page, and in the channel's index page within Apple News -->
       <flatplan:sponsor name="sponsor name" url="https://sponsor-logo-URL.jpg"/>
+
+      <!-- OPTIONAL - ?? (Enterprise only) -->
       <flatplan:audio-article src="https://path-to-audio.mp3" type="audio/mpeg" data-type="audio" data-caption="caption text" data-image="https://path-to-thumbnail-image.jpg"/>
+
+      <!-- OPTIONAL - Used to by Apple algorythum to distribute content -->
       <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
+
+      <!-- OPTIONAL - Used in place of <description> if it is used for the artilce body -->
       <flatplan:standfirst><![CDATA[The introduction to the article *if* <description> tag is used for the body]]></flatplan:standfirst>
 
-      <!-- OPTIONAL - if this is used it replaces <dc:creator> -->
+      <!-- OPTIONAL - If used replaces <dc:creator>. Used on the article page, and in the channel's index page within Apple News -->
       <flatplan:author name="author name" role="author role details" url="https://absolute-path-to-image.jpg"/>
 
       <!-- REQUIRED - Use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
@@ -98,9 +110,11 @@
 
       ]]></content:encoded>
 
-      <!-- use the following element and sub-elements to deliver a series of images and associated text to be displayed inline after all content in <content:encoded>. The sub-element order represents the on-page order -->
+      <!-- OPTIONAL. Use the following element and sub-elements to deliver a series of images and associated text to be displayed inline after all content in <content:encoded>. The sub-element order represents the on-page order -->
       <media:group>
-        <!-- 1st image in series - send at highest possible quality -->
+        <!-- 1st group in series -->
+
+        <!-- Image -  at highest possible quality -->
         <media:content url="https://www.flatplan-magazine.com/images/example-1.jpg" type="image/jpeg" medium="image">
 
           <!-- Credit / copyright data for the image to be displayed -->
@@ -117,7 +131,7 @@
           </media:description>
         </media:content>
 
-        <!-- 2nd image in series -->
+        <!-- 2nd group in series -->
         <media:content url="https://www.flatplan-magazine.com/images/example-2.jpg" type="image/jpeg" medium="image">
           ...
         </media:content>
