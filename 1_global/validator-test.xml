@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- REQUIRED - All listed namespaces -->
+<!-- REQUIRED - Version correct and all listed namespaces -->
 <rss
   version="2.0"
   xmlns:media="http://search.yahoo.com/mrss/"
@@ -9,22 +9,22 @@
   xmlns:flatplan="https://flatplan.io/feedspec/"
 >
   <channel>
-    <!-- REQUIRED -->
+    <!-- REQUIRED xx -->
     <title>validator - test</title>
 
-    <!-- REQUIRED -->
+    <!-- REQUIRED xx -->
     <description>test</description>
 
-    <!-- REQUIRED -->
+    <!-- REQUIRED (must comply with RFC822) -->
     <pubDate>Tue, 23 Feb 2021 06:51:35 +0000</pubDate>
 
-    <!-- REQUIRED -->
+    <!-- REQUIRED xx (must comply with RFC822) -->
     <lastBuildDate>Tue, 23 Feb 2021 06:51:35 +0000</lastBuildDate>
 
-    <!-- REQUIRED -->
+    <!-- REQUIRED xx-->
     <link>http://flatplan.io/</link>
 
-    <!-- REQUIRED -->
+    <!-- REQUIRED xx -->
     <language>en-US</language>
 
     <!-- REQUIRED - Element to hold data for each article -->
@@ -45,13 +45,13 @@
       <!-- REQUIRED - A absolutle URL of an image to represent the article. Used as the lead image of the article, and in the channel's index page within Apple News. Send largest available version. The minimum size of the image must be 500 px wide x 500 px high -->
       <media:thumbnail url="http://absolute-path-to-image.com" caption="caption text for lead image"/>
 
-      <!-- REQUIRED - The introduction text to the article. Used on the article page, and in the channel's index page within Apple News -->
+      <!-- OPTIONAL - Used as the introduction text to the article. Used on the article page, and in the channel's index page within Apple News. NOTE - If used for the article body <content> must be ommitted, and send intro in flatplan:standfirst -->
       <description>Article introduction</description>
 
-      <!-- REQUIRED - Author of the article. Used on the article page, and in the channel's index page within Apple News -->
+      <!-- OPTIONAL - Author of the article. Used on the article page, and in the channel's index page within Apple News NOTE: Imporved fidelity... -->
       <dc:creator>Author name</dc:creator>
 
-      <!-- OPTIONAL - The top level category the article pertains to - include CDATA wrapper if content will contain "&". Used for on page slug and mapping content to Apple News sections -->
+      <!-- OPTIONAL - Use a single top level category the article pertains to - include CDATA wrapper if content will contain "&". Used for on page slug and mapping content to Apple News sections -->
       <category><![CDATA[Article category]]></category>
 
       <!-- Custom metadata fields -->
@@ -59,7 +59,7 @@
       <!-- OPTIONAL - Used to determine the article template (Enterprise only) -->
       <flatplan:template identifier="template_name"/>
 
-      <!-- REQUIRED if sponsored content is published. Used on the article page, and in the channel's index page within Apple News -->
+      <!-- OPTIONAL - Include if sponsored content is published. Used on the article page, and in the channel's index page within Apple News -->
       <flatplan:sponsor name="sponsor name" url="https://sponsor-logo-URL.jpg"/>
 
       <!-- OPTIONAL - ?? (Enterprise only) -->
@@ -74,7 +74,7 @@
       <!-- OPTIONAL - If used replaces <dc:creator>. Used on the article page, and in the channel's index page within Apple News -->
       <flatplan:author name="author name" role="author role details" url="https://absolute-path-to-image.jpg"/>
 
-      <!-- REQUIRED - Use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <!-- OPTIONAL - Use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags NOTES - if <description used for body...-->
       <content:encoded><![CDATA[
         <p>This is the first paragraph of the article</p>
         <h2>This is an examople heading</h2>
