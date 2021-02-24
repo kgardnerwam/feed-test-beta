@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<!-- REQUIRED - All listed namespaces -->
 <rss
   version="2.0"
   xmlns:media="http://search.yahoo.com/mrss/"
@@ -7,49 +9,60 @@
   xmlns:flatplan="https://flatplan.io/feedspec/"
 >
   <channel>
+    <!-- REQUIRED -->
     <title>validator - test</title>
+
+    <!-- REQUIRED -->
     <description>test</description>
+
+    <!-- REQUIRED -->
     <pubDate>Tue, 23 Feb 2021 06:51:35 +0000</pubDate>
+
+    <!-- REQUIRED -->
     <lastBuildDate>Tue, 23 Feb 2021 06:51:35 +0000</lastBuildDate>
+
+    <!-- REQUIRED -->
     <link>http://flatplan.io/</link>
+
+    <!-- REQUIRED -->
     <language>en-US</language>
 
     <item>
-      <!-- REQUIRED - ust be unique to each article, alphanumeric only (not contain slug data or article URL), and be set once and never change -->
+      <!-- REQUIRED - must be unique to each article, alphanumeric only (not contain slug data or article URL), and be set once and never change -->
       <guid isPermaLink="false">012345</guid>
 
       <!-- REQUIRED - must include CDATA wrapper -->
       <title><![CDATA[Example title]]></title>
 
-      <!-- REQUIRED - must include CDATA wrapper -->
+      <!-- REQUIRED - must be the cannonical URL of the artilce -->
       <link>"https://www.cannonicalURL/article-slug-example/"</link>
 
-      <!-- REQUIRED - must include CDATA wrapper -->
+      <!-- REQUIRED - Date and time the article was published (must comply with RFC822) -->
       <pubDate>Fri, 10 May 2020 11:34:07 +0000</pubDate>
 
-      <!-- REQUIRED - this is used for the article thumbnail in the channel index page, and for the on-article lead image. Send the highest resolution available. The minimum size of the image must be 500 px wide x 500 px high -->
+      <!-- REQUIRED - A absolutle URL of an image to represent the article. Will be used in the channel's index page, and as the lead image of the article. Send largest available version. The minimum size of the image must be 500 px wide x 500 px high -->
       <media:thumbnail url="http://absolute-path-to-image.com" caption="caption text for lead image"/>
 
-      <!-- REQUIRED - must include CDATA wrapper -->
+      <!-- REQUIRED - The introduction text to the article - this will be used on the article page and in the channel index pages -->
       <description>Article introduction</description>
 
-      <!-- REQUIRED -  -->
+      <!-- REQUIRED - Author of the article -->
       <dc:creator>Author name</dc:creator>
 
-      <!-- include CDATA wrapper if content will contain "&"-->
+      <!-- OPTIONAL - The top level category the article pertains to - include CDATA wrapper if content will contain "&"-->
       <category><![CDATA[Article category]]></category>
 
-      <!-- optional custom metadata fields -->
+      <!-- OPTIONAL - custom metadata fields -->
       <flatplan:template identifier="template_name"/>
       <flatplan:sponsor name="sponsor name" url="https://sponsor-logo-URL.jpg"/>
       <flatplan:audio-article src="https://path-to-audio.mp3" type="audio/mpeg" data-type="audio" data-caption="caption text" data-image="https://path-to-thumbnail-image.jpg"/>
       <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
       <flatplan:standfirst><![CDATA[The introduction to the article *if* <description> tag is used for the body]]></flatplan:standfirst>
 
-      <!-- if this is used it replaces <dc:creator> -->
+      <!-- OPTIONAL - if this is used it replaces <dc:creator> -->
       <flatplan:author name="author name" role="author role details" url="https://absolute-path-to-image.jpg"/>
 
-      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <!-- REQUIRED - Use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded><![CDATA[
         <p>This is the first paragraph of the article</p>
         <h2>This is an examople heading</h2>
