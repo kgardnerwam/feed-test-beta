@@ -30,23 +30,20 @@
     <!-- REQUIRED - Element to hold data for each article -->
     <item>
 
-      <!-- REQUIRED - NOTE Must be unique to each article, alphanumeric only (not contain slug data or article URL), and be set once and never change -->
+      <!-- REQUIRED - Must be unique to each article, alphanumeric only (not contain slug data or article URL), and be set once and never change -->
       <guid isPermaLink="false">012345</guid>
 
-      <!-- REQUIRED - must include CDATA wrapper. Used on the article page, and in the channel's index page within Apple News -->
+      <!-- REQUIRED - Must include CDATA wrapper. Used on the article page, and in the channel's index page within Apple News -->
       <title><![CDATA[Example title]]></title>
 
-      <!-- REQUIRED - must be the cannonical URL of the artilce -->
+      <!-- REQUIRED - Must be the cannonical URL of the artilce -->
       <link>"https://magazine.com/article-slug/"</link>
 
       <!-- REQUIRED - Date and time the article was published (must comply with RFC822). Used on the article page -->
       <pubDate>Fri, 10 May 2020 11:34:07 +0000</pubDate>
 
-      <!-- REQUIRED - A absolutle URL of an image to represent the article. Used as the lead image of the article, and in the channel's index page within Apple News. Send largest available version. The minimum size of the image must be 500 px wide x 500 px high -->
+      <!-- REQUIRED - Must be an absolutle URL. Image to represent the article. Used as the lead image of the article, and in the channel's index page within Apple News. Send largest available version. The minimum size of the image must be 500 px wide x 500 px high -->
       <media:thumbnail url="http://magazine.com/media/thumbnail-image.jpg" caption="caption text for lead image"/>
-
-      <!-- OPTIONAL - Introduction text to the article. Used on the article page, and in the channel's index page within Apple News. NOTE - If used for the article body, <content> must be ommitted, and send intro in <flatplan:standfirst> -->
-      <description>Article introduction</description>
 
       <!-- OPTIONAL - Author of the article. Used on the article page, and in the channel's index page within Apple News NOTE: Imporved fidelity... -->
       <dc:creator>Author name</dc:creator>
@@ -56,25 +53,28 @@
 
       <!-- Custom metadata fields -->
 
-      <!-- OPTIONAL - Used to determine the article template (Enterprise only) -->
+      <!-- OPTIONAL - Include to determine the article template (Enterprise only) -->
       <flatplan:template identifier="template_name"/>
 
       <!-- OPTIONAL - Include if sponsored content is published. Used on the article page, and in the channel's index page within Apple News -->
-      <flatplan:sponsor name="sponsor name" url="https://magazine.com/media/sponsor-logo.jpg"/>
+      <flatplan:sponsor name="Sponsor Name" url="http://magazine.com/media/sponsor-logo.jpg"/>
 
-      <!-- OPTIONAL - ?? (Enterprise only) -->
+      <!-- OPTIONAL - Include to add audio version of article to the page (Enterprise only) -->
       <flatplan:audio-article src="https://magazine.com/media/audio-1.mp3" type="audio/mpeg" data-type="audio" data-caption="caption text" data-image="https://path-to-thumbnail-image.jpg"/>
 
-      <!-- OPTIONAL - Used to by Apple algorythum to distribute content -->
+      <!-- OPTIONAL - Include to be add context to the article. Used to by Apple algorythum to distribute content -->
       <flatplan:keywords>Keyword1,keyword2,keyword3</flatplan:keywords>
 
-      <!-- OPTIONAL - Used in place of <description> if it is used for the artilce body -->
+      <!-- OPTIONAL - Include if <description> is used for the artilce body -->
       <flatplan:standfirst><![CDATA[The introduction to the article *if* <description> tag is used for the body]]></flatplan:standfirst>
 
-      <!-- OPTIONAL - If used replaces <dc:creator>. Used on the article page, and in the channel's index page within Apple News -->
+      <!-- OPTIONAL - Include to add fidelity to article. Used on the article page, and in the channel's index page within Apple News. NB: If used replaces <dc:creator>. (Enterprise only) -->
       <flatplan:author name="author name" role="author role details" url="http://magazine.com/media/author-image.jpg"/>
 
-      <!-- OPTIONAL - Use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags NOTES - if <description used for body...-->
+      <!-- OPTIONAL - The introduction text to the article. Used on the article page, and in the channel's index page within Apple News. NB: If used for article body, <content> must be ommitted, and send introduction in <flatplan:standfirst> -->
+      <description>Article introduction</description>
+
+      <!-- REQUIRED - Should contain all article body elements in appropriate tags. FlatPlan supports all standard HTML tags. NB: If <description used for article body, <content> must be ommitted -->
       <content:encoded><![CDATA[
         <p>This is the first paragraph of the article</p>
         <h2>This is an examople heading</h2>
@@ -111,11 +111,10 @@
 
       ]]></content:encoded>
 
-      <!-- OPTIONAL. Use the following element and sub-elements to deliver a series of media and associated text to be displayed inline after all content in <content:encoded>. The sub-element order represents the on-page order -->
+      <!-- OPTIONAL. To deliver a series of media and associated text to be displayed inline after all content in <content:encoded>. The sub-element order represents the on-page order -->
       <media:group>
-        <!-- 1st group in series -->
 
-        <!-- Image -  at highest possible quality -->
+        <!-- 1st group in series - Image - at highest possible quality -->
         <media:content url="https://www.magazine.com/media/image-5.jpg" type="image/jpeg" medium="image">
 
           <!-- Credit / copyright data for the image to be displayed -->
