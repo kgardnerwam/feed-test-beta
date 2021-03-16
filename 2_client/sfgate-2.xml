@@ -87,7 +87,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg" alt="StackCommerce.">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg" alt="StackCommerce.">
                                                                     </picture>
                             </a>
                         </div>
@@ -107,7 +107,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
+                                        <img src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
                                                                     </picture>
                             </a>
                         </div>
@@ -127,7 +127,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg" alt=".">
+                                        <img src="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg" alt=".">
                                                                     </picture>
                             </a>
                         </div>
@@ -147,7 +147,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg" alt="Tri-fold Woven Face Mask - 2-Pack, $18 at Huckberry">
+                                        <img src="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg" alt="Tri-fold Woven Face Mask - 2-Pack, $18 at Huckberry">
                                                                     </picture>
                             </a>
                         </div>
@@ -167,7 +167,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg" alt="StackCommerce">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg" alt="StackCommerce">
                                                                     </picture>
                             </a>
                         </div>
@@ -212,678 +212,7 @@
 
     <section id="articleBottom" class="article--content-zone bottom"></section></div></article>]]></content:encoded>
     </item>
-    <item>
-      <guid isPermaLink="true">https://www.sfgate.com/entertainment/article/Oscar-nominations-Monday-could-belong-to-Mank-16025888.php</guid>
-      <title>'Mank' leads Oscar nominations in a year with diverse slates</title>
-      <link>https://www.sfgate.com/entertainment/article/Oscar-nominations-Monday-could-belong-to-Mank-16025888.php</link>
-      <pubDate>Mon, 15 Mar 2021 15:22:05 GMT</pubDate>
-      <media:thumbnail url="https://s.hdnux.com/photos/01/17/10/17/20743145/215/1200x0.jpg" caption="1of18In this image released by Netflix, Gary Oldman portrays Herman Mankiewicz in a scene from &quot;Mank.&quot; (Nikolai Loveikis/Netflix via AP)Nikolai Loveikis/APShow MoreShow Less"/>
-      <description>NEW YORK (AP) — In a year in which the pandemic shuttered movie theaters for months,...</description>
-      <dc:creator>JAKE COYLE</dc:creator>
-      <category><![CDATA[Entertainment]]></category>
-      <content:encoded><![CDATA[<article class="article--content"><section id="articleTop" class="article--content-zone top"></section>
-            <!-- hearst/article/content/gallery.tpl -->
-<section class="gallery extendFromGrid" data-layout="default" data-total="18" data-guid="article_16025888_gallery" data-title>
-        <div class="gallery--count expand">
-        <div class="gallery--count-outer">
-            <span>18</span>
-        </div>
-    </div>
-    <div class="gallery--slider beginning">
-        <figure class="gallery--slider-item " style="z-index: 0;" id="1-image-20743145" data-slide-number="1" data-slide-id="20743145">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="1790" data-height="1306" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1200.jpg" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1150.jpg" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1100.jpg" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743145/215/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/17/20743145/215/1200x0.jpg" alt="In this image released by Netflix, Gary Oldman portrays Herman Mankiewicz in a scene from " mank." (nikolai loveikis netflix via ap)"></picture><figcaption><span class="count">1<span>of</span>18</span><span class="caption">In this image released by Netflix, Gary Oldman portrays Herman Mankiewicz in a scene from &quot;Mank.&quot; (Nikolai Loveikis/Netflix via AP)</span><span class="credits">Nikolai Loveikis/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 1; visibility:hidden" id="2-image-20743264" data-slide-number="2" data-slide-id="20743264">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo shadowBoxed" data-width="2048" data-height="1638" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/1200x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/2400x0.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/1150x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/2300x0.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/1100x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/2200x0.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/1050x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/2100x0.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/1000x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/2000x0.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/950x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1900x0.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/900x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1800x0.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743264/107/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743264/107/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/17/10/21/20743264/107/1200x0.jpg" alt="FILE - Chloe Zhao poses for a portrait to promote her film " nomadland" during the sundance film festival in park city, utah on jan. 22, 2018. (photo by taylor jewell invision ap, file)"></picture><figcaption style="opacity: 0;"><span class="count">2<span>of</span>18</span><span class="caption">FILE - Chloe Zhao poses for a portrait to promote her film &quot;Nomadland&quot; during the Sundance Film Festival in Park City, Utah on Jan. 22, 2018.  (Photo by Taylor Jewell/Invision/AP, File)</span><span class="credits">Taylor Jewell/Taylor Jewell/Invision/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 2; visibility:hidden" id="3-image-taboola-1" data-slide-number="3" data-slide-id="taboola-1"><div class="image interstitial"><style>
-.gallery--slider figure .image.interstitial .trc_related_container {
-    height: 100%;
-    top: 60%;
-    width: 100%;
-}
-@media only screen and (max-width: 547px) {
-    .gallery--slider figure .image.interstitial .trc_related_container {
-        top: 50%;
-        width: 75%;
-    }
-}
-</style>
-<div id="taboola-interstitial-gallery-thumbnails---redesign-1"></div>
-<script type="text/javascript">
-  window._galleryInterstitial = window._galleryInterstitial || [];
-  window._galleryInterstitial['taboola-interstitial-gallery-thumbnails---redesign-1'] = function () {
-    window._taboola = window._taboola || [];
-    window._taboola.push({
-      mode: 'thumbnails-c-light',
-      container: 'taboola-interstitial-gallery-thumbnails---redesign-1',
-      placement: 'Interstitial Gallery Thumbnails - Redesign 1',
-      target_type: 'mix'
-    });
-    window._taboola.push({flush: true});
-  };
-</script></div><figcaption style="opacity: 0;"><span class="count">3<span>of</span>18</span><span class="caption"></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 3; visibility:hidden" id="4-image-20743265" data-slide-number="4" data-slide-id="20743265">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1422" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1200.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_2400.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1150.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_2300.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1100.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_2200.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/21/20743265/107/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/21/20743265/107/1200x0.jpg" alt="This image released by Focus Features shows Carey Mulligan, left, Emerald Fennell and Laverne Cox on the set of " promising young woman." (focus features via ap)"></picture><figcaption style="opacity: 0;"><span class="count">4<span>of</span>18</span><span class="caption">This image released by Focus Features shows Carey Mulligan, left, Emerald Fennell and Laverne Cox on the set of &quot;Promising Young Woman.&quot; (Focus Features via AP)</span><span class="credits">Merie Weismiller Wallace/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 4; visibility:hidden" id="5-image-20743324" data-slide-number="5" data-slide-id="20743324">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1365" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1200.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_2400.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1150.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_2300.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1100.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_2200.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743324/53/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/22/20743324/53/1200x0.jpg" alt="This image released by Warner Bros. Pictures shows Daniel Kaluuya in a scene from " judas and the black messiah.". (warner bros. pictures via ap)"></picture><figcaption style="opacity: 0;"><span class="count">5<span>of</span>18</span><span class="caption">This image released by Warner Bros. Pictures shows Daniel Kaluuya in a scene from &quot;Judas and the Black Messiah.&quot;. (Warner Bros. Pictures via AP)</span><span class="credits">Glen Wilson/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 5; visibility:hidden" id="6-image-taboola-2" data-slide-number="6" data-slide-id="taboola-2"><div class="image interstitial"><style>
-.gallery--slider figure .image.interstitial .trc_related_container {
-    height: 100%;
-    top: 60%;
-    width: 100%;
-}
-@media only screen and (max-width: 547px) {
-    .gallery--slider figure .image.interstitial .trc_related_container {
-        top: 50%;
-        width: 75%;
-    }
-}
-</style>
-<div id="taboola-interstitial-gallery-thumbnails---redesign-2"></div>
-<script type="text/javascript">
-  window._galleryInterstitial = window._galleryInterstitial || [];
-  window._galleryInterstitial['taboola-interstitial-gallery-thumbnails---redesign-2'] = function () {
-    window._taboola = window._taboola || [];
-    window._taboola.push({
-      mode: 'thumbnails-c-light',
-      container: 'taboola-interstitial-gallery-thumbnails---redesign-2',
-      placement: 'Interstitial Gallery Thumbnails - Redesign 2',
-      target_type: 'mix'
-    });
-    window._taboola.push({flush: true});
-  };
-</script></div><figcaption style="opacity: 0;"><span class="count">6<span>of</span>18</span><span class="caption"></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 6; visibility:hidden" id="7-image-20743146" data-slide-number="7" data-slide-id="20743146">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1366" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1200.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_2400.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1150.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_2300.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1100.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_2200.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/17/20743146/215/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/17/20743146/215/1200x0.jpg" alt="This image released by A24 shows, from left, Steven Yeun, Alan S. Kim, Yuh-Jung Youn, Yeri Han, and Noel Cho in a scene from " minari."(josh ethan johnson a24 via ap)"></picture><figcaption style="opacity: 0;"><span class="count">7<span>of</span>18</span><span class="caption">This image released by A24 shows, from left, Steven Yeun, Alan S. Kim, Yuh-Jung Youn, Yeri Han, and Noel Cho in a scene from &quot;Minari.&quot;(Josh Ethan Johnson/A24 via AP)</span><span class="credits">Josh Ethan Johnson/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 7; visibility:hidden" id="8-image-20743067" data-slide-number="8" data-slide-id="20743067">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo shadowBoxed" data-width="1483" data-height="796" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/1200x0.jpg" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/1150x0.jpg" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/1100x0.jpg" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/1050x0.jpg" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/1000x0.jpg" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/950x0.jpg" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/900x0.jpg" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743067/211/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743067/211/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/17/10/16/20743067/211/1200x0.jpg" alt="This image released by Searchlight Pictures shows Frances McDormand, left, and and David Strathairn in a scene from the film " nomadland." (searchlight pictures via ap)"></picture><figcaption style="opacity: 0;"><span class="count">8<span>of</span>18</span><span class="caption">This image released by Searchlight Pictures shows Frances McDormand, left, and and David Strathairn in a scene from the film &quot;Nomadland.&quot;  (Searchlight Pictures via AP)</span><span class="credits">AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 8; visibility:hidden" id="9-image-taboola-3" data-slide-number="9" data-slide-id="taboola-3"><div class="image interstitial"><style>
-.gallery--slider figure .image.interstitial .trc_related_container {
-    height: 100%;
-    top: 60%;
-    width: 100%;
-}
-@media only screen and (max-width: 547px) {
-    .gallery--slider figure .image.interstitial .trc_related_container {
-        top: 50%;
-        width: 75%;
-    }
-}
-</style>
-<div id="taboola-interstitial-gallery-thumbnails---redesign-3"></div>
-<script type="text/javascript">
-  window._galleryInterstitial = window._galleryInterstitial || [];
-  window._galleryInterstitial['taboola-interstitial-gallery-thumbnails---redesign-3'] = function () {
-    window._taboola = window._taboola || [];
-    window._taboola.push({
-      mode: 'thumbnails-c-light',
-      container: 'taboola-interstitial-gallery-thumbnails---redesign-3',
-      placement: 'Interstitial Gallery Thumbnails - Redesign 3',
-      target_type: 'mix'
-    });
-    window._taboola.push({flush: true});
-  };
-</script></div><figcaption style="opacity: 0;"><span class="count">9<span>of</span>18</span><span class="caption"></span></figcaption></figure><figure class="gallery--slider-item truncated_xs" style="z-index: 9; visibility:hidden" id="10-image-20743068" data-slide-number="10" data-slide-id="20743068">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1365" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1200.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_2400.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1150.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_2300.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1100.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_2200.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/16/20743068/213/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/16/20743068/213/1200x0.jpg" alt="This image released by Netflix shows , from left, Yahya Abdul-Mateen, Ben Shenkman, Mark Rylance, Eddie Redmayne and Alex Sharp in a scene from " the trial of chicago 7." (niko tavernise netflix via ap)"></picture><figcaption style="opacity: 0;"><span class="count">10<span>of</span>18</span><span class="caption">This image released by Netflix shows , from left, Yahya Abdul-Mateen, Ben Shenkman, Mark Rylance, Eddie Redmayne and Alex Sharp in a scene from &quot;The Trial of the Chicago 7.&quot;  (Niko Tavernise/Netflix via AP)</span><span class="credits">Niko Tavernise/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 10; visibility:hidden" id="11-image-20743325" data-slide-number="11" data-slide-id="20743325">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1304" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1200.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_2400.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1150.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_2300.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1100.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_2200.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743325/43/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/22/20743325/43/1200x0.jpg" alt="This image released by Sony Pictures Classics shows Anthony Hopkins, left, with director Florian Zeller on the set of " the father." (sean gleason sony pictures classics via ap)"></picture><figcaption style="opacity: 0;"><span class="count">11<span>of</span>18</span><span class="caption">This image released by Sony Pictures Classics shows Anthony Hopkins, left, with director Florian Zeller on the set of &quot;The Father.&quot; (Sean Gleason/Sony Pictures Classics via AP)</span><span class="credits">Sean Gleason/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 11; visibility:hidden" id="12-image-taboola-4" data-slide-number="12" data-slide-id="taboola-4"><div class="image interstitial"><style>
-.gallery--slider figure .image.interstitial .trc_related_container {
-    height: 100%;
-    top: 60%;
-    width: 100%;
-}
-@media only screen and (max-width: 547px) {
-    .gallery--slider figure .image.interstitial .trc_related_container {
-        top: 50%;
-        width: 75%;
-    }
-}
-</style>
-<div id="taboola-interstitial-gallery-thumbnails---redesign-4"></div>
-<script type="text/javascript">
-  window._galleryInterstitial = window._galleryInterstitial || [];
-  window._galleryInterstitial['taboola-interstitial-gallery-thumbnails---redesign-4'] = function () {
-    window._taboola = window._taboola || [];
-    window._taboola.push({
-      mode: 'thumbnails-c-light',
-      container: 'taboola-interstitial-gallery-thumbnails---redesign-4',
-      placement: 'Interstitial Gallery Thumbnails - Redesign 4',
-      target_type: 'mix'
-    });
-    window._taboola.push({flush: true});
-  };
-</script></div><figcaption style="opacity: 0;"><span class="count">12<span>of</span>18</span><span class="caption"></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 12; visibility:hidden" id="13-image-20743326" data-slide-number="13" data-slide-id="20743326">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo shadowBoxed" data-width="2048" data-height="936" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/1200x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/2400x0.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/1150x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/2300x0.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/1100x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/2200x0.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/1050x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/2100x0.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/1000x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/2000x0.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/950x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1900x0.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/900x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1800x0.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743326/43/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743326/43/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/17/10/22/20743326/43/1200x0.jpg" alt="This image released by Amazon Studios shows Riz Ahmed in a scene from " sound of metal." (amazon studios via ap)"></picture><figcaption style="opacity: 0;"><span class="count">13<span>of</span>18</span><span class="caption">This image released by Amazon Studios shows Riz Ahmed in a scene from &quot;Sound of Metal.&quot; (Amazon Studios via AP)</span><span class="credits">Courtesy of Amazon Studios/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 13; visibility:hidden" id="14-image-20743327" data-slide-number="14" data-slide-id="20743327">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo shadowBoxed" data-width="2048" data-height="846" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/1200x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/2400x0.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/1150x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/2300x0.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/1100x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/2200x0.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/1050x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/2100x0.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/1000x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/2000x0.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/950x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1900x0.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/900x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1800x0.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743327/43/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743327/43/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/17/10/22/20743327/43/1200x0.jpg" alt="This image released by Focus Features shows Carey Mulligan in a scene from the film " promising young woman."(focus features via ap)"></picture><figcaption style="opacity: 0;"><span class="count">14<span>of</span>18</span><span class="caption">This image released by Focus Features shows Carey Mulligan in a scene from the film &quot;Promising Young Woman.&quot;(Focus Features via AP)</span><span class="credits">AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 14; visibility:hidden" id="15-image-taboola-5" data-slide-number="15" data-slide-id="taboola-5"><div class="image interstitial"><style>
-.gallery--slider figure .image.interstitial .trc_related_container {
-    height: 100%;
-    top: 60%;
-    width: 100%;
-}
-@media only screen and (max-width: 547px) {
-    .gallery--slider figure .image.interstitial .trc_related_container {
-        top: 50%;
-        width: 75%;
-    }
-}
-</style>
-<div id="taboola-interstitial-gallery-thumbnails---redesign-5"></div>
-<script type="text/javascript">
-  window._galleryInterstitial = window._galleryInterstitial || [];
-  window._galleryInterstitial['taboola-interstitial-gallery-thumbnails---redesign-5'] = function () {
-    window._taboola = window._taboola || [];
-    window._taboola.push({
-      mode: 'thumbnails-c-light',
-      container: 'taboola-interstitial-gallery-thumbnails---redesign-5',
-      placement: 'Interstitial Gallery Thumbnails - Redesign 5',
-      target_type: 'mix'
-    });
-    window._taboola.push({flush: true});
-  };
-</script></div><figcaption style="opacity: 0;"><span class="count">15<span>of</span>18</span><span class="caption"></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 15; visibility:hidden" id="16-image-20743337" data-slide-number="16" data-slide-id="20743337">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1365" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1200.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_2400.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1150.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_2300.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1100.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_2200.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743337/29/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/22/20743337/29/1200x0.jpg" alt="This image released by A24 shows Steven Yeun, left, and Will Patton, center, with Lee Isaac Chung on the set of " minari." (joe rushmore a24 via ap)"></picture><figcaption style="opacity: 0;"><span class="count">16<span>of</span>18</span><span class="caption">This image released by A24 shows Steven Yeun, left, and Will Patton, center, with Lee Isaac Chung on the set of &quot;Minari.&quot; (Joe Rushmore/A24 via AP)</span><span class="credits">Joe Rushmore/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 16; visibility:hidden" id="17-image-20743338" data-slide-number="17" data-slide-id="20743338">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1294" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1200.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_2400.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1150.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_2300.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1100.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_2200.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1050.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_2100.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1000.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_2000.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_950.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1900.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_900.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1800.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_850.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1700.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_800.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1600.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_750.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1500.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_700.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1400.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_650.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1300.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_600.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1200.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_550.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1100.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_500.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_1000.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_450.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_900.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_400.jpg 1x, https://s.hdnux.com/photos/01/17/10/22/20743338/29/ratio3x2_800.jpg 2x" media="(min-width: 300px)"><img class="landscape cropped" data-src="https://s.hdnux.com/photos/01/17/10/22/20743338/29/1200x0.jpg" alt="In this image released by Netflix, actor Gary Oldman, left, appears with director and David Fincher on the set of " mank." (netflix via ap)"></picture><figcaption style="opacity: 0;"><span class="count">17<span>of</span>18</span><span class="caption">In this image released by Netflix, actor Gary Oldman, left, appears with director and David Fincher on the set of &quot;Mank.&quot; (Netflix via AP)</span><span class="credits">Miles Crist/AP</span><span class="show-more" aria-hidden="true"><a href="#" onclick="return false;">Show More</a></span><span class="show-less" aria-hidden="true"><a href="#" onclick="return false;">Show Less</a></span></figcaption></figure><figure class="gallery--slider-item " style="z-index: 17; visibility:hidden" id="18-image-taboola-6" data-slide-number="18" data-slide-id="taboola-6"><div class="image interstitial"><style>
-.gallery--slider figure .image.interstitial .trc_related_container {
-    height: 100%;
-    top: 60%;
-    width: 100%;
-}
-@media only screen and (max-width: 547px) {
-    .gallery--slider figure .image.interstitial .trc_related_container {
-        top: 50%;
-        width: 75%;
-    }
-}
-</style>
-<div id="taboola-interstitial-gallery-thumbnails---redesign-6"></div>
-<script type="text/javascript">
-  window._galleryInterstitial = window._galleryInterstitial || [];
-  window._galleryInterstitial['taboola-interstitial-gallery-thumbnails---redesign-6'] = function () {
-    window._taboola = window._taboola || [];
-    window._taboola.push({
-      mode: 'thumbnails-c-light',
-      container: 'taboola-interstitial-gallery-thumbnails---redesign-6',
-      placement: 'Interstitial Gallery Thumbnails - Redesign 6',
-      target_type: 'mix'
-    });
-    window._taboola.push({flush: true});
-  };
-</script></div><figcaption style="opacity: 0;"><span class="count">18<span>of</span>18</span><span class="caption"></span></figcaption></figure>
-        <div class="nav prev"></div>
-        <div class="nav next"></div>
-    </div>
-        <ul class="gallery--indicators fade show" data-current="1">
-        <li class="large" data-current="1"><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li class="large"><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li class="large"><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li class="medium"><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li class="small"><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li><li><svg><circle cx="4" cy="4" r="4" fill="#adadad"/></svg></li>
-    </ul>
-     <style> .gallery--slider figure figcaption { margin: 0; } .gallery--count::after, .gallery--slider .nav, .gallery--indicators, .gallery--slider aside { z-index: 18; } </style> 
-</section>
-<!-- e hearst/article/content/gallery.tpl -->    
-            <p>NEW YORK (AP) &#x2014; In a year in which the pandemic shuttered movie theaters for months, Academy Awards nominations went to two female filmmakers for the first time and a historically diverse slate of actors Monday but, ultimately, David Fincher&#x2019;s &#x201C;Mank&#x201D; &#x2014; a very traditional contender about Hollywood itself &#x2014; took the lead.</p>
-
     
-            <p>Fincher&#x2019;s &#x201C;Mank&#x201D; easily topped nominations for the 93rd Academy Awards &#x2014; delayed two months by the coronavirus pandemic &#x2014; with 10 nominations, including best picture, best director, acting nods for Gary Oldman and Amanda Seyfried, and a host of others for its lavish craft.</p>
-
-    <div id="paywall" class="content-wrapper">
-            <p>The rest were spread among a wide variety of contenders. Six nominations were scored by six films, all of which are also up for best picture: &#x201C;Judas and the Black Messiah,&#x201D; &#x201C;Nomadland,&#x201D; &#x201C;Minari,&#x201D; &#x201C;Sound of Metal,&#x201D; &#x201C;The Trial of the Chicago 7&#x201D; and &#x201C;The Father.&#x201D; Also nominated for best picture was Emerald Fennell&#x2019;s &#x201C;Promising Young Woman.&#x201D;</p>
-
-    
-    <!-- Missed: ad -->
-
-    <!-- Missed: ad -->
-
-            <p>History was made in the best director category where only five women have ever been nominated before. This year, both Chlo&#xE9; Zhoe (&quot;Nomadland&quot;) and Fennell got nods. &#x201C;Never going to stop crying,&#x201D; Fennell, also nominated for best screenplay, said on Twitter.</p>
-
-    
-    <!-- Missed: ad -->
-
-            <p>Zhao, the first Asian woman nominated for best director, is the most nominated woman in a single year in Oscar history. She was also tipped for the film&#x2019;s adapted screenplay, editing and as a producer in the best picture category. The other directing nominees were Lee Isaac Chung for &#x201C;Minari,&#x201D; Fincher for &#x201C;Mank&#x201D; and Thomas Vinterberg for &#x201C;Another Round.&#x201D;</p>
-
-    
-    <!-- Missed: ad -->
-
-            <p>For performers, it&#x2019;s the most diverse group of nominees ever &#x2014; and a far cry from the all-white acting nods that spawned the #OscarsSoWhite hashtag five years ago. Nine of the 20 acting nominees are people of color, including a posthumous best-actor nomination  for Chadwick Boseman (&quot;Ma Rainey&apos;s Black Bottom&quot;), as well as nods for Riz Ahmed (&#x201C;Sound of Metal&#x201D;), Steven Yeun (&#x201C;Minari&#x201D;), Viola Davis (&#x201C;Ma Rainey&#x2019;s Black Bottom&#x201D;) and Andra Day (&#x201C;The People vs. Billie Holiday&#x201D;) and supporting nominations for Daniel Kaluuya and Lakeith Stanfield (&#x201C;Judas and the Black Messiah&#x201D;), Leslie Odom Jr. (&#x201C;One Night in Miami&#x201D;) and Yuh-Jung Youn (&#x201C;Minari&#x201D;).</p>
-
-    
-    <!-- Missed: ad -->
-
-            <p>Davis, who won for her performance in 2016&#x2019;s &#x201C;Fences,&#x201D; landed her fourth Oscar nomination, making her the most nominated Black actress ever. Yeun is the first Asian American ever nominated for best actor. &#x201C;Judas and the Black Messiah&quot; is the first all-Black producing team &#x2014; director Shaka King with producers Ryan Coogler and Charles D. King &#x2014; nominated for best picture. Overall, a record 70 women were nominated for 76 Oscars, the academy said.</p>
-
-    
-    <!-- hearst/article/content/zone.tpl -->
-            <!-- hearst/article/content/embed.tpl -->
-        <section class="article--content-embed  ">
-            <div id="30b0aaf4-cc13-4972-9cf9-ad9a05e5e62d" class="hst-exco-player"></div><script>
-  (function (d, s) {
-    var js, fjs = d.getElementsByTagName(s)[0];
-    js = d.createElement(s);
-    js.src = "https://player.ex.co/player/30b0aaf4-cc13-4972-9cf9-ad9a05e5e62d";
-    fjs.parentNode.insertBefore(js, fjs);
-  }(document, 'script'));
-</script><script>
-  (function (d, id) {
-    var t = d.getElementById(id), img = d.createElement('img');
-    img.height = 0;
-    img.width = 0;
-    img.src = 'https://cdn-channels-pixel.ex.co/events/0012000001fxZm9AAE?integrationType=DEFAULT&template=' + encodeURIComponent(window.HDN.dataLayer.content.designTemplate);
-    t.parentNode.insertBefore(img, t);
-    t.parentNode
-  }(document, '30b0aaf4-cc13-4972-9cf9-ad9a05e5e62d'));
-</script><!-- amp-exco-0cac96ac-a929-4594-a72a-1d12cb6cc155 -->
-
-    </section>
-<!-- e hearst/article/content/embed.tpl -->    <!-- e hearst/article/content/zone.tpl -->
-            <p>The other nominees for best actress are: Carey Mulligan, &#x201C;Promising Young Woman&#x201D;; Frances McDormand, &#x201C;Nomadland&#x201D;; Vanessa Kirby, &#x201C;Pieces of a Woman.&#x201D; The remaining nominee for best actor is Anthony Hopkins for the dementia drama &#x201C;The Father.&quot;</p>
-
-    
-            <p>With moviegoing nearly snuffed out by the coronavirus, the best-picture nominees had hardly any box office to speak of. For the first time, Hollywood&apos;s biggest and most sough-after awards belong to movies that were almost entirely seen at home.</p>
-
-    
-            <p>Netflix, as expected, led the pack with 35 nominations. The service is still gunning for its first best-picture winner, and this year has two shots in &#x201C;Mank&#x201D; and &#x201C;The Trial of the Chicago 7&#x201D; &#x2014; a movie Paramount Pictures sold off during the pandemic. Netflix led last year, too, with 24 nominations, but came away with just two wins.</p>
-
-    
-            <p>Other streamers were in the mix. Amazon, in particular, was well represented with &#x201C;Sound of Metal,&quot; &#x201C;Borat Subsequent Moviefilm&#x201D; and &#x201C;One Night in Miami&#x201D; &#x2014; leading to 12 nominations overall. Both Apple TV+ (&quot;Wolfwalkers,&quot; &#x201C;Greyhound&#x201D;) and Disney+ (&quot;Soul&quot;) landed their first nominations. The film that tried to lead a box-office revival &#x2014; Christopher Nolan&apos;s &#x201C;Tenet&#x201D; &#x2014; walked away with nominations for production design and visual effects.</p>
-
-    
-            <p>The nominations were announced  from London by presenters Nick Jonas and Priyanka Chopra Jonas. The Academy Awards would typically have happened by now but this year will be telecast April 25.</p>
-
-    
-            <p>The film academy confirmed Monday that the show will be held at both its usual home in the Dolby Theatre in Los Angeles and the city&apos;s railway hub, Union Station.</p>
-
-    
-            <p>This year&apos;s awards season &#x2014; typically a monthslong circuit of screenings, cocktail parties and schmoozing &#x2014; has been entirely virtual, taking much of the buzz and predictability out of the Oscars. Eligibility was extended to early 2021 releases and to movies that bypassed theaters.</p>
-
-    <aside class="article--content-inline"><aside class="zone">
-    
-<!-- hearst/home/mostPopular.tpl -->
-    
-                <div class="mostPopular">
-            <div class="collectionHeader">Most Popular</div>
-                                                                <ol class="mostPopular--list">
-                                                                                <li class="mostPopular--list-item">
-                                
-                                <a class="mostPopular--list-title hdn-analytics" href="/entertainment/article/The-Talk-Cancels-Shows-Amid-Investigation-16025433.php" title="&#x2018;The Talk&#x2019; Cancels Shows Amid Investigation Surrounding Sharon Osbourne Comments" data-hdn-analytics="visit|article-16025433|most_popular|0">&#x2018;The Talk&#x2019; Cancels Shows Amid Investigation Surrounding Sharon Osbourne Comments</a>
-                                                            </li>
-                                                                                <li class="mostPopular--list-item">
-                                
-                                <a class="mostPopular--list-title hdn-analytics" href="/coronavirus/article/Weird-COVID-vaccine-side-effect-UCSF-effective-16022325.php" title="Don&#x2019;t freak out about &#x2018;weird&#x2019; COVID-19 vaccine side effects. They may actually be a good sign." data-hdn-analytics="visit|article-16022325|most_popular|1">Don&#x2019;t freak out about &#x2018;weird&#x2019; COVID-19 vaccine side effects. They may actually be a good sign.</a>
-                                                            </li>
-                                                                                <li class="mostPopular--list-item">
-                                
-                                <a class="mostPopular--list-title hdn-analytics" href="/bayarea/article/Jessica-McClintock-SF-designer-of-countless-prom-16024891.php" title="Jessica McClintock, SF designer of countless prom dreams, dies at 90" data-hdn-analytics="visit|article-16024891|most_popular|2">Jessica McClintock, SF designer of countless prom dreams, dies at 90</a>
-                                                            </li>
-                                                                                <li class="mostPopular--list-item">
-                                
-                                <a class="mostPopular--list-title hdn-analytics" href="/realestate/slideshow/sf-Mission-apartment-private-elevator-access-rent-218987.php" title="Mission two-bedroom with private elevator access: Guess the rent in San Francisco" data-hdn-analytics="visit|slideshow-218987|most_popular|3">Mission two-bedroom with private elevator access: Guess the rent in San Francisco</a>
-                                                            </li>
-                                                                                <li class="mostPopular--list-item">
-                                
-                                <a class="mostPopular--list-title hdn-analytics" href="/news/bayarea/article/Second-Suspect-In-Assault-And-Robbery-Of-An-Uber-16025822.php" title="Second suspect in assault and robbery of SF Uber driver surrenders" data-hdn-analytics="visit|article-16025822|most_popular|4">Second suspect in assault and robbery of SF Uber driver surrenders</a>
-                                                            </li>
-                                                                                <li class="mostPopular--list-item">
-                                
-                                <a class="mostPopular--list-title hdn-analytics" href="/news/article/Storm-expected-to-hit-Northern-California-Sunday-16025329.php" title="Winter storm expected to hit Northern California" data-hdn-analytics="visit|article-16025329|most_popular|5">Winter storm expected to hit Northern California</a>
-                                                            </li>
-                                                                                <li class="mostPopular--list-item">
-                                
-                                <a class="mostPopular--list-title hdn-analytics" href="/sfhistory/article/See-stunning-footage-of-San-Francisco-four-days-16013456.php" title="See stunning footage of San Francisco four days before the 1906 earthquake" data-hdn-analytics="visit|article-16013456|most_popular|6">See stunning footage of San Francisco four days before the 1906 earthquake</a>
-                                                            </li>
-                                            
-                                    </ol></div>
-    <!--e hearst/home/mostPopular.tpl --></aside></aside>
-            <p>Among the films that had hoped for a better result Monday was Spike Lee&apos;s &#x201C;Da 5 Bloods&#x201D; &#x2014; which was nominated only for its score. Just eight out of a possible 10 movies were nominated for best picture, leaving out &#x201C;Ma Rainey&apos;s Black Bottom,&#x201D; Regina King&apos;s &#x201C;One Night in Miami&#x201D; and Golden Globe winner &#x201C;Borat Subsequent Moviefilm.&#x201D;</p>
-
-    
-            <p>Despite the disappointment on &#x201C;Borat,&#x201D; Sacha Baron Cohen was still a nominee for his supporting role as activist Abbie Hoffman in &#x201C;The Trial of the Chicago 7,&#x201D; and &#x201C;Borat&#x201D; star Maria Bakalova was nominated for best supporting actress. Also nominated in the category: Glenn Close for &#x201C;Hillbilly Elegy&#x201D; and Olivia Colman for &#x201C;The Father.&quot;</p>
-
-    
-            <p>The most competitive category might have been documentary, where &#x201C;Collective,&quot; &#x201C;Crip Camp: A Disability Revolution,&quot; &#x201C;The Mole Agent,&quot; My Octopus Teacher&#x201D; and &#x201C;Time&#x201D; ultimately landed nominations. &#x201C;Collective,&#x201D; the Romanian documentary about investigative journalism and government corruption, became just the second film nominated for both best documentary and best international film. The other international film nominees were &#x201C;Quo Vadis, Aida?,&#x201D; Bosnia and Herzegovina; &#x201C;Another Round,&#x201D; Denmark; &#x201C;Better Days,&#x201D; Hong Kong; and &#x201C;The Man Who Sold His Skin,&#x201D; Tunisia.</p>
-
-    
-            <p>The nominees for best animated feature: &#x201C;Onward&#x201D;; &#x201C;Over the Moon&#x201D;; &#x201C;A Shaun the Sheep Movie: Farmageddon&#x201D;; &#x201C;Soul&#x201D;; &#x201C;Wolfwalkers.&#x201D;</p>
-
-    
-            <p>The film academy and ABC will hope that the nominees can drum up more excitement than they have elsewhere. Interest in little golden statuettes has nosedived during the pandemic. Ratings for a largely virtual Golden Globes plunged to 6.9 million viewers &#x2014; a 64% drop from 2020 &#x2014; last month. Though on Sunday the Grammys managed to break through the Zoom trap.</p>
-
-    
-            <p>With the notable exception of fueling streaming subscriber growth, the pandemic has been punishing for the movie industry. Production slowed to a crawl, blockbusters were postponed or detoured to streaming and thousands have been laid off or furloughed.</p>
-
-    
-            <p>But the outlook for Hollywood has recently brightened as coronavirus cases have slid and vaccines have ramped up. Movie theaters are reopening in the U.S.&#x2019;s two largest markets, New York and Los Angeles. And several larger movies &#x2014; including the Walt Disney Co.&#x2019;s &#x201C;Black Widow&#x201D; (May 7) &#x2014; are scheduled for May and beyond.</p>
-
-    
-            <p>___</p>
-
-    
-            <p>Follow AP Film Writer Jake Coyle on Twitter at: <a href="http://twitter.com/jakecoyleAP" target="_blank">http://twitter.com/jakecoyleAP</a></p>
-
-    <section id="articleBottom" class="article--content-zone bottom"></section></div></article>]]></content:encoded>
-    </item>
     <item>
       <guid isPermaLink="true">https://www.sfgate.com/crime/article/Stranger-rescues-woman-carjacking-SF-Safeway-16026584.php</guid>
       <title>Stranger rescues elderly woman from assault, carjacking at San Francisco Safeway</title>
@@ -893,39 +222,7 @@
       <description>A stranger's quick thinking scared off the attackers.</description>
       <dc:creator>Joshua Bote</dc:creator>
       <category><![CDATA[News]]></category>
-      <content:encoded><![CDATA[<article class="article--content"><section id="articleTop" class="article--content-zone top"></section>
-    <!-- heart/article/content/photo.tpl -->
-<figure class=" extendFromGrid fXS fSM fMD fLG fXL">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1365" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/1200x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/2400x0.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/1150x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/2300x0.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/1100x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/2200x0.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/1050x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/2100x0.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/1000x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/2000x0.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/950x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1900x0.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/900x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1800x0.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/850x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/800x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/750x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/700x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/650x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/600x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/550x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/500x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/450x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/16/53/21/20624508/3/400x0.jpg 1x, https://s.hdnux.com/photos/01/16/53/21/20624508/3/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/16/53/21/20624508/3/1200x0.jpg" alt="People enter a Safeway grocery store in Oakland, Calif. on March 25, 2020."></picture><figcaption><span class="caption"><p>People enter a Safeway grocery store in Oakland, Calif. on March 25, 2020.</p></span><span class="credits">Douglas Zimmerman/SFGate</span></figcaption></figure>
-<!-- e heart/article/content/photo.tpl -->
+      <content:encoded><![CDATA[
             <p>A 75-year-old woman walked back to her car, a red Lexus, after a routine trip to Safeway early Thursday evening.</p>
 
     
@@ -997,7 +294,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg" alt="StackCommerce.">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg" alt="StackCommerce.">
                                                                     </picture>
                             </a>
                         </div>
@@ -1017,7 +314,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
+                                        <img src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
                                                                     </picture>
                             </a>
                         </div>
@@ -1037,7 +334,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg" alt=".">
+                                        <img src="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg" alt=".">
                                                                     </picture>
                             </a>
                         </div>
@@ -1057,7 +354,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg" alt="Tri-fold Woven Face Mask - 2-Pack, $18 at Huckberry">
+                                        <img src="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg" alt="Tri-fold Woven Face Mask - 2-Pack, $18 at Huckberry">
                                                                     </picture>
                             </a>
                         </div>
@@ -1077,7 +374,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg" alt="StackCommerce">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg" alt="StackCommerce">
                                                                     </picture>
                             </a>
                         </div>
@@ -1108,40 +405,7 @@
       <description>The back-end of a storm will bring unsettled weather.</description>
       <dc:creator>Amy Graff</dc:creator>
       <category><![CDATA[News]]></category>
-      <content:encoded><![CDATA[<article class="article--content"><section id="articleTop" class="article--content-zone top"></section>
-    <!-- heart/article/content/photo.tpl -->
-<figure class=" extendFromGrid fXS fSM fMD fLG fXL">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<picture class="image deferred threeTwo" data-width="2048" data-height="1365" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/1200x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/2400x0.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/1150x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/2300x0.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/1100x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/2200x0.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/1050x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/2100x0.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/1000x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/2000x0.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/950x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1900x0.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/900x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1800x0.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/850x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/800x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/750x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/700x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/650x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/600x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/550x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/500x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/450x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/16/33/24/20559151/3/400x0.jpg 1x, https://s.hdnux.com/photos/01/16/33/24/20559151/3/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/16/33/24/20559151/3/1200x0.jpg" alt="Birds fly near Pacifica Pier in Pacifica, Calif., Monday, Jan. 11, 2021."></picture><figcaption><span class="caption"><p>Birds fly near Pacifica Pier in Pacifica, Calif., Monday, Jan. 11, 2021.</p></span><span class="credits">Jeff Chiu/Associated Press</span></figcaption></figure>
-<!-- e heart/article/content/photo.tpl -->
-            <p>A cold frontal boundary passed through the Bay Area late Sunday night into early Monday morning, and today the back-end of the storm will linger, bringing scattered showers, strong winds and a slight chance of thunderstorms, small hail and low-elevation snow. The system pushed a mass of cold air into the area, and temperatures are expected to be chilly in the first half of the work week.</p>
+      <content:encoded><![CDATA[<p>A cold frontal boundary passed through the Bay Area late Sunday night into early Monday morning, and today the back-end of the storm will linger, bringing scattered showers, strong winds and a slight chance of thunderstorms, small hail and low-elevation snow. The system pushed a mass of cold air into the area, and temperatures are expected to be chilly in the first half of the work week.</p>
 
     
             <p>&quot;We are now in the post-frontal environment,&quot; said Drew Peterson, a forecaster for the National Weather Service office in Monterey, Calif. &quot;We&apos;ll see scattered showers mainly along the coast and over the water but some will filter over the Bay Area. Thunderstorms looking unlikely, probably 5% chance for the land areas. We will see the strongest showers over the water.&quot;</p>
@@ -1214,7 +478,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/64/20696325/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/64/20696325/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/64/20696325/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/64/20696325/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/64/20696325/3/ratio1x1_95.jpg" alt="StackCommerce">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/64/20696325/3/ratio1x1_95.jpg" alt="StackCommerce">
                                                                     </picture>
                             </a>
                         </div>
@@ -1234,7 +498,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
+                                        <img src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
                                                                     </picture>
                             </a>
                         </div>
@@ -1254,7 +518,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/30/31/20547146/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/30/31/20547146/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/30/31/20547146/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/30/31/20547146/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/30/31/20547146/3/ratio1x1_95.jpg" alt="A variety of masks types frequently seen during the COVID-19 pandemic.">
+                                        <img src="https://s.hdnux.com/photos/01/16/30/31/20547146/3/ratio1x1_95.jpg" alt="A variety of masks types frequently seen during the COVID-19 pandemic.">
                                                                     </picture>
                             </a>
                         </div>
@@ -1274,7 +538,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/65/20696440/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/65/20696440/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/65/20696440/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/65/20696440/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/65/20696440/3/ratio1x1_95.jpg" alt="StackCommerce">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/65/20696440/3/ratio1x1_95.jpg" alt="StackCommerce">
                                                                     </picture>
                             </a>
                         </div>
@@ -1294,7 +558,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/62/20696245/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/62/20696245/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/62/20696245/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/62/20696245/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/62/20696245/3/ratio1x1_95.jpg" alt="StackCommerce">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/62/20696245/3/ratio1x1_95.jpg" alt="StackCommerce">
                                                                     </picture>
                             </a>
                         </div>
@@ -1418,7 +682,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg" alt="StackCommerce.">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/72/20696727/3/ratio1x1_95.jpg" alt="StackCommerce.">
                                                                     </picture>
                             </a>
                         </div>
@@ -1438,7 +702,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
+                                        <img src="https://s.hdnux.com/photos/01/16/61/20/20649000/5/ratio1x1_95.jpg" alt="Firstleaf wine club - try your first box for $39.95">
                                                                     </picture>
                             </a>
                         </div>
@@ -1458,7 +722,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg" alt=".">
+                                        <img src="https://s.hdnux.com/photos/01/16/37/56/20577196/3/ratio1x1_95.jpg" alt=".">
                                                                     </picture>
                             </a>
                         </div>
@@ -1478,7 +742,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg" alt="Tri-fold Woven Face Mask - 2-Pack, $18 at Huckberry">
+                                        <img src="https://s.hdnux.com/photos/01/16/13/16/20493222/3/ratio1x1_95.jpg" alt="Tri-fold Woven Face Mask - 2-Pack, $18 at Huckberry">
                                                                     </picture>
                             </a>
                         </div>
@@ -1498,7 +762,7 @@
                                 <picture class="deferred oneOne" data-progressive="true" data-component="picture">
                                                                             <source data-srcset="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_82.jpg 1x, https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_164.jpg 2x" media="(min-width: 58rem)">
                                         <source data-srcset="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg 1x, https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_190.jpg 2x" media="(min-width: 20rem)">
-                                        <img data-src="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg" alt="StackCommerce">
+                                        <img src="https://s.hdnux.com/photos/01/16/74/70/20696585/3/ratio1x1_95.jpg" alt="StackCommerce">
                                                                     </picture>
                             </a>
                         </div>
