@@ -11,9 +11,46 @@
     <title>stylesheet - master</title>
     <description>stylesheet - master</description>
     <pubDate>Sat, 21 Nov 2020 06:51:35 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Mar 2021 11:09:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Mar 2021 12:24:35 +0000</lastBuildDate>
     <link>https://wearemathematics.co.uk</link>
     <language>en-US</language>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1825499317189</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[stylesheet - caption loading - 22/03/21]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 22 Mar 2021 12:24:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <flatplan:parameters isPreview="false" accessoryText="My accessory Text" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
+      <category>
+        category
+      </category>
+
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <!-- body-->
+
+        <figcaption>fig caption</figcaption>
+
+        <section class="flatplan-stack" data-stack-id="image-caption">
+          <section>
+            <p>stack caption</p>
+          </section>
+        </section>
+
+        <p>Body — <b>Bold — b tag</b> dream <strong>Bold — strong tag</strong> of breaking <em>Italic — em tag</em> the music industry <i>Italic — i tag</i> but so few <a href="https://www.hellomagazine.com/tags/joe-wicks/" target="_blank" rel="">Linky</a> actually do. It’s hard work and it takes dedication, knowledge, and drive. <b>No one knows that more than Tuma Basa</b>, currently working as the<i> Director of Black Music and Culture</i> at YouTube and the most recent guest on Turning Point with Mo Kheirs. He’s a pretty huge deal, but he didn’t land this role overnight.&nbsp; </p>
+
+        ]]>
+      </content:encoded>
+    </item>
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
@@ -34,7 +71,7 @@
 
         <h3>Apify raw - SFGATE</h3>
 
-        <article class="article--content"><section id="articleTop" class="article--content-zone top"></section> <!-- heart/article/content/photo.tpl --> <figure class=" extendFromGrid fXS fSM fMD fLG fXL"> <picture class="image deferred threeTwo" data-width="2048" data-height="1365" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2400x0.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1150x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2300x0.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1100x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2200x0.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1050x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2100x0.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1000x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2000x0.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/950x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1900x0.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/900x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1800x0.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg" alt="California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif."></picture><figcaption><span class="caption"><p>California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif.</p></span><span class="credits">Justin Sullivan / Getty Images</span></figcaption></figure> <!-- e heart/article/content/photo.tpl --> 
+        <article class="article--content"><section id="articleTop" class="article--content-zone top"></section> <!-- heart/article/content/photo.tpl --> <figure class=" extendFromGrid fXS fSM fMD fLG fXL"> <picture class="image deferred threeTwo" data-width="2048" data-height="1365" data-progressive="true" data-component="picture"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2400x0.jpg 2x" media="(min-width: 1292px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1150x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2300x0.jpg 2x" media="(min-width: 1230px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1100x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2200x0.jpg 2x" media="(min-width: 1168px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1050x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2100x0.jpg 2x" media="(min-width: 1106px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1000x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/2000x0.jpg 2x" media="(min-width: 1044px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/950x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1900x0.jpg 2x" media="(min-width: 982px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/900x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1800x0.jpg 2x" media="(min-width: 920px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/850x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1700x0.jpg 2x" media="(min-width: 858px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/800x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1600x0.jpg 2x" media="(min-width: 796px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/750x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1500x0.jpg 2x" media="(min-width: 734px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/700x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1400x0.jpg 2x" media="(min-width: 672px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/650x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1300x0.jpg 2x" media="(min-width: 610px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/600x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg 2x" media="(min-width: 548px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/550x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1100x0.jpg 2x" media="(min-width: 486px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/500x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/1000x0.jpg 2x" media="(min-width: 424px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/450x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/900x0.jpg 2x" media="(min-width: 362px)"><source data-srcset="https://s.hdnux.com/photos/01/17/11/75/20750146/8/400x0.jpg 1x, https://s.hdnux.com/photos/01/17/11/75/20750146/8/800x0.jpg 2x" media="(min-width: 300px)"><img class="landscape" data-src="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg" alt="California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif."></picture><figcaption><span class="caption"><p>California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif.</p></span><span class="credits">Justin Sullivan / Getty Images</span></figcaption></figure> <!-- e heart/article/content/photo.tpl -->
 
 
         <h3>Apify edited (removed <picture> and all <source> tags   - SFGATE</h3>
@@ -42,7 +79,7 @@
         <figure class=" extendFromGrid fXS fSM fMD fLG fXL"> <img class="landscape" data-src="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg" alt="California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif."><figcaption><span class="caption"><p>California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif.</p></span><span class="credits">Justin Sullivan / Getty Images</span></figcaption></figure>
 
         <h3>Apify edited (clean picture > figure > img data-src=)</h3>
-        
+
         <picture><figure class=" extendFromGrid fXS fSM fMD fLG fXL"> <img class="landscape" data-src="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg" alt="California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif."><figcaption><span class="caption"><p>California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif.</p></span><span class="credits">Justin Sullivan / Getty Images</span></figcaption></figure></picture>
 
 <h3>Shorthand raw - NBC - Villians</h3>
@@ -78,7 +115,7 @@
 
         <h3>Shorthand - stylesheet - basic</h3>
 
-        
+
       <div id="section-hon1YffHYJ" class="Theme-Section Theme-TextSection Theme-Section-Position-2 Theme-Section-Layout--Full Theme-Section-Light Theme-BodyTextColumn-Center Theme-Section-HasOverlay Theme-Columns--1">
         <div class="Layout Layer--one">
           <div class="Layout__row">
@@ -258,10 +295,10 @@
               </div>
             </div>
           </div>
-          
+
         <h3>Shorthand - stylesheet - advanced</h3>
 
-         
+
       <div id="section-ErFDG7xYM3" class="Theme-Section Theme-TextOverMediaSection Theme-Section-Position-2 DisplayContainerHeight DisplayContainerHeight--minHeight DisplayContainerHeight--flex Theme-Section-Layout--Full Theme-Section-Dark Theme-Section-HasOverlay">
         <div class="Layout FullSize--fullHeight Theme-Layer-TextBlock Layer--one">
           <div class="Layout__flex--xcenter Layout__flex--ycenter Theme-Layer-TextBlock-Container" data-scrollymoly-basis="true">
