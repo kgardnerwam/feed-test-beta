@@ -600,7 +600,7 @@
                   </figure>
                   <figure class="InlineMedia InlineMedia--youTube">
                     <div class="Videoplayer Videoplayer--responsive">
-                      <iframe data-projection="rectangular" data-videoplayer-youtube="true" data-video-id="IB-3R70GS7M" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="https://www.youtube.com/embed/IB-3R70GS7M?rel=0&amp;enablejsapi=1&amp;origin=https%3A%2F%2Fpreview.shorthand.com&amp;widgetid=1" id="widget2"></iframe>
+                      <iframe data-projection="rectangular" data-videoplayer-youtube="true" data-video-id="IB-3R70GS7M" frameborder="0" allowfullscreen="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" title="YouTube video player" width="640" height="360" src="https://www.youtube.com/embed/IB-3R70GS7M?rel=0&amp;enablejsapi=1&amp;origin=https://preview.shorthand.com&amp;widgetid=1" id="widget2"></iframe>
                     </div>
                     <figcaption class="Theme-Caption Theme-InlineMediaCaption">
                       <p class="">Media - inline - video - youtube - caption</p>
@@ -1393,7 +1393,7 @@
 
         <p>iframe tag with jwpalyer (Rebelmouse / Big Think example) encoded characters</p>
 
-        <iframe src="https://www.rebelmouse.com/res/scraper/embed/?jwplayer_video_url=https%3A%2F%2Fcontent.jwplatform.com%2Fplayers%2FuajyUEbV-FvQKszTI.js" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen="true" allow="autoplay; fullscreen; encrypted-media"></iframe>
+        <iframe src="https://www.rebelmouse.com/res/scraper/embed/?jwplayer_video_url=https://content.jwplatform.com/players/uajyUEbV-FvQKszTI.js" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen="true" allow="autoplay; fullscreen; encrypted-media"></iframe>
 
         <p>iframe tag with jwpalyer (Hello example)</p>
 
