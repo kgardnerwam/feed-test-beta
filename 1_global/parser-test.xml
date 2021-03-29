@@ -1387,9 +1387,13 @@
           </div>
         </div>
 
-        <p>iframe tag with jwpalyer (Rebelmouse / Big Think example)</p>
+        <p>iframe tag with jwpalyer (Rebelmouse / Big Think example) no encoding</p>
 
         <iframe src="https://www.rebelmouse.com/res/scraper/embed/?jwplayer_video_url=https://content.jwplatform.com/players/q0yvhcBv-FvQKszTI.js" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen="true" allow="autoplay; fullscreen; encrypted-media"></iframe>
+
+        <p>iframe tag with jwpalyer (Rebelmouse / Big Think example) encoded characters</p>
+
+        <iframe src="https://www.rebelmouse.com/res/scraper/embed/?jwplayer_video_url=https%3A%2F%2Fcontent.jwplatform.com%2Fplayers%2FuajyUEbV-FvQKszTI.js" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen="true" allow="autoplay; fullscreen; encrypted-media"></iframe>
 
         <p>iframe tag with jwpalyer (Hello example)</p>
 
