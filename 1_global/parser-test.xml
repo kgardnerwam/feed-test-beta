@@ -1356,6 +1356,59 @@
 
     </item>
 
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">192373421256744</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[stylesheet - body component - video]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 29 Mar 2021 14:51:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <category>Article category</category>
+      <content:encoded>
+        <![CDATA[
+
+        <!-- video -->
+
+        <p>youtube</p>
+
+        <iframe width=" 480" height="270" src="https://www.youtube.com/embed/_GoEuEZA1Ts?feature=oembed" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+        <p>vimeo</p>
+
+        <div class="content-builder__block content-builder__block--youtube-or-vimeo" data-block="325809">
+          <div class="content-builder__block--l">
+            <div class="video video--vimeo video--horizontal">
+              <iframe src="https://player.vimeo.com/video/136303529" frameborder="0" allowfullscreen="true" allowscriptaccess="true" allow="autoplay; encrypted-media"></iframe>
+            </div>
+          </div>
+        </div>
+
+        <p>iframe tag with jwpalyer (Rebelmouse / Big Think example)</p>
+
+        <iframe src="https://www.rebelmouse.com/res/scraper/embed/?jwplayer_video_url=https://content.jwplatform.com/players/q0yvhcBv-FvQKszTI.js" width="100%" height="100%" frameborder="0" scrolling="no" allowfullscreen="true" allow="autoplay; fullscreen; encrypted-media"></iframe>
+
+        <p>iframe tag with jwpalyer (Hello example)</p>
+
+        <fieldset class="video video-en" data-autoplay="false" data-idplayer="" data-idvideo="vhkilwKE" data-isplayercodeneeded="true" data-provider="jwplayer" data-videoads="false"><iframe frameborder="0" width="560" height="315" src="https://cdn.jwplayer.com/players/vhkilwKE-UU9GOUT4.html"></iframe></fieldset>
+
+        <p>iframe tag with jwpalyer (Hello example removed <fieldset> wrapper)</p>
+
+        <iframe frameborder="0" width="560" height="315" src="https://cdn.jwplayer.com/players/vhkilwKE-UU9GOUT4.html"></iframe>
+
+        <p>iframe tag with jwpalyer (Hola example)</p>
+
+        <iframe frameborder="0" width="560" height="315" src="https://content.jwplatform.com/videos/FxCOVjYJ.mp4?player=jwplayer"></iframe>
+
+
+        ]]>
+      </content:encoded>
+
+    </item>
+
 
   </channel>
 </rss>
