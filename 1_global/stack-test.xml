@@ -32,7 +32,7 @@
       <content:encoded>
         <![CDATA[
 
-        <section class="flatplan-stack" data-stack-id="bt-author">
+        <section class="flatplan-stack" data-stack-id="bt-inline-author">
           <!--wrap each group of content in a section-->
           <section>
             <section>
