@@ -32,6 +32,19 @@
       <content:encoded>
         <![CDATA[
 
+        <section class="flatplan-stack" data-stack-id="bt-author">
+          <!--wrap each group of content in a section-->
+          <section>
+            <section>
+              <img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNTI2MDUxNi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY2Mjk4MjE2Mn0.GMJGgkZy7msnyM2SWmmuw32g8R_786GWI5kEsxx3HoA/img.png?width=210" data-use-stack="false">
+            </section>
+          </section>
+          <section>
+            <h3>author name</h3>
+            <p>author bio</p>
+          </section>
+        </section>
+
         ]]>
       </content:encoded>
     </item>
