@@ -40,7 +40,7 @@
 
         <figcaption>fig caption</figcaption>
 
-        <figcaption>Caption details<br/>Credit: <a href="https://www.gettyimages.com/detail/news-photo/employees-work-to-create-to-go-donation-meals-for-a-company-news-photo/1214260381" target="_blank">Stephanie Keith/Getty Images</a></figcaption>
+        <figcaption>Caption details<br>Credit: <a href="https://www.gettyimages.com/detail/news-photo/employees-work-to-create-to-go-donation-meals-for-a-company-news-photo/1214260381" target="_blank">Stephanie Keith/Getty Images</a></figcaption>
 
         <section class="flatplan-stack" data-stack-id="image-caption">
           <section>
