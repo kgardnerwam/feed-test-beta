@@ -33,18 +33,41 @@
         <![CDATA[
 
         <section class="flatplan-stack" data-stack-id="bt-inline-author-image">
-          <!--wrap each group of content in a section-->
           <section>
             <img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNTI2MDUxNi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY2Mjk4MjE2Mn0.GMJGgkZy7msnyM2SWmmuw32g8R_786GWI5kEsxx3HoA/img.png?width=210" data-use-stack="false">
           </section>
         </section>
         <section class="flatplan-stack" data-stack-id="bt-inline-author-text">
-          <!--wrap each group of content in a section-->
           <section>
             <h3>author name</h3>
             <p>author bio</p>
           </section>
         </section>
+
+        <section class="flatplan-stack" data-stack-id="bt-amazon-assets">
+          <section>
+            <img src="https://m.media-amazon.com/images/I/51I+5TEhUdL.jpg" data-use-stack="false">
+          </section>
+          <section>
+            <h3><a href="">Book title</a></h3>
+            <p>list-price</p>
+            <p>new-price</p>
+            <p>used-price</p>
+          </section>
+        </section>
+
+        <section class="flatplan-stack" data-stack-id="bt-amazon-assets">
+          <section>
+            <img src="https://m.media-amazon.com/images/I/51I+5TEhUdL.jpg" data-use-stack="false">
+          </section>
+          <section>
+            <h3><a href="">Book title</a></h3>
+            <p>list-price</p>
+            <p>new-price</p>
+            <p>used-price</p>
+          </section>
+        </section>
+
 
         ]]>
       </content:encoded>
