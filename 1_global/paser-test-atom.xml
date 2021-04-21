@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB">
+   <title type="text">FlatPlan Atom master</title>
+   <subtitle type="text">Youth and pop culture provocateurs since 1991. Fearless fashion, music, art, film, politics and ideas from today's bleeding edge. Declare Independence.</subtitle>
+   <id>https://flatplan.io/</id>
+   <updated>2021-04-21T14:38:32Z</updated>
+   <author>
+      <name>DFaltplan</name>
+      <uri>https://flatplan.io/</uri>
+      <email>support@wearemathematics.co.uk</email>
+   </author>
+   <link rel="alternate" href="https://flatplan.io/how-wordpress-publishers-get-on-apple-news/" />
+   <link rel="self" href="https://flatplan.io/how-wordpress-publishers-get-on-apple-news/" />
+   <entry>
+      <id>52544</id>
+      <title type="text">Article title - category test</title>
+      <summary type="html">Article intro</summary>
+      <published>2021-04-21T11:43:00Z</published>
+      <updated>2021-04-21T11:43:00Z</updated>
+      <author>
+         <name>A. Name</name>
+      </author>
+      <category term="category"/>
+      <link rel="alternate" href="https://flatplan.io/how-wordpress-publishers-get-on-apple-news/" />
+      <content type="html"><![CDATA[<h1>What does a heading look like?</h1>
+]]></content>
+   </entry>
+</feed>
