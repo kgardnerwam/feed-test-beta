@@ -120,7 +120,7 @@
 
         <picture><figure class=" extendFromGrid fXS fSM fMD fLG fXL"> <img class="landscape" data-src="https://s.hdnux.com/photos/01/17/11/75/20750146/8/1200x0.jpg" alt="California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif."><figcaption><span class="caption"><p>California Gov. Gavin Newsom pauses during a news conference after touring Barron Park Elementary School on March 2, 2021, in Palo Alto, Calif.</p></span><span class="credits">Justin Sullivan / Getty Images</span></figcaption></figure></picture>
 
-<h3>Shorthand raw - NBC - Villians</h3>
+        <h3>Shorthand raw - NBC - Villians</h3>
 
         <figure class="InlineMedia InlineMedia--image null Lazyload--isLoaded" data-lazyload-container="true" data-lazyload-trigger="true">
                     <div class="InlineMedia--image__inner">
@@ -788,7 +788,18 @@
       </div>
 
 
-        <h3>Pure example</h3>
+        <h3>Shorthand x Apify x NBC</h3>
+
+        <picture>
+   <!--[if IE 9]>
+   <video style="display: none;">
+      <![endif]--> 
+      <source media="(min-width: 901px)" data-srcset="./assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg">
+      <source media="(max-width: 900px)" data-srcset="./assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg">
+      <!--[if IE 9]>
+   </video>
+   <![endif]--><img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+</picture>
 
 
 
