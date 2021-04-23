@@ -47,7 +47,21 @@
         
         <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
 
+        <div class="Theme-Caption Layout">
+            <div class="Display--none Display--md-block">
+              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
+            </div>
+            <div class="Display--md-none">
+              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
+            </div>
+          </div>
 
+          <figcaption>
+            <div class="Display--none Display--md-block">
+              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
+            </div>
+           
+          </figcaption>
 
 
         ]]>
