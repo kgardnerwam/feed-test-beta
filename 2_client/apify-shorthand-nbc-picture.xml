@@ -62,11 +62,11 @@
                                  
                                </div>
                                <div data-lazyload-item="true" class="FullSize">
-                                 <picture>
+                                 
                                    <!--[if IE 9]><video style="display: none;"><![endif]-->
                                    
                                    
-                                   <!--[if IE 9]></video><![endif]--><img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/7JxNRJMZS5/210114-djt-protest-shorthand-jm-02-2000x1333.jpeg" alt></picture>
+                                   <!--[if IE 9]></video><![endif]--><img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/7JxNRJMZS5/210114-djt-protest-shorthand-jm-02-2000x1333.jpeg" alt>
                                </div>
                              </div>
                              <figcaption class="Theme-Caption Theme-InlineMediaCaption">
