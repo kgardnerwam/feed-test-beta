@@ -19,7 +19,7 @@
          https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/</link>
          <guid isPermaLink="true">https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/</guid>
          <content:encoded>
-            <![ CDATA[<article id="article" class="Core--rootElement Theme-Story" role="main">
+            <![CDATA[<article id="article" class="Core--rootElement Theme-Story" role="main">
                <div id="section-n3wr1nMUsv" class="Theme-Section Theme-CustomHtmlSection Theme-Section-Position-2 Theme-Section-Layout--Full">
                  <div class="Layer--one">
                    <section class="flatplan-stack" data-stack-id="sh-fallback-to-source">
@@ -175,10 +175,10 @@
                  <div class="InstantImage InstantImage--isLoading Theme-Layer-ResponsiveMedia Theme-Layer-ResponsiveMedia-image Layer--one">
                    <div data-lazyload-container="true" data-lazyload-trigger="true" class="Lazyload Lazyload--isLoading">
                      <div class="Lazyload__loading" aria-hidden="true">
-                       <div class="Responsive--hide-portrait Theme-Lazyload-Box"><img class="FullSize--basic" alt>
+                       <div class="Responsive--hide-portrait Theme-Lazyload-Box"><img src class="FullSize--basic" alt>
                          <div class="Lazyload__spinner Theme-Lazyload-Spinner"></div>
                        </div>
-                       <div class="Responsive--hide-landscape Theme-Lazyload-Box"><img class="FullSize--basic" alt>
+                       <div class="Responsive--hide-landscape Theme-Lazyload-Box"><img src class="FullSize--basic" alt>
                          <div class="Lazyload__spinner Theme-Lazyload-Spinner"></div>
                        </div>
                      </div>
@@ -216,10 +216,10 @@
                  <div class="InstantImage InstantImage--isLoading Theme-Layer-ResponsiveMedia Theme-Layer-ResponsiveMedia-image Layer--one">
                    <div data-lazyload-container="true" data-lazyload-trigger="true" class="Lazyload Lazyload--isLoading">
                      <div class="Lazyload__loading" aria-hidden="true">
-                       <div class="Responsive--hide-portrait Theme-Lazyload-Box"><img class="FullSize--basic" alt>
+                       <div class="Responsive--hide-portrait Theme-Lazyload-Box"><img src class="FullSize--basic" alt>
                          <div class="Lazyload__spinner Theme-Lazyload-Spinner"></div>
                        </div>
-                       <div class="Responsive--hide-landscape Theme-Lazyload-Box"><img class="FullSize--basic" alt>
+                       <div class="Responsive--hide-landscape Theme-Lazyload-Box"><img src class="FullSize--basic" alt>
                          <div class="Lazyload__spinner Theme-Lazyload-Spinner"></div>
                        </div>
                      </div>
@@ -648,10 +648,10 @@
                  <div class="InstantImage InstantImage--isLoading Theme-Layer-ResponsiveMedia Theme-Layer-ResponsiveMedia-image Layer--one">
                    <div data-lazyload-container="true" data-lazyload-trigger="true" class="Lazyload Lazyload--isLoading">
                      <div class="Lazyload__loading" aria-hidden="true">
-                       <div class="Responsive--hide-portrait Theme-Lazyload-Box"><img class="FullSize--basic" alt>
+                       <div class="Responsive--hide-portrait Theme-Lazyload-Box"><img src class="FullSize--basic" alt>
                          <div class="Lazyload__spinner Theme-Lazyload-Spinner"></div>
                        </div>
-                       <div class="Responsive--hide-landscape Theme-Lazyload-Box"><img class="FullSize--basic" alt>
+                       <div class="Responsive--hide-landscape Theme-Lazyload-Box"><img src class="FullSize--basic" alt>
                          <div class="Lazyload__spinner Theme-Lazyload-Spinner"></div>
                        </div>
                      </div>
