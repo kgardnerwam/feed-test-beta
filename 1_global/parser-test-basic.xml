@@ -48,7 +48,19 @@
             <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
           </picture>
 
-        <h3>Shorthand x Apify x NBC</h3>
+        <h3>Shorthand x Apify x NBC v2. - picture, img, data-src</h3>
+
+        <picture> 
+<!--[if IE 9]>
+<video style="display: none;">
+<![endif]--> 
+<!--[if IE 9]></video>
+<![endif]-->
+<img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump//assets/7JxNRJMZS5/210114-djt-protest-shorthand-jm-02-2000x1333.jpeg" alt>
+        </picture>
+
+
+        <h3>Shorthand x Apify x NBC — img, data-src</h3>
         
         <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
 
