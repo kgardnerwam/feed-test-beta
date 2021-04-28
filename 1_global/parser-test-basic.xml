@@ -82,7 +82,15 @@
 
         <h3>Shorthand x Apify x NBC — figure, video</h3>
 
-        <figure data-videoplayer="true" class="InlineMedia InlineMedia--video"><video data-videoplayer-media="true" poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" preload="auto" controls playsinline data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
+        <figure data-videoplayer="true" class="InlineMedia InlineMedia--video">
+          <video
+            data-videoplayer-media="true"
+            poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
+            preload="auto" controls playsinline
+            data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
+            data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
+            data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"
+            data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
             <p>Your browser does not support this video</p>
           </video>
           <figcaption class="Theme-Caption Theme-InlineMediaCaption">
@@ -97,10 +105,18 @@
             <p>Your browser does not support this video</p>
           </video>
 
-          <h3>Shorthand x Apify x NBC — video no src</h3>
+        <h3>Shorthand x Apify x NBC — video src</h3>
 
-          <video data-videoplayer-media="true" poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" preload="auto" controls playsinline data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
-            </video>
+          <video src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"</video>
+
+          <h3>Shorthand x Apify x NBC — video, source, src</h3>
+
+          <video width="320" height="240" controls>
+            <source src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" type="video/mp4">
+            <source src="movie.ogg" type="video/ogg">
+            <p>Your browser does not support the video tag</p>
+          </video>
+
 
 
         <div class="Theme-Caption Layout">
