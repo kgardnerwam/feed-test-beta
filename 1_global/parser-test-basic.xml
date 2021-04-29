@@ -80,6 +80,44 @@
 
         <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
 
+        <h3>Shorthand x Apify x NBC — img, data-src</h3>
+
+          <div class="Layer--two FullSize FullSize--scrollChild FullSize--child Theme-BackgroundMedia Theme-BackgroundVideo" data-background-video="true">
+            <div class="FullSize--fullWidth FullSize--fullHeight PositionSticky BackgroundVideo__sticky">
+              <video
+                data-video="true"
+                loop="loop"
+                muted="muted"
+                autoplay="autoplay"
+                class="FullSize--basic ObjectFit--cover"
+                playsinline="playsinline"
+                data-landscape="./assets/One7ZmlK1H/tx_bts_coach_v2.mp4"
+                data-landscape-focal="50% 50%"
+                data-portrait="./assets/One7ZmlK1H/tx_bts_coach_v2.mp4"
+                data-portrait-focal="50% 50%"
+                data-type="video/mp4"
+                tabindex="0">
+                <source src="https://www.nbcnews.com/specials/back-at-school-texas-parent-teacher-football-coach-student/assets/One7ZmlK1H/tx_bts_coach_v2.mp4" type="video/mp4"></video>
+                <picture class="FullSize--fullWidth FullSize--fullHeight BackgroundVideo__fallback FullSize--scrollChild Levels--basement Theme-Item-Picture" data-landscape-focal="50% 50%" data-portrait-focal="50% 50%">
+                  <img
+                    class="FullSize FullSize--fullWidth FullSize--fullHeight ObjectFit--cover"
+                    src="https://www.nbcnews.com/specials/back-at-school-texas-parent-teacher-football-coach-student/assets/40kzxjgvDY/fallback-1920x1080.jpeg"
+                    alt="alt"
+                    style="object-position:50% 50%"></picture>
+                  <div class="FullSize Theme-Overlay Theme-Section-Light" style="opacity:0.3;background-color:#FFFFFF"></div>
+                  <div class="Caption--hasOverlay Theme-OverlayedCaption">
+                    <figcaption>
+                      <div class="Responsive--hide-portrait">
+                        <p class="class">Bobby Estes on his rowing machine. (Jaime Carrero / for NBC News)</p>
+                      </div>
+                    </figcaption>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+
         <h3>Shorthand x Apify x NBC — figure, video</h3>
 
         <figure data-videoplayer="true" class="InlineMedia InlineMedia--video">
