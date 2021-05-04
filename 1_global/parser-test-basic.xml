@@ -160,103 +160,6 @@
          </picture>
         </figure>
 
-        
-				
-
-
-        <h3>Shorthand x Apify x NBC — img, data-src</h3>
-
-          <div class="Layer--two FullSize FullSize--scrollChild FullSize--child Theme-BackgroundMedia Theme-BackgroundVideo" data-background-video="true">
-            <div class="FullSize--fullWidth FullSize--fullHeight PositionSticky BackgroundVideo__sticky">
-              <video
-                data-video="true"
-                loop="loop"
-                muted="muted"
-                autoplay="autoplay"
-                class="FullSize--basic ObjectFit--cover"
-                playsinline="playsinline"
-                data-landscape="./assets/One7ZmlK1H/tx_bts_coach_v2.mp4"
-                data-landscape-focal="50% 50%"
-                data-portrait="./assets/One7ZmlK1H/tx_bts_coach_v2.mp4"
-                data-portrait-focal="50% 50%"
-                data-type="video/mp4"
-                tabindex="0">
-                <source src="https://www.nbcnews.com/specials/back-at-school-texas-parent-teacher-football-coach-student/assets/One7ZmlK1H/tx_bts_coach_v2.mp4" type="video/mp4"></video>
-                <picture class="FullSize--fullWidth FullSize--fullHeight BackgroundVideo__fallback FullSize--scrollChild Levels--basement Theme-Item-Picture" data-landscape-focal="50% 50%" data-portrait-focal="50% 50%">
-                  <img
-                    class="FullSize FullSize--fullWidth FullSize--fullHeight ObjectFit--cover"
-                    src="https://www.nbcnews.com/specials/back-at-school-texas-parent-teacher-football-coach-student/assets/40kzxjgvDY/fallback-1920x1080.jpeg"
-                    alt="alt"
-                    style="object-position:50% 50%"></picture>
-                  <div class="FullSize Theme-Overlay Theme-Section-Light" style="opacity:0.3;background-color:#FFFFFF"></div>
-                  <div class="Caption--hasOverlay Theme-OverlayedCaption">
-                    <figcaption>
-                      <div class="Responsive--hide-portrait">
-                        <p class="class">Bobby Estes on his rowing machine. (Jaime Carrero / for NBC News)</p>
-                      </div>
-                    </figcaption>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-
-        <h3>Shorthand x Apify x NBC — figure, video</h3>
-
-        <figure data-videoplayer="true" class="InlineMedia InlineMedia--video">
-          <video
-            data-videoplayer-media="true"
-            poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
-            preload="auto" controls playsinline
-            data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
-            data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
-            data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"
-            data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
-            <p>Your browser does not support this video</p>
-          </video>
-          <figcaption class="Theme-Caption Theme-InlineMediaCaption">
-            <div class="Display--none Display--md-block"></div>
-            <div class="Display--md-none"></div>
-          </figcaption>
-        </figure>
-
-        <h3>Shorthand x Apify x NBC — video no src</h3>
-
-        <video data-videoplayer-media="true" poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" preload="auto" controls playsinline data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
-            <p>Your browser does not support this video</p>
-          </video>
-
-        <h3>Shorthand x Apify x NBC — video src</h3>
-
-          <video src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"</video>
-
-          <h3>Shorthand x Apify x NBC — video, source, src</h3>
-
-          <video width="320" height="240" controls>
-            <source src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" type="video/mp4">
-            <p>Your browser does not support the video tag</p>
-          </video>
-
-
-
-        <div class="Theme-Caption Layout">
-            <div class="Display--none Display--md-block">
-              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
-            </div>
-            <div class="Display--md-none">
-              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
-            </div>
-          </div>
-
-          <figcaption>
-            <div class="Display--none Display--md-block">
-              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
-            </div>
-
-          </figcaption>
-
-
         ]]>
       </content:encoded>
     </item>
@@ -282,9 +185,16 @@
       <content:encoded>
         <![CDATA[
 
+	<h3>WC3 structure - <video>, <source> src, </h3>
+
+        <video width="320" height="240" controls>
+         <source src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" type="video/mp4">
+         Your browser does not support the video tag
+        </video>
 
 
-        <h3>Shorthand x Apify x NBC — img, data-src</h3>
+
+        <h3><video>, <source> src, <picture> <img> src, <figcaption> (Shorthand x Apify x NBC — "Theme-BackgroundVideo" example)/h3>
 
           <div class="Layer--two FullSize FullSize--scrollChild FullSize--child Theme-BackgroundMedia Theme-BackgroundVideo" data-background-video="true">
             <div class="FullSize--fullWidth FullSize--fullHeight PositionSticky BackgroundVideo__sticky">
@@ -307,74 +217,41 @@
                     class="FullSize FullSize--fullWidth FullSize--fullHeight ObjectFit--cover"
                     src="https://www.nbcnews.com/specials/back-at-school-texas-parent-teacher-football-coach-student/assets/40kzxjgvDY/fallback-1920x1080.jpeg"
                     alt="alt"
-                    style="object-position:50% 50%"></picture>
-                  <div class="FullSize Theme-Overlay Theme-Section-Light" style="opacity:0.3;background-color:#FFFFFF"></div>
-                  <div class="Caption--hasOverlay Theme-OverlayedCaption">
-                    <figcaption>
-                      <div class="Responsive--hide-portrait">
-                        <p class="class">Bobby Estes on his rowing machine. (Jaime Carrero / for NBC News)</p>
-                      </div>
-                    </figcaption>
-                  </div>
-                </div>
-              </div>
-            </div>
+                    style="object-position:50% 50%">
+		</picture>
+                <div class="FullSize Theme-Overlay Theme-Section-Light" style="opacity:0.3;background-color:#FFFFFF"></div>
+                <div class="Caption--hasOverlay Theme-OverlayedCaption">
+                  <figcaption>
+                    <div class="Responsive--hide-portrait">
+                      <p class="class">Bobby Estes on his rowing machine. (Jaime Carrero / for NBC News)</p>
+                    </div>
+                  </figcaption>
+                 </div>
+               </div>
+             </div>
+           </div>
 
 
 
-        <h3>Shorthand x Apify x NBC — figure, video</h3>
+        <h3><figure>, <video> no src, <figcaption> (Shorthand x Apify x NBC — "InlineMedia--video" example)</h3>
 
         <figure data-videoplayer="true" class="InlineMedia InlineMedia--video">
-          <video
-            data-videoplayer-media="true"
-            poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
-            preload="auto" controls playsinline
-            data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
-            data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
-            data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"
-            data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
-            <p>Your browser does not support this video</p>
-          </video>
-          <figcaption class="Theme-Caption Theme-InlineMediaCaption">
-            <div class="Display--none Display--md-block"></div>
-            <div class="Display--md-none"></div>
-          </figcaption>
-        </figure>
-
-        <h3>Shorthand x Apify x NBC — video no src</h3>
-
-        <video data-videoplayer-media="true" poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" preload="auto" controls playsinline data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
-            <p>Your browser does not support this video</p>
-          </video>
-
-        <h3>Shorthand x Apify x NBC — video src</h3>
-
-          <video src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"</video>
-
-          <h3>Shorthand x Apify x NBC — video, source, src</h3>
-
-          <video width="320" height="240" controls>
-            <source src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" type="video/mp4">
-            <p>Your browser does not support the video tag</p>
-          </video>
-
-
-
-        <div class="Theme-Caption Layout">
-            <div class="Display--none Display--md-block">
-              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
-            </div>
-            <div class="Display--md-none">
-              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
-            </div>
-          </div>
-
-          <figcaption>
-            <div class="Display--none Display--md-block">
-              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
-            </div>
-
-          </figcaption>
+                <video data-videoplayer-media="true" 
+                        poster="https://www.nbcnews.com/specials/generations-americans-unemployed-covid-19/assets/I5wxP2GcMn/martin-peterson-700x700.jpeg" 
+                        preload="auto" controls playsinline 
+                        data-landscape-poster="https://www.nbcnews.com/specials/generations-americans-unemployed-covid-19/assets/I5wxP2GcMn/martin-peterson-700x700.jpeg" 
+                        data-portrait-poster="https://www.nbcnews.com/specials/generations-americans-unemployed-covid-19/assets/I5wxP2GcMn/martin-peterson-700x700.jpeg" 
+                        data-landscape="https://www.nbcnews.com/specials/generations-americans-unemployed-covid-19/assets/5Tau62JvIi/martypeterson.mp4" 
+                        data-portrait="https://www.nbcnews.com/specials/generations-americans-unemployed-covid-19/assets/gtOIQyzKKy/martypeterson.mp4">
+                     <p>Your browser does not support this video</p>
+                 </video>
+                 <figcaption class="Theme-Caption Theme-InlineMediaCaption">
+                    <div class="Display--none Display--md-block">
+                      <p class> Listen to Martin Peterson&apos;s story </p>
+                   </div>
+                      
+                 </figcaption>
+              </figure>
 
 
         ]]>
