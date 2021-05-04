@@ -36,29 +36,43 @@
       <content:encoded>
         <![CDATA[
 
-        <p>text</p>
+				<h2>img tag</h2>
 
-        <h3>Shorthand x Apify x NBC - picture, img, src</h3>
+
+      <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+
+      <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+
+      <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+
+      <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+
+
+
+
+        <h2>Picture tag</h2>
+
+        <h3>picture, img, src</h3>
           <picture>
             <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
           </picture>
 
-        <h3>Shorthand x Apify x NBC - picture, img, data-src</h3>
+        <h3>picture, img, data-src</h3>
           <picture>
             <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
           </picture>
 
-         <h3>Shorthand x Apify x NBC - picture, img, empty src, data-src</h3>
+         <h3>picture, img, empty src, data-src</h3>
           <picture>
             <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
           </picture>
 
-          <h3>Shorthand x Apify x NBC - picture, img, src w/ no content, data-src</h3>
+          <h3>picture, img, src w/ no content, data-src</h3>
           <picture>
             <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
           </picture>
 
-        <h3>Shorthand x Apify x NBC v2. - picture, img, data-src</h3>
+        <h3>picture, img, data-src (shorthand x Apify x NBC example)</h3>
 
         <picture>
           <!--[if IE 9]>
@@ -69,16 +83,199 @@
           <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump//assets/7JxNRJMZS5/210114-djt-protest-shorthand-jm-02-2000x1333.jpeg" alt>
         </picture>
 
-        <h3>Shorthand x Apify x NBC - figure, picture, img, data-src</h3>
+
+				<h2>Figure tag, nested img tag</h2>
+
+        <h3>figure, img, src</h3>
+
+        <figure>
+          
+            <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+          
+         </figure>
+
+        <h3>figure, img, data-src</h3>
+          
+        <figure>
+        
+           <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+         
+        </figure>
+
+
+        <h3>figure, img, empty src, data-src</h3>
+
+        <figure>
+         
+           <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+         
+        </figure>
+
+        <h3>figure, img, src w/ no content, data-src</h3>
+        <figure>
+         
+          <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+         
+        </figure>
+				
+
+        <h2>Figure tag, nested picture, then img tag</h2>
+
+        <h3>figure, picture, img, src</h3>
+
         <figure>
           <picture>
-            <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+            <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
           </picture>
+         </figure>
+
+        <h3>figure, picture, img, data-src</h3>
+          
+        <figure>
+         <picture>
+           <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+         </picture>
         </figure>
+
+
+        <h3>figure, picture, img, empty src, data-src</h3>
+
+        <figure>
+         <picture>
+           <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+         </picture>
+        </figure>
+
+        <h3>figure, picture, img, src w/ no content, data-src</h3>
+        <figure>
+         <picture>
+          <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+         </picture>
+        </figure>
+
+        
+				
+
 
         <h3>Shorthand x Apify x NBC — img, data-src</h3>
 
-        <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+          <div class="Layer--two FullSize FullSize--scrollChild FullSize--child Theme-BackgroundMedia Theme-BackgroundVideo" data-background-video="true">
+            <div class="FullSize--fullWidth FullSize--fullHeight PositionSticky BackgroundVideo__sticky">
+              <video
+                data-video="true"
+                loop="loop"
+                muted="muted"
+                autoplay="autoplay"
+                class="FullSize--basic ObjectFit--cover"
+                playsinline="playsinline"
+                data-landscape="./assets/One7ZmlK1H/tx_bts_coach_v2.mp4"
+                data-landscape-focal="50% 50%"
+                data-portrait="./assets/One7ZmlK1H/tx_bts_coach_v2.mp4"
+                data-portrait-focal="50% 50%"
+                data-type="video/mp4"
+                tabindex="0">
+                <source src="https://www.nbcnews.com/specials/back-at-school-texas-parent-teacher-football-coach-student/assets/One7ZmlK1H/tx_bts_coach_v2.mp4" type="video/mp4"></video>
+                <picture class="FullSize--fullWidth FullSize--fullHeight BackgroundVideo__fallback FullSize--scrollChild Levels--basement Theme-Item-Picture" data-landscape-focal="50% 50%" data-portrait-focal="50% 50%">
+                  <img
+                    class="FullSize FullSize--fullWidth FullSize--fullHeight ObjectFit--cover"
+                    src="https://www.nbcnews.com/specials/back-at-school-texas-parent-teacher-football-coach-student/assets/40kzxjgvDY/fallback-1920x1080.jpeg"
+                    alt="alt"
+                    style="object-position:50% 50%"></picture>
+                  <div class="FullSize Theme-Overlay Theme-Section-Light" style="opacity:0.3;background-color:#FFFFFF"></div>
+                  <div class="Caption--hasOverlay Theme-OverlayedCaption">
+                    <figcaption>
+                      <div class="Responsive--hide-portrait">
+                        <p class="class">Bobby Estes on his rowing machine. (Jaime Carrero / for NBC News)</p>
+                      </div>
+                    </figcaption>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+
+        <h3>Shorthand x Apify x NBC — figure, video</h3>
+
+        <figure data-videoplayer="true" class="InlineMedia InlineMedia--video">
+          <video
+            data-videoplayer-media="true"
+            poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
+            preload="auto" controls playsinline
+            data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
+            data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png"
+            data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"
+            data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
+            <p>Your browser does not support this video</p>
+          </video>
+          <figcaption class="Theme-Caption Theme-InlineMediaCaption">
+            <div class="Display--none Display--md-block"></div>
+            <div class="Display--md-none"></div>
+          </figcaption>
+        </figure>
+
+        <h3>Shorthand x Apify x NBC — video no src</h3>
+
+        <video data-videoplayer-media="true" poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" preload="auto" controls playsinline data-landscape-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-portrait-poster="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/8DyuZMjsV9/screen-shot-2020-12-15-at-6-18-00-pm-1228x904.png" data-landscape="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" data-portrait="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4">
+            <p>Your browser does not support this video</p>
+          </video>
+
+        <h3>Shorthand x Apify x NBC — video src</h3>
+
+          <video src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4"</video>
+
+          <h3>Shorthand x Apify x NBC — video, source, src</h3>
+
+          <video width="320" height="240" controls>
+            <source src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" type="video/mp4">
+            <p>Your browser does not support the video tag</p>
+          </video>
+
+
+
+        <div class="Theme-Caption Layout">
+            <div class="Display--none Display--md-block">
+              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
+            </div>
+            <div class="Display--md-none">
+              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
+            </div>
+          </div>
+
+          <figcaption>
+            <div class="Display--none Display--md-block">
+              <p class>Police use a flash-bang grenade during a riot by Trump supporters at the Capitol on Jan. 6, 2021. (Leah Millis / Reuters)</p>
+            </div>
+
+          </figcaption>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+		
+		<item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1825487315112</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[parsing - video]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 04 May 2021 11:24:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <flatplan:parameters isPreview="false" accessoryText="My accessory Text" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
+      <category>
+        category
+      </category>
+
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+
 
         <h3>Shorthand x Apify x NBC — img, data-src</h3>
 
