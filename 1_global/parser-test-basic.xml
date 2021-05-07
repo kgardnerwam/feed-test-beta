@@ -194,7 +194,7 @@
 
 
 
-        <h3><video>, <source> src, <picture> <img> src, <figcaption> (Shorthand x Apify x NBC — "Theme-BackgroundVideo" example)/h3>
+        <h3><video>, <source> src, <picture> <img> src, <figcaption> (Shorthand x Apify x NBC — "Theme-BackgroundVideo" example)</h3>
 
           <div class="Layer--two FullSize FullSize--scrollChild FullSize--child Theme-BackgroundMedia Theme-BackgroundVideo" data-background-video="true">
             <div class="FullSize--fullWidth FullSize--fullHeight PositionSticky BackgroundVideo__sticky">
