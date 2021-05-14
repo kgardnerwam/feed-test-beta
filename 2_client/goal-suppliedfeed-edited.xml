@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><rss version="2.0" xsi:noNamespaceSchemaLocation="https://hub.flatplan.app/flatplan-schema.xsd" xmlns:df="http://www.daznservices.com/ns/rss/editorial/ArticleList" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.daznservices.com/ns/rss/editorial/ArticleList http://api.daznfeeds.com/schema/article/xsd/1.0/articles-rss_dazn.xsd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
+<?xml version="1.0" ?><rss version="2.0" xmlns:df="http://www.daznservices.com/ns/rss/editorial/ArticleList" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.daznservices.com/ns/rss/editorial/ArticleList http://api.daznfeeds.com/schema/article/xsd/1.0/articles-rss_dazn.xsd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 	<title>Football News, Live Scores, Results and Transfers | Goal.com</title>
 	<link><![CDATA[http://www.goal.com]]></link>
