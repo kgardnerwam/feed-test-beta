@@ -185,7 +185,7 @@
       <content:encoded>
         <![CDATA[
 
-      	<h3>WC3 structure - <video>, <source> src "mp4"</h3>
+      	<h3>WC3 structure - "video", "source" src "mp4"</h3>
 
         <video width="320" height="240" controls>
          <source src="https://www.today.com/specials/revisit-christmases-past-at-the-white-house-with-the-diplomatic-childrens-parties/assets/Q6CASYF1Zz/1130289.mp4" type="video/mp4">
@@ -193,7 +193,7 @@
         </video>
 
 
-        <h3><figure>, <video>, <source> src "mp4"</h3>
+        <h3>"figure", "video", "source" src "mp4"</h3>
 
         <figure>
           <video width="320" height="240" controls>
@@ -203,7 +203,7 @@
         </figure>
 
 
-        <h3><video>, <source> src "MP4", <picture> <img> src, <figcaption> (Shorthand x Apify x NBC — "Theme-BackgroundVideo" example)</h3>
+        <h3>"video", "source" src "MP4", "picture" "img" src, "figcaption" (Shorthand x Apify x NBC — "Theme-BackgroundVideo" example)</h3>
 
           <div class="Layer--two FullSize FullSize--scrollChild FullSize--child Theme-BackgroundMedia Theme-BackgroundVideo" data-background-video="true">
             <div class="FullSize--fullWidth FullSize--fullHeight PositionSticky BackgroundVideo__sticky">
@@ -242,7 +242,7 @@
 
 
 
-            <h3><figure>, <video> no <source>, <figcaption> (Shorthand x Apify x NBC — "InlineMedia--video" example)</h3>
+            <h3>"figure", "video" no "source", "figcaption" (Shorthand x Apify x NBC — "InlineMedia--video" example)</h3>
 
             <figure data-videoplayer="true" class="InlineMedia InlineMedia--video">
               <video data-videoplayer-media="true"
