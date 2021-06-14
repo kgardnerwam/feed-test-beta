@@ -17,6 +17,76 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1892294317161</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[tempaltes - video]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 14 June 2021 07:30:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <flatplan:template identifier="video"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <p>Some text</p>
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1876494317163</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[tempaltes - standard]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 14 June 2021 07:30:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <flatplan:template identifier="standard"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <p>Some text</p>
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1892494317169</guid>
+      <!-- must include CDATA wrapper -->
+      <title><![CDATA[tempaltes - default]]></title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 14 June 2021 07:30:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <p>Some text</p>
+
+        ]]>
+      </content:encoded>
+    </item>
+
+
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1895497317119</guid>
       <!-- must include CDATA wrapper -->
       <title><![CDATA[stylesheet - skimlinkk - 06/04/21]]></title>
@@ -793,7 +863,7 @@
         <picture>
    <!--[if IE 9]>
    <video style="display: none;">
-      <![endif]--> 
+      <![endif]-->
       <source media="(min-width: 901px)" data-srcset="./assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg">
       <source media="(max-width: 900px)" data-srcset="./assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg">
       <!--[if IE 9]>
@@ -804,9 +874,9 @@
 <h3>Shorthand x Apify x NBC</h3>
 
         <picture>
-   
+
    <video style="display: none;">
-      <![endif]--> 
+      <![endif]-->
       <source media="(min-width: 901px)" data-srcset="./assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg">
       <source media="(max-width: 900px)" data-srcset="./assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg">
       <!--[if IE 9]>
@@ -822,7 +892,7 @@
 
 <h3>Shorthand x Apify x NBC</h3>
 
-        
+
    <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
 
 
