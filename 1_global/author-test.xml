@@ -5,8 +5,7 @@
   xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
   xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
->
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>test feed audio</title>
     <description>test feed for apple news</description>
@@ -28,11 +27,12 @@
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="template_name"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
-      <content:encoded><![CDATA[
+      <content:encoded>
+        <![CDATA[
         <h3>Author test post</h3>
-      ]]></content:encoded>
-      </item>
-
+      ]]>
+      </content:encoded>
+    </item>
 
   </channel>
 </rss>
