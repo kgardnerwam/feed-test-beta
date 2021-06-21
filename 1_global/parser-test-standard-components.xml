@@ -54,6 +54,15 @@
         </div>
       </div>
 
+      <p>facebook - div, data-href - blockquote</p>
+
+      <div class="fb-post" data-href="https://www.facebook.com/IleRaymond/photos/4901110356597060" data-show-text="true">
+        <blockquote cite="https://www.facebook.com/IleRaymond/photos/4901110356597060" class="fb-xfbml-parse-ignore"></blockquote>
+      </div>
+
+      <p>facebook - div, blockquote</p>
+
+
       <div class="fb-post"
         <blockquote cite="https://www.facebook.com/IleRaymond/photos/4901110356597060" class="fb-xfbml-parse-ignore"></blockquote>
       </div>
