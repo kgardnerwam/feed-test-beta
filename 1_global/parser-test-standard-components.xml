@@ -16,6 +16,46 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">3295412347116</guid>
+      <!-- must include CDATA wrapper -->
+      <title>
+        <![CDATA[First look at Prince Harry and Meghan Markle’s upcoming movie ‘Harry &amp; Meghan: Escaping the Palace’]]>
+      </title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Fri, 25 Jun 2021 17:24:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>
+        <![CDATA[Article introduction with
+        <em>italics</em>
+        and
+        <b>bold</b>
+        text]]>
+      </description>
+      <dc:creator>DC Author Name</dc:creator>
+
+      <flatplan:parameters isPreview="false" accessoryText="My accessory Text" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
+      <category>
+        category
+      </category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+
+
+      <!-- embeds -->
+
+      <p>title amp amp</p>
+
+      ]]>
+      </content:encoded>
+
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1295413347111</guid>
       <!-- must include CDATA wrapper -->
       <title>
