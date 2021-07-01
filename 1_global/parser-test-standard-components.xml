@@ -39,10 +39,6 @@
       <content:encoded>
         <![CDATA[
 
-
-
-      <!-- embeds -->
-
       <p>title amp amp</p>
 
       ]]>
@@ -79,10 +75,6 @@
       <content:encoded>
         <![CDATA[
 
-
-
-      <!-- embeds -->
-
       <p>double author</p>
 
       ]]>
@@ -113,10 +105,6 @@
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
         <![CDATA[
-
-
-
-      <!-- embeds -->
 
       <p>double author</p>
 
@@ -149,10 +137,6 @@
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
         <![CDATA[
-
-
-
-      <!-- embeds -->
 
       <p>double author</p>
 
@@ -253,6 +237,23 @@
       <p>iframe tag with jwpalyer (Hola example)</p>
 
       <iframe frameborder="0" width="560" height="315" src="https://content.jwplatform.com/videos/FxCOVjYJ.mp4?player=jwplayer"></iframe>
+
+      <h2> unsupported embeds </h2>
+
+      <p> ticktok </p>
+
+
+
+      <p> reddit (rebelmouse example)</p>
+
+      <div class="rm-shortcode" data-rm-shortcode-id="8b567da71c0f4d8e60078f21257f27b3" id="58ba2">
+<blockquote class="reddit-card" data-card-created="1623532943">
+<a href="https://www.reddit.com/r/Damnthatsinteresting/comments/nxq64a/cape_cod_lobster_diver_giving_a_thumbs_up_in_his/"></a> from <a href="https://www.reddit.com/r/Damnthatsinteresting">Damnthatsinteresting</a>
+</blockquote>
+</div>
+
+
+
 
       ]]>
       </content:encoded>
