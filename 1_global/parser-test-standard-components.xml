@@ -16,6 +16,36 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">412342334567a4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>audio + music elements</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Tue, 06 June 2020 11:48:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>News Article</category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+        <h3>Audio component</h3>
+
+        <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="audio" data-caption="It Is What It Is with Raven Smith | Episode 4" data-image="https://files.thefacecdn.com/images/Screenshot-2019-07-25-at-11.29.29.png" ></audio>
+
+        <h3>Music component</h3>
+
+        <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="music" data-caption="It Is What It Is with Raven Smith | Episode 4" data-image="https://files.thefacecdn.com/images/Screenshot-2019-07-25-at-11.29.29.png" ></audio>
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">3295412347116</guid>
       <!-- must include CDATA wrapper -->
       <title>
