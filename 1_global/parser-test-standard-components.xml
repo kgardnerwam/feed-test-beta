@@ -31,11 +31,19 @@
       <content:encoded>
         <![CDATA[
 
-        <h3>Custom audio section</h3>
+        <h3>Custom audio section - all attributes</h3>
 
         <section class="flatplan-stack" data-stack-id="audio-article-stack">
           <section>
             <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="audio" data-caption="It Is What It Is with Raven Smith | Episode 4" data-image="https://files.thefacecdn.com/images/Screenshot-2019-07-25-at-11.29.29.png" ></audio>
+          </section>
+        </section>
+
+        <h3>Custom audio section - limited attributes</h3>
+
+        <section class="flatplan-stack" data-stack-id="audio-article-stack">
+          <section>
+            <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="audio" data-caption="It Is What It Is with Raven Smith | Episode 4" ></audio>
           </section>
         </section>
 
