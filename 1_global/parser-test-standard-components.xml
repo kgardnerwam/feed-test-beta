@@ -39,11 +39,21 @@
           </section>
         </section>
 
-        <h3>Custom audio section - limited attributes</h3>
+        <h3>Custom audio section - limited attributes - manual/h3>
 
         <section class="flatplan-stack" data-stack-id="audio-article-stack">
           <section>
+            <h2>article-title</h2>
             <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="audio" data-caption="It Is What It Is with Raven Smith | Episode 4" ></audio>
+          </section>
+        </section>
+
+        <h3>Custom audio section - limited attributes - from Apify/h3>
+
+        <section class="flatplan-stack" data-stack-id="audio-article-stack">
+          <section>
+            <h2>Conventional wisdom says we shouldn&#x2019;t date our friends. It&#x2019;s wrong.</h2>
+            <audio><source src="https://api.remixd.com/player/download?u=https://bigthink.com/sex-relationships/dating-a-friend&amp;channel=website&amp;feedId=9" type="audio/mpeg" data-type="audio" data-caption="Listen to this article"></audio>
           </section>
         </section>
 
