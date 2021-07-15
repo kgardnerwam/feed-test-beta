@@ -39,16 +39,7 @@
           </section>
         </section>
 
-        <h3>Custom audio section - limited attributes - manual</h3>
-
-        <section class="flatplan-stack" data-stack-id="audio-article-stack">
-          <section>
-            <h2>article-title</h2>
-            <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="audio" data-caption="It Is What It Is with Raven Smith | Episode 4" ></audio>
-          </section>
-        </section>
-
-        <h3>Custom audio section - limited attributes - from Apify</h3>
+        <h3>Custom audio section - limited attributes - example from Apify</h3>
 
         <section class="flatplan-stack" data-stack-id="audio-article-stack">
           <section>
@@ -58,9 +49,13 @@
         </section>
 
 
-        <h3>Audio component</h3>
+        <h3>Audio component - all attributes</h3>
 
         <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="audio" data-caption="It Is What It Is with Raven Smith | Episode 4" data-image="https://files.thefacecdn.com/images/Screenshot-2019-07-25-at-11.29.29.png" ></audio>
+
+        <h3>Audio component - limited attributes</h3>
+
+        <audio><source src="https://files.thefacecdn.com/audio/It-Is-What-It-Is_Episode-4_FINAL.mp3" type="audio/mpeg" data-type="audio" data-caption="It Is What It Is with Raven Smith | Episode 4" ></audio>
 
         <h3>Music component</h3>
 
