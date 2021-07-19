@@ -5,8 +5,7 @@
   xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
   xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
->
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>stylesheet - master</title>
     <description>stylesheet - master</description>
@@ -17,9 +16,67 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">12448337139</guid>
+      <!-- must include CDATA wrapper -->
+      <title>
+        <![CDATA[stacks - straight quotes]]>
+      </title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Wed, 19 Jul 2021 14:01:35 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+      <description>Article introduction</description>
+      <dc:creator>Author Name</dc:creator>
+      <category>category</category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <<p>"Paragraph text"</p>
+
+        <blockquote><p>"Pullquote text to display as a pullquote"</p></blockquote>
+
+        <figure <img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yNTI2MDUxNi9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY2Mjk4MjE2Mn0.GMJGgkZy7msnyM2SWmmuw32g8R_786GWI5kEsxx3HoA/img.png?width=210> <figcaption>"image caption text"</figcaption></figure>
+
+
+        <section class="flatplan-stack" data-stack-id="freethink-pullquote">
+          <section>
+            <blockquote><p>"Pullquote text to display as a pullquote"</p></blockquote>
+          </section>
+        </section>
+
+        <section class="flatplan-stack" data-stack-id="test-heading2-stack">
+          <section>
+            <h2>"Heading text to display as a pullquote"</h2>
+          </section>
+        </section>
+
+
+        <section class="flatplan-stack" data-stack-id="bt-amazon-assets">
+          <section>
+            <img src="https://m.media-amazon.com/images/I/51I+5TEhUdL.jpg" data-use-stack="false">
+          </section>
+          <section>
+            <h3><a href="">Book title</a></h3>
+            <p>list-price</p>
+            <p>new-price</p>
+            <p>used-price</p>
+          </section>
+        </section>
+
+
+        ]]>
+      </content:encoded>
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1892294317161</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[tempaltes - video]]></title>
+      <title>
+        <![CDATA[tempaltes - video]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 14 June 2021 07:30:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -42,7 +99,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1876494317163</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[tempaltes - standard]]></title>
+      <title>
+        <![CDATA[tempaltes - standard]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 14 June 2021 07:30:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -65,7 +124,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1892494317169</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[tempaltes - default]]></title>
+      <title>
+        <![CDATA[tempaltes - default]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 14 June 2021 07:30:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -83,13 +144,13 @@
       </content:encoded>
     </item>
 
-
-
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1895497317119</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - skimlinkk - 06/04/21]]></title>
+      <title>
+        <![CDATA[stylesheet - skimlinkk - 06/04/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 22 Mar 2021 12:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -100,7 +161,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -114,12 +174,13 @@
       </content:encoded>
     </item>
 
-
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1825499317189</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - caption loading - 22/03/21]]></title>
+      <title>
+        <![CDATA[stylesheet - caption loading - 22/03/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 22 Mar 2021 12:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -130,7 +191,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -164,7 +224,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">125071317244</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - data-src, data-runner-src - 17/03/21]]></title>
+      <title>
+        <![CDATA[stylesheet - data-src, data-runner-src - 17/03/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Wed, 17 Mar 2021 11:09:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -903,14 +965,13 @@
       </content:encoded>
     </item>
 
-
-
-
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1125091317149</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - parameters push to apple (no territory), w/ sponsor - 01/02/21]]></title>
+      <title>
+        <![CDATA[stylesheet - parameters push to apple (no territory), w/ sponsor - 01/02/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 01 Feb 2021 07:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -922,7 +983,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -940,7 +1000,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1127098317143</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - parameters push to apple, w/ sponsor - 01/02/21]]></title>
+      <title>
+        <![CDATA[stylesheet - parameters push to apple, w/ sponsor - 01/02/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 01 Feb 2021 07:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -952,7 +1014,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -970,7 +1031,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1527099307103</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - parameters adjusted, no sponsor - 31/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - parameters adjusted, no sponsor - 31/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Sun, 31 Jan 2021 07:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -981,7 +1044,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -999,7 +1061,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">6523099317103</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - parameters, no sponsor - 31/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - parameters, no sponsor - 31/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Sun, 31 Jan 2021 07:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1010,7 +1074,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1028,7 +1091,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">6423039327103</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - parameters, full sponsor - 31/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - parameters, full sponsor - 31/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Sun, 31 Jan 2021 07:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1040,7 +1105,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1058,7 +1122,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">6423035327113</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - parameters, empty sponsor - 31/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - parameters, empty sponsor - 31/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Sun, 31 Jan 2021 07:24:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1070,7 +1136,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1088,7 +1153,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">3623935321213</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - isHidden - 28/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - isHidden - 28/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Thu, 28 Jan 2021 12:28:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1099,7 +1166,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1117,7 +1183,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">5623535322619</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - isPaid - 28/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - isPaid - 28/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Thu, 28 Jan 2021 12:28:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1128,7 +1196,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1146,7 +1213,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">2623229478919</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - isSponsored - 28/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - isSponsored - 28/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Thu, 28 Jan 2021 12:28:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1158,7 +1227,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1176,7 +1244,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">152323532987619</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - delete after loading - 26/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - delete after loading - 26/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Tue, 26 Jan 2021 17:21:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1186,7 +1256,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1204,7 +1273,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1623235328919</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - isPreview - 28/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - isPreview - 28/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 25 Jan 2021 12:28:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1215,7 +1286,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1233,7 +1303,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">7678235325311</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - isPreview isPaid - 22/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - isPreview isPaid - 22/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Fri, 22 Jan 2021 17:51:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1243,7 +1315,6 @@
       <category>
         category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1261,7 +1332,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">7678282325310</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - category name &-amp-; no CDATA tag - 21/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - category name &-amp-; no CDATA tag - 21/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Fri, 22 Jan 2021 06:51:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1271,7 +1344,6 @@
       <category>
         Mapping &amp; category
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1289,7 +1361,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1678342325398</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - category name ampersand in CDATA tag - 21/01/21]]></title>
+      <title>
+        <![CDATA[stylesheet - category name ampersand in CDATA tag - 21/01/21]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Fri, 21 Jan 2021 06:51:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1303,7 +1377,6 @@
       <category>
         <![CDATA[ Culture & Religion ]]>
       </category>
-
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
@@ -1321,7 +1394,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">122323423256748</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - body component master - 17.02]]></title>
+      <title>
+        <![CDATA[stylesheet - body component master - 17.02]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Wed, 12 Feb 2021 06:51:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1498,7 +1573,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">192373421256744</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stylesheet - body component - video]]></title>
+      <title>
+        <![CDATA[stylesheet - body component - video]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 29 Mar 2021 14:51:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -1550,7 +1627,6 @@
       </content:encoded>
 
     </item>
-
 
   </channel>
 </rss>

@@ -5,8 +5,7 @@
   xmlns:mi="http://schemas.ingestion.microsoft.com/common/"
   xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
   xmlns:dc="http://purl.org/dc/elements/1.1/"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/"
->
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>stylesheet - master</title>
     <description>stylesheet - master</description>
@@ -19,7 +18,9 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1225449337189</guid>
       <!-- must include CDATA wrapper -->
-      <title><![CDATA[stacks - Big Think]]></title>
+      <title>
+        <![CDATA[stacks - Big Think]]>
+      </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Wed, 31 Mar 2021 14:01:35 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
@@ -72,9 +73,6 @@
         ]]>
       </content:encoded>
     </item>
-
-
-
 
   </channel>
 </rss>
