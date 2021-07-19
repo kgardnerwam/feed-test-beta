@@ -38,7 +38,7 @@
         <blockquote><p>"Blockquote text to display as a pullquote via global stack"</p></blockquote>
 
 
-        <figure><img src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png> <figcaption>"image caption text"</figcaption></figure>
+        <figure><img src="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png"> <figcaption>"image caption text"</figcaption></figure>
 
 
         <section class="flatplan-stack" data-stack-id="freethink-pullquote">
