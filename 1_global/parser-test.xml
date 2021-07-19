@@ -33,7 +33,7 @@
       <content:encoded>
         <![CDATA[
 
-        <<p>"Paragraph text"</p>
+        <p>"Paragraph text"</p>
 
         <blockquote><p>"Pullquote text to display as a pullquote"</p></blockquote>
 
