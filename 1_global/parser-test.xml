@@ -53,6 +53,12 @@
           </section>
         </section>
 
+        <section class="flatplan-stack" data-stack-id="test-heading2-stack">
+          <section>
+            <h2>Heading tag to display with no quotes as a heading in custom stack</h2>
+          </section>
+        </section>
+
 
         ]]>
       </content:encoded>
