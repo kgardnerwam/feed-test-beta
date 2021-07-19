@@ -53,19 +53,6 @@
         </section>
 
 
-        <section class="flatplan-stack" data-stack-id="bt-amazon-assets">
-          <section>
-            <img src="https://m.media-amazon.com/images/I/51I+5TEhUdL.jpg" data-use-stack="false">
-          </section>
-          <section>
-            <h3><a href="">Book title</a></h3>
-            <p>list-price</p>
-            <p>new-price</p>
-            <p>used-price</p>
-          </section>
-        </section>
-
-
         ]]>
       </content:encoded>
     </item>
