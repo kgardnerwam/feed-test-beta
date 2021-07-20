@@ -286,6 +286,21 @@
       </div>
     </div>
 
+    <p>facebook - blockquote - jan fix - kg edit & in url quote in divs</p>
+
+    <div>
+      <div data-card="html" data-reactroot>
+        <div class="fb-post">
+          <blockquote cite="https://www.facebook.com/photo.php?fbid=10156630149893127&set=a.10150185083393127&type=3" class="fb-xfbml-parse-ignore"></blockquote>
+      </div>
+    </div>
+  </div>
+
+  <p>facebook - blockquote - jan fix kg edit - clean up url</p>
+
+  <div><div data-card="html" data-reactroot><div class="fb-post"><blockquote cite="https://www.facebook.com/photo.php?fbid=10156630149893127" class="fb-xfbml-parse-ignore"></blockquote></div>&quot;</div></div>
+
+
 
 
       <p>twitter</p>
