@@ -267,6 +267,26 @@
       <iframe allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen="true" frameborder="0" height="646" scrolling="no" src="https%3A%2F%2Fwww.facebook.com%2Fbrayden.morton.56%2Fposts%2F1462747414084212&amp;show_text=true&amp;width=500" style="border:none;overflow:hidden" width="500"></iframe>
 
 
+      <p>facebook - blockquote - jan fix </p>
+
+      <div><div data-card="html" data-reactroot><div class="fb-post"><blockquote cite="https://www.facebook.com/photo.php?fbid=10156630149893127&amp;set=a.10150185083393127&amp;type=3" class="fb-xfbml-parse-ignore"></blockquote></div>&quot;</div></div>
+
+      <p>facebook - blockquote - jan fix - kg edit & in url</p>
+
+      <div><div data-card="html" data-reactroot><div class="fb-post"><blockquote cite="https://www.facebook.com/photo.php?fbid=10156630149893127&set=a.10150185083393127&type=3" class="fb-xfbml-parse-ignore"></blockquote></div>&quot;</div></div>
+
+
+      <p>facebook - blockquote - jan fix - kg edit quote in divs</p>
+
+      <div>
+        <div data-card="html" data-reactroot>
+          <div class="fb-post">
+            <blockquote cite="https://www.facebook.com/photo.php?fbid=10156630149893127&set=a.10150185083393127&type=3" class="fb-xfbml-parse-ignore"></blockquote>
+        </div>
+      </div>
+    </div>
+
+
 
       <p>twitter</p>
 
