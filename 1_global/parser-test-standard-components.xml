@@ -398,398 +398,451 @@
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
-        <![CDATA[
+        <![CDATA [
 
-				<h2>img tag</h2>
+          <h2>img tag</h2>
 
-	<h3>img, src</h3>
+          <h3>img, src</h3>
 
-      <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+          <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
 
-	<h3>img, data-src</h3>
+            <h3>img, data-src</h3>
 
-      <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+            <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
 
-	<h3>img, empty src, data-src</h3>
+              <h3>img, empty src, data-src</h3>
 
-      <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+              <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
 
- <h3>img, src w/ no content, data-src</h3>
+                <h3>img, src w/ no content, data-src</h3>
 
-      <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
+                <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
 
+                  <h2>Picture tag</h2>
 
+                  <h3>picture, img, src</h3>
+                  <picture>
+                    <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
 
+                    <h3>picture, img, data-src</h3>
+                    <picture>
+                      <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
 
-        <h2>Picture tag</h2>
+                      <h3>picture, img, empty src, data-src</h3>
+                      <picture>
+                        <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
 
-        <h3>picture, img, src</h3>
-          <picture>
-            <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-          </picture>
+                        <h3>picture, img, src w/ no content, data-src</h3>
+                        <picture>
+                          <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
 
-        <h3>picture, img, data-src</h3>
-          <picture>
-            <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-          </picture>
+                          <h3>picture, img, data-src (shorthand x Apify x NBC example)</h3>
 
-         <h3>picture, img, empty src, data-src</h3>
-          <picture>
-            <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-          </picture>
+                          <picture>
+                            <!--[if IE 9]> <video style="display: none;"> <![endif]-->
+                            <!--[if IE 9]></video> <![endif]-->
+                            <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump//assets/7JxNRJMZS5/210114-djt-protest-shorthand-jm-02-2000x1333.jpeg" alt="alt"></picture>
 
-          <h3>picture, img, src w/ no content, data-src</h3>
-          <picture>
-            <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-          </picture>
+                            <h2>Figure tag, nested img tag</h2>
 
-        <h3>picture, img, data-src (shorthand x Apify x NBC example)</h3>
+                            <h3>figure, img, src</h3>
 
-        <picture>
-          <!--[if IE 9]>
-          <video style="display: none;">
-          <![endif]-->
-          <!--[if IE 9]></video>
-          <![endif]-->
-          <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump//assets/7JxNRJMZS5/210114-djt-protest-shorthand-jm-02-2000x1333.jpeg" alt>
-        </picture>
+                            <figure>
 
-
-				<h2>Figure tag, nested img tag</h2>
-
-        <h3>figure, img, src</h3>
-
-        <figure>
-
-            <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-              <figcaption><a href="https://beverlyhills.evrealestate.com/" target="_blank">Paul Barnaby | Engel & Völkers Beverly Hills</a></figcaption>
-         </figure>
-
-        <h3>figure, img, data-src</h3>
-
-        <figure>
-
-           <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-
-        </figure>
-
-
-        <h3>figure, img, empty src, data-src</h3>
-
-        <figure>
-
-           <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-
-        </figure>
-
-        <h3>figure, img, src w/ no content, data-src</h3>
-        <figure>
-
-          <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-
-        </figure>
-
-
-        <h2>Figure tag, nested picture, then img tag</h2>
-
-        <h3>figure, picture, img, src</h3>
-
-        <figure>
-          <picture>
-            <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-          </picture>
-         </figure>
-
-        <h3>figure, picture, img, data-src</h3>
-
-        <figure>
-         <picture>
-           <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-         </picture>
-        </figure>
-
-
-        <h3>figure, picture, img, empty src, data-src</h3>
-
-        <figure>
-         <picture>
-           <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-         </picture>
-        </figure>
-
-        <h3>figure, picture, img, src w/ no content, data-src</h3>
-        <figure>
-         <picture>
-          <img src data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-         </picture>
-        </figure>
-
-        <figure>
-
-           <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt>
-             <figcaption>Rip Current Science
-     </figcaption>
-     <figcaption>
-     www.youtube.com
-     </figcaption>
-
-        </figure>
-
-        <figcaption>Rip Current Science</figcaption>
-        <figcaption>www.youtube.com</figcaption>
-
-        <p>the big lead</p>
-
-        <div data-mm-id="_eow1o9a6v">
-          <div class="style_1tb5rbs">
-            <figure data-id="_eow1o9a6v" class="base_p48hb8"><canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
-            <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
-              <source>
-                <source>
-                  <source>
-                    <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                    </picture>
-        <noscript>
-        <picture class="base_1emrqjj">
-        <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-        <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-        <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-        <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-        </picture>
-        </noscript>
-        </figure>
-        <div class="wrapper_1neju83">
-        <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images
-        </figcaption>
-        </div>
-        </div>
-        </div>
-
-        <p>big lead edited - remove 1st picture tag, remove noscript tag</p>
-
-        <div data-mm-id="_eow1o9a6v">
-          <div class="style_1tb5rbs">
-            <figure data-id="_eow1o9a6v" class="base_p48hb8">
-              <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
-
-                <picture class="base_1emrqjj">
-                  <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-                    <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-                      <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-                        <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                        </picture>
-
-                    </figure>
-                    <div class="wrapper_1neju83">
-                      <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-        </div>
-        </div>
-        </div>
-
-        <p>big lead edited - remove 1st picture tag, remove noscript tag, remove source srcset, remove canvas tag</p>
-
-        <div data-mm-id="_eow1o9a6v">
-          <div class="style_1tb5rbs">
-            <figure data-id="_eow1o9a6v" class="base_p48hb8">
-              <picture class="base_1emrqjj">
-                <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-              </picture>
-            </figure>
-            <div class="wrapper_1neju83">
-              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-            </div>
-          </div>
-        </div>
-
-        <p>big lead edited - remove noscript tag</p>
-
-
-        <div data-mm-id="_eow1o9a6v">
-          <div class="style_1tb5rbs">
-            <figure data-id="_eow1o9a6v" class="base_p48hb8"><canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
-            <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
-              <source>
-                <source>
-                  <source>
-                    <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                    </picture>
-
-        <picture class="base_1emrqjj">
-        <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-        <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-        <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-        <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-        </picture>
-
-        </figure>
-        <div class="wrapper_1neju83">
-        <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images
-        </figcaption>
-        </div>
-        </div>
-        </div>
-
-        <p>big lead new test - original</p>
-
-        <div data-mm-id="_ktonk516r">
-          <div class="style_1tb5rbs">
-            <figure data-id="_ktonk516r" class="base_p48hb8">
-              <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
-              <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
-                <source>
-                  <source>
-                    <source>
-                      <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                      </picture>
-                      <noscript>
-                        <picture class="base_1emrqjj">
-                          <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-                            <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-                              <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-                                <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                                </picture>
-                              </noscript>
-                            </figure>
-                            <div class="wrapper_1neju83">
-                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-                            </div>
-                          </div>
-                        </div>
-
-          <p>big lead new test - edit - remove noscript tag</p>
-
-
-          <div data-mm-id="_ktonk516r">
-            <div class="style_1tb5rbs">
-              <figure data-id="_ktonk516r" class="base_p48hb8">
-                <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
-                <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
-                  <source>
-                    <source>
-                      <source>
-                        <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                        </picture>
-
-                          <picture class="base_1emrqjj">
-                            <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-                              <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-                                <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-                                  <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                                  </picture>
-
+                              <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
+                                <figcaption>
+                                  <a href="https://beverlyhills.evrealestate.com/" target="_blank">Paul Barnaby | Engel & Völkers Beverly Hills</a>
+                                </figcaption>
                               </figure>
-                              <div class="wrapper_1neju83">
-                                <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-                              </div>
-                            </div>
-                          </div>
 
-        <p>big lead new test - edit - remove noscript tag, remove canvas</p>
+                              <h3>figure, img, data-src</h3>
 
+                              <figure>
 
-        <div data-mm-id="_ktonk516r">
-          <div class="style_1tb5rbs">
-            <figure data-id="_ktonk516r" class="base_p48hb8">
+                                <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></figure>
 
-              <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
-                <source>
-                  <source>
-                    <source>
-                      <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                      </picture>
+                                <h3>figure, img, empty src, data-src</h3>
 
-                        <picture class="base_1emrqjj">
-                          <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-                            <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-                              <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-                                <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                                </picture>
+                                <figure>
 
-                            </figure>
-                            <div class="wrapper_1neju83">
-                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-                            </div>
-                          </div>
-                        </div>
+                                  <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></figure>
 
-      <p>big lead new test - edit - remove noscript tag, remove canvas, remove empty source tags</p>
+                                  <h3>figure, img, src w/ no content, data-src</h3>
+                                  <figure>
 
+                                    <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></figure>
 
-      <div data-mm-id="_ktonk516r">
-        <div class="style_1tb5rbs">
-          <figure data-id="_ktonk516r" class="base_p48hb8">
+                                    <h2>Figure tag, nested picture, then img tag</h2>
 
-            <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+                                    <h3>figure, picture, img, src</h3>
 
-                    <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                    </picture>
+                                    <figure>
+                                      <picture>
+                                        <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
+                                      </figure>
 
-                      <picture class="base_1emrqjj">
-                        <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-                          <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-                            <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-                              <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                              </picture>
+                                      <h3>figure, picture, img, data-src</h3>
 
-                          </figure>
-                          <div class="wrapper_1neju83">
-                            <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-                          </div>
-                        </div>
-                      </div>
+                                      <figure>
+                                        <picture>
+                                          <img data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
+                                        </figure>
 
-                      <p>big lead new test - edit - remove noscript tag, remove canvas, remove empty source tags, remove empty picture tag</p>
+                                        <h3>figure, picture, img, empty src, data-src</h3>
 
+                                        <figure>
+                                          <picture>
+                                            <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
+                                          </figure>
 
-        <div data-mm-id="_ktonk516r">
-          <div class="style_1tb5rbs">
-            <figure data-id="_ktonk516r" class="base_p48hb8">
+                                          <h3>figure, picture, img, src w/ no content, data-src</h3>
+                                          <figure>
+                                            <picture>
+                                              <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
+                                            </figure>
 
+                                            <figure>
 
+                                              <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
+                                                <figcaption>Rip Current Science
+                                                </figcaption>
+                                                <figcaption>
+                                                  www.youtube.com
+                                                </figcaption>
 
-                        <picture class="base_1emrqjj">
-                          <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 719px)">
-                            <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(max-width: 1079px)">
-                              <source srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x" media="(min-width: 1080px)">
-                                <img class="base_1emrqjj" src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO">
-                                </picture>
+                                              </figure>
 
-                            </figure>
-                            <div class="wrapper_1neju83">
-                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-                            </div>
-                          </div>
-                        </div>
+                                              <figcaption>Rip Current Science</figcaption>
+                                              <figcaption>www.youtube.com</figcaption>
 
+                                              <p>the big lead</p>
 
+                                              <div data-mm-id="_eow1o9a6v">
+                                                <div class="style_1tb5rbs">
+                                                  <figure data-id="_eow1o9a6v" class="base_p48hb8">
+                                                    <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
+                                                    <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+                                                      <source>
+                                                        <source>
+                                                          <source>
+                                                            <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                            <noscript>
+                                                              <picture class="base_1emrqjj">
+                                                                <source
+                                                                  srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                  media="(max-width: 719px)">
+                                                                  <source
+                                                                    srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                    media="(max-width: 1079px)">
+                                                                    <source
+                                                                      srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                      media="(min-width: 1080px)">
+                                                                      <img
+                                                                        class="base_1emrqjj"
+                                                                        src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                        alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                        title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                    </noscript>
+                                                                  </figure>
+                                                                  <div class="wrapper_1neju83">
+                                                                    <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images
+                                                                    </figcaption>
+                                                                  </div>
+                                                                </div>
+                                                              </div>
 
+                                                              <p>big lead edited - remove 1st picture tag, remove noscript tag</p>
 
+                                                              <div data-mm-id="_eow1o9a6v">
+                                                                <div class="style_1tb5rbs">
+                                                                  <figure data-id="_eow1o9a6v" class="base_p48hb8">
+                                                                    <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
 
-        ]]>
-      </content:encoded>
-    </item>
+                                                                    <picture class="base_1emrqjj">
+                                                                      <source
+                                                                        srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                        media="(max-width: 719px)">
+                                                                        <source
+                                                                          srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                          media="(max-width: 1079px)">
+                                                                          <source
+                                                                            srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                            media="(min-width: 1080px)">
+                                                                            <img
+                                                                              class="base_1emrqjj"
+                                                                              src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                              alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                              title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
 
-    <item>
-      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
-      <guid isPermaLink="false">1825487315112</guid>
-      <!-- must include CDATA wrapper -->
-      <title>
-        <![CDATA[parsing - video]]>
-      </title>
-      <link>https://www.cannonicalURL/article-slug-example/</link>
-      <pubDate>Mon, 04 May 2021 11:24:35 +0000</pubDate>
-      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
-      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
-      <description>Article introduction</description>
-      <dc:creator>Author Name</dc:creator>
-      <flatplan:parameters isPreview="false" accessoryText="My accessory Text" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
-      <category>
-        category
-      </category>
+                                                                          </figure>
+                                                                          <div class="wrapper_1neju83">
+                                                                            <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                          </div>
+                                                                        </div>
+                                                                      </div>
 
-      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
-      <content:encoded>
-        <![CDATA[
+                                                                      <p>big lead edited - remove 1st picture tag, remove noscript tag, remove source srcset, remove canvas tag</p>
+
+                                                                      <div data-mm-id="_eow1o9a6v">
+                                                                        <div class="style_1tb5rbs">
+                                                                          <figure data-id="_eow1o9a6v" class="base_p48hb8">
+                                                                            <picture class="base_1emrqjj">
+                                                                              <img
+                                                                                class="base_1emrqjj"
+                                                                                src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                            </figure>
+                                                                            <div class="wrapper_1neju83">
+                                                                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                            </div>
+                                                                          </div>
+                                                                        </div>
+
+                                                                        <p>big lead edited - remove noscript tag</p>
+
+                                                                        <div data-mm-id="_eow1o9a6v">
+                                                                          <div class="style_1tb5rbs">
+                                                                            <figure data-id="_eow1o9a6v" class="base_p48hb8">
+                                                                              <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
+                                                                              <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+                                                                                <source>
+                                                                                  <source>
+                                                                                    <source>
+                                                                                      <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                      <picture class="base_1emrqjj">
+                                                                                        <source
+                                                                                          srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                          media="(max-width: 719px)">
+                                                                                          <source
+                                                                                            srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                            media="(max-width: 1079px)">
+                                                                                            <source
+                                                                                              srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                              media="(min-width: 1080px)">
+                                                                                              <img
+                                                                                                class="base_1emrqjj"
+                                                                                                src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                            </figure>
+                                                                                            <div class="wrapper_1neju83">
+                                                                                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images
+                                                                                              </figcaption>
+                                                                                            </div>
+                                                                                          </div>
+                                                                                        </div>
+
+                                                                                        <p>big lead new test - original</p>
+
+                                                                                        <div data-mm-id="_ktonk516r">
+                                                                                          <div class="style_1tb5rbs">
+                                                                                            <figure data-id="_ktonk516r" class="base_p48hb8">
+                                                                                              <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
+                                                                                              <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+                                                                                                <source>
+                                                                                                  <source>
+                                                                                                    <source>
+                                                                                                      <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                                                      <noscript>
+                                                                                                        <picture class="base_1emrqjj">
+                                                                                                          <source
+                                                                                                            srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                            media="(max-width: 719px)">
+                                                                                                            <source
+                                                                                                              srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                              media="(max-width: 1079px)">
+                                                                                                              <source
+                                                                                                                srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                media="(min-width: 1080px)">
+                                                                                                                <img
+                                                                                                                  class="base_1emrqjj"
+                                                                                                                  src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                                  alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                                  title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                                                              </noscript>
+                                                                                                            </figure>
+                                                                                                            <div class="wrapper_1neju83">
+                                                                                                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                                                            </div>
+                                                                                                          </div>
+                                                                                                        </div>
+
+                                                                                                        <p>big lead new test - edit - remove noscript tag</p>
+
+                                                                                                        <div data-mm-id="_ktonk516r">
+                                                                                                          <div class="style_1tb5rbs">
+                                                                                                            <figure data-id="_ktonk516r" class="base_p48hb8">
+                                                                                                              <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
+                                                                                                              <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+                                                                                                                <source>
+                                                                                                                  <source>
+                                                                                                                    <source>
+                                                                                                                      <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                                                      <picture class="base_1emrqjj">
+                                                                                                                        <source
+                                                                                                                          srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                          media="(max-width: 719px)">
+                                                                                                                          <source
+                                                                                                                            srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                            media="(max-width: 1079px)">
+                                                                                                                            <source
+                                                                                                                              srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                              media="(min-width: 1080px)">
+                                                                                                                              <img
+                                                                                                                                class="base_1emrqjj"
+                                                                                                                                src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                                                alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                                                title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                                                            </figure>
+                                                                                                                            <div class="wrapper_1neju83">
+                                                                                                                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                                                                            </div>
+                                                                                                                          </div>
+                                                                                                                        </div>
+
+                                                                                                                        <p>big lead new test - edit - remove noscript tag, remove canvas</p>
+
+                                                                                                                        <div data-mm-id="_ktonk516r">
+                                                                                                                          <div class="style_1tb5rbs">
+                                                                                                                            <figure data-id="_ktonk516r" class="base_p48hb8">
+
+                                                                                                                              <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+                                                                                                                                <source>
+                                                                                                                                  <source>
+                                                                                                                                    <source>
+                                                                                                                                      <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                                                                      <picture class="base_1emrqjj">
+                                                                                                                                        <source
+                                                                                                                                          srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                          media="(max-width: 719px)">
+                                                                                                                                          <source
+                                                                                                                                            srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                            media="(max-width: 1079px)">
+                                                                                                                                            <source
+                                                                                                                                              srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                              media="(min-width: 1080px)">
+                                                                                                                                              <img
+                                                                                                                                                class="base_1emrqjj"
+                                                                                                                                                src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                                                                alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                                                                title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                                                                            </figure>
+                                                                                                                                            <div class="wrapper_1neju83">
+                                                                                                                                              <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                                                                                            </div>
+                                                                                                                                          </div>
+                                                                                                                                        </div>
+
+                                                                                                                                        <p>big lead new test - edit - remove noscript tag, remove canvas, remove empty source tags</p>
+
+                                                                                                                                        <div data-mm-id="_ktonk516r">
+                                                                                                                                          <div class="style_1tb5rbs">
+                                                                                                                                            <figure data-id="_ktonk516r" class="base_p48hb8">
+
+                                                                                                                                              <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+
+                                                                                                                                                <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                                                                                <picture class="base_1emrqjj">
+                                                                                                                                                  <source
+                                                                                                                                                    srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                                    media="(max-width: 719px)">
+                                                                                                                                                    <source
+                                                                                                                                                      srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                                      media="(max-width: 1079px)">
+                                                                                                                                                      <source
+                                                                                                                                                        srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                                        media="(min-width: 1080px)">
+                                                                                                                                                        <img
+                                                                                                                                                          class="base_1emrqjj"
+                                                                                                                                                          src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                                                                          alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                                                                          title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+
+                                                                                                                                                      </figure>
+                                                                                                                                                      <div class="wrapper_1neju83">
+                                                                                                                                                        <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                                                                                                      </div>
+                                                                                                                                                    </div>
+                                                                                                                                                  </div>
+
+                                                                                                                                                  <p>big lead new test - edit - remove noscript tag, remove canvas, remove empty source tags, remove empty picture tag</p>
+
+                                                                                                                                                  <div data-mm-id="_ktonk516r">
+                                                                                                                                                    <div class="style_1tb5rbs">
+                                                                                                                                                      <figure data-id="_ktonk516r" class="base_p48hb8">
+                                                                                                                                                        <picture class="base_1emrqjj">
+                                                                                                                                                          <source
+                                                                                                                                                            srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_540,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1080,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1620,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                                            media="(max-width: 719px)">
+                                                                                                                                                            <source
+                                                                                                                                                              srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                                              media="(max-width: 1079px)">
+                                                                                                                                                              <source
+                                                                                                                                                                srcset="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 1x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 2x, https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg 3x"
+                                                                                                                                                                media="(min-width: 1080px)">
+                                                                                                                                                                <img
+                                                                                                                                                                  class="base_1emrqjj"
+                                                                                                                                                                  src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                                                                                  alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                                                                                  title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                                                                                                              </figure>
+                                                                                                                                                              <div class="wrapper_1neju83">
+                                                                                                                                                                <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                                                                                                              </div>
+                                                                                                                                                            </div>
+                                                                                                                                                          </div>
+
+                                                                                                                                                          <p>big lead new test - edit - remove noscript tag, remove canvas, remove empty source tags, remove empty picture tag, remove source tags</p>
+
+                                                                                                                                                          <div data-mm-id="_ktonk516r">
+                                                                                                                                                            <div class="style_1tb5rbs">
+                                                                                                                                                              <figure data-id="_ktonk516r" class="base_p48hb8">
+                                                                                                                                                                <picture class="base_1emrqjj">
+                                                                                                                                                                  <img
+                                                                                                                                                                    class="base_1emrqjj"
+                                                                                                                                                                    src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                                                                                    alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                                                                                    title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                                                                                                                </figure>
+                                                                                                                                                                <div class="wrapper_1neju83">
+                                                                                                                                                                  <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                                                                                                                </div>
+                                                                                                                                                              </div>
+                                                                                                                                                            </div>
+
+                                                                                                                                                          ]]>
+                                                                                                                                                        </content:encoded>
+                                                                                                                                                      </item>
+
+                                                                                                                                                      <item>
+                                                                                                                                                        <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+                                                                                                                                                        <guid isPermaLink="false">1825487315112</guid>
+                                                                                                                                                        <!-- must include CDATA wrapper -->
+                                                                                                                                                        <title>
+                                                                                                                                                          <![CDATA[parsing - video]]>
+                                                                                                                                                        </title>
+                                                                                                                                                        <link>https://www.cannonicalURL/article-slug-example/</link>
+                                                                                                                                                        <pubDate>Mon, 04 May 2021 11:24:35 +0000</pubDate>
+                                                                                                                                                        <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+                                                                                                                                                        <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+                                                                                                                                                        <description>Article introduction</description>
+                                                                                                                                                        <dc:creator>Author Name</dc:creator>
+                                                                                                                                                        <flatplan:parameters isPreview="false" accessoryText="My accessory Text" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
+                                                                                                                                                        <category>
+                                                                                                                                                          category
+                                                                                                                                                        </category>
+
+                                                                                                                                                        <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+                                                                                                                                                        <content:encoded>
+                                                                                                                                                          <![CDATA[
 
       	<h3>WC3 structure - "video", "source" src "mp4"</h3>
 
@@ -869,8 +922,8 @@
 
 
         ]]>
-      </content:encoded>
-    </item>
+                                                                                                                                                        </content:encoded>
+                                                                                                                                                      </item>
 
-  </channel>
-</rss>
+                                                                                                                                                    </channel>
+                                                                                                                                                  </rss>
