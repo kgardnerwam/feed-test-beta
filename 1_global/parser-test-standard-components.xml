@@ -24,7 +24,7 @@
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
       <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
       <dc:creator>KG</dc:creator>
-      <category></category>
+      <category>no</category>
       <!-- optional custom metadata fields -->
       <flatplan:template identifier="template_name"/>
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
