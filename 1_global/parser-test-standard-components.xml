@@ -16,6 +16,33 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">11234233456sa4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>empty category</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Wed, 18 Aug 2020 14:48:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category></category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <h3>no cats</h3>
+
+
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">412342334567a4</guid>
       <!-- must include CDATA wrapper -->
       <title>audio + music elements</title>
@@ -398,7 +425,7 @@
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
-        <![CDATA[
+        <![CDATA [
 
           <h2>img tag</h2>
 
@@ -845,60 +872,58 @@
                                                                                                                                                                         </div>
                                                                                                                                                                       </div>
 
-                                                                                                                                                  <p>big lead new test - remove full source tags, remove noscript tag</p>
+                                                                                                                                                                      <p>big lead new test - remove full source tags, remove noscript tag</p>
 
-                                                                                                                                                  <div data-mm-id="_ktonk516r">
-                                                                                                                                                    <div class="style_1tb5rbs">
-                                                                                                                                                      <figure data-id="_ktonk516r" class="base_p48hb8">
-                                                                                                                                                        <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
-                                                                                                                                                        <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
-                                                                                                                                                          <source>
-                                                                                                                                                            <source>
-                                                                                                                                                              <source>
-                                                                                                                                                                <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                                                                                                                      <div data-mm-id="_ktonk516r">
+                                                                                                                                                                        <div class="style_1tb5rbs">
+                                                                                                                                                                          <figure data-id="_ktonk516r" class="base_p48hb8">
+                                                                                                                                                                            <canvas class="style_1e28o3x-o_O-initial_9vayoh"></canvas>
+                                                                                                                                                                            <picture class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw">
+                                                                                                                                                                              <source>
+                                                                                                                                                                                <source>
+                                                                                                                                                                                  <source>
+                                                                                                                                                                                    <img class="base_1emrqjj-o_O-initial_fzbddc-o_O-style_1a1csmw" alt="ATHLETICS-OLY-2020-2021-TOKYO" title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
 
-                                                                                                                                                                  <picture class="base_1emrqjj">
+                                                                                                                                                                                    <picture class="base_1emrqjj">
 
-                                                                                                                                                                    <img
-                                                                                                                                                                      class="base_1emrqjj"
-                                                                                                                                                                      src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
-                                                                                                                                                                      alt="ATHLETICS-OLY-2020-2021-TOKYO"
-                                                                                                                                                                      title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
+                                                                                                                                                                                      <img
+                                                                                                                                                                                        class="base_1emrqjj"
+                                                                                                                                                                                        src="https://images2.minutemediacdn.com/image/upload/c_fill,w_720,ar_3:2,f_auto,q_auto,g_auto/shape/cover/sport/ATHLETICS-OLY-2020-2021-TOKYO-dfe1043176e81b8f90610ff8e6b04962.jpg"
+                                                                                                                                                                                        alt="ATHLETICS-OLY-2020-2021-TOKYO"
+                                                                                                                                                                                        title="ATHLETICS-OLY-2020-2021-TOKYO"></picture>
 
-                                                                                                                                                                </figure>
-                                                                                                                                                                <div class="wrapper_1neju83">
-                                                                                                                                                                  <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
-                                                                                                                                                                </div>
-                                                                                                                                                              </div>
-                                                                                                                                                            </div>
+                                                                                                                                                                                    </figure>
+                                                                                                                                                                                    <div class="wrapper_1neju83">
+                                                                                                                                                                                      <figcaption class="tagStyle_1qsaa72-o_O-text_127oqiu">ATHLETICS-OLY-2020-2021-TOKYO / ANTONIN THUILLIER/Getty Images</figcaption>
+                                                                                                                                                                                    </div>
+                                                                                                                                                                                  </div>
+                                                                                                                                                                                </div>
 
+                                                                                                                                                                              ]]>
+                                                                                                                                                                            </content:encoded>
+                                                                                                                                                                          </item>
 
+                                                                                                                                                                          <item>
+                                                                                                                                                                            <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+                                                                                                                                                                            <guid isPermaLink="false">1825487315112</guid>
+                                                                                                                                                                            <!-- must include CDATA wrapper -->
+                                                                                                                                                                            <title>
+                                                                                                                                                                              <![CDATA[parsing - video]]>
+                                                                                                                                                                            </title>
+                                                                                                                                                                            <link>https://www.cannonicalURL/article-slug-example/</link>
+                                                                                                                                                                            <pubDate>Mon, 04 May 2021 11:24:35 +0000</pubDate>
+                                                                                                                                                                            <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+                                                                                                                                                                            <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
+                                                                                                                                                                            <description>Article introduction</description>
+                                                                                                                                                                            <dc:creator>Author Name</dc:creator>
+                                                                                                                                                                            <flatplan:parameters isPreview="false" accessoryText="My accessory Text" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
+                                                                                                                                                                            <category>
+                                                                                                                                                                              category
+                                                                                                                                                                            </category>
 
-                                                                                                                                                                    ]]>
-      </content:encoded>
-    </item>
-
-    <item>
-      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
-      <guid isPermaLink="false">1825487315112</guid>
-      <!-- must include CDATA wrapper -->
-      <title>
-        <![CDATA[parsing - video]]>
-      </title>
-      <link>https://www.cannonicalURL/article-slug-example/</link>
-      <pubDate>Mon, 04 May 2021 11:24:35 +0000</pubDate>
-      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
-      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption=""/>
-      <description>Article introduction</description>
-      <dc:creator>Author Name</dc:creator>
-      <flatplan:parameters isPreview="false" accessoryText="My accessory Text" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
-      <category>
-        category
-      </category>
-
-      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
-      <content:encoded>
-        <![CDATA[
+                                                                                                                                                                            <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+                                                                                                                                                                            <content:encoded>
+                                                                                                                                                                              <![CDATA[
 
       	<h3>WC3 structure - "video", "source" src "mp4"</h3>
 
@@ -978,8 +1003,8 @@
 
 
         ]]>
-      </content:encoded>
-    </item>
+                                                                                                                                                                            </content:encoded>
+                                                                                                                                                                          </item>
 
-  </channel>
-</rss>
+                                                                                                                                                                        </channel>
+                                                                                                                                                                      </rss>
