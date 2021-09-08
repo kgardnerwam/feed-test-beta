@@ -230,7 +230,7 @@
       <guid isPermaLink="false">1295497347114</guid>
       <!-- must include CDATA wrapper -->
       <title>
-        <![CDATA[parsing - social embeds]]>
+        <![CDATA[parsing - social and media embeds]]>
       </title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Mon, 21 Jun 2021 13:24:35 +0000</pubDate>
@@ -385,6 +385,11 @@
       <p>script tag with RM - big think relaunch</p>
 
       <script src="https://content.jwplatform.com/players/p9bSguDT-FvQKszTI.js"></script>
+
+      <p>script tag with RM - big think relaunch</p>
+
+      <iframe src="https://content.jwplatform.com/players/p9bSguDT-FvQKszTI.js"></iframe>
+
 
       <h2> unsupported embeds </h2>
 
@@ -1003,6 +1008,11 @@
                </div>
              </figcaption>
           </figure>
+
+          <p>script tag with RM - big think relaunch</p>
+
+          <script src="https://content.jwplatform.com/players/p9bSguDT-FvQKszTI.js"></script>
+
 
 
         ]]>
