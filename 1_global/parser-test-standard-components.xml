@@ -386,7 +386,7 @@
 
       <script src="https://content.jwplatform.com/players/p9bSguDT-FvQKszTI.js"></script>
 
-      <p>script tag with RM - big think relaunch</p>
+      <p>iframe tag with RM - big think relaunch</p>
 
       <iframe src="https://content.jwplatform.com/players/p9bSguDT-FvQKszTI.js"></iframe>
 
