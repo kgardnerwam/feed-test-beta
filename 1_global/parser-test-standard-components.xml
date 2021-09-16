@@ -15,7 +15,7 @@
     <language>en-US</language>
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
-      <guid isPermaLink="false">1123w2q3456sa4</guid>
+      <guid isPermaLink="false">1123waq3456sa3</guid>
       <!-- must include CDATA wrapper -->
       <title>Localization - without locale - updated - v.1</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
