@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:snf="http://www.smartnews.be/snf">
+
+  <channel>
+    <title>Big Think</title>
+    <link>https://bigthink.com</link>
+    <description>Smarter, Faster</description>
+    <lastBuildDate>Thu, 16 Sep 2021 06:47:55 +0000</lastBuildDate>
+    <language>en-US</language>
+    <snf:logo>
+      <url></url>
+    </snf:logo>
+    <pubDate>Thu, 16 Sep 2021 06:02:19 +0000</pubDate>
+    <item>
+      <guid>https://bigthink.com/surprising-science/are-we-approaching-quantum-gravity-all-wrong</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2017_07_quantum_ill-1200x573-1-1.jpg"/>
+      <title>Are we approaching quantum gravity all wrong?</title>
+      <link>https://bigthink.com/surprising-science/are-we-approaching-quantum-gravity-all-wrong</link>
+      <description>
+        <![CDATA[<p>An exclusive interview with physicist Lee Smolin reveals how abandoning Einstein's dream may have been a terrible mistake.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/are-we-approaching-quantum-gravity-all-wrong">Are we approaching quantum gravity all wrong?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Thu, 16 Sep 2021 06:02:19 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Ethan Siegel]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://bigthink.com/wp-content/uploads/2021/09/Wave-particle_duality.gif" alt="" class="wp-image-140526" width="840" height="473" /><figcaption>Electrons exhibit wave properties as well as particle properties, and can be used to construct images or probe particle sizes just as well as light can. Here, you can see the results of an experiment where electrons are fired one-at-a-time through a double-slit. Once enough electrons are fired, the interference pattern can clearly be seen. (Credit: THIERRY DUGNOLLE / PUBLIC DOMAIN)</figcaption></figure>
+
+
+
+<p id="h-">At a fundamental level, we often assume that there are two ways of describing nature that each work well in their own regime, but that don&#8217;t seem to play well together. On the one hand, we know that the matter and energy that makes up the Universe, from stars to atoms to neutrinos to photons, all require a quantum description in order to extract their properties and behavior. The Standard Model, the pinnacle of quantum physics, works perfectly well to describe every interaction we&#8217;ve ever measured in the Universe.</p>
+
+
+
+<p>On the other hand, we also have General Relativity: our theory of gravity. However, this is fundamentally a classical theory, where the presence of matter and energy curves the fabric of space, and that curved space in turn tells matter and energy how to move through it. Although each one works quite well over its own range of validity, there are plenty of questions that require a thorough knowledge of both, together to answer. Due not only to their fundamental differences but their fundamental incompatibilities, many questions that we can imagine are currently beyond our ability to answer.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://bigthink.com/wp-content/uploads/2021/09/img05.gif" alt="" class="wp-image-140525" width="840" height="840" /><figcaption>The idea of mass curving the fabric of space, and of that space being dynamically evolving in time, is essential to the conception of Einstein&#8217;s General Relativity. This concept doesn&#8217;t &#8220;play nice&#8221; with quantum physics. (Credit: LucasVB)</figcaption></figure>
+
+
+
+<p>That doesn&#8217;t necessarily imply that anything is broken with physics, but it certainly seems to indicate that our current understanding of matters is, at the very least, incomplete. In an attempt to uncover just what it is that we know, what we don&#8217;t, and what the path forward might look like, I sat down in an interview with physicist Lee Smolin, who&#8217;ll be appearing at the <a href="https://howthelightgetsin.org/festivals/september?utm_source=Forbes&amp;utm_medium=article&amp;utm_campaign=HTLGILondon2021&amp;utm_id=Coverage">How The Light Gets In festival in London</a> this September 18 and 19. Lee is a pioneer in the field of quantum gravity and someone whose latest book, <a href="https://amzn.to/3k9VlvH">Einstein&#8217;s Unfinished Revolution</a>, details the search for what lies beyond what&#8217;s presently known about the quantum Universe.</p>
+
+
+
+<p><strong>Ethan Siegel</strong>: What are the motivations behind why you would say quantum field theory and the Standard Model, and General Relativity for gravity, why can that not describe the Universe at a fundamental level?</p>
+
+
+
+<p><strong>Lee Smolin</strong>: Well it just can’t. It’s easy to think of experiments that that collection of ideas doesn’t give consistent predictions for. More than that, there are reasons, in principle, why the principles that quantum physics is based on contradict the principles that General Relativity is based on, and we need to make these things fit together on a level of principle, because it’s supposed to be a fundamental theory of nature.</p>
+
+
+
+<p>There are both experimental reasons and reasons of principle — and between them there are also lots of technical problems that we see when we get to know them — are a consequence of these conceptual clashes: clashes of principle.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="844" height="694" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2016_04_sneq.jpg" alt="" class="wp-image-140524" /><figcaption>A visualization of the gravitational field of the electron as it passes through a double slit. If gravity is quantized, the gravitational field will behave as a wavefunction, but if not, it will simply be purely localized. The result of this thought experiment is not yet know. (Credit: Sabine Hossenfelder)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: Can you give one example?</p>
+
+
+
+<p><strong>LS</strong>: Sure, what does “collapse of the wavefunction,” which is a part of quantum mechanics, look like in a spacetime which is dynamical, and which evolves according to some equations of motion in General Relativity?</p>
+
+
+
+<p><strong>ES</strong>: Einstein’s original idea of unification was originally to geometrically add in classical electromagnetism to General Relativity, and we know that can’t be right because we know the Universe is quantum mechanical in nature. You write about what you call “Einstein’s unfinished dream.” Why is this dream important, even if Einstein’s original ideas about it are no longer relevant?</p>
+
+
+
+<p><strong>LS</strong>: Well, I disagree with you about how relevant Einstein’s original ideas were, for better or for worse. There are, in the history of science revolutions, where our understanding of nature changes profoundly and on every possible scale. When you go from being an Aristotelian scientist to a Newtonian scientist, your picture of the world changed drastically, on all scales, and there are many applications of that.</p>
+
+
+
+<p>Here’s what at stake. Einstein started two revolutions at the start of the 20th century: general relativity and quantum mechanics. He understood that they did not give a consistent picture put together. And in fact, he believed, and I agree with him, that quantum mechanics all by itself doesn’t give a consistent picture. To put it directly, it just doesn’t make sense: the quantum mechanics as it was formulated in the 1920s, by his friends and colleagues.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="510" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2018_02_catalivedead.jpg" alt="" class="wp-image-140523" /><figcaption>Inside the box, the cat will be either alive or dead, depending on whether a radioactive particle decayed or not. If the cat were a true quantum system, the cat would be neither alive nor dead, but in a superposition of both states until observed. (Credit: WIKIMEDIA COMMONS USER DHATFIELD)</figcaption></figure>
+
+
+
+<p><strong>LS</strong>: So we have two tasks on the agenda. One is to make sense of quantum mechanics. And two is to fix that theory which is better than quantum mechanics, and to make that theory that’s better than quantum mechanics also complete General Relativity. So I see it as a question of completion.</p>
+
+
+
+<p>General Relativity covers very well, to a certain degree of approximation, certain phenomena. Quantum mechanics covers very well, to a certain degree of approximation, certain phenomena. They’re both incomplete. Highly incomplete. At the level of experiments, you have to use some imagination, but it’s not all down at the Planck scale. There are experiments which involve timescales of minutes or seconds where we have no clear prediction. But this double revolution needs to be completed on both sides, and that’s what’s at stake: it’s to complete the revolution, because we’re living in a conceptual situation much analogous to that faced by Kepler and Galileo, who were contemporaries, they were each halfway between Aristotelian and Newtonian physics. They understood certain things very well, but they were deeply confused about other things. And that’s our situation now.</p>
+
+
+
+<p><strong>ES</strong>: From the quantum side, I’ve heard many people argue, counter to what you’re arguing, that quantum physics works exactly fine for describing every quantum phenomenon in the Universe, so long as you don’t also fold in quantum gravitational effects. If I can treat spacetime as being a classical or semi-classical background, then I can do everything that my quantum field theory predicts I should do without any errors or uncertainties. Do you disagree with that?</p>
+
+
+
+<p><strong>LS</strong>: Am I supposed to be impressed by that?</p>
+
+
+
+<p>Aristotle worked with orbits and the positions of the planets that were accurate to a part in a thousand over a millennium. That was impressive, but it was bloody wrong. That simple-minded theory that you’re describing… why would somebody take such a little, little, low-ambitious thing? Of course you can make it work if you put in enough caveats and enough approximations, that’s what we’re trained to do.&nbsp;</p>
+
+
+
+<p>And there are some beautiful things that come out of it, like Steve Hawking’s prediction of black hole radiation. So that’s fine, but man, that’s 1970s physics; do we want to do 1970s physics forever? I’m being deliberately a bit provocative, but, you know, we’ve got to wake these people up!</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="343" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2016_11_aspect3.jpg" alt="" class="wp-image-140522" /><figcaption>Schematic of the third Aspect experiment testing quantum non-locality. Entangled photons from the source are sent to two fast switches that direct them to polarizing detectors. The switches change settings very rapidly, effectively changing the detector settings for the experiment while the photons are in flight. (Credit: CHAD ORZEL)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: So I read, back in 2003, you <a href="https://arxiv.org/abs/gr-qc/0311059">co-wrote a paper</a> [with Fotini Markopoulou] that showed what I’ll say is an intriguing link between general ideas in quantum gravity and the fundamental non-locality of quantum physics. Now, maybe I should even ask you a setup question for this: we often state that quantum physics is fundamentally a non-local theory. And when we talk about quantum entanglement, we use that as sort of an illustration of that. But critics of that will say that no information ever travels faster than light from one quantum to another. Does this create any conflict in your mind? Would you say that quantum mechanics is fundamentally non-local?</p>
+
+
+
+<p><strong>LS</strong>: That quantum mechanics <em>is</em> fundamentally non-local, and therefore, making sense of quantum mechanics requires a strong modification in our understanding of what space is. And that General Relativity requires a strong modification in our ideas of what space is. And therefore, the things should go together. We shouldn’t try to ignore that and do this and then ignore this and do that, we should fix them together, in one move. And that’s what I’ve been trying to do since 19… since I was in college.</p>
+
+
+
+<p>That [paper], that was mostly [Markopoulou’s] idea, and that was a very clever demonstration of the principle that space could be is be emergent, so that time could be fundamental. And that’s what she believed and she convinced me, and that’s what I’ve been working on, really, the last 20 years. Is the idea that time and causation are at the bottom, and are fundamental, and that space is a secondary, emergent quantity, like pressure of the air or temperature of the Earth. And so that’s what we’ve been trying to do, and we’ve been having some moderate success along the road.</p>
+
+
+
+<p>So that what we experience of the world, evolving in time event-by-event, event-by-event, is real, that’s how the world really is. And out of that fundamental, active notion of time and causation, we make space as a derivative concept, the same way that out of the motion of atoms, you make a gas.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="719" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2016_11_3794835939_fb72bb28d0_b.jpg" alt="" class="wp-image-140521" /><figcaption>By creating two entangled photons from a pre-existing system and separating them by great distances, we can &#8216;teleport&#8217; information about the state of one by measuring the state of the other, even from extraordinarily different locations. &#8220;Quantum&#8221; doesn&#8217;t necessarily mean small; quantum effects can occur in macroscopic systems. (Credit: MELISSA MEISTER, OF LASER PHOTONS THROUGH A BEAM SPLITTER)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: Interesting. So you are very strongly an advocate that this classical notion of cause-and-effect, persists all the way down to the quantum level. I would assume that this means you are not a fan of quantum mechanics interpretations that do not maintain cause-and-effect as a fundamental tenet of all interactions?</p>
+
+
+
+<p><strong>LS</strong>: Mmm-hmmm, yes.</p>
+
+
+
+<p><strong>ES</strong>: I know that you have stated, and I don’t know if it’s for ideological or physical reasons, that reality ought to be independent of us, the observer.</p>
+
+
+
+<p><strong>LS</strong>: Yes, of course.</p>
+
+
+
+<p><strong>ES</strong>: You say, “yes, of course.” And many people throughout the history of quantum mechanics have <em>not</em> thought, “yes, of course.” Can you explain why reality should be independent of the observer?</p>
+
+
+
+<p><strong>LS</strong>: Because I’m a realist, and for me the goal of science is precisely the description of nature as it would be in our absence. Now, that doesn’t mean that there isn’t a role for the observer. For example, in the theories I’ve been developing for the last five years — it’s called the theory of views — what is real in that Universe is a view of that Universe, looking back, causally, into the past. And that’s exactly what’s real. John Bell, who was very much a realist, used to say, “we have to say not what the observables are, but what the viewables are.” So I’ve been developing this theory where we have events, and then have information or news that comes to them from the past, and that’s what’s real: those views. And the dynamics of the world doesn’t depend on differential equations in space, or fields, it depends on the views, and the differences between those views. And the basic dynamical principle of the theory is that the Universe evolves to make the views as varied and as different from each other as possible.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="853" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2016_11_worldline.jpg" alt="" class="wp-image-140520" /><figcaption>An example of a light cone, the three-dimensional surface of all possible light rays arriving at and departing from a point in spacetime. The more you move through space, the less you move through time, and vice versa. Only things contained within your past light-cone can affect you today; only things contained within your future light-cone can be perceived by you in the future. (Credit: WIKIMEDIA COMMONS USER MISSMJ)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: So you have a principle, then, of something that’s either maximized or minimized.</p>
+
+
+
+<p><strong>LS</strong>: Of course.</p>
+
+
+
+<p><strong>ES</strong>: Is that something you could describe for us?</p>
+
+
+
+<p><strong>LS</strong>: Sure. It’s called, “the variety.” It can be applied to many different kinds of systems, so let’s take cities. Consider an old city: the center of Rome, which was preserved. Think of calling a friend and saying, “I’m lost, I’m at some corner and here’s what I see around me.” Now, Rome is a city with a lot of variety, so your friend is gonna be able to say, “Oh, you’re there, near the [whatever] because every corner looks different.” Rome is a city with high variety. On the other hand, there are some very suburban-dominated cities, in which you wouldn’t know very much about where you are just from what you see when you look around, because many of the corners are similar to each other. So that can give you an example of what we mean when we say, “we want to increase the variety.”</p>
+
+
+
+<p><strong>ES</strong>: So when you say, “we want to increase the variety,” do you think that nature extremizes variety?</p>
+
+
+
+<p><strong>LS</strong>: Yes, and I can write that down as an equation within the framework I discussed, where there are these causal relations, and there’s energy and momentum, but there’s no space. We can construct a dynamical theory that extremizes, over time, the variety of the system. And we derive from that, quantum mechanics, and as a limit of that, classical mechanics.</p>
+
+
+
+<p>Why do we get quantum mechanics out? Roughly speaking, there was an original realist interpretation of quantum mechanics called pilot wave theory, that Louis de Broglie invented in 1927, and it was reinvented by David Bohm in about 1952. And in that theory, there’s potential energy and there’s another new function of the wavefunction, and it sits where the potential energy usually sits. And they derive the Schrodinger equation from maximizing the influence of this function. Well, it turns out that this function that David Bohm invented is a certain limit of the quantity we call the variety, by the way with Julian Barbour, back in the ‘80s. And this was one of the great surprises of my working life.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="509" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2016_07_8-12-Uncertainty-1200x636-1.jpg" alt="" class="wp-image-140519" /><figcaption>An illustration between the inherent uncertainty between position and momentum at the quantum level. There is a limit to how well you can measure these two quantities simultaneously, and uncertainty shows up in places where people often least expect it. (Credit: E. SIEGEL / WIKIMEDIA COMMONS USER MASCHEN)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: When you take this limit of the quantity you call the variety, and you’re saying, “we’re extremizing over that,” this sounds to me like something that would be pretty analogous to some type of entropy, some type of thermodynamic quantity.&nbsp; So far, everyone I know who’s tried to come up with a concept of “gravity is emergent” or “space is emergent” or some other quantity that we normally look at as fundamental is in fact emergent, takes something that in typical physics thought we view as emergent and makes that fundamental. I would say the typical view of physics is that entropy is an emergent property that you can calculate based on, say, the microscopic quantum state of all the particles aggregated together. Are you basically doing something similar to that, except with this thing you define as “variety” instead of entropy?</p>
+
+
+
+<p><strong>LS</strong>: Roughly speaking yes, but that’s a long discussion. Because the role of entropy in cosmological theory is something we have to get our heads straight about. There’s a series of three very beautiful papers that Marina Cortês, Andrew Liddle and Stu Kauffman have that we&#8217;ve been working on for a few years, and they contain some important new insights about very far-from-equilibrium systems and their relation to cosmology.</p>
+
+
+
+<p><strong>ES</strong>: I&#8217;d like to ask about this idea that Heisenberg and a lot of other people had, which is that unless you have what we call an interaction in some sense — one quantum interacting with another quantum — that&#8217;s the only thing that provides meaningful information about the Universe. If you don&#8217;t make a measurement, then you don&#8217;t have a quantifiable property of the Universe. So all of the information that we have has to come out of that act, which I look at, maybe naively, as fundamentally antagonistic to this idea of an objective reality. The fact that we can&#8217;t make any measurements that discern between this Heisenberg-esque picture of reality and a &#8220;objective reality exists&#8221; picture of reality&#8230; you have a certainty about your perspective that I don&#8217;t share and that many physicists don&#8217;t share. How do you make sense of this if you can&#8217;t tell experimentally between these different interpretations?</p>
+
+
+
+<p><strong>LS</strong>: No, that&#8217;s a fake. I don&#8217;t know that, but it&#8217;s a good working fake. Let me tell you about how I look at quantum mechanics these days, because it&#8217;s new and it&#8217;s been very exciting to me. Our realization, actually following down some quotes of Heisenberg which were very mysterious at first, you know that Heisenberg said that the wavefunction description does not apply to the past. Somehow, the wavefunction was about the future, and the classical description is about the past. And a few people said this. Freeman Dyson said this at length; Schrodinger said something like that, and even deeper and more mysterious.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="540" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2016_11_Slideshow_entanglement.jpg" alt="" class="wp-image-140518" /><figcaption>If two particles are entangled, they have complementary wavefunction properties, and measuring one&nbsp;places meaningful constraints on the properties of the other. (Credit: <small>WIKIMEDIA COMMONS USER DAVID KORYAGIN</small>)</figcaption></figure>
+
+
+
+<p>What we realized they were trying to say is that in the Copenhagen version of quantum mechanics, there is a quantum world and there is a classical world, and a boundary between them: when things become definite. When things that are indefinite in the quantum world become definite. And what they&#8217;re trying to say is that is the fundamental thing that happens in nature, when things that are indefinite become definite. And that&#8217;s what &#8220;now&#8221; is. The moment now, the present moment, that all these people say is missing from science and missing from physics, that is the transition from indefinite to definite. And quantum mechanics, the wavefunction, is a description of the future which is indefinite and incomplete. And classical physics is how we describe the past. </p>
+
+
+
+<p>Why? Because the past happened, what happened was definite, and it doesn&#8217;t change, because it&#8217;s the past. So we have this different way of thinking about quantum mechanics, and it seems to be helpful, we&#8217;re having a good time.</p>
+
+
+
+<p><strong>ES</strong>: It&#8217;s very hard to disagree with that. So when you look at, let&#8217;s say, Wheeler&#8217;s delayed choice experiment. And I&#8217;m thinking in particular of one where you send in a photon and you have a beam splitter, and the photon can take two paths around mirrors, and they&#8217;ll meet up on the other side. And either you&#8217;ll have another beam splitter that will combine them and you&#8217;ll get your detector that will see an interference pattern of the recombined photons, or you won&#8217;t put the splitter in there, and you&#8217;ll just get one of the photons that comes into your detector.</p>
+
+
+
+<p>So, you can do this, and Wheeler&#8217;s idea is that you can send the photon through that first splitter, to have it go those two different ways. And then you can either put the second splitter there or not. And at the last second, you can either remove the splitter that was there (or not) or you can insert the splitter that wasn&#8217;t there to try and, he called it, &#8220;catch the photon deciding on what it was going to do before you made that measurement.&#8221; </p>
+
+
+
+<p>In hindsight, to no one&#8217;s surprise, what did you measure at the detector? Well, if the splitter was there, you get the interference pattern back. And if the splitter wasn&#8217;t there, you&#8217;d just get the one photon back. Basically, nature doesn&#8217;t know in advance what you&#8217;re going to do. But once you do it, it&#8217;s like it knew all along what you were going to do. That, to me, and you&#8217;re going to tell me that&#8217;s not the only interpretation, has always meant the act of interacting, itself, is what gives you that meaningful information. If you didn&#8217;t have any interactions taking place, you have not determined your reality yet. Your reality remains indeterminate until you make a measurement that would discern between the different possibilities.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="619" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2018_01_1-AuimaL9iKcylh53vGuitCg.jpg" alt="" class="wp-image-140517" /><figcaption>According to Smolin&#8217;s conception of reality, the past is definite and fixed, and not subject to any quantum indeterminism. The future, however, is unwritten and indeterminate; the line between classical and quantum is drawn by &#8220;now.&#8221; (Credit: CHRISTIAN SCHIRM)</figcaption></figure>
+
+
+
+<p><strong>LS</strong>: Yeah, but you see, I agree with that. Only, my line is &#8220;now,&#8221; is the boundary between the future and the past.</p>
+
+
+
+<p><strong>ES</strong>: Are you saying that right now, the &#8220;in progress&#8221; things, that have not yet been decided, that will be decided with an interaction at some point in the future, are you saying that everything in the past has already been determined, even those things where that measurement that will draw that line has not yet occurred?</p>
+
+
+
+<p><strong>LS</strong>: So that event has not yet occurred, so that&#8217;s rather compatible. The notion of the &#8220;now&#8221; that gives rise to is not a thin instant, where it has to happen here; it&#8217;s what the philosophers call a thick now. So there can be events that turn something definite, that are late, or that are early, so our &#8220;now&#8221; can zigzag quite a bit. At least, that&#8217;s the way we try to understand those cases. They&#8217;re not in the original two papers, but we&#8217;re going through all these thought experiments in detail and show how to think about what&#8217;s going on.</p>
+
+
+
+<p><strong>ES</strong>: This is stuff that&#8217;s right on the cutting edge of trying to understand what the fundamental nature of reality is. You&#8217;ve written very much, I&#8217;d say, non-positively about many of the ideas in string theory, and how they&#8217;ve become this dominant theoretical paradigm. One of the things I&#8217;ve noticed about your work is that it seems to be relatively agnostic about other extensions to what might be out there: string theory, supersymmetry, grand unification, etc., you seem pretty agnostic about this all, which is maybe in contrast to what people&#8217;s public perception of you is.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2016_11_Witten_02.jpg" alt="" class="wp-image-140516" width="840" height="686" /><figcaption>Feynman diagrams (top) are based off of point particles and their interactions. Converting them into their string theory analogues (bottom) gives rise to surfaces which can have non-trivial curvature. In string theory, all particles are simply different vibrating modes of an underlying, more fundamental structure: strings. (Credit: PHYS. TODAY 68, 11, 38 (2015))</figcaption></figure>
+
+
+
+<p><strong>LS</strong>: If people want to express an opinion about [my 2006 book, <a href="https://amzn.to/3tJGLy8">The Trouble With Physics</a>], I would ask them the favor that they should read it. There was a lot of angst and conflict in that period, and I think people would be surprised here, but let me just tell you what I think. What I believe is that there are a number of interesting different approaches to quantum gravity, which so far are all incomplete. They all manage to explain something to us about what a quantum description of spacetime may be, but each of them also get stuck somewhere on some characteristic. </p>
+
+
+
+<p>String theory is a beautiful set of ideas, which in my view has gotten stuck. And loop quantum gravity, which I&#8217;m fortunate enough to have had the experience of working on while it was being invented, but it&#8217;s also clearly gotten stuck. Both of them express the same idea: that there&#8217;s a duality between fields carrying forces, like the electromagnetic field, and quantum excitations of those fields can look like extended objects, like strings or loops, propagating. Both loop quantum gravity and string theory express in different contexts that fundamental conjecture.</p>
+
+
+
+<p>What I tried to express in that book, and it&#8217;s always the author&#8217;s fault when you&#8217;re misunderstood, that book started as a case study of the role of conflict in science. Being a student of Paul Feyerabend, I think that conflict and disagreement are vital to the progress of science. And that book was meant to be an argument for that, using the case study that I knew best. As the book got shaped by me and by the editors, we flipped the book so that the case study came first and the analysis in terms of how the conflict plays a driving role in science came second, and most people only read the first half.</p>
+
+
+
+<p>What I was against, and what I am against wherever I see it, is premature dogmatism: premature believing in something more than what the evidence supports. And this, unfortunately, is very common in science, because we all want to believe that we&#8217;ve done something good and discovered something. There was an atmosphere at the time, which I think is very dissipated now, of over-optimism in my view. I try to give a balanced view of what the strengths of string theory were and what the weaknesses were, and unfortunately some people reacted to that. But that was a long time ago.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="458" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2017_07_quantum_ill-1200x573-1.jpg" alt="" class="wp-image-140515" /><figcaption>An illustration of the early Universe as consisting of quantum foam, where quantum fluctuations are&nbsp;large, varied, and important on the smallest of scales. These are precisely the conditions where quantum gravitational and string theory effects may become important. (Credit: <small>NASA/CXC/M.WEISS</small>)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: Can I ask you what you think of certain effective approaches to quantum gravity? Like asymptotically safe gravity, do you think that offers any promise? I&#8217;ve always had an appreciation for that one because it seems to allow for predictions to be made in an otherwise inaccessible regime.</p>
+
+
+
+<p><strong>LS</strong>: Asymptotic safety has some very attractive points. It&#8217;s basically an application by Steve Weinberg about some ideas about perturbatively non-renormalizable theories that Ken Wilson had, and he applied their ideas to gravity. It&#8217;s a very attractive story, but there&#8217;s a problem; as I said there&#8217;s always a problem. The problem in asymptotic safety is unitarity. We know of an asymptotically safe theory which is present even in perturbation theory. Can we speak a little math here?</p>
+
+
+
+<p><strong>ES</strong>: Go ahead, I&#8217;ll translate.</p>
+
+
+
+<p><strong>LS</strong>: The action principle to the theory is the Einstein action principle, plus the cosmological constant term, plus a term in the Ricci scalar squared plus a term in the Ricci tensor squared. And this last one invariably introduces instabilities and an impossibility to satisfy the principle of unitarity, which among other things means you can&#8217;t guarantee that the probabilities for all the things that will happen will add up to one. And this has been a known problem since 1978 or 1982 or something, and I wrote the third paper in response to Steve&#8217;s paper that showed the violation of unitarity. So that&#8217;s where it stands in my mind, but it&#8217;s always good to follow the kids, and there&#8217;s a bunch of smart, young people working on this. It&#8217;s not my bet, but it&#8217;s their bet, and they&#8217;re really good.</p>
+
+
+
+<p>We don&#8217;t have any senior faculty working on asymptotic safety at Perimeter, but we were so impressed by some of the young people who applied to us that, despite our own misgivings, we hired them for a few years. Because it&#8217;s interesting and exciting to have them around, and if you want your field to prosper, you&#8217;ve got to be able to listen to and promote young people who disagree with you, otherwise it&#8217;s not science.</p>
+
+
+
+<figure class="wp-block-image size-full is-resized"><img loading="lazy" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2015_12_1-tsfQT78uUzXA07yYsfxDKg1.png" alt="" class="wp-image-140514" width="841" height="466" /><figcaption>As long as the couplings are finite in the high-energy limit, you can have an asymptotically safe theory. By picking a high-energy fixed point for the renormalization group, everything else can be calculated at lower energies. (Credit: Wikimedia Commons user &amp;reasNink)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: When I&#8217;ve felt optimistic about it, I&#8217;ve looked towards asymptotically safe gravity in the same way I now look back at the time-dependent Schrodinger equation. I say, &#8220;okay, look, this has cases where it doesn&#8217;t apply, and cases where it breaks down,&#8221; because it&#8217;s not a relativistically invariant theory. But if you can find a formulation of it, like the Dirac equation, that is relativistically invariant, or if you could find a more general formulation, like quantum field theory that eliminates the need for that sort of thing. Maybe this idea can be salvaged, despite the fact that the way it&#8217;s formulated now, it doesn&#8217;t guarantee unitarity.</p>
+
+
+
+<p><strong>LS</strong>: But if you turn it up so that it is giving you unitary answers to second or third order in perturbation theory, then the condition that there should be a non-trivial fixed point constrains the top quark mass by a measurable amount. They actually get a prediction that if this all works out, then here&#8217;s the top quark mass.</p>
+
+
+
+<p><strong>ES</strong>: I remember reading a paper by <a href="https://arxiv.org/abs/0912.0208">Wetterich and Shaposhnikov</a> years before they had measured the mass of the Higgs boson where they used the mass of all the particles except the Higgs to say, well, instead of getting the mass of the top we&#8217;re going to get the mass of the Higgs, and the value they got was ~126 ± 1. But if I remember right, since then, the mass of the top has changed a little bit, and now if you put that same math back in, you&#8217;d get something like 129 or 130, which doesn&#8217;t agree with what they&#8217;ve seen at the LHC.</p>
+
+
+
+<p><strong>LS</strong>: I didn&#8217;t know that; that&#8217;s interesting. That&#8217;s great. What else excites you?</p>
+
+
+
+<p><strong>ES</strong>: One thing I&#8217;d like to press you on a little bit is this: if you have a dynamical spacetime, versus a static spacetime, how can you describe wavefunction collapse in a changing spacetime? If you have a wavefunction in a changing spacetime, what does wavefunction collapse look like, if your spacetime isn&#8217;t static?</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="540" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2018_03_QG-curved.jpg" alt="" class="wp-image-140513" /><figcaption>Quantum gravity tries to combine Einstein’s general theory of relativity with quantum mechanics. Quantum corrections to classical gravity are visualized as loop diagrams, as the one shown here in white. We typically view objects that are close to one another as capable of exerting forces on one another, but that might be an illusion, too. (Credit: SLAC NATIONAL ACCELERATOR LAB)</figcaption></figure>
+
+
+
+<p><strong>LS</strong>: Roger Penrose&#8217;s view of that is that the collapse of the wavefunction is a physical thing that happens when a certain measure of energy involved in that possible event is equal to the planck energy per planck time, or something like that. I don&#8217;t remember the exact way he did it. So then, you&#8217;re in a domain where neither the Einstein equation or the Schrodinger equation is quite right.</p>
+
+
+
+<p>What I&#8217;m really, really excited about is that there are some experiments under development where they actually test that. There&#8217;s a whole new generation of tabletop gravity or quantum gravity experiments that different people are working on.</p>
+
+
+
+<p><strong>ES</strong>: I like the tabletop experiments that are happening. One thing that I definitely wanted to ask you about is, you&#8217;ve talked, I&#8217;ll say derisively about people who treat conclusions as if they&#8217;re foregone conclusions without having evidence to back that up. You want to remain open-minded to anything that may be possible before that critical evidence comes in. Do you worry that taking the stance of saying, &#8220;I am a realist when it comes to quantum physics&#8221; is violating that piece of advice. Do you worry about saying, I&#8217;m a realist and I believe that reality is observer-independent is making that mistake?</p>
+
+
+
+<p><strong>LS</strong>: &lt;laughs&gt; You know, I don&#8217;t know what&#8217;s wrong with me, but I love this stuff to death. I am having so much fun and there&#8217;s nothing like it to be able to think about this stuff. Some people have this wire in them that says they have to be right, and I don&#8217;t have that. I don&#8217;t know why, maybe it&#8217;s a defect? So, sure, if you ask me, yeah, I could be wrong about that. I could be wrong about a lot of things.</p>
+
+
+
+<p>Let&#8217;s put us 1000 years in the future, we&#8217;ll all look like fools for having missed the obvious things in neuroscience or planetary science or something that turned out to be important. There was a famous boxer who was asked how he felt about his career, and he said, &#8220;you know, I did the best I could with what I was given.&#8221; And I&#8217;m happy with that. I don&#8217;t gotta be right, but if I didn&#8217;t follow what I believe in, I wouldn&#8217;t be as happy a person now.</p>
+
+
+
+<figure class="wp-block-image size-full"><img loading="lazy" width="960" height="1390" src="https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2017_09_Niels_Bohr_Albert_Einstein_by_Ehrenfest-1200x1737-1.jpg" alt="" class="wp-image-140512" /><figcaption>Niels Bohr and Albert Einstein, discussing a great many topics in the home of Paul Ehrenfest in 1925. The Bohr-Einstein debates were one of the most influential occurrences during the development of quantum mechanics. Today, Bohr is best known for his quantum contributions, but Einstein is better-known for his contributions to relativity and mass-energy equivalence. (Credit: PAUL EHRENFEST)</figcaption></figure>
+
+
+
+<p><strong>ES</strong>: I want to pull out a Niels Bohr quote and ask you your opinion of this, then. &#8220;When we measure something, we are forcing an undetermined, undefined world to assume an experimental value. We are not measuring the world; we are creating it.&#8221; This strikes me as a statement that I would expect you to fundamentally disagree with, but you might surprise me.</p>
+
+
+
+<p><strong>LS</strong>: No, it doesn&#8217;t appeal to me, but wow, I&#8217;m really sorry I never got to meet Bohr. He was an interesting guy; can&#8217;t we just be on that level? In the end, Bohr was at a very weird place from our point of view in the development of western culture and society. He was influenced by Schopenhauer and people like that, and so he had what we would consider not just a non-realist viewpoint, but a radical non-realist viewpoint, and he did the best he could with that. But I don&#8217;t believe that, that doesn&#8217;t keep me up at night, but&#8230; sure.</p>
+
+
+
+<p><strong>ES</strong>: Do you have any thoughts you&#8217;d like to share that I haven&#8217;t asked you about that you think are too important to not share?</p>
+
+
+
+<p><strong>LS</strong>: Open up the scientific community to more people who are highly trained and really good. And maybe I&#8217;m just getting this in because I like these ideas. For me, when people talk about diversity, that means not just women and blacks and aboriginals and who else, those are all very very important, but also very important are people who think differently. Now, to make a success in physics, you can&#8217;t just be anyone off the streets, it&#8217;s like I couldn&#8217;t compose a piece of music and send it to the New York Philharmonic and have them play it. </p>
+
+
+
+<p>You&#8217;ve gotta have your tools, you&#8217;ve got to be practiced, you gotta be good with your tools, you&#8217;ve gotta make a convincing case for the results that you&#8217;ve found in your work. That&#8217;s what a Ph.D. symbolizes But among the people who are excellent, technically, we want as wide a variety of ideas and viewpoints and types and personalities and gender and race&#8230; it&#8217;s yes yes yes yes. I would hope that the next generation and the second-to-next generation live in a scientific world that is much more fun. Because if everyone&#8217;s like you, it&#8217;s not fun.</p>
+
+
+
+<p><em>Lee Smolin will be appearing at the<a href="https://howthelightgetsin.org/festivals/september/festival-passes?utm_source=Forbes&amp;utm_medium=article&amp;utm_campaign=HTLGILondon2021&amp;utm_id=Coverage"> </a><a href="https://howthelightgetsin.org/festivals/september?utm_source=Forbes&amp;utm_medium=article&amp;utm_campaign=HTLGILondon2021&amp;utm_id=Coverage">How The Light Gets In London 2021 festival</a><a href="https://howthelightgetsin.org/festivals/september/festival-passes?utm_source=Forbes&amp;utm_medium=article&amp;utm_campaign=HTLGILondon2021&amp;utm_id=Coverage"> </a>this September 18/19, with <a href="https://howthelightgetsin.org/festivals/september/festival-passes?utm_source=Forbes&amp;utm_medium=article&amp;utm_campaign=HTLGILondon2021&amp;utm_id=Coverage">remaining tickets still available</a> here.</em></p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/are-we-approaching-quantum-gravity-all-wrong">Are we approaching quantum gravity all wrong?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>particle physics</category>
+    </item>
+    <item>
+      <guid>2655027578</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136842-136843.jpg"/>
+      <title>A new window to the early universe (and aliens?)</title>
+      <link>https://bigthink.com/13-8/james-webb-telescope</link>
+      <description>
+        <![CDATA[<p>The upcoming launch of the James Webb Space Telescope is the event of a lifetime.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/13-8/james-webb-telescope">A new window to the early universe (and aliens?)</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Wed, 15 Sep 2021 21:00:00 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Marcelo Gleiser]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<p>The history of science could be written as a history of instrumentation. From particle accelerators and microscopes to fMRIs and telescopes, as instruments become more powerful, they act as reality amplifiers: they magnify our view of the very small and the very large, allowing us a glimpse of what is invisible to the human eye.</p>
+<p>It is hard to imagine that, up to 1609, all we knew about the skies depended on what we can see with the naked eye. When Galileo Galilei had the insight to aim his telescope at the night sky, he saw what no human had seen before: a new sky, full of surprises and possibility. This new sky would reveal a new world order: out with the Aristotelian view of an Earth-centered cosmos, a frozen sky where celestial objects were perfect and unchangeable, and in with a marvelously imperfect heaven — a moon full of craters and mountains, Jupiter with four orbiting moons (now we know there are about 79 and counting), a Saturn with &#8220;ears&#8221; (that is, the rings that his telescope could not yet resolve), and a Milky Way made of a countless number of stars. New instruments hold the promise of a worldview transformation: as we look deep into nature, our vision of reality and us in it changes.</p>
+<p>It is then no surprise that the astrophysics community is nervously awaiting the launch of a new marvel of instrumentation, the <a href="https://www.jwst.nasa.gov/" rel="noopener noreferrer" target="_blank">James Webb Space Telescope</a> (JWST). Even if often called the successor of the Hubble Space Telescope (HST), the JWST is a different kind of machine. The HST is, perhaps, <a href="https://hubblesite.org/resource-gallery" rel="noopener noreferrer" target="_blank">the most successful instrument in astronomical history</a>. Beyond its optical capability that reveals to us parts of the universe we could in principle see with our limited human vision (that is, the colors of the visible spectrum), it has additional infrared and ultraviolet instruments that have revolutionized the way we understand the cosmic history and the stunning wealth of galaxies spread throughout space. But the Hubble was launched in 1990, and it is time for a new instrument to step up and expand upon its groundwork, deepening our understanding of the universe near and far.</p>
+<h2>Two big missions for James Webb Space Telescope</h2>
+<p>The JWST is designed to capture mostly infrared light, which is of a longer wavelength than what our eyes can see. The focus on infrared comes from the two main missions for the telescope.</p>
+<p>The first is to look into the very young universe by observing very far away objects, nascent galaxies and stars born about 13 billion years ago, which was only a few hundred million years after the Big Bang. (In cosmology, the science of our cosmic history, hundreds of millions of years is not a long time.) Contrary to Hubble, which had a near-Earth orbit, the JWST will be stationed far away, at 1.5 million kilometers from Earth at a spot known as a Lagrange point, where the gravitational attractions of sun and Earth cancel out — a peaceful cosmic parking spot.</p>
+<p>After taking off inside an Ariane 5 rocket from the European Space Agency, the JWST will continue for another twenty-nine days until it gets to its final destination. The good thing about the Lagrange point is its remoteness and thus distance from interfering infrared sources near Earth. To make the shielding even more effective, the telescope comes with five layered sheets of Kapton foil, a sort of space umbrella to stop radiation interference. At the size of a tennis court, the shields are programmed to open during the telescope&#8217;s migration to its final position. The bad thing about being stationed so far away from Earth is that if something goes wrong, we cannot go there to fix it, as we had to with the Hubble Space Telescope. Anxiety rises.</p>
+<p>The &#8220;eyes&#8221; of the telescope are made of 18 hexagonal, gold-coated, beryllium mirrors, making up a giant honeycomb the size of a large house. The mirrors will capture and focus light from distant sources that will then be sent off to the telescope&#8217;s four different instruments. The mirrors must also unfurl in space, another nerve-wracking step before astrophysicists can start to gather data.</p>
+<p>The second big mission is to aim its sights on exoplanets, planets orbiting stars in our galactic neighborhood, for signs of life. A little over <a href="https://exoplanets.nasa.gov/alien-worlds/historic-timeline/#first-planetary-disk-observed" rel="noopener noreferrer" target="_blank">20 years ago</a>, astronomers detected the first alien worlds outside our solar system. Since then, the list has grown steadily to over <a href="https://exoplanets.nasa.gov/" rel="noopener noreferrer" target="_blank">four thousand confirmed exoplanets</a> today. The essential question, of course, is whether some of these worlds may harbor life. We may not be able to travel across interstellar distances to see for ourselves, but our machines can scrutinize these worlds by detecting the chemical composition of their atmospheres in the hope of finding the telltale signs of life: mainly oxygen, water, carbon dioxide, and methane. Thus, JWST aims to map out other worlds that may resemble our own, addressing the age-old question of whether we are alone in the universe.</p>
+<h2>An early Christmas present</h2>
+<p>The current launch date is December 18, a week before Christmas. As with any space launch of a complex instrument, there are many things that could go wrong, although extensive testing has built up confidence that all will go smoothly. Regardless, we only will succeed in stretching the boundaries of knowledge by taking risks. The launch will be a gripping moment for humanity. What will a new window opening to the sky reveal about our story?</p>
+<p>Unless you are lost to the power of wonder, a mission like this must capture your imagination. We all want this spectacular mission to succeed, astrophysicists and non-astrophysicists alike. We care about worlds so far away from us because the story this machine will tell is a mirror of our own. As we witness stars and galaxies being born, we learn about our galaxy and how our solar system emerged a little under five billion years ago. We learn about the myriad ways that gravity and chemistry conspired to bake matter into worlds, each different, some potentially thriving with life like our own. And with each discovery, we dive a little deeper into the mystery of who we are and of what makes us both alike and different from what is out there in the universe.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/13-8/james-webb-telescope">A new window to the early universe (and aliens?)</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>astrophysics</category>
+      <category>cosmos</category>
+    </item>
+    <item>
+      <guid>2655028407</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136840-136841.jpg"/>
+      <title>The cruelest people in Russian history</title>
+      <link>https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history</link>
+      <description>
+        <![CDATA[<p>From corrupt czars to bloodthirsty Bolsheviks, Russia has had no shortage of bad leaders. But just how evil were they really?</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history">The cruelest people in Russian history</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Wed, 15 Sep 2021 20:00:00 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Tim Brinkhof]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<p>A popular joke among American students majoring in Slavic Studies is that you can pretty much sum up the entirety of Russian history by saying things have gone from &#8220;bad to worse.&#8221; It is a gross oversimplification, ignoring important periods of peace and prosperity during which Russian art, culture, and commerce could flourish.</p>
+<p>At the same time, there seems to be an underlying truth to this joke that has caused it to stick. As the Russian political scientist Vladimir Gelman put it in a <a href="https://www.ridl.io/en/why-is-russia-so-badly-governed/" rel="noopener noreferrer" target="_blank">2019 article he wrote for <em>Riddle</em></a>, &#8220;Practically all analysts and observers of Russia today, regardless of their political leanings, tend to agree about the country&#8217;s poor quality of governance.&#8221;</p>
+<p>From czars that commanded respect by virtue of their lineage rather than the contents of their character to bloodthirsty Bolsheviks that leveraged communist ideals for personal gain, Russia knows no shortage of leaders that have left the country worse off than they found it. The following list takes a closer look at some of them.</p>
+<p>However, take note: when reading about the characters on this list, it is important to look at their stories with a critical eye. Some could have become the subjects of posthumously inflated rumors, others the victims of propaganda campaigns. Others still might have well been even crueler than historians have come to believe. Also, we intentionally did not include Vladimir Lenin and Joseph Stalin, whose crimes against humanity are well-known.</p>
+<h2>Ivan the Terrible: The First Czar (1530-1584)</h2>
+<p>Like all czars on this list, Ivan was elected ruler of Russia at a young age by a council of politicians who mistakenly thought they would be able to control him. While &#8220;The Terrible&#8221; turns out to have been an accurate title, the words did not have the same negative connotation when Ivan was alive. Instead, &#8220;terrible&#8221; meant &#8220;formidable&#8221; or &#8220;awe-inspiring.&#8221;</p>
+<p>That isn&#8217;t to say he wasn&#8217;t terrible, though. In 1552, the czar and his armies besieged Kazan. The siege hardly lasted a week, owing in part to Ivan&#8217;s tactics: he would impale his Tatar prisoners and position them around the city walls so that their comrades could hear their agonizing cries to surrender.</p>
+<p>Ivan&#8217;s wrath was not restricted to the battlefield or even the realm of politics. According to a popular story, he blinded the architect that designed St. Basil&#8217;s Cathedral so he would never create something as beautiful again. He also killed his unborn grandson by beating the mother until she miscarried and then killed his son when he complained about it.</p>
+<p>Last but not least, Ivan is thought to have kept some seriously questionable company in the form of Malyuta Skuratov, a henchman who — according to the 18<sup>th</sup> century historian Nikolay Karamzin — was in charge of organizing &#8220;rape trips&#8221; where he would round up beautiful wives around Moscow and present them to the czar to do with as he pleased.</p>
+<h2>Anna Ivanovna: The Ice Queen (1693-1740)</h2>
+<p>While Anna Ivanovna was revered for modernizing (and Europeanizing) Russia, her extreme jealousy and vindictive temper left a dark cloud over her legacy. These two qualities stemmed, in part, from her less than fortunate love life, which took a turn from bad to worse when her sickly husband — the Duke of Courland — died as they were traveling home from their own wedding.</p>
+<p>Fancying herself an expert &#8220;matchmaker,&#8221; Anna took an interest in arranging marriages between the members of her court and would become outraged when they did not involve her in their sex lives. When one of her princes, Mikhail Golitsyn, returned from Italy having fallen in love with a Catholic Italian girl, Anna stripped him of his wealth and titles and made him her new fool.</p>
+<p>In a series of events typically encountered only in fantasy novels, Ivanovna found Golitsyn a new bride and organized an extravagant wedding to take place inside a life-size palace made entirely of ice hauled from the frozen banks of the river Neva. After a ceremonial parade that was led by an Asian elephant, the couple was chained to their ice-beds.</p>
+<p>They would have frozen to death had Golitsyn&#8217;s wife not managed to trade the pearl necklace she received from the czarina for one of the guard&#8217;s fur cloaks. Against all odds, the two survived the night and — according to a number of historians — chose to stay together. Ivanovna, however, would die next fall, having spent the preceding summer watching her ice palace melt in the sun.</p>
+<h2>Trofim Lysenko (1898-1976)</h2>
+<p>From a distance, Lysenko&#8217;s life looks like a straightforward success story. Born a poor, uneducated Ukrainian peasant who did not learn to read until he was 13 years old, he died a director of the Institute of Genetics at the Academy of Sciences in Novosibirsk, where his job was to reinforce the Soviet Union&#8217;s agricultural policies with the latest in biological research.</p>
+<p>What spins this story on its head is the fact that Lysenko did not end up with this prestigious and hugely important position thanks to his skills or knowledge. Instead, he had been randomly selected by the state in an effort to promote &#8220;average men&#8221; to leadership positions that, in capitalist countries, were reserved only for the trained elite. </p>
+<p>Needless to say, this policy ended up backfiring in a catastrophic manner. Not only did Lysenko know nothing about biology, but the scientific concepts he <em>did </em>understand were molded by political ideology rather than impartial research — including the belief that plants, like the Soviet people, could grow bigger and taller if they were exposed to the right stimuli.</p>
+<p>This belief ran contrary to the tried-and-true principles of genetics, namely, that the growth of crops could only be manipulated through selective breeding. That is not to say Lysenko was an innocent victim of indoctrination, though; he imprisoned the Mendelian geneticist Nikolai Vavilov, and his biased practices led to the starvation of millions of Russians.</p>
+<h2>Lavrentiy Beria: Stalin&#8217;s Himmler (1899-1953)</h2>
+<p>Lavrentiy Beria, whom Joseph Stalin had reportedly once introduced to Hitler as &#8220;our Himmler,&#8221; was the chief of the People&#8217;s Commissariat for Internal Affairs, otherwise known as the NKVD. During World War II, fear of Beria&#8217;s secret agents kept a country on the brink of destruction from surrendering to Nazi invaders. </p>
+<p>For this, Beria paid a price few would be willing to pay. At the front, soldiers who even remotely questioned Stalin&#8217;s military decisions were shipped off to the gulags. In this string of prison systems, located in the icy outskirts of Siberia and constructed under direction of Vladimir Lenin, they would spend anywhere from five to ten years doing forced labor. </p>
+<p>Beria&#8217;s measures consistently exceeded their political justifications, even by the standards of the Red Terror. When the Nazis invaded Poland in 1939, the Soviets — who had signed a non-aggression pact with them one week prior — came in as well. On orders of Beria, the NKVD murdered as many as 22,000 members of the Polish army and bourgeoisie.</p>
+<p>Though Beria almost succeeded Stalin after his death, he was ultimately ousted by Nikita Khrushchev. Today, he is not only remembered as a mass murderer but a serial rapist as well. According to bodyguards, he would habitually lure young women into his mansion before giving them a bouquet on the way out. If they accepted, the sex had been consensual. If not, they were arrested.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/politics-current-affairs/worst-cruelest-people-russian-history">The cruelest people in Russian history</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>history</category>
+      <category>russia</category>
+    </item>
+    <item>
+      <guid>2655022624</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136846-136847.jpg"/>
+      <title>Mindfulness: New age craze or science-backed solution?</title>
+      <link>https://bigthink.com/mind-brain/mindfulness-science</link>
+      <description>
+        <![CDATA[<p>Research has shown the benefits of mindfulness, but the current mindfulness craze cannot deliver on its overhyped promises.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/mind-brain/mindfulness-science">Mindfulness: New age craze or science-backed solution?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Wed, 15 Sep 2021 18:40:03 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Kevin Dickinson]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<li>Mindfulness has become a billion-dollar industry.</li>
+<li>Research shows mindfulness can be an effective wellness practice, yet the effect sizes found in studies tend to be moderate.</li>
+<li>Mindfulness may be worthwhile, but only if we approach it with understanding and realistic expectations.</li>
+<ul></ul>
+<h2></h2>
+<p>Unless you&#8217;ve recently returned from a hermitage atop the sacred mountain, you&#8217;ve probably noticed that mindfulness has become a big deal. As <a href="https://trends.google.com/trends/explore?date=all&amp;geo=US&amp;q=mindfulness" target="_blank" rel="noopener">measured by Google searches</a>, interest in the East Asian tradition has risen significantly in the last two decades, and <a href="https://www.nccih.nih.gov/research/statistics/nhis/2017" target="_blank" rel="noopener">more Americans are practicing either yoga or meditation</a>. <a href="https://www.fastcompany.com/90416477/8-ceos-on-their-mindfulness-practices" target="_blank" rel="noopener">CEOs</a> and <a href="https://www.marieclaire.com.au/celebrities-meditation-mental-health" target="_blank" rel="noopener">celebrities</a> plug it as key to their health, success, and happiness, while <a href="https://www.youtube.com/watch?v=nivIw9D80Yc" target="_blank" rel="noopener">companies</a> have adopted it to bolster innovation and productivity.</p>
+<p>With that groundswell of attention has come a deluge of influencers, self-help gurus, and wellness experts—all hawking their wares and claims in hopes of slicing off a portion of a soon-to-be <a href="https://www.linkedin.com/pulse/future-mindfulness-industry-steve-gooch/" target="_blank" rel="noopener noreferrer">$9 billion industry</a>. Some of the more breathless promises allege mindfulness can unlock your full potential, make your memory foolproof, make you better than ordinary, and even bend reality to your desires. And if that seems like too much work, you can fast track your way to higher consciousness with some chakra tea or a slathering of <a href="https://www.earthbalancenatural.com/dressings/original-mindfulr-dressing-sandwich-spread" target="_blank" rel="noopener noreferrer">mindful mayo</a> on your banh mi sandwich.</p>
+<p>It all has an air of chic diets and insane exercise routines, and the noise of the marketplace makes it difficult to separate the fad from the function—a necessary step for anyone hoping to incorporate mindfulness into their lives safely and sustainably.</p>
+<h2></h2>
+<p><div class='mb-4 aspect-w-16 aspect-h-9'><div class='flex items-center justify-center uppercase border text-gray font-utility text-util-h9 border-gray-light'>Content not available</div></div></p>
+<p><span class="media-caption">A bar graph showing the increase in U.S. adults who took up meditation between 2012–2017.</span><span class="media-photo-credit">(Source: NCCIH)</span></p>
+<p>As a spiritual practice, mindfulness had made the journey westward through teachers such as Ram Dass and Thich Nhat Hanh, but its first dalliance with science came through <a href="https://bigthink.com/u/jon-kabat-zinn" target="_self" rel="noopener">Jon Kabat-Zinn</a>. As an MIT student, Kabat-Zinn took an interest in meditation and incorporated it into his biology studies. After graduating, he founded <a href="https://www.ummhealth.org/center-mindfulness" target="_blank" rel="noopener">the Center for Mindfulness</a> and began researching a secular form of the practice called mindfulness-based stress reduction (MBSR), which Kabat-Zinn developed himself.</p>
+<p>&#8220;When I started [&#8230;], there was virtually no science of mindfulness whatsoever,&#8221; Kabat-Zinn said during a <a href="https://www.bigthinkedge.com/" target="_blank" rel="noopener noreferrer"><em>Big Think</em>+</a> interview. &#8220;Part of my original aim was to use the clinic as a kind of pilot to see whether we could catch people falling through the cracks of the healthcare system and challenge them to do something for themselves that no one else on the planet could possibly do for them, including their physicians: to move in a direction of greater well-being and healing.&#8221;</p>
+<p>Kabat-Zinn&#8217;s studies signed up participants for an intensive eight-week MBSR program. The workshop included formal instruction in mindfulness techniques, group meetings, and homework between sessions. It aimed to help participants develop a non-judgmental awareness of the present moment, while Kabat-Zinn analyzed how that affected their mental and physical wellness. And this pilot program showed promise.</p>
+<p>Kabat-Zinn&#8217;s research (<a href="https://www.sciencedirect.com/science/article/abs/pii/S002239991500080X?via%3Dihub" target="_blank" rel="noopener noreferrer">and later studies</a>) found that mindfulness practitioners enjoyed less stress, anxiety, and depression. Further studies have since identified mindfulness as a potential tool for reducing chronic pain, lowering blood pressure, aiding insomnia, and lessening the body&#8217;s inflammatory response to stressors. Preliminary research has even suggested that mindfulness can <a href="https://bigthink.com/mind-brain/mindfulness-unconscious-bias?rebelltitem=1#rebelltitem1" target="_self" rel="noopener">make us less racially biased</a> and <a href="https://www.nature.com/articles/s41598-020-61241-6" target="_blank" rel="noopener noreferrer">lengthen our telomeres</a>, a chromosomal region that stands as a biomarker of human aging.</p>
+<p>&#8220;I don&#8217;t want to overstate the evidence because the entire field is in its infancy, but the vast majority of studies are suggesting that when you do something as simple as what looks from the outside like nothing, this is having profound effects,&#8221; Kabat-Zinn added.</p>
+<h2></h2>
+<p>But given promises of extraordinary bliss and god minds, others obviously lack Kabat-Zinn&#8217;s restraint for overstatement and over-selling. And here&#8217;s where the science bumps against the commercialized woo. While mindfulness effects are present in the data, they aren&#8217;t incredibly robust.</p>
+<p><a href="https://pubmed.ncbi.nlm.nih.gov/24395196/" target="_blank" rel="noopener noreferrer">A systematic review and meta-analysis</a> published in <em>JAMA Internal Medicine</em> looked at 47 randomized clinical trials with active controls (totaling 3,515 participants). It found moderate evidence of mindfulness easing anxiety, depression, and pain; low evidence for assuaged stress; insufficient evidence of reduced substance abuse and poor eating habits; and no evidence that mindfulness was better than other treatment options.</p>
+<p>Similar results can be found across the scientific literature. <a href="https://www.sciencedirect.com/science/article/abs/pii/S002239991500080X" target="_blank" rel="noopener noreferrer">Another meta-analysis</a> found slightly larger but still moderate effect sizes. <a href="https://www.sciencedirect.com/science/article/abs/pii/S0272735813000731" target="_blank" rel="noopener noreferrer">Still another</a>—this one looking at mindfulness-based therapy—found a moderate effect size but not one larger than other therapies or pharmacological treatments. As for individual studies, these can be limited in their predictive value. That study showing mindfulness reduced racial bias, for example, had only 72 participants—all of them midwest college students.</p>
+<p>Mindfulness research also faces <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5758421/" target="_blank" rel="noopener noreferrer">methodological concerns</a>—such as an over-reliance on self-reporting questionnaires—and even struggles with basic terms—there is no universally accepted definition of mindfulness and few studies today follow Kabat-Zinn&#8217;s strict MBSR program. All of this has led researchers to take a hopeful yet cautionary stance on mindfulness and its benefits.</p>
+<p>Unfortunately, these scientific findings have grown with each telling on social media, talk shows, and self-help books. In the wilds of our capitalist culture—freed from the pruning effects of science&#8217;s checks and balances—the practice is no longer a proper stress management tool but the &#8220;<a href="https://www.weforum.org/agenda/2016/01/could-mindfulness-make-you-a-better-leader/" target="_blank" rel="noopener noreferrer">ultimate stress-reliever</a>.&#8221; It&#8217;s no longer a complement to traditional therapies but <a href="https://www.npr.org/sections/health-shots/2016/03/22/471305344/for-chronic-low-back-pain-mindfulness-beats-painkillers" target="_blank" rel="noopener noreferrer">a more potent analgesic than painkillers</a>. And, in the words of Arianna Huffington, founder of the <em>Huffington Post</em>, it has become a literal &#8220;<a href="https://www.huffpost.com/entry/corporate-wellness_b_2903222" target="_blank" rel="noopener noreferrer">matter of life and death</a>.&#8221;</p>
+<p>None of which is true. Yet, such proclamations still lead those who follow the fashion to happily part with hundreds of dollars on chimes, Lululemon yoga pants, and meditation app subscriptions.</p>
+<p>&#8220;It&#8217;s important we understand the risks and don&#8217;t overstate the potential benefits until they&#8217;re robustly substantiated,&#8221; writes Jason Linder, PsyD, at <a href="https://www.psychologytoday.com/us/blog/mindfulness-insights/202107/the-dangers-mindfulness" target="_blank" rel="noopener noreferrer"><em>Psychology Today</em></a>. &#8220;Practicing mindfulness when you&#8217;re not mentally ready, or when you actually need a nap, to eat, a massage, to work, or an important conversation with a loved one can clearly create more difficulties than it&#8217;s meant to mitigate.&#8221;</p>
+<h2></h2>
+<div></p>
+<div style="overflow:hidden;padding-bottom:56.25%"></div>
+<p><span class="media-caption">Trailer, Paying Attention on Purpose with Jon Kabat-Zinn</span><span class="media-photo-credit"><a href="https://jwp.io/s/Cw9uFHxy" target="_blank" rel="noopener">jwp.io</a><br />
+</span></p>
+<p>As Linder says, mindfulness is just one method available to us and not the right one for every occasion. But pop-culture prescriptions written as a cure-all can have dire consequences. Emboldened by stories of &#8220;I did it and so can you,&#8221; some may forgo traditional therapies and medicines in favor of mindfulness—a kind of mental self-medication.</p>
+<p>This can be harmful. In some people, <a href="https://www.nccih.nih.gov/health/meditation-in-depth" target="_blank" rel="noopener noreferrer">mindfulness practices</a> have been shown to amplify certain psychiatric problems associated with worry and depression. Those who go it alone, without the supervision of a qualified psychiatrist or teacher, may blame themselves for their failures. After all, everyone seems to be mastering it—just look at all those peaceful, smiling faces on the YouTube videos. It&#8217;s a false perception, yes. But if someone is already struggling with depression, that perception can compound their emotional slump.</p>
+<p>Of course, this isn&#8217;t to say that mindfulness doesn&#8217;t work. Small-to-moderate effect sizes aren&#8217;t zero, and for many, mindfulness has proven a source of great ease and comfort. But if you go into mindfulness thinking you&#8217;ll become a mental Superman—that life&#8217;s difficulties will bounce harmlessly off your chest like bullets every which way—you&#8217;re in for a disappointment.</p>
+<p>Life will continue to be life no matter how often you focus on the breath, and that includes all the stresses and challenges that were present before. What mindfulness can help you do is reduce the stress you carry and become more resilient to stressful events. That can add up to being happier overall.</p>
+<p>How resilient? How much happier? As should be obvious by now, there is no magic number, but the experiences of journalist and mindfulness evangelist Dan Harris can give us an idea.</p>
+<p>While reading the news on-air, Harris suffered a panic attack in front of 5 million people. As <a href="https://www.youtube.com/watch?v=ywp4vaFJASE" target="_blank" rel="noopener noreferrer">he told <em>Big Think</em> in an interview</a>, the attack stemmed from his work-related depression and attempt to self-medicate with recreational drugs. Part of his treatment process was to take up meditation. It didn&#8217;t solve his substance abuse problem, nor did it purge the depression from his soul. It did, however, grant him a 10-percent bump in happiness, stress reduction, and joie de vivre.</p>
+<p>&#8220;If you can get past the cultural baggage, though, what you&#8217;ll find is that meditation is simply exercise for your brain. It&#8217;s a proven technique for preventing the voice in your head from leading you around by the nose,&#8221; Harris writes in <a href="https://www.amazon.com/10%25-Happier-Dan-Harris-audiobook/dp/B00I8NLVFY/ref=sr_1_2?crid=3L5JQUZ4FN5XY&amp;dchild=1&amp;keywords=10+percent+happier+by+dan+harris&amp;qid=1629421340&amp;sprefix=10+percent+hap%2Caps%2C230&amp;sr=8-2" target="_blank" rel="noopener noreferrer"><em>10% Happier</em>.</a> &#8220;In my experience, meditation makes you 10% happier. That&#8217;s an absurdly unscientific estimate, of course. But still, not a bad return on investment.&#8221;</p>
+<p>Not bad at all.</p>
+<h2></h2>
+<p>Our Big Think+ class &#8220;Paying Attention on Purpose&#8221; with Jon Kabat-Zinn will unlock key lessons for your mindfulness practice, both at work and in your everyday life.</p>
+<ul>
+<li><strong>The Art of Mindfulness</strong></li>
+<li><strong>The Neuroscience of Mindfulness</strong></li>
+<li><strong>Four Ways to Practice Mindfulness</strong></li>
+<li><strong>Wake Up to the World</strong></li>
+<li><strong>Elevate Your Health</strong></li>
+<li><strong>Liberate Yourself from Your Thoughts</strong></li>
+<li><strong>Liberate Yourself from the 3 Toxic Impulses</strong></li>
+<li><strong>Reconcile Mindfulness and Ambition</strong></li>
+<li><strong>Bring Mindfulness to the Workplace</strong></li>
+</ul>
+<p>Learn more about <a href="https://www.bigthinkedge.com/" target="_blank" rel="noopener noreferrer"><strong>Big Think+</strong></a> or <a href="https://www.bigthinkedge.com/request-a-demo/" target="_blank" rel="noopener noreferrer"><strong>request a demo</strong></a> for your organization today.</p>
+</div>
+<p>The post <a rel="nofollow" href="https://bigthink.com/mind-brain/mindfulness-science">Mindfulness: New age craze or science-backed solution?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>anxiety</category>
+      <category>depression</category>
+      <category>happiness</category>
+      <category>health</category>
+      <category>learning</category>
+      <category>meditation</category>
+      <category>mental health</category>
+      <category>mindfulness</category>
+      <category>personal growth</category>
+      <category>psychology</category>
+    </item>
+    <item>
+      <guid>2655029182</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136836-136837.jpg"/>
+      <title>Big Tech and privacy: Apple flirts with the &#8220;dark side&#8221;</title>
+      <link>https://bigthink.com/technology-innovation/big-tech-privacy-apple</link>
+      <description>
+        <![CDATA[<p>In the name of fighting horrific crimes, Apple threatens to open Pandora's box.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/technology-innovation/big-tech-privacy-apple">Big Tech and privacy: Apple flirts with the &#8220;dark side&#8221;</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Wed, 15 Sep 2021 18:00:00 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Tom Hartsfield]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<p>Apple has built a reputation as the &#8220;least evil&#8221; Big Tech giant when it comes to privacy. All these companies — Google, Facebook, Apple, Microsoft, Amazon — collect our data and essentially spy on us in a multitude of ways. Apple, however, has cultivated a reputation as by far the least invasive of our mainstream technology options. Their recent dramatic reversal on this issue has caused an uproar. What is going on, and what should we do about it?</p>
+<p>I personally use and appreciate Apple products. Their software and hardware blend together, making smartphones and computers simpler, easier, and more enjoyable. More important (to me, anyway), Apple has conspicuously maintained much better privacy policies than <a href="https://www.usatoday.com/story/tech/talkingtech/2018/03/30/downloaded-all-my-facebook-data-what-learned/471787002/" rel="noopener noreferrer" target="_blank">other</a> <a href="https://www.usatoday.com/story/tech/talkingtech/2018/03/30/download-google-data-how-what-found/473227002/" rel="noopener noreferrer" target="_blank">tech giants</a>, who <a href="https://twitter.com/iamdylancurran/status/977559925680467968" rel="noopener noreferrer" target="_blank">log every place you visit, calculate and sell your religion and politics, and store every single search you have ever made (even the &#8220;incognito&#8221; ones)</a>. Apple&#8217;s privacy policies are <a href="https://www.usatoday.com/story/tech/talkingtech/2018/05/04/asked-apple-everything-had-me-heres-what-got/558362002/" rel="noopener noreferrer" target="_blank">imperfect</a> but less terrifying. The general consensus is that most Apple products and services spy less on you and send much less of your personal data to third parties. That matters to many users and should matter to all of us.</p>
+<p>Now, the bad news. All the major cloud storage providers have for some time been quietly scanning everything you upload. That is no conspiracy theory: <a href="https://proprivacy.com/cloud/guides/how-secure-is-cloud-storage" rel="noopener noreferrer" target="_blank">you agree to it when you accept their privacy policies</a>. They do this for advertising (which is what is meant by the phrase &#8220;to help us improve our services&#8221; in the user agreement). They also look for and report illegal activity. A big part of monitoring for criminal activity is looking for &#8220;CSAM,&#8221; a polite acronym for something horrific. In August, <a href="https://www.apple.com/child-safety/" rel="noopener noreferrer" target="_blank">Apple announced</a> that it would take a drastic step further and push a software update for iPhones that would scan and analyze all of the images on your iPhone, <a href="https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf" rel="noopener noreferrer" target="_blank">looking not just for known CSAM but for any images that a computer algorithm judges to be CSAM.</a></p>
+<p>There are two enormous red flags here. First, the software does not operate on Apple&#8217;s cloud servers, where you are free to choose whether to park your data and allow Apple to scan it for various purposes. The scanning is performed on your phone, and it would scan every picture on your phone, looking for content that matches a database of bad images.</p>
+<h2>Image recognition tech is still bad</h2>
+<p>Why is this a problem for people who do not keep illegal images on their phones? The second red flag is that the software does not look for a specific file — horrifying_image.jpg — and ignore all of your personal photos. Rather, it uses what Apple calls &#8220;NeuralHash,&#8221; a piece of computer code that looks for features and patterns in images. You can read their own description <a href="https://www.apple.com/child-safety/pdf/CSAM_Detection_Technical_Summary.pdf" rel="noopener noreferrer" target="_blank">here</a>.</p>
+<p>Computer image recognition is much better than it once was. Despite the hype surrounding it the past few years, however, it is still extremely fallible. There are <a href="https://www.popularmechanics.com/technology/design/a30213643/trick-machine-learning/" rel="noopener noreferrer" target="_blank">many</a> ways that computer image recognition can be baffled by tricks that are not sophisticated enough to fool toddlers. <a href="https://arxiv.org/pdf/1801.02608.pdf" rel="noopener noreferrer" target="_blank">This fascinating research paper</a> covers just one of them. It finds that a 99 percent confident (and correct) image identification of a submarine can be made into a 99 percent confident (but wrong) identification of a bonnet by adding a tiny area of static noise to one corner of the image.</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473831.png?w=335" loading="lazy">
+</div></p>
+<p>        <small class="image-media media-photo-credit"><a href="https://arxiv.org/pdf/1801.02608.pdf" target="_blank" rel="noopener">Credit</a>: D. Karmon et al., ArXiv, 2018.</small></p>
+<p><a href="https://arxiv.org/pdf/1710.08864.pdf" rel="noopener noreferrer" target="_blank">Other researchers fooled image recognition by changing a single pixel dot in an image</a>. Hackers know this too. It is extremely easy to add an undetectable pattern to a cute cat picture, triggering algorithms to flag it as something sinister.</p>
+<p>Let&#8217;s imagine for a moment that this algorithm never mistakes baby bath pictures or submarines or cats or dots for illicit material. This could make things worse. How?</p>
+<p>The NeuralHash algorithm is trained by scanning examples of the target images it seeks. This collection of training material is secret from the public. We do not know whether all the material in the database is CSAM or if it also includes things such as: political or religious images, geographic locations, anti-government statements, mis-information according to whoever has the power to define it, material potentially embarrassing to politicians, or whistleblowing documents against powerful authorities. There are many things that tech companies, federal agencies, or autocratic regimes around the world would love to know if you have on your phone. <a href="https://www.eff.org/deeplinks/2021/08/apples-plan-think-different-about-encryption-opens-backdoor-your-private-life" rel="noopener noreferrer" target="_blank">The possibilities are chilling.</a></p>
+<p>Reaction to Apple&#8217;s plan was immediate and overwhelmingly negative. Outcry came from <a href="https://arstechnica.com/tech-policy/2021/08/apple-photo-scanning-plan-faces-global-backlash-from-90-rights-groups/" rel="noopener noreferrer" target="_blank">international groups</a> like the <a href="https://www.eff.org/deeplinks/2021/08/eff-joins-global-coalition-asking-apple-ceo-tim-cook-stop-phone-scanning" rel="noopener noreferrer" target="_blank">Electronic Frontier Foundation</a> that specialize in privacy rights all the way down to everyday people in <a href="https://www.macrumors.com/2021/08/05/apple-csam-detection-disabled-icloud-photos/" rel="noopener noreferrer" target="_blank">Mac user forums</a>. <a href="https://www.apple.com/child-safety/pdf/Expanded_Protections_for_Children_Frequently_Asked_Questions.pdf" rel="noopener noreferrer" target="_blank">Apple initially stood its ground and defended the decision</a>. Their weak justifications and reassurances failed to smother the fire. Just last week, <a href="https://bgr.com/tech/apple-delays-iphone-photo-scanning-csam-detection-amid-controversy/" rel="noopener noreferrer" target="_blank">the company relented and announced a delay to implementing the program</a>. This is a victory for privacy, but it is not the end of the story.</p>
+<h2>iSpy with my little eye</h2>
+<p>It would be very easy for Apple to wait out the uproar and then quietly go ahead with the plan a few months from now. The other tech giants likely would follow suit. But remember that Big Tech already <a href="https://spectrum.ieee.org/facebook-google-data-publics-movement-covid19" target="_blank" rel="noopener">tracks our movements</a> and <a href="https://www.forbes.com/sites/jeanbaptiste/2019/05/16/why-amazon-alexa-is-always-listening-to-your-conversations-analysis/?sh=7a064bdd2378" target="_blank" rel="noopener">records our private conversations</a>. If the public does not stay vigilant, Big Tech can keep invading what most of us consider to be our private lives. How much more power over us do we want Big Tech to have? And is this the sort of society that we want?</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/technology-innovation/big-tech-privacy-apple">Big Tech and privacy: Apple flirts with the &#8220;dark side&#8221;</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>apple</category>
+      <category>Big tech</category>
+      <category>privacy</category>
+    </item>
+    <item>
+      <guid>2655029214</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136834-136835.jpg"/>
+      <title>What happens when two different respiratory viruses infect the same cell?</title>
+      <link>https://bigthink.com/surprising-science/two-viruses-one-cell</link>
+      <description>
+        <![CDATA[<p>A new study looks at what happens when you get infected with two viruses at the same time.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/two-viruses-one-cell">What happens when two different respiratory viruses infect the same cell?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Wed, 15 Sep 2021 12:35:26 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Connor Bamford]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<p>Right now, there&#8217;s just one virus on everyone&#8217;s minds: SARS-CoV-2, the virus that causes COVID-19.</p>
+<hr>
+<p> But humanity is plagued by many respiratory viruses, such as influenza A (IAV) and respiratory syncytial viruses (RSV), which cause <a href="https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30407-9/fulltext" target="_blank" rel="noopener">hundreds of thousands of deaths every year</a>. Most of these viruses – apart from influenza and SARS-CoV-2 – have no vaccines or effective treatments.</p>
+<p>A <a href="https://www.biorxiv.org/content/10.1101/2021.08.16.456460v2" target="_blank" rel="noopener">recent study</a> from the University of Glasgow has discovered what happens when you get infected with some of these viruses at the same time, and it has implications for how they make us sick and how we protect ourselves from them.</p>
+<p>For many reasons, respiratory viruses are <a href="https://www.science.org/news/2020/03/why-do-dozens-diseases-wax-and-wane-seasons-and-will-covid-19" target="_blank" rel="noopener">often found</a> during winter in the temperate regions of the world, or the rainy season of equatorial regions. During these periods, you&#8217;ll probably be infected with more than one virus at any one time in a situation called a “co-infection&#8221;. </p>
+<p>Research shows that <a href="https://pubmed.ncbi.nlm.nih.gov/26931455/" target="_blank" rel="noopener">up to 30%</a> of infections may harbour more than one virus. What this means is that, at some point two different viruses are infecting the cells that line your nose or lungs. </p>
+<p>We know that co-infection can be important if we look at a process called “antigenic shift&#8221; in influenza viruses, which is basically caused by virus “sex&#8221;. This sometimes occurs when two different influenza strains <a href="https://www.cdc.gov/flu/about/viruses/change.htm#:%7E:text=The%20other%20type%20of%20change,influenza%20A%20subtype%20in%20humans" target="_blank" rel="noopener">meet up inside the same cell</a> and exchange genes, allowing a new variant to emerge.</p>
+<p>Co-infection can create a predicament for viruses when you consider that they need to compete for the same resource: you. Some viruses <a href="https://www.pnas.org/content/116/52/27142" target="_blank" rel="noopener">appear to block other viruses</a>, while some viruses seem to like each other. What is driving these positive and negative interactions during co-infections is unknown, but animal studies suggest that it could be <a href="https://www.biorxiv.org/content/10.1101/2020.10.13.334532v2" target="_blank" rel="noopener">critical</a> in determining how sick you get.</p>
+<p>The University of Glasgow study investigated what happens when you infect cells in a dish with two human respiratory viruses. For their experiments, they chose IAV and RSV, which are both common and cause lots of disease and death each year. The researchers looked at what happens to each virus using high-resolution imaging techniques, such as cryo-electron microscopy, that their labs have perfected over the years.</p>
+<p>They found that some of the human lung cells in the dish contained both viruses. And, by looking closely at those co-infected cells, they found that the viruses that were emerging from the cell had structural characteristics of both IAV and RSV. The new “chimeric&#8221; virus particles had proteins of both viruses on their surface and some even contained genes from the other. This is the first evidence of this occurring from co-infection of distinct respiratory viruses.</p>
+<p>Follow-up experiments in the same paper showed that these new chimeric viruses were fully functional and could even infect cells that were rendered resistant to influenza, presumably gaining access using the RSV proteins could even get into a broader range of human cells than either virus alone could. Potentially, this could be happening during natural co-infections during the winter. </p>
+<h2>Why we need to study chimeric viruses</h2>
+<p>Studying disease-causing pathogens is extremely important and helpful for creating vaccines and treatments, yet safety is still paramount. It&#8217;s important to point out that the researchers in this study did not perform any genetic engineering between two viruses and only modelled what is already happening in the real world, but using safer laboratory strains of viruses under lab conditions.</p>
+<p>We know about the significant role co-infection can play in a virus&#8217;s life, such as during influenza antigenic shift or the curious case of hepatitis D virus <a href="https://en.wikipedia.org/wiki/Hepatitis_D" target="_blank" rel="noopener">borrowing bits of the other viruses</a>, such as hepatitis B, to spread. Nevertheless, the work by the University of Glasgow researchers has significant implications for our understanding of how other very different respiratory viruses might interact, antagonise and even promote each other&#8217;s infections in the ecosystem of our nose and lungs. Together, this work shows the complex and often messy interactions between viruses during the winter.</p>
+<p>Undoubtedly, future work will explore how this co-infection affects transmission, disease and immunity – things that aren&#8217;t easy to determine in a dish.<img loading="lazy" alt="The Conversation" height="1" src="https://counter.theconversation.com/content/166463/count.gif?distributor=republish-lightbox-basic" width="1"></p>
+<p><a href="https://theconversation.com/profiles/connor-bamford-131925" target="_blank" rel="noopener">Connor Bamford</a>, Research Fellow, Virology, <em><a href="https://theconversation.com/institutions/queens-university-belfast-687" target="_blank" rel="noopener">Queen&#8217;s University Belfast</a></em></p>
+<p>This article is republished from <a href="https://theconversation.com" target="_blank" rel="noopener">The Conversation</a> under a Creative Commons license. Read the <a href="https://theconversation.com/heres-what-happens-when-two-very-different-respiratory-viruses-infect-the-same-cell-new-study-166463" target="_blank" rel="noopener">original article</a>.</p>
+<p><img loading="lazy" alt="The Conversation" height="1" src="https://counter.theconversation.com/content/166463/count.gif?distributor=republish-lightbox-advanced" width="1"></p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/two-viruses-one-cell">What happens when two different respiratory viruses infect the same cell?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>coronavirus</category>
+      <category>medical research</category>
+      <category>microbiology</category>
+      <category>public health</category>
+      <category>virus</category>
+    </item>
+    <item>
+      <guid>2655028466</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136838-136839.jpg"/>
+      <title>How to understand Einstein&#8217;s equation for general relativity</title>
+      <link>https://bigthink.com/surprising-science/einstein-general-theory-relativity-equation</link>
+      <description>
+        <![CDATA[<p>Mathematically, it is a monster, but we can understand it in plain English.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/einstein-general-theory-relativity-equation">How to understand Einstein&#8217;s equation for general relativity</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Wed, 15 Sep 2021 10:30:10 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Ethan Siegel]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<ul>
+<li>The Einstein field equations appear very simple, but they encode a tremendous amount of complexity.</li>
+<li>What looks like one compact equation is actually 16 complicated ones, relating the curvature of spacetime to the matter and energy in the universe.</li>
+<li>It showcases how gravity is fundamentally different from all the other forces, and yet in many ways, it is the only one we can wrap our heads around.</li>
+</ul>
+<hr>
+<div class="redactor-editor" dir="ltr">
+<p>
+		Although Einstein is a legendary figure in science for a large number of reasons — E = mc², the photoelectric effect, and the notion that the speed of light is a constant for everyone — his most enduring discovery is also the least understood: his theory of gravitation, general relativity. Before Einstein, we thought of gravitation in Newtonian terms: that everything in the universe that has a mass instantaneously attracts every other mass, dependent on the value of their masses, the gravitational constant, and the square of the distance between them. But Einstein&#8217;s conception was entirely different, based on the idea that space and time were unified into a fabric, spacetime, and that the curvature of spacetime told not only matter but also energy how to move within it.
+	</p>
+<p>
+		This fundamental idea — that matter and energy tells spacetime how to curve, and that curved spacetime, in turn, tells matter and energy how to move — represented a revolutionary new view of the universe. Put forth in 1915 by Einstein and validated four years later during a total solar eclipse — when the bending of starlight coming from light sources behind the sun agreed with Einstein&#8217;s predictions and not Newton&#8217;s — general relativity has passed every observational and experimental test we have ever concocted. Yet despite its success over more than 100 years, almost no one understands what the one equation that governs general relativity is actually about. Here, in plain English, is what it truly means.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473460.jpg?w=335" loading="lazy">
+</div><br />
+		<small class="image-media media-caption">Einstein&#8217;s original equation relates spacetime curvature to the stress-energy of a system (top). A cosmological constant term can be added (middle), or equivalently, it can be formulated as dark energy (bottom), another form of energy density contributing to the stress-energy tensor.</small><small class="image-media media-photo-credit">Credit: © 2014 University of Tokyo; Kavli IPMU</small>
+	</p>
+<p>
+		This equation looks pretty simple, in that there are only a few symbols present. But it&#8217;s quite complex.
+	</p>
+</div>
+<div class="redactor-editor" dir="ltr">
+<ul>
+<li>The first one, G<sub>μν</sub>, is known as the Einstein tensor and represents the curvature of space.</li>
+<li>The second one, Λ, is the cosmological constant: an amount of energy, positive or negative, that is inherent to the fabric of space itself.</li>
+<li>The third term, g<sub>μν</sub>, is known as the metric, which mathematically encodes the properties of every point within spacetime.</li>
+<li>The fourth term, 8πG/c<sup>4</sup>, is just a product of constants and is known as Einstein&#8217;s gravitational constant, the counterpart of Newton&#8217;s gravitational constant (G) that most of us are more familiar with.</li>
+<li>The fifth term, T<sub>μν</sub>, is known as the stress-energy tensor, and it describes the local (in the nearby vicinity) energy, momentum, and stress within that spacetime.</li>
+</ul>
+<p>
+		These five terms, all related to one another through what we call the Einstein field equations, are enough to relate the geometry of spacetime to all the matter and energy within it: the hallmark of general relativity.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473464.jpg?w=335" loading="lazy">
+</div><br />
+		<small class="image-media media-caption">A mural of the Einstein field equations, with an illustration of light bending around the eclipsed sun, the observations that first validated general relativity back in 1919. The Einstein tensor is shown decomposed, at left, into the Ricci tensor and Ricci scalar. </small><small class="image-media media-photo-credit">Credit: Vysotsky / Wikimedia Commons</small>
+	</p>
+<p>
+		You might be wondering what is with all those subscripts — those weird &#8220;μν&#8221; combinations of Greek letters you see at the bottom of the Einstein tensor, the metric, and the stress-energy tensor. Most often, when we write down an equation, we are writing down a scalar equation, that is, an equation that only represents a single equality, where the sum of everything on the left-hand side equals everything on the right. But we can also write down systems of equations and represent them with a single simple formulation that encodes these relationships.<br />
+
+	</p>
+<p>
+		E = mc² is a scalar equation because energy (E), mass (m), and the speed of light (c) all have only single, unique values. But Newton&#8217;s<br />
+		<strong>F</strong> = m<strong>a</strong> is not a single equation but rather three separate equations: F<sub>x</sub> = ma<sub>x</sub> for the &#8220;x&#8221; direction, F<sub>y</sub> = ma<sub>y</sub> for the &#8220;y&#8221; direction, and F<sub>z</sub> = ma<sub>z</sub> for the &#8220;z&#8221; direction. In general relativity, the fact that we have four dimensions (three space and one time) as well as two subscripts, which physicists know as indices, means that there is not one equation, nor even three or four. Instead, we have each of the four dimensions (t, x, y, z) affecting each of the other four (t, x, y, z), for a total of 4 × 4, or 16, equations.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473491.jpg?w=335" loading="lazy">
+</div><br />
+		<small class="image-media media-caption">Instead of an empty, blank, three-dimensional grid, putting a mass down causes what would have been &#8220;straight&#8221; lines to instead become curved by a specific amount. In general relativity, space and time are continuous, with all forms of energy contributing to spacetime&#8217;s curvature. </small><small class="image-media media-photo-credit">Credit: Christopher Vitale of Networkologies and The Pratt Institute</small>
+	</p>
+<p>
+		Why would we need so many equations just to describe gravitation, whereas Newton only needed one?
+	</p>
+<p>
+		Because geometry is a complicated beast, because we are working in four dimensions, and because what happens in one dimension, or even in one location, can propagate outward and affect every location in the universe, if only you allow enough time to pass. Our universe, with three spatial dimensions and one time dimension, means the geometry of our universe can be mathematically treated as a four-dimensional manifold.
+	</p>
+<p>
+		In Riemannian geometry, where manifolds are not required to be straight and rigid but can be arbitrarily curved, you can break that curvature up into two parts: parts that distort the volume of an object and parts that distort the shape of an object. The &#8220;Ricci&#8221; part is volume distorting, and that plays a role in the Einstein tensor, as the Einstein tensor is made up of the Ricci tensor and the Ricci scalar, with some constants and the metric thrown in. The &#8220;Weyl&#8221; part is shape distorting, and, counterintuitively enough, plays no role in the Einstein field equations.
+	</p>
+<p>
+		The Einstein field equations are not just one equation, then, but rather a suite of 16 different equations: one for each of the &#8220;4 × 4&#8221; combinations. As one component or aspect of the universe changes, such as the spatial curvature at any point or in any direction, every other component as well may change in response. This framework, in many ways, takes the concept of a differential equation to the next level.
+	</p>
+<p>
+		A differential equation is any equation where you can do the following:
+	</p>
+<ul>
+<li>you can provide the initial conditions of your system, such as what is present, where, and when it is, and how it is moving,</li>
+<li>then you can plug those conditions into your differential equation,</li>
+<li>and the equation will tell you how those things evolve in time, moving forward to the next instant,</li>
+<li>where you can plug that information back into the differential equation, where it will then tell you what happens subsequently, in the next instant.</li>
+</ul>
+<p>
+		It is a tremendously powerful framework and is the very reason why Newton needed to invent calculus in order for things like motion and gravitation to become understandable scientific fields.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473518.jpg?w=335" loading="lazy">
+</div><br />
+		<small class="image-media media-caption">When you put down even a single point mass in spacetime, you curve the fabric of spacetime everywhere as a result. The Einstein field equations allow you to relate spacetime curvature to matter and energy, in principle, for any distribution you choose.</small><small class="image-media media-photo-credit">Credit: JohnsonMartin / Pixabay</small>
+	</p>
+<p>
+		Only, when we begin dealing with general relativity, it is not just one equation or even a series of independent equations that all propagate and evolve in their own dimension. Instead, because what happens in one direction or dimension affects all the others, we have 16 coupled, interdependent equations, and as objects move and accelerate through spacetime, the stress-energy changes and so does the spatial curvature.
+	</p>
+<p>
+		However, these &#8220;16 equations&#8221; are not entirely unique! First off, the Einstein tensor is symmetric, which means that there is a relationship between every component that couples one direction to another. In particular, if your four coordinates for time and space are (t, x, y, z), then:
+	</p>
+<ul>
+<li>the &#8220;tx&#8221; component will be equivalent to the &#8220;xt&#8221; component,</li>
+<li>the &#8220;ty&#8221; component will be equivalent to the &#8220;yt&#8221; component,</li>
+<li>the &#8220;tz&#8221; component will be equivalent to the &#8220;zt&#8221; component,</li>
+<li>the &#8220;yx&#8221; component will be equivalent to the &#8220;xy&#8221; component,</li>
+<li>the &#8220;zx&#8221; component will be equivalent to the &#8220;xz&#8221; component,</li>
+<li>and the &#8220;zy&#8221; component will be equivalent to the &#8220;yz&#8221; component.</li>
+</ul>
+<p>
+		All of a sudden, there aren&#8217;t 16 unique equations but only 10.
+	</p>
+<p>
+		Additionally, there are four relationships that tie the curvature of these different dimensions together: the Bianchi Identities. Of the 10 unique equations remaining, only six are independent, as these four relationships bring the total number of independent variables down further. The power of this part allows us the freedom to choose whatever coordinate system we like, which is literally the power of relativity: every observer, regardless of their position or motion, sees the same laws of physics, such as the same rules for general relativity.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473532.jpg?w=335" loading="lazy">
+</div><br />
+		<small class="image-media media-caption">An illustration of gravitational lensing and the bending of starlight due to mass. The curvature of space can be so severe that light can follow multiple paths from one point to another.</small><small class="image-media media-photo-credit">Credit: NASA / STScI</small>
+	</p>
+<p>
+		There are other properties of this set of equations that are tremendously important. In particular, if you take the divergence of the stress-energy tensor, you always, always get zero, not just overall, but for each individual component. That means that you have four symmetries: no divergence in the time dimension or any of the space dimensions, and every time you have a symmetry in physics, you also have a conserved quantity.
+	</p>
+<p>
+		In general relativity, those conserved quantities translate into energy (for the time dimension), as well as momentum in the x, y, and z directions (for the spatial dimensions). Just like that, at least locally in your nearby vicinity, both energy and momentum are conserved for individual systems. Even though it is impossible to define things like &#8220;global energy&#8221; overall in general relativity, for any local system within general relativity, both energy and momentum remain conserved at all times; it is a requirement of the theory.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473539.jpg?w=335" loading="lazy">
+</div><br />
+		<small class="image-media media-caption">As masses move through spacetime relative to one another, they cause the emission of gravitational waves: ripples through the fabric of space itself. These ripples are mathematically encoded in the Metric Tensor. </small><small class="image-media media-photo-credit">Credit: ESO / L. Calçada</small>
+	</p>
+<p>
+		Another property of general relativity that is different from most other physical theories is that general relativity, as a theory, is nonlinear. If you have a solution to your theory, such as &#8220;what spacetime is like when I put a single, point mass down,&#8221; you would be tempted to make a statement like, &#8220;If I put two point masses down, then I can combine the solution for mass #1 and mass #2 and get another solution: the solution for both masses combined.&#8221;
+	</p>
+<p>
+		That is true, but only if you have a linear theory. Newtonian gravity is a linear theory: the gravitational field is the gravitational field of every object added together and superimposed atop one another. Maxwell&#8217;s electromagnetism is similar: the electromagnetic field of two charges, two currents, or a charge and a current can all be calculated individually and added together to give the net electromagnetic field. This is even true in quantum mechanics, as the Schrödinger equation is linear (in the wavefunction), too.
+	</p>
+<p>
+		But Einstein&#8217;s equations are nonlinear, which means you cannot do that. If you know the spacetime curvature for a single point mass, and then you put down a second point mass and ask, &#8220;How is spacetime curved now?&#8221; we cannot write down an exact solution. In fact, even today, more than 100 years after general relativity was first put forth, there are still only about ~20 exact solutions known in relativity, and a spacetime with two point masses in it still is not one of them.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473541.jpg?w=335" loading="lazy">
+</div><br />
+		<small class="image-media media-caption">A photo of Ethan Siegel at the American Astronomical Society&#8217;s hyperwall in 2017, along with the first Friedmann equation at right — what is occasionally known as the most important equation in the universe and one of the rare exact solutions in general relativity. </small><small class="image-media media-photo-credit"> Credit: Harley Thronson / Perimeter Institute)</small>
+	</p>
+<p>
+		Originally, Einstein formulated general relativity with only the first and last terms in the equations, that is, with the Einstein tensor on one side and the stress-energy tensor (multiplied by the Einstein gravitational constant) on the other side. He only added in the cosmological constant, at least according to legend, because he could not stomach the consequences of a universe that was compelled to either expand or contract.
+	</p>
+<p>
+		And yet, the cosmological constant itself would have been a revolutionary addition even if nature turned out not to have a non-zero one (in the form of today&#8217;s dark energy) for a simple but fascinating reason. A cosmological constant, mathematically, is literally the only &#8220;extra&#8221; thing you can add into general relativity without fundamentally changing the nature of the relationship between matter and energy and the curvature of spacetime.
+	</p>
+<p>
+		The heart of general relativity, however, is not the cosmological constant, which is simply one particular type of &#8220;energy&#8221; you can add in but rather the other two more general terms. The Einstein tensor, G<sub>μν</sub>, tells us what the curvature of space is, and it is related to the stress-energy tensor, T<sub>μν</sub>, which tells us how the matter and energy within the universe is distributed.
+	</p>
+<p class="shortcode-media shortcode-media-rebelmouse-image">
+        <div class='flex justify-center mb-4'>
+    <img src="https://bigthink.com/wp-content/uploads/2021/09/27473550.jpg?w=335" loading="lazy">
+</div></p>
+<p>        <small class="image-media media-caption">Quantum gravity tries to combine Einstein&#8217;s General theory of Relativity with quantum mechanics. Quantum corrections to classical gravity are visualized as loop diagrams, as the one shown here in white.</small><small class="image-media media-photo-credit">Credit: SLAC National Accelerator Lab</small></p>
+<p>In our universe, we almost always make approximations. If we ignored 15 out of the 16 Einstein equations and simply kept the &#8220;energy&#8221; component, you would recover the theory it superseded: Newton&#8217;s law of gravitation. If you instead made the universe symmetric in all spatial dimensions and did not allow it to rotate, you get an isotropic and homogeneous universe, one governed by the Friedmann equations (and hence required to expand or contract). On the largest cosmic scales, this actually seems to describe the universe in which we live.</p>
+<p>
+		But you are also allowed to put in any distribution of matter and energy, as well as any collection of fields and particles that you like, and if you can write it down, Einstein&#8217;s equations will relate the geometry of your spacetime to how the universe itself is curved to the stress-energy tensor, which is the distribution of energy, momentum, and stress. </p>
+<p>If there actually is a &#8220;theory of everything&#8221; that describes both gravity and the quantum universe, the fundamental differences between these conceptions, including the fundamentally nonlinear nature of Einstein&#8217;s theory, will need to be addressed. As it stands, given their vastly dissimilar properties, the unification of gravity with the other quantum forces remains one of the most ambitious dreams in all of theoretical physics.
+	</p>
+</div>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/einstein-general-theory-relativity-equation">How to understand Einstein&#8217;s equation for general relativity</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>astrophysics</category>
+      <category>physics</category>
+    </item>
+    <item>
+      <guid>2655024803</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136844-136845.jpg"/>
+      <title>What really happens when your foot goes to sleep?</title>
+      <link>https://bigthink.com/surprising-science/foot-falls-asleep</link>
+      <description>
+        <![CDATA[<p>Pins and needles, anyone?</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/foot-falls-asleep">What really happens when your foot goes to sleep?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Wed, 15 Sep 2021 00:17:30 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Zachary Gillen]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<p>
+	Imagine you&#8217;ve just sat down to watch your favorite TV show. You decide to snuggle in with your legs crisscrossed because you find it more comfortable that way.
+</p>
+<hr>
+<p>
+	When the episode ends, you try to stand up and suddenly your right foot isn&#8217;t working. At first you just can&#8217;t move it, then it feels like it has pins and needles all over it. For a minute or two it feels uncomfortable and weird, but soon enough you are able to stand up and walk around normally.
+</p>
+<p>
+	What just happened?
+</p>
+<p>
+	<a href="https://scholar.google.com/citations?user=gn8ZiLMAAAAJ&#038;hl=en&#038;oi=ao" target="_blank" rel="noopener">I&#8217;m an exercise physiologist</a> – a scientist who studies what happens to our bodies when we move and exercise. The goal of much of my research has been to understand how the brain talks to and controls the different parts of our bodies. When your foot falls asleep, there is something wrong with the communication between your brain and the muscles in that area.
+</p>
+<p>
+	Every time you decide to move your body, whether it&#8217;s standing up, walking around or playing sports, your brain sends signals to your muscles to make sure they move correctly. When the brain is unable to talk with a muscle or groups of muscles, some weird things can happen – including that part of your body getting that weird falling-asleep sensation.
+</p>
+<p><br />
+</p>
+<p>
+	            An animation explains how the nervous system works.
+</p>
+<p>
+	It usually starts with a sense of numbness or tingling in that area. This sensation, which people often also call “pins and needles,&#8221; is technically known as <a href="https://www.racgp.org.au/afp/2015/march/paraesthesia-and-peripheral-neuropathy/" target="_blank" rel="noopener">paresthesia</a>.
+</p>
+<p>
+	Some people mistakenly think a lack of blood flow causes this feeling. They imagine the “asleep&#8221; feeling happens when your blood, which carries nutrients all over your body, is unable to get to your foot. But that&#8217;s not right.
+</p>
+<p>
+	When your foot falls asleep, it&#8217;s actually because the <a href="https://doi.org/10.2165/00007256-200232060-00003" target="_blank" rel="noopener">nerves that connect the brain to the foot</a> are getting squished thanks to the position you&#8217;re sitting in. Remember, it&#8217;s these nerves that carry messages back and forth to let your brain and your foot communicate with each other. If the nerves have been compressed for a little while, you won&#8217;t have much feeling in your foot because it can&#8217;t get its normal messages through to your brain about how it feels or if it&#8217;s moving.
+</p>
+<p>
+	Once you start to move around again, the pressure on the nerves is released. They “wake up&#8221; and you&#8217;ll start to notice a “pins and needles&#8221; feeling. Don&#8217;t worry, that feeling will only last for a few minutes and then everything will feel normal again.
+</p>
+<p>
+	Now comes the important question: Is this dangerous? Most of the time, when your foot, or any other body part, falls asleep, it is temporary and nothing to worry about. In fact, since it lasts for only a minute or two, you may not even remember it happened by the end of the day.
+</p>
+<p>
+	Even though it&#8217;s not causing any permanent damage, you might still want to avoid the uncomfortable feeling that comes when your foot falls asleep. Here are a couple of tips that may help:
+</p>
+<ul>
+<li>Switch your position often.</li>
+<li>Don&#8217;t cross your legs for very long.</li>
+<li>When you are sitting for a long time, try standing up every so often.</li>
+</ul>
+<p>
+	You probably can&#8217;t 100% prevent your foot from ever falling asleep. So don&#8217;t worry when it happens every once in a while. It&#8217;ll go away pretty quickly – and maybe it can remind you of all the important brain messages your nerves are usually transmitting without your even noticing.</p>
+<p>
+	<a href="https://theconversation.com/profiles/zachary-gillen-1251178" target="_blank" rel="noopener">Zachary Gillen</a>, Assistant Professor of Exercise Physiology, <em><a href="https://theconversation.com/institutions/mississippi-state-university-1970" target="_blank" rel="noopener">Mississippi State University</a></em>
+</p>
+<p>
+	This article is republished from <a href="https://theconversation.com" target="_blank" rel="noopener">The Conversation</a> under a Creative Commons license. Read the <a href="https://theconversation.com/what-happens-when-your-foot-falls-asleep-164655" target="_blank" rel="noopener">original article</a>.
+</p>
+<p><img loading="lazy" alt="The Conversation" height="1" src="https://counter.theconversation.com/content/164655/count.gif?distributor=republish-lightbox-advanced" width="1"></p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/surprising-science/foot-falls-asleep">What really happens when your foot goes to sleep?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>biology</category>
+      <category>human body</category>
+      <category>neuroscience</category>
+      <category>sleep</category>
+      <category>sports</category>
+    </item>
+    <item>
+      <guid>2655016387</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136850-136851.jpg"/>
+      <title>Saving history: 3D laser scans preserve world heritage sites</title>
+      <link>https://bigthink.com/culture-religion/3d-scanning-save-heritage-archaeology</link>
+      <description>
+        <![CDATA[<p>From the Notre Dame to Buddhist statues, dozens of irreplaceable artifacts are destroyed every year by both man and nature.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/culture-religion/3d-scanning-save-heritage-archaeology">Saving history: 3D laser scans preserve world heritage sites</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Tue, 14 Sep 2021 22:00:00 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Tim Brinkhof]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<p>On the night of May 14, 1940, the German Luftwaffe bombed the Dutch city of Rotterdam. When government administrators entered the streets to tally their losses the next morning, they learned that 900 people had lost their lives. As if this was not bad enough, the Luftwaffe had also destroyed hundreds of historic houses; Rotterdam&#8217;s city center — one of the oldest in the country and jam-packed with seventeenth century architecture — had been reduced to dust. </p>
+<p>In 2001, the Taliban pulverized two statues of Vairocana and Guatama Buddha that had been carved from a cliffside in the Bamyan valley of central Afghanistan. Standing no less than 38 and 55 meters tall, respectively, the statues were two of the tallest Buddhist monuments in the entire world and an important destination for traveling monks. The Buddhas were leveled on orders of Taliban co-founder Mullah Mohammed Omar, who tried to rid his country of any religious tributes that were not aimed at Allah.</p>
+<p>During a hot summer evening two years ago, the Notre Dame cathedral in Paris caught fire. The building, whose construction had begun in the twelfth century, was not designed with modern fire safety standards in mind. Though conservators do their best to keep everything in good condition, an accident was bound to happen eventually. While the cathedral&#8217;s vaulted ceiling kept flames from wreaking havoc on its interior, most of the wooden roof and spire burned to a crisp.</p>
+<p>Throughout history, countless artifacts have been caught in the crossfires of war, deliberately targeted by iconoclasts or swallowed up by the indifferent forces of nature and time. As a result, numerous non-profit groups and agencies — most notably, UNESCO — have sprung up to prevent the present from erasing the past. But while even the most well protected monument remains at risk of being physically destroyed, we now have a way to preserve them digitally. </p>
+<h2>From plaster casts to lasers</h2>
+<p>In the late 19<sup>th</sup> century, a British archaeologist named Alfred Maudsley traveled to Guatemala intent on finding a way to preserve the country&#8217;s Mayan ruins as best as possible. Rather than record their existence by means of writing or photography, Maudsley decided to cover entire temples in plaster casts. The tens of thousands of true-to-scale &#8220;negatives&#8221; produced from this endeavor were shipped back to England for research and reproduction. </p>
+<p>Like Maudsley, modern-day researchers also rely on highly accurate replicas in order to protect and study ancient artifacts. Fortunately, unlike Maudsley, they can acquire such replicas without actually having to touch the delicate monuments themselves. This is all thanks to advancements in 3D measurement tools which, in recent years, allowed us to store entire heritage sites in a place that no terrorist organization or natural disaster can reach them: the cloud.</p>
+<p>There are several companies in the business of scanning monuments, but one has distinguished itself as somewhat of a pack leader. Founded in 2003, CyArk serves as a liaison between cultural ministries and tech companies to create an extensive, open-sourced, fully online library of 3D scanned monuments and heritage sites. In 2016, this library already featured more than 200 entries, including sections from the city of Pompeii, the Tower of London, and even Mount Rushmore.</p>
+<p>CyArk&#8217;s primary measurement tool is a 3D laser scanner, which projects pulsed beams of light that bounce back once they hit a surface, thus sizing up structures or objects down to the millimeter. The interactive models assembled from these individual data sets are then shared with research facilities and universities. As CyArk&#8217;s field manager Ross Davison said in an interview, this means that a student from Germany could, in theory, visit ruins in South India from the comfort of their living room. </p>
+<h2>Saving monuments in Iraq</h2>
+<p>While making monuments more accessible was always on CyArk&#8217;s agenda, it was not its primary focus. First and foremost, the company had been founded to save artifacts from accidental or deliberate destruction. Case-in-point: a 6.8-magnitude earthquake destroyed a number of ancient temples in Myanmar in 2016. These temples, erected by the Pagan Kingdom, would have been lost were it not for the CyArk employees that managed to scan key structures before the earthquake hit.</p>
+<p>Saving monuments from the wrath of Mother Nature is one thing, but protecting them from religious or ideologically motivated iconoclasm is another. For many years, scanning artifacts located in war-torn areas like Iraq or Syria was not only difficult but dangerous. Despite the risks involved, French filmmaker Ivan Erhel traveled to the Middle East — the place where many of our earliest known civilizations originated — to scan as many remnants of Mesopotamian culture as possible.</p>
+<p>Erhel can trace his resolve back to 2015. That year, the Islamic State (ISIS) was at the height of its power, occupying large portions of Iraq. During this time, ISIS members destroyed a number of museums, statues, and other artifacts. &#8220;In Nimrud, most of the bas relief was totally destroyed,&#8221; Erhel said. &#8220;In Babylon, the Mušḫuššu have lost their colors. Hattra has been occupied by ISIS for several years, and many of the sculptures had their faces erased with hammer or gunshots.&#8221;</p>
+<p>On one occasion when the team was attempting to scan one of the sole surviving statues of Nimrud, Erhel and his team were shot at by Iraqi forces stationed there to protect the site from looters. Still, the risks taken by Erhel&#8217;s team eventually paid off. A general from Mosul summed it up nicely when he told Erhel: &#8220;We&#8217;re like a tree. When people die, it&#8217;s like leaves and branches falling off. But if you destroy the roots, then there is no tree.&#8221;</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/culture-religion/3d-scanning-save-heritage-archaeology">Saving history: 3D laser scans preserve world heritage sites</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>archaeology</category>
+      <category>history</category>
+    </item>
+    <item>
+      <guid>2655015857</guid>
+      <media:thumbnail url="https://bigthink.com/wp-content/uploads/2021/09/136852-136853.jpg"/>
+      <title>Who was the most original philosopher?</title>
+      <link>https://bigthink.com/culture-religion/most-original-philosopher-plato</link>
+      <description>
+        <![CDATA[<p>Socrates is considered the "Father of Western Philosophy," but perhaps that honorific should go to Plato.</p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/culture-religion/most-original-philosopher-plato">Who was the most original philosopher?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+]]>
+      </description>
+      <pubDate>Tue, 14 Sep 2021 20:00:00 +0000</pubDate>
+      <dc:creator>
+        <![CDATA[Jonny Thomson]]>
+      </dc:creator>
+      <content:encoded>
+        <![CDATA[<p>Nothing in life can be treated in isolation. Behind every idea, person, discovery, invention, or project is a hidden network of conditions that gave rise to it. This is never truer than in academia. As Isaac Newton famously said, we are all just &#8220;standing on the shoulders of Giants.&#8221;</p>
+<p>Philosophy is the same. Almost all its notable thinkers read, debated, and bounced ideas around with their contemporaries. Aristotle was a response to (and taught by) Plato, Chinese legalism was a critique of Confucianism, David Hume and Adam Smith were close friends, Voltaire and Jean-Jacques Rousseau constantly attacked each other, and Thomas Hobbes was in regular correspondence with René Descartes. </p>
+<p>So, it is hard to answer the question: who was the most original philosopher? But that doesn&#8217;t mean we aren&#8217;t going to try.</p>
+<h2>The trunk of the tree</h2>
+<p>Generally every philosophical issue (in the West, anyway) is prefaced with the line, &#8220;It all began with the ancient Greeks.&#8221; Of these seminal thinkers, Plato is typically considered the foremost. There is an oft-quoted line from A.N. Whitehouse that reads, &#8220;The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to Plato&#8221;. </p>
+<p>No doubt, there is some truth to this. Plato wrote profusely, and in both his dialogues and <em>Republic</em> we find the foundations of political philosophy, epistemology, metaphysics, and aesthetics. He was a psychologist before the term even existed: his tripartite division of the soul into Eros (desire), Thumos (spirit or passion), and Logos (rationality) tracks almost perfectly onto Freud&#8217;s Id, Superego, and Ego.</p>
+<p>Importantly, he defined the rules of the philosophical game, in which dialogue, debate, dialectic, and rational sparring are <em>the </em>way to do philosophy. Today, we assume that good arguments must be logical, and that most people, most of the time, want to discover the Truth (with a capital T) of the universe. This all comes from Plato. (It is difficult to find a similar sentiment in Eastern traditions.)</p>
+<h2>Let me write that down</h2>
+<p>There is only one problem: it is difficult to say how strictly <em>original</em> Plato was and how much was already kicking around in the ideological zeitgeist of the Peloponnese. All of Plato&#8217;s dialogues contain a fictionalized version of his master and friend, Socrates, who is almost always the wisest character and the winner of debates. Socrates never wrote anything himself down (and in fact seems to have been <a href="https://newlearningonline.com/literacies/chapter-1/socrates-on-the-forgetfulness-that-comes-with-writing" rel="noopener noreferrer" target="_blank">opposed</a> to this new-fangled &#8220;writing&#8221; the kids were up to), so we are left guessing at how much of what we call Plato&#8217;s was actually from his master. It could be all; it could be none.</p>
+<p>Additionally, Plato alludes to other long lost philosophers, not least Diotima, who is thought to be the first female philosopher and even the teacher of Socrates. So many of these &#8220;pre-Socratics&#8221; did write, but their work is largely lost, so we have to rely again on Plato and later sources for what they wrote. (The most important and treasured of these is<em> Lives and Opinions of Eminent Philosophers</em> by Diogenes Laërtius.)</p>
+<p>However, with the dearth of evidence, we are forced to give Plato his due — even if it is just being the first to write stuff down.</p>
+<h2>How Plato influenced Christianity</h2>
+<p>If Western philosophy and the manner in which it is done is merely a &#8220;footnote to Plato,&#8221; then it is not a stretch to say that Plato&#8217;s ideas lurk in the background of nearly every philosopher that we have read. Thinkers like Descartes, Nietzsche, and Freud were either responding or adding to Plato&#8217;s ideas. </p>
+<p>Arguably more important even than this is how far Platonism influenced Christianity, the largest religion on Earth. The early Church Fathers who formulated the theology and official dogma of the Church were steeped in the knowledge of both Jewish tradition and Greek philosophy, the latter being all but dominated by Plato and the descendants of his school, The Academy.</p>
+<p>Plato&#8217;s ideas of a world of forms — which was some perfect and removed ideal from our corrupt, base world — worked its way into formal Christian doctrine. Many ideas about sins of the flesh and weak mortal bodies were influenced by Plato. In his famous allegory of the cave, Plato argued that we ought not to indulge our worldly whims and desires (Eros) but contemplate and philosophize instead (Logos). All of these ideas tracked perfectly onto the fledgling Church. In fact, John&#8217;s Gospel opens with the verse: &#8220;In the beginning was the Logos, and the Logos was with God, and the Logos was God.&#8221;</p>
+<h2>With us still</h2>
+<p>In the ways that Plato came to define Christianity we have, again, an entirely new way of doing philosophy — or, in this case, theology. Christianity is an <em>original</em> kind of faith that was half Judea, half Athens.</p>
+<p>Plato dominated the Western tradition for centuries, and we still live with his legacy of valuing the intellect and rationality over our earthly lusts. To be called &#8220;irrational&#8221; is still a bad thing. Even though the likes of Aristotle creep into Christian theology via Thomas Aquinas in the 13th century and theologians like Augustine, Irenaeus, and Origen have their own impact, none ever leave the same (unique) depth of mark as the rationalistic and original ideas of Plato.</p>
+<p><em>Jonny Thomson teaches philosophy in Oxford. He runs a popular Instagram account called Mini Philosophy (@</em><a href="https://www.instagram.com/philosophyminis/" rel="noopener noreferrer" target="_blank"><em>philosophyminis</em></a><em>). His first book is </em><a href="https://www.amazon.co.uk/Mini-Philosophy-Small-Book-Ideas-ebook/dp/B08M3XDNPM/" rel="noopener noreferrer" target="_blank"><em>Mini Philosophy: A Small Book of Big Ideas</em></a><em>.</em></p>
+<p>The post <a rel="nofollow" href="https://bigthink.com/culture-religion/most-original-philosopher-plato">Who was the most original philosopher?</a> appeared first on <a rel="nofollow" href="https://bigthink.com">Big Think</a>.</p>
+		]]>
+      </content:encoded>
+
+      <flatplan:template identifier="article-new"/>
+
+      <category>ancient greece</category>
+      <category>philosophy</category>
+      <category>Plato</category>
+    </item>
+  </channel>
+</rss>

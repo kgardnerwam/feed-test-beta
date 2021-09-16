@@ -16,6 +16,65 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1123w2q3456sa4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>sponsored</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Thu, 16 Sep 2021 12:48:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>News</category>
+
+      <!-- use following element to include locatiion specific tagging -->
+      <flatplan:localization region="Toronto"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <h3>text</h3>
+
+
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1123w233456sa4</guid>
+      <!-- must include CDATA wrapper -->
+      <title>sponsored</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Tue, 14 Sep 2021 14:48:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category></category>
+      <!-- optional custom metadata fields -->
+      <flatplan:template identifier="template_name"/>
+
+      <flatplan:sponsor name="sponsor name"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <h3>text</h3>
+
+
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">11234233456sa4</guid>
       <!-- must include CDATA wrapper -->
       <title>empty category</title>
