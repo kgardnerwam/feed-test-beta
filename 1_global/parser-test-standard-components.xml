@@ -26,7 +26,6 @@
       <category>News</category>
 
       <!-- use following element to include locatiion specific tagging -->
-      <flatplan:localization></flatplan:localization>
 
       <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
       <content:encoded>
