@@ -18,7 +18,7 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1123w2q3456sa4</guid>
       <!-- must include CDATA wrapper -->
-      <title>sponsored</title>
+      <title>Localization</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Thu, 16 Sep 2021 12:48:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
