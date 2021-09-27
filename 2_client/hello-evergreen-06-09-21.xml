@@ -1,13 +1,13 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
   <channel>
     <title>
-      <![CDATA[Latest News]]>
+      Latest News
       <title>
         <link>
           <![CDATA[ https://www.hellomagazine.com ]]>
         </link>
         <description>
-          <![CDATA[The latest news and headlines]]>
+          The latest news and headlines
           <description>
             <pubDate>Mon, 06 Sep 2021 12:33:33 +0200</pubDate>
             <item xmlns:media="http://search.yahoo.com/mrss/">
