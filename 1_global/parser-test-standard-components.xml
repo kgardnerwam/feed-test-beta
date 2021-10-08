@@ -481,6 +481,9 @@
 
       <iframe src="https://content.jwplatform.com/players/p9bSguDT-FvQKszTI.js"></iframe>
 
+      <p>iframe tag with brightcove (for ITV)</p>
+
+      <iframe src="https://edge.api.brightcove.com/playback/v1/accounts/2821697655001/videos/6275504122001"></iframe>
 
       <h2> unsupported embeds </h2>
 
