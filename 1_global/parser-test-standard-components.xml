@@ -481,9 +481,18 @@
 
       <iframe src="https://content.jwplatform.com/players/p9bSguDT-FvQKszTI.js"></iframe>
 
-      <p>iframe tag with brightcove (for ITV)</p>
+      <p>iframe tag with brightcove (for ITV) - src only</p>
 
       <iframe src="https://edge.api.brightcove.com/playback/v1/accounts/2821697655001/videos/6275504122001"></iframe>
+
+      <p>iframe tag with brightcove (for ITV) - src and data-img-url empty</p>
+
+      <iframe src="https://edge.api.brightcove.com/playback/v1/accounts/2821697655001/videos/6275504122001" data-img-url=""></iframe>
+
+      <p>iframe tag with brightcove (for ITV) - src and data-img-url full</p>
+
+      <iframe src="https://edge.api.brightcove.com/playback/v1/accounts/2821697655001/videos/6275504122001" data-img-url="https://cf-images.eu-west-1.prod.boltdns.net/v1/jit/2821697655001/8ac9dde3-391b-46bd-9e2f-2a409938d3e3/main/1280x720/1m37s419ms/match/image.jpg"></iframe>
+
 
       <h2> unsupported embeds </h2>
 
