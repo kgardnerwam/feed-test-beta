@@ -9,10 +9,48 @@
   <channel>
     <title>stylesheet - master</title>
     <description>parser test - basic</description>
-    <pubDate>Mon, 21 Jun 2021 13:24:35 +0000</pubDate>
+    <pubDate>Mon, 11 Sep 2021 17:10:07 +0000</pubDate>
     <lastBuildDate>Mon, 21 Jun 2021 13:24:35 +0000</lastBuildDate>
     <link>https://flatplan.io</link>
     <language>en-US</language>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1583w2xq451sas</guid>
+      <!-- must include CDATA wrapper -->
+      <title>section stacks</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 11 Sep 2021 17:10:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+      <dc:creator>KG</dc:creator>
+      <category>News</category>
+
+      <!-- use following element to include locatiion specific tagging -->
+      <flatplan:localization region="Toronto"/>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <section class="flatplan-stack" data-stack-id="itv-data">
+          <section>
+            <h3>number</h3>
+          </section>
+          <section>
+            <h3>description</h3>
+          </section>
+        </section>
+
+
+
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1183w2x3451sa4</guid>
