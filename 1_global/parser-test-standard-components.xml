@@ -33,7 +33,7 @@
       <content:encoded>
         <![CDATA[
 
-        <section class="flatplan-stack" data-stack-id="itv-data">
+        <section class="flatplan-stack" data-stack-id="embed-fact">
           <section>
             <h3>number</h3>
           </section>
