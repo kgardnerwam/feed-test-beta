@@ -33,6 +33,8 @@
       <content:encoded>
         <![CDATA[
 
+        <p><a href="https://www.cannonicalURL/article-slug-example/">\u2014 link text</a></p>
+
 <section class="flatplan-stack" data-stack-id="itv-embed-fact">
   <section>
     <h2>embed-fact-emphasis</h2>
