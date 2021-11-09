@@ -34,7 +34,6 @@
 
         <blockquote> Without a p tag, I was enveloped in thick forest; by late afternoon, I had logged two bear sightings. <p class="quotee"></p> </blockquote>
 
-
         <section class="row"> <article class="columns small-12 medium-6 medium-offset-3"> <blockquote> <p>text in section - By lunchtime, I was enveloped in thick forest; by late afternoon, I had logged two bear sightings.</p> <p class="quotee"></p> </blockquote> </article> </section>
 
 
