@@ -16,6 +16,38 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1583skxqss451sa1229s</guid>
+      <!-- must include CDATA wrapper -->
+      <title>pullquote - blockquote</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Tues, 09 Nov 2021 12:10:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+
+      <category>News</category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <blockquote> <p>With a p tag, I was enveloped in thick forest; by late afternoon, I had logged two bear sightings.</p> <p class="quotee"></p> </blockquote>
+
+        <blockquote> Without a p tag, I was enveloped in thick forest; by late afternoon, I had logged two bear sightings. <p class="quotee"></p> </blockquote>
+
+
+
+
+
+
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">1583w2xqss451sa1223s</guid>
       <!-- must include CDATA wrapper -->
       <title>no dc, no author</title>
