@@ -43,7 +43,7 @@
       </section>
       <section>
         <!--include the team logo image-->
-        <img src="https://images2.minutemediacdn.com/image/fetch/w_75,h_75,c_fill,g_auto,f_auto/https%3A%2F%2Fcdn.fansided.com%2Flogos%2Fnfl%2Fbroncos.png"/>
+        <img src="https://images2.minutemediacdn.com/image/fetch/w_75,h_75,c_fill,g_auto,f_auto/https%3A%2F%2Fcdn.fansided.com%2Flogos%2Fnfl%2Fbroncos.png" data-use-stack="false"/>
       </section>
     </section>
 
