@@ -14,6 +14,44 @@
     <link>https://flatplan.io</link>
     <language>en-US</language>
 
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">1283skxqsslkjhj29s</guid>
+      <!-- must include CDATA wrapper -->
+      <title>tiktok embed</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Thu, 18 Nov 2021 12:10:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+
+      <category>News</category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <p>Narcity - Rebelmouse - Apify feed</p>
+
+        <div class="rm-shortcode" data-height data-rm-shortcode-id="cfdbafa6cc6d1c0dfbd810c235693bd1" data-thumbnail data-width id="c01a4"> <blockquote cite="https://www.tiktok.com/@kiyanamccain/video/7004828196445162757" class="tiktok_lazy_shortcode" data-video-id="7004828196445162757"> <section> <a href="https://www.tiktok.com/@kiyanamccain" target="_blank" title="@kiyanamccain">@kiyanamccain</a> <p>How to make movie theatre popcorn &#x201C; cineplex edition &#x201C; #cineplex #movietheater #popcorn #thegoodstuff #movietheatreemplyee #fyp #canada #lifehack</p> </section> </blockquote> </div>
+
+        <p>Upworthy - Rebelmouse - Apify feed</p>
+
+        <div id="d5a47" class="rm-shortcode" data-rm-shortcode-id="7b7a4844a2161327661e8fd94fe87683" data-width data-height data-thumbnail> <blockquote class="tiktok_lazy_shortcode" cite="https://www.tiktok.com/@shinanova/video/7012445829202070790" data-video-id="7012445829202070790"> <section> <a target="_blank" title="@shinanova" href="https://www.tiktok.com/@shinanova">@shinanova</a> <p>Showing you how we kiss, to show affection @kayuulanova #inuit #indigenous #kunik #eskimokiss</p> </section> </blockquote> </div>
+
+        <p>Straight from tiktok site - no CMS involvment</p>
+
+
+        <blockquote class="tiktok-embed" cite="https://www.tiktok.com/@abba/video/7031832936525663493" data-video-id="7031832936525663493" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@abba" href="https://www.tiktok.com/@abba">@abba</a> When you’re not ready to let go of 1975 just yet. <a title="abba" target="_blank" href="https://www.tiktok.com/tag/abba">#ABBA</a> <a title="dancingwithabba" target="_blank" href="https://www.tiktok.com/tag/dancingwithabba">#dancingwithABBA</a> <a title="gimmegimmegimme" target="_blank" href="https://www.tiktok.com/tag/gimmegimmegimme">#gimmegimmegimme</a> <a target="_blank" title="♬ Gimme! Gimme! Gimme! (A Man After Midnight) - ABBA" href="https://www.tiktok.com/music/Gimme-Gimme-Gimme-A-Man-After-Midnight-6917638492661319682">♬ Gimme! Gimme! Gimme! (A Man After Midnight) - ABBA</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>
+
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+
+
 
 
     <item>
