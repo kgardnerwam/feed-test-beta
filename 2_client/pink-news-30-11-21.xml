@@ -833,7 +833,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/"
       <media:thumbnail url="https://s31242.pcdn.co/wp-content/uploads/2021/11/GettyImages-534365848-1024x682.jpg" caption="Cirque du Soleil. (Paul Marotta/Getty)" />
       <description><![CDATA[<p>With temperatures sitting comfortably in the late teens, Malta makes for a great autumn and winter destination for queer travellers.</p>]]></description>
       <dc:creator>Sponsored</dc:creator>
-      <category>not sponsored</category>
+      <category>Sponsored</category>
       <content:encoded><![CDATA[<h3>With temperatures sitting comfortably in the late teens, Malta makes for a great autumn and winter destination for queer travellers.</h3>
 <p>The small archipelago has been ranked number one on <a href="https://rainbow-europe.org/country-ranking#">the Rainbow Europe</a> list of LGBT-friendly destinations for five years running, and with its progressive social attitudes and legal rights, much of the island — and its activities — are inherently inclusive.</p>
 <p>What’s more, Malta has some of Europe’s lowest COVID-19 rates, with new cases in the low double digits and <a href="https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/malta/">more than 80 per cent</a> of the population fully vaccinated. There’s plenty to see and do on the island during the milder months including an exclusive Cirque du Soleil show, making it ideal for a festive getaway.</p>
@@ -855,7 +855,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/"
 <p><i>All visitors to Malta are required to present a completed Public Health Travel Declaration, Passenger Locator Form (PLF) and a valid vaccination certificate recognised by the Superintendent of Public Health (age 12+). </i></p>
 <p><i>This must show a full course of vaccination – either two doses, or one dose of a single dose vaccine – with EMA approved vaccines: Comirnaty (Pfizer), Jannsen (Johnson & Johnson), Spikevax (Moderna), Vaxzevria (AstraZeneca), with batches that are authorised by the national regulatory authority of the administering country, with 14 days after the last dose. </i><a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx"><i>Click here for the latest information.</i></a><i> </i></p>
 <p> </p>]]></content:encoded>
-              <flatplan:sponsor name="not Sponsored">
+              <flatplan:sponsor name="Sponsored" />
             </item>
 
 
