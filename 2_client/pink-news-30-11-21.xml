@@ -855,7 +855,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/"
 <p><i>All visitors to Malta are required to present a completed Public Health Travel Declaration, Passenger Locator Form (PLF) and a valid vaccination certificate recognised by the Superintendent of Public Health (age 12+). </i></p>
 <p><i>This must show a full course of vaccination – either two doses, or one dose of a single dose vaccine – with EMA approved vaccines: Comirnaty (Pfizer), Jannsen (Johnson & Johnson), Spikevax (Moderna), Vaxzevria (AstraZeneca), with batches that are authorised by the national regulatory authority of the administering country, with 14 days after the last dose. </i><a href="https://deputyprimeminister.gov.mt/en/health-promotion/covid-19/Pages/travel.aspx"><i>Click here for the latest information.</i></a><i> </i></p>
 <p> </p>]]></content:encoded>
-              <flatplan:sponsor name="Sponsored">
+              <flatplan:sponsor name="not Sponsored">
             </item>
 
 
