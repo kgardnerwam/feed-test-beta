@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0"  xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
-  <title>indy100</title>
+  <title>indy100</title><link>https://www.indy100.com</link><description>Visit now for the latest news direct from indy100 and updated throughout the day</description><language>en-gb</language><copyright>Copyright 2021, Independent Digital News and Media Ltd</copyright><dc:language>en-gb</dc:language><dc:date>2022-01-10T12:13:49Z</dc:date><dc:rights>IDNML or its affiliated companies. All rights reserved. 2021</dc:rights><pubDate>Mon, 10 Jan 2022 12:13:49 GTM</pubDate>
+
   <item><title>Test</title><link>https://rebel.indy100.com/wishlist/speed-test</link><description><![CDATA[<p class="">test test test</p><p>B;jb;W</p><p>BlbLAB</p><rm-nested-posts ids="2656130984,2656147632,2656132190" template="related_blog"></rm-nested-posts><div class="listicle">
   <div class="rebellt-item ">
   <h1 data-role="headline">Fujifilm Instax Mini 11</h1><img src="https://rebel.indy100.com/media-library/image.png?id=28263378" alt=" (test)"/>
