@@ -10,9 +10,69 @@
     <title>stylesheet - master</title>
     <description>parser test - basic</description>
     <pubDate>Mon, 11 Sep 2021 17:10:07 +0000</pubDate>
-    <lastBuildDate>Mon, 21 Jun 2021 13:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jan 2022 15:10:07 +0000</lastBuildDate>
     <link>https://flatplan.io</link>
     <language>en-US</language>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">128sdfvfxqsslkjhj29s</guid>
+      <!-- must include CDATA wrapper -->
+      <title>Table test</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Wed, 26 Jan 2022 15:10:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+
+      <category>Table</category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+        <table border="1" class="tableizer-table" width="100%">
+        	<thead>
+        	</thead>
+        	<thead>
+        		<tr class="tableizer-firstrow">
+        			<th width="20%">Time (AEDT)</th>
+        			<th width="45%">Match</th>
+        			<th width="20%">Score</th>
+        			<th width="15%">Event</th>
+        		</tr>
+        	</thead>
+        	<tbody>
+        		<tr>
+        			<td style="text-align: center;">11am</td>
+        			<td style="text-align: center;"><strong>(27) Danielle Collins [USA] </strong> v Alize Cornet [FRA]</td>
+        			<td style="text-align: center;">7-5 6-1</td>
+        			<td style="text-align: center;">Women's - QF</td>
+        		</tr>
+        		<tr>
+        			<td style="text-align: center;">Not before 1pm</td>
+        			<td style="text-align: center;"><strong>(7) Iga Świątek&nbsp;[POL] </strong> v Kaia Kanepi [EST]</td>
+        			<td style="text-align: center;">4-6 7-6(2) 6-3</td>
+        			<td style="text-align: center;">Women's - QF</td>
+        		</tr>
+        		<tr>
+        			<td style="text-align: center;">Not before 3pm</td>
+        			<td style="text-align: center;">(11) Jannik Sinner [ITA] v <strong> (4) Stefanos Tsitsipas (GRE) </strong></td>
+        			<td style="text-align: center;">6-3 6-4 6-2</td>
+        			<td style="text-align: center;">Men's - QF</td>
+        		</tr>
+        		<tr>
+        			<td style="text-align: center;">From 7:30pm</td>
+        			<td style="text-align: center;">(9) Felix Auger-Aliassime [CAN] v (2) Daniil Medvedev [RUS]</td>
+        			<td style="text-align: center;">In progress</td>
+        			<td style="text-align: center;">Men's - QF</td>
+        		</tr>
+        	</tbody>
+        </table>
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
