@@ -16,6 +16,31 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">128sdfvfxqsskjhgfghj29s</guid>
+      <!-- must include CDATA wrapper -->
+      <title>Category-link</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Mon, 07 Feb 2022 12:10:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
+
+      <category>
+        <a href="https://apple.news/T4Lkn6fNwR8CARR79bbvUuA">section</a>
+      </category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+        <p>text</p>
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">128sdfvfxqsslkjhj29s</guid>
       <!-- must include CDATA wrapper -->
       <title>Table test</title>
@@ -109,10 +134,6 @@
 
       <!-- @@@ end images @@@ -->
     </item>
-
-
-
-
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
