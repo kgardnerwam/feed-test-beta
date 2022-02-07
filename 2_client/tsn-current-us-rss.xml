@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel xml:base="https://www.sportingnews.com/us/rss">
+    <language>en-US</language>
+    <title>Sporting News RSS</title>
+    <description>Sporting News RSS</description>
+    <pubDate>Thu, 03 Feb 2022 18:14:07 GMT</pubDate>
+    <link>https://www.sportingnews.com/us/rss</link>
+    <copyright>
+      <![CDATA[Copyright 2022 Sporting News]]>
+    </copyright>
+    <atom:link rel="self" type="application/rss+xml" href="https://www.sportingnews.com/us/rss"></atom:link>
+    <item>
+      <title>
+        <![CDATA[Aaron Rodgers trade rumors: Packers QB 'open' to joining Titans, reportedly buys land near Nashville ]]>
+      </title>
+      <description>
+        <![CDATA[According to an ESPN Nashville radio host, Rodgers is currently building a home in Tennessee, and could eye a move to the Titans this offseason.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 17:32:07 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/aaron-rodgers-trade-rumors-packers-qb-open-titans-purchase-land-nashville/q78txvokub7bzvw6zfj59akq</link>
+      <guid isPermaLink="false">q78txvokub7bzvw6zfj59akq</guid>
+      <author>Joe Rivera</author>
+      <dc:creator>Joe Rivera</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="355457" url="https://library.sportingnews.com/2021-12/aaron-rodgers-122021-getty-ftr_uqol5rbzd21613uhhwzqq2r69.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2021-12/aaron-rodgers-122021-getty-ftr_uqol5rbzd21613uhhwzqq2r69.jpg" type="image/jpeg"></media:content>
+      <media:description>Aaron Rodgers</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Frank Gore had 'Questionable Brain MRI' heading into Deron Williams fight]]>
+      </title>
+      <description>
+        <![CDATA[The Frank Gore vs. Deron Williams fight had its fair share of controversy before a "Questionable Brain MRI" on Gore's end. ]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 16:56:58 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/boxing/news/frank-gore-questionable-brain-mri-deron-williams-fight/lmaeatetzgsr9ahyebvgozp9</link>
+      <guid isPermaLink="false">lmaeatetzgsr9ahyebvgozp9</guid>
+      <author>Daniel Yanofsky</author>
+      <dc:creator>Daniel Yanofsky</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="2052558" url="https://library.sportingnews.com/2021-12/frank-gore-121421-getty-ftr_71d9ecw0xo5c1g8jtkuzxvt1k.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2021-12/frank-gore-121421-getty-ftr_71d9ecw0xo5c1g8jtkuzxvt1k.jpg" type="image/jpeg"></media:content>
+      <media:description>Frank Gore</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Tom Brady posts emotional tribute highlighting time with Patriots, Buccaneers, his family]]>
+      </title>
+      <description>
+        <![CDATA[It appears that Tom Brady's retirement snub of the Patriots was overblown, as expected.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 16:51:03 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/tom-brady-retirement-patriots-buccaneers-family/xlqxll7dua9puc14ogfgdih3</link>
+      <guid isPermaLink="false">xlqxll7dua9puc14ogfgdih3</guid>
+      <author>Jacob Camenker</author>
+      <dc:creator>Jacob Camenker</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="393888" url="https://library.sportingnews.com/2022-02/Tom-Brady-020322-GETTY-FTR.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/Tom-Brady-020322-GETTY-FTR.jpg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Kenny Pickett hand size concerns are 'complete joke,' Pitt coach Pat Narduzzi says]]>
+      </title>
+      <description>
+        <![CDATA[The former Pitt quarterback raised some eyebrows when he declined to have his hands measured at the Senior Bowl in Mobile, Ala.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 14:25:23 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/ncaa-football/news/kenny-pickett-hand-size-pitt-coach-pat-narduzzi/tzhcnnsv1vt1stco2eq5ho8y</link>
+      <guid isPermaLink="false">tzhcnnsv1vt1stco2eq5ho8y</guid>
+      <author>Jordan Greer</author>
+      <dc:creator>Jordan Greer</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="365434" url="https://library.sportingnews.com/2021-12/kenny-pickett-11-13-gettyjpg_1ejn8sqaxbycp1xpqqpf6ms562.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2021-12/kenny-pickett-11-13-gettyjpg_1ejn8sqaxbycp1xpqqpf6ms562.jpg" type="image/jpeg"></media:content>
+      <media:description>kenny-pickett-11-13-getty.jpg</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Cowboys' Jerry Jones responds to Brian Flores' lawsuit, acknowledges NFL 'can do better']]>
+      </title>
+      <description>
+        <![CDATA[The Cowboys owner acknowledged the NFL and its teams can do a better job of making more diverse hires.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 14:34:47 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/cowboys-jerry-jones-brian-flores-lawsuit-nfl/mye17b7s3crvgdpn5awqzpy7</link>
+      <guid isPermaLink="false">mye17b7s3crvgdpn5awqzpy7</guid>
+      <author>Zac Al-Khateeb</author>
+      <dc:creator>Zac Al-Khateeb</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="1382743" url="https://library.sportingnews.com/2022-02/Jerry%20Jones.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/Jerry%20Jones.jpg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[NBA unveils Kobe Bryant trophy for All-Star Game MVP]]>
+      </title>
+      <description>
+        <![CDATA[The trophy has "intricate details holding dual meanings, both for NBA All-Star and [Kobe] Bryant's legendary career."]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 16:35:16 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nba/news/nba-kobe-bryant-trophy-all-star-game-mvp/1waapch26c1rq1t4k0kpwt49qw</link>
+      <guid isPermaLink="false">1waapch26c1rq1t4k0kpwt49qw</guid>
+      <author>Scott Rafferty</author>
+      <dc:creator>Scott Rafferty</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="808302" url="https://library.sportingnews.com/2022-02/kobe-bryant_1qd58kpi0v5ed1sbsvutyvkanl.jpeg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/kobe-bryant_1qd58kpi0v5ed1sbsvutyvkanl.jpeg" type="image/jpeg"></media:content>
+      <media:description>Kobe Bryant</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Where Brian Flores stands in Texans, Saints coaching searches after filing lawsuit]]>
+      </title>
+      <description>
+        <![CDATA[Former Dolphins coach Brian Flores is suing the NFL, but he is also still a candidate for two head coaching jobs. Will he get either of them?]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 13:47:48 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/brian-flores-lawsuit-texans-saints-coach-search/bcl7ppy01pezfozfdnvm6x6g</link>
+      <guid isPermaLink="false">bcl7ppy01pezfozfdnvm6x6g</guid>
+      <author>Jacob Camenker</author>
+      <dc:creator>Jacob Camenker</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/png" length="3079893" url="https://library.sportingnews.com/2022-02/brian-flores-01022022-getty-ftr_rjx38aqfmfrs1rbwivi7pkt0u.png"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/brian-flores-01022022-getty-ftr_rjx38aqfmfrs1rbwivi7pkt0u.png" type="image/png"></media:content>
+      <media:description>Brian-Flores-01022022-Getty-FTR</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[NFL denies Bengals' plans to host Super Bowl watch party at Paul Brown Stadium]]>
+      </title>
+      <description>
+        <![CDATA[The Bengals were going to host their home fans for a giant watch party. The NFL said that won't happen.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 14:26:13 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/nfl-bengals-super-bowl-watch-party/lwj9scmnxy4328cpp9dceuij</link>
+      <guid isPermaLink="false">lwj9scmnxy4328cpp9dceuij</guid>
+      <author>Edward Sutelan</author>
+      <dc:creator>Edward Sutelan</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="1930343" url="https://library.sportingnews.com/2022-02/GettyImages-1365257741.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/GettyImages-1365257741.jpg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Ben Simmons trade rumors: Major sticking point in potential 76ers trade for Bradley Beal ]]>
+      </title>
+      <description>
+        <![CDATA[Bradley Beal is reportedly conflicted about his future with the Wizards, but neither him nor his representatives have "officially asked for him to be moved" in the days leading up to the trade deadline.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 14:40:54 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nba/news/ben-simmons-trade-rumors-76ers-bradley-beal/zdjcvrgwvhh5sszhjojty49g</link>
+      <guid isPermaLink="false">zdjcvrgwvhh5sszhjojty49g</guid>
+      <author>Scott Rafferty</author>
+      <dc:creator>Scott Rafferty</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="1464589" url="https://library.sportingnews.com/2022-02/nba-plain--59f2d5fd-d9bf-48a8-bb53-02dbb91a34ef.jpeg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/nba-plain--59f2d5fd-d9bf-48a8-bb53-02dbb91a34ef.jpeg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Why a potential Rick Spielman hiring is a good thing for Doug Pederson in Jaguars coaching search]]>
+      </title>
+      <description>
+        <![CDATA[The Jaguars may add Rick Spielman to the team's front office, and that's a good thing for the former Eagles coach.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 14:15:11 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/jaguars-rick-spielman-doug-pederson-coaching-search/j69elza9tygjupfgui0amtg6</link>
+      <guid isPermaLink="false">j69elza9tygjupfgui0amtg6</guid>
+      <author>Joe Rivera</author>
+      <dc:creator>Joe Rivera</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="751863" url="https://library.sportingnews.com/2022-01/doug-pederson-120119-getty-ftrjpg_1b19cc0tu1qwp16rs68a4wjmg7.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-01/doug-pederson-120119-getty-ftrjpg_1b19cc0tu1qwp16rs68a4wjmg7.jpg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[49ers fan in medically induced coma after apparent attack outside SoFi Stadium]]>
+      </title>
+      <description>
+        <![CDATA[The fan was found by paramedics 30 minutes into the NFC championship game.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 13:58:06 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/49ers-fan-coma-attack-sofi-stadium/knwbarawuw0bjvw8xidrsmjm</link>
+      <guid isPermaLink="false">knwbarawuw0bjvw8xidrsmjm</guid>
+      <author>Edward Sutelan</author>
+      <dc:creator>Edward Sutelan</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="965540" url="https://library.sportingnews.com/2022-02/SoFi-Stadium-013022-Getty-FTR.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/SoFi-Stadium-013022-Getty-FTR.jpg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Claressa Shields plans to 'destroy' Ema Kozin and Savannah Marshall at the same time]]>
+      </title>
+      <description>
+        <![CDATA[Claressa Shields may be fighting Ema Kozin on February 5, but the undisputed middleweight champion explains how she will destroy her rival Savannah Marshall on the same night without laying a finger on her. ]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 02:10:23 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/boxing/news/claressa-shields-plans-destroy-ema-kozin-and-savannah-marshall-same-time/yauya6x5dlt405mmckxnbr37</link>
+      <guid isPermaLink="false">yauya6x5dlt405mmckxnbr37</guid>
+      <author>Andreas Hale</author>
+      <dc:creator>Andreas Hale</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="6771821" url="https://library.sportingnews.com/2022-02/claressa-shields-2222-Salita-ftr.jpeg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/claressa-shields-2222-Salita-ftr.jpeg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Pac-12 quarterback outlooks for 2022: USC, Oregon start new eras with impact transfers]]>
+      </title>
+      <description>
+        <![CDATA[Half of the Pac-12 could start the 2022 season with a transfer quarterback. Sporting News breaks down the QB rooms in the conference.]]>
+      </description>
+      <pubDate>Wed, 02 Feb 2022 17:22:19 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/ncaa-football/news/pac-12-quarterback-outlooks-2022-usc-oregon-transfers/uvyvnu2389aqicejmboahish</link>
+      <guid isPermaLink="false">uvyvnu2389aqicejmboahish</guid>
+      <author>Bill Bender</author>
+      <dc:creator>Bill Bender</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="399251" url="https://library.sportingnews.com/2021-08/dorian-thompson-robinson-06221-getty-ftrjpg_mpif3nwr493d1bb1xf752oyak.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2021-08/dorian-thompson-robinson-06221-getty-ftrjpg_mpif3nwr493d1bb1xf752oyak.jpg" type="image/jpeg"></media:content>
+      <media:description>Dorian Thompson-Robinson</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Robert Kraft threw 'temper tantrum' after Patriots left out of Tom Brady's retirement announcement]]>
+      </title>
+      <description>
+        <![CDATA[Robert Kraft apparently took exception to Tom Brady omitting the Patriots from his retirement announcement entirely.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 13:12:54 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/robert-kraft-tom-brady-retirement-patriots/ewka6xg6yzjao1qu5muqvbbh</link>
+      <guid isPermaLink="false">ewka6xg6yzjao1qu5muqvbbh</guid>
+      <author>Jacob Camenker</author>
+      <dc:creator>Jacob Camenker</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="286751" url="https://library.sportingnews.com/2022-02/Robert-Kraft-020322-GETTY-FTR.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/Robert-Kraft-020322-GETTY-FTR.jpg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[The most entertaining 2022 NBA All-Star Game: Picking reserves for Eastern and Western Conference]]>
+      </title>
+      <description>
+        <![CDATA[Picking the reserves for the All-Star Game surely never sparks much of a debate... right?]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 14:25:17 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nba/news/most-entertaining-2022-nba-all-star-game-reserves-eastern-western-conference/1x1tao6t5fo231vsryd5tsqd4i</link>
+      <guid isPermaLink="false">1x1tao6t5fo231vsryd5tsqd4i</guid>
+      <author>Micah Adams</author>
+      <dc:creator>Micah Adams</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="1386189" url="https://library.sportingnews.com/2022-02/chris-paul-lamelo-ball-ftr_1w0cplxq0skq21vjmg36636rut.jpeg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/chris-paul-lamelo-ball-ftr_1w0cplxq0skq21vjmg36636rut.jpeg" type="image/jpeg"></media:content>
+      <media:description>Chris Paul, LaMelo Ball</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[How to make your fake NBA trades suck less]]>
+      </title>
+      <description>
+        <![CDATA[Seven tips to make your fake NBA trades slightly more realistic.]]>
+      </description>
+      <pubDate>Tue, 01 Feb 2022 22:06:40 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nba/news/how-make-your-fake-nba-trades-suck-less/amr0xwzpukm4ui1xdj1y2sdz</link>
+      <guid isPermaLink="false">amr0xwzpukm4ui1xdj1y2sdz</guid>
+      <author>Stephen Noh</author>
+      <dc:creator>Stephen Noh</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="626286" url="https://library.sportingnews.com/2022-02/Guide-to-making-better-fake-trades.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/Guide-to-making-better-fake-trades.jpg" type="image/jpeg"></media:content>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Brian Flores lawsuit: Dolphins owner Stephen Ross says claims are 'false, malicious and defamatory']]>
+      </title>
+      <description>
+        <![CDATA[Ross is accused of offering Flores $100,000 per game for every loss by the Dolphins in the 2019 season.]]>
+      </description>
+      <pubDate>Thu, 03 Feb 2022 13:20:11 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/stephen-ross-dolphins-brian-flores-tanking/cvosu56cyghr1uwne0jhxrwgm</link>
+      <guid isPermaLink="false">cvosu56cyghr1uwne0jhxrwgm</guid>
+      <author>Tom Gatto</author>
+      <dc:creator>Tom Gatto</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="182008" url="https://library.sportingnews.com/2021-10/stephen-ross-052418-getty-ftrjpg_1483bcppp4rq71ix4pp6od6k8u.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2021-10/stephen-ross-052418-getty-ftrjpg_1483bcppp4rq71ix4pp6od6k8u.jpg" type="image/jpeg"></media:content>
+      <media:description>Stephen Ross</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Projecting the starting QBs for all 32 NFL teams in 2022: Where will Aaron Rodgers, Russell Wilson land?]]>
+      </title>
+      <description>
+        <![CDATA[Aaron Rodgers and Russell Wilson are expected to ride the NFL's quarterback carousel this offseason. Here's a breakdown of how the league's QB landscape might look after free agency, trades and the 2022 NFL Draft.]]>
+      </description>
+      <pubDate>Wed, 02 Feb 2022 12:20:09 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/nfl-starting-quarterback-projections-2022/1tx8y7svszlfm1fthsqa4xfi9l</link>
+      <guid isPermaLink="false">1tx8y7svszlfm1fthsqa4xfi9l</guid>
+      <author>Bill Bender</author>
+      <dc:creator>Bill Bender</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="560993" url="https://library.sportingnews.com/2022-02/wilson-rodgers-watson-020222-getty-ftrjpeg_pm4kpoflca9p10j7nfruggf83.jpeg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-02/wilson-rodgers-watson-020222-getty-ftrjpeg_pm4kpoflca9p10j7nfruggf83.jpeg" type="image/jpeg"></media:content>
+      <media:description>Russell Wilson, Aaron Rodgers and Deshaun Watson</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[NFL Mock Draft 2022: Giants land new QB for Brian Daboll; Chiefs, Browns, Raiders get in on WR run]]>
+      </title>
+      <description>
+        <![CDATA[Sporting News' 10th mock of the 2022 NFL Draft covers the entire first round again, this time with pick Nos. 1 through 30 after the conference championship games.]]>
+      </description>
+      <pubDate>Mon, 31 Jan 2022 15:05:11 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/nfl-mock-draft-2022-chiefs-giants-browns-raiders/jncqhyxnoy7h1fyri334f51pk</link>
+      <guid isPermaLink="false">jncqhyxnoy7h1fyri334f51pk</guid>
+      <author>Vinnie Iyer</author>
+      <dc:creator>Vinnie Iyer</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="1865381" url="https://library.sportingnews.com/2022-01/nfl-mock-draft-010922-ftr_5htteuibtbt21cy94uqvkdz3j.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-01/nfl-mock-draft-010922-ftr_5htteuibtbt21cy94uqvkdz3j.jpg" type="image/jpeg"></media:content>
+      <media:description>Kenny Pickett, Kayvon Thibodeaux and Malik Willis</media:description>
+    </item>
+    <item>
+      <title>
+        <![CDATA[Super Bowl 2022 odds, line: Rams vs. Bengals picks, predictions from SN experts]]>
+      </title>
+      <description>
+        <![CDATA[Our NFL experts are split on their picks and predictions for Super Bowl 56.]]>
+      </description>
+      <pubDate>Mon, 31 Jan 2022 18:05:17 GMT</pubDate>
+      <link>https://www.sportingnews.com/us/nfl/news/super-bowl-2022-odds-line-picks-predictions/11phtsjegjr0x16w4zrcc2q8uh</link>
+      <guid isPermaLink="false">11phtsjegjr0x16w4zrcc2q8uh</guid>
+      <author>Brandon Schlager</author>
+      <dc:creator>Brandon Schlager</dc:creator>
+      <slash:comments>0</slash:comments>
+      <enclosure type="image/jpeg" length="1872316" url="https://library.sportingnews.com/2022-01/super-bowl-56-013122-ftr_9s0pb2bpj5z7130etsawxsvop.jpg"></enclosure>
+      <media:content url="https://library.sportingnews.com/2022-01/super-bowl-56-013122-ftr_9s0pb2bpj5z7130etsawxsvop.jpg" type="image/jpeg"></media:content>
+      <media:description>Matthew Stafford and Joe Burrow</media:description>
+    </item>
+  </channel>
+</rss>
