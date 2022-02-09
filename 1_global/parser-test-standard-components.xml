@@ -722,6 +722,13 @@
 
       <iframe src="http://www.youtube.com/embed/6O8yVeM_V-I?wmode=transparent&jqoemcache=TNJ6f" width="425" height="349" allowfullscreen="true" allowscriptaccess="always" scrolling="no" frameborder="0" style="max-height: 600px; max-width: 800px;"></iframe>
 
+      <p>youtube w. vid link in data-src</p>
+
+      <iframe  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"  name="YouTube Embed" data-src="https://www.youtube.com/embed/tz2ZmEr3tno?rel=0" class="uD-YT-video lazyload" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span></iframe>
+
+      <p>youtube w. above amended to have link in src</p>
+
+      <iframe  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen"  name="YouTube Embed" src="https://www.youtube.com/embed/tz2ZmEr3tno?rel=0" class="uD-YT-video lazyload" data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce_SELRES_start"></span></iframe>
 
 
       <p>vimeo</p>
