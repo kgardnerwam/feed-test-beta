@@ -16,6 +16,35 @@
 
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">128sdfghhgfghj29s</guid>
+      <!-- must include CDATA wrapper -->
+      <title>small tags</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Wed, 09 Feb 2022 09:10:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail/>
+
+      <category>category</category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+        <h3><small data-anf-textstyle="socialStyle"><a href="https://twitter.com/Yascha_Mounk"></a> </small><a class="ArticleBio_socialLink__FLFKk" href="https://twitter.com/Yascha_Mounk" target="_blank" rel="noopener noreferrer nofollow"><span class="ArticleBio_socialLinkName__vJZgm">TWITTER</span></a> </h3>
+
+        <p class="ArticleParagraph_root__wy3UI"><em><small>Updated at 5:15 p.m. ET on February 9, 2022</small></em></p>
+
+        <p class="ArticleParagraph_root__wy3UI"><small data-anf-textstyle="smallCapsStyle">It took four presidencies</small> for America to finish abandoning Afghanistan. George W. Bush&#x2019;s attention wandered off soon after American Special Forces rode horseback through the northern mountains and the first schoolgirls gathered in freezing classrooms. Barack Obama, after studying the problem for months, poured in troops and pulled them out in a single ambivalent gesture whose goal was to keep the war on page A13. Donald Trump cut a deal with the Taliban that left the future of the Afghan government, Afghan women, and al&#x2011;Qaeda to fate. By then most Americans were barely aware that the war was still going on. It fell to Joe Biden to complete the task.</p>
+
+        <p class="ArticleParagraph_root__wy3UI"><small class="anything">It took four presidencies</small> for America to finish abandoning Afghanistan. George W. Bush&#x2019;s attention wandered off soon after American Special Forces rode horseback through the northern mountains and the first schoolgirls gathered in freezing classrooms. Barack Obama, after studying the problem for months, poured in troops and pulled them out in a single ambivalent gesture whose goal was to keep the war on page A13. Donald Trump cut a deal with the Taliban that left the future of the Afghan government, Afghan women, and al&#x2011;Qaeda to fate. By then most Americans were barely aware that the war was still going on. It fell to Joe Biden to complete the task.</p>
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">128sdfgqsskjhgfghj29s</guid>
       <!-- must include CDATA wrapper -->
       <title>Empty header fill</title>
@@ -263,14 +292,14 @@
 
         <p><a href="https://www.cannonicalURL/article-slug-example/">— link text</a></p>
 
-<section class="flatplan-stack" data-stack-id="itv-embed-fact">
-  <section>
-    <h2>embed-fact-emphasis</h2>
-  </section>
-  <section>
-    <h3>embed-fact-description</h3>
-  </section>
-</section>
+          <section class="flatplan-stack" data-stack-id="itv-embed-fact">
+            <section>
+              <h2>embed-fact-emphasis</h2>
+            </section>
+            <section>
+              <h3>embed-fact-description</h3>
+            </section>
+          </section>
 
 
 
