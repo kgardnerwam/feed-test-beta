@@ -926,7 +926,7 @@
 
                 <h3>img, src w/ no content, data-src</h3>
 
-                <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
+                <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt">
 
                   <h2>Picture tag</h2>
 
@@ -944,7 +944,7 @@
 
                         <h3>picture, img, src w/ no content, data-src</h3>
                         <picture>
-                          <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
+                          <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
 
                           <h3>picture, img, data-src (shorthand x Apify x NBC example)</h3>
 
@@ -980,7 +980,7 @@
                                   <h3>figure, img, src w/ no content, data-src</h3>
                                   <figure>
 
-                                    <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></figure>
+                                    <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></figure>
 
                                     <h2>Figure tag, nested picture, then img tag</h2>
 
@@ -1008,7 +1008,7 @@
                                           <h3>figure, picture, img, src w/ no content, data-src</h3>
                                           <figure>
                                             <picture>
-                                              <img src="src" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
+                                              <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
                                             </figure>
 
                                             <figure>
