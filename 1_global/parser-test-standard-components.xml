@@ -18,6 +18,44 @@
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">128sdfghhgfghj29s</guid>
       <!-- must include CDATA wrapper -->
+      <title>data-role checks</title>
+      <link>https://www.cannonicalURL/article-slug-example/</link>
+      <pubDate>Wed, 09 Feb 2022 09:10:07 +0000</pubDate>
+      <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
+      <media:thumbnail/>
+
+      <category>category</category>
+
+      <!-- use following element to include all article body elements in appropriate tags. FlatPlan supports all standard HTML tags -->
+      <content:encoded>
+        <![CDATA[
+
+        <h3>image</h3>
+
+        <img src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" data-role="image">
+
+        <h3>photo</h3>
+
+        <img src="https://cdn.theatlantic.com/thumbor/-fDxcopp9Bk7W6ZZPBjSjb8z88k=/0x0:2000x1125/960x540/media/img/mt/2022/02/Atl_open_everything_v1/original.png" data-role="photo">
+
+        <h3>link_button - in a stack</h3>
+
+        <section class="flatplan-stack" data-stack-id="follow-cta"> <section> <h3>Follow The Atlantic</h3> </section> <section> <p><a href="https://apple.news/TF5KrhKaoRAGknswV4_QMtg?subscribe=1" data-role="link_button">follow</a></p> </section> </section>
+
+        <h3>podcast</h3>
+
+        <div class="ArticleLegacyHtml_root__oTAAd ArticleLegacyHtml_paragraph__zU3Yl ArticleLegacyHtml_standard__Qfi5x"><iframe src="https://podcasts.apple.com/us/podcast/the-great-seed-panic-of-2020/id1549704404?i=1000528951009" data-role="podcast"></iframe></div>
+
+      ]]>
+      </content:encoded>
+
+      <!-- @@@ end images @@@ -->
+    </item>
+
+    <item>
+      <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
+      <guid isPermaLink="false">128sdfghhgfghj29s</guid>
+      <!-- must include CDATA wrapper -->
       <title>small tags</title>
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Wed, 09 Feb 2022 09:10:07 +0000</pubDate>
@@ -1010,6 +1048,8 @@
                                             <picture>
                                               <img src="" data-src="https://www.nbcnews.com/specials/four-years-of-capturing-donald-trump/assets/Obl601jeI7/210114-djt-protest-shorthand-jm-03-2000x1334.jpeg" alt="alt"></picture>
                                             </figure>
+
+                                          <h3>figure, img, src w/ no content, data-src</h3>
 
                                             <figure>
 
