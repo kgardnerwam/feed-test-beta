@@ -22,7 +22,7 @@
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Wed, 09 Feb 2022 09:10:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
-      <media:thumbnail/>
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
 
       <category>category</category>
 
@@ -44,7 +44,7 @@
 
         <h3>link_button - in a stack</h3>
 
-        <section class="flatplan-stack" data-stack-id="follow-cta"> <section> <h3>Follow The Atlantic</h3> </section> <section> <p><a href="https://apple.news/TF5KrhKaoRAGknswV4_QMtg?subscribe=1" data-role="link_button">follow</a></p> </section> </section>
+        <section class="flatplan-stack" data-stack-id="follow-cta"> <section> <h3>Follow The Atlantic</h3> </section> <section> <p><button href="https://apple.news/TF5KrhKaoRAGknswV4_QMtg?subscribe=1" data-role="link_button">follow</button></p> </section> </section>
 
         <h3>podcast</h3>
 
@@ -74,7 +74,7 @@
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Wed, 09 Feb 2022 09:10:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
-      <media:thumbnail/>
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
 
       <category>category</category>
 
@@ -103,7 +103,7 @@
       <link>https://www.cannonicalURL/article-slug-example/</link>
       <pubDate>Wed, 09 Feb 2022 09:10:07 +0000</pubDate>
       <!-- this is used for both the article header and the article card. Send the highest resolution available. The minimum size of the image must be 300 px wide x 300 px high -->
-      <media:thumbnail/>
+      <media:thumbnail url="https://media.sproutsocial.com/uploads/2017/02/10x-featured-social-media-image-size.png" caption="caption text for lead image"/>
 
       <category>category</category>
 
