@@ -42,7 +42,7 @@
 
         <img src="https://cdn.theatlantic.com/thumbor/-fDxcopp9Bk7W6ZZPBjSjb8z88k=/0x0:2000x1125/960x540/media/img/mt/2022/02/Atl_open_everything_v1/original.png" data-role="photo">
 
-        <h3>link_button - in a stack</h3>
+        <h3>link_button - in a stack as a button tag</h3>
 
         <section class="flatplan-stack" data-stack-id="follow-cta"> <section> <h3>Follow The Atlantic</h3> </section> <section> <p><button href="https://apple.news/TF5KrhKaoRAGknswV4_QMtg?subscribe=1" data-role="link_button">follow</button></p> </section> </section>
 
