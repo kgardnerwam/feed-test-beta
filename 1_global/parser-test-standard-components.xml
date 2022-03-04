@@ -46,7 +46,13 @@
 
         <div class="ArticleLegacyHtml_root__oTAAd ArticleLegacyHtml_paragraph__zU3Yl ArticleLegacyHtml_standard__Qfi5x"><iframe src="https://podcasts.apple.com/us/podcast/the-great-seed-panic-of-2020/id1549704404?i=1000528951009" data-role="podcast"></iframe></div>
 
-        <p>some text in a p tag <a href="https://apple.news/TF5KrhKaoRAGknswV4_QMtg?subscribe=1">a tag text</a> some more text in the p tag</p>  
+        <h3>podcast in a stack</h3>
+
+        <section class="flatplan-stack" data-stack-id="podcast-in-stack"> <section> <div class="ArticleLegacyHtml_root__oTAAd ArticleLegacyHtml_paragraph__zU3Yl ArticleLegacyHtml_standard__Qfi5x"><iframe src="https://podcasts.apple.com/us/podcast/the-great-seed-panic-of-2020/id1549704404?i=1000528951009" data-role="podcast"></iframe></div></section> </section>
+
+        <h3>normal p and a tag (no data-role)</h3>
+
+        <p>some text in a p tag <a href="https://apple.news/TF5KrhKaoRAGknswV4_QMtg?subscribe=1">a tag text</a> some more text in the p tag</p>
 
 
 
