@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/m.rss/" xmlns:flatplan="https://www.flatplan.io/feedspec/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ReplacePlease</title>
+    <pubDate>Tue, 01 Mar 2022 13:09:26 GMT</pubDate>
+    <lastBuildDate>Tue, 01 Mar 2022 13:09:28 GMT</lastBuildDate>
+    <link>https://ReplacePlease.com/</link>
+    <language>en-US</language>
+    <item>
+      <guid isPermaLink="true">https://vegasmagazine.com/issa-rae-airbnb-la</guid>
+      <title/>
+      <link>https://vegasmagazine.com/issa-rae-airbnb-la</link>
+      <pubDate>Tue, 01 Mar 2022 13:09:28 GMT</pubDate>
+      <media:thumbnail url=""/>
+      <content:encoded>
+        <![CDATA[<p>Article body</p>]]>
+      </content:encoded>
+    </channel>
+  </rss>
