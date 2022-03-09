@@ -15,5 +15,6 @@
       <content:encoded>
         <![CDATA[<p>Article body</p>]]>
       </content:encoded>
-    </channel>
-  </rss>
+    </item>
+  </channel>
+</rss>
