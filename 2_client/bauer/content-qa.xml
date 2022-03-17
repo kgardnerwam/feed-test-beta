@@ -18,7 +18,7 @@
     </item>
     <item>
       <guid isPermaLink="true">https://heatworld.com/hair-beauty/makeup/cruelty-free-fake-tans</guid>
-      <title>embeds via lazy load + affiliate content</title>
+      <title>embeds (instagram) via lazy load + affiliate content</title>
       <link>https://heatworld.com/hair-beauty/makeup/cruelty-free-fake-tans</link>
       <pubDate>Tue, 15 Mar 2022 14:09:28 GMT</pubDate>
       <media:thumbnail url=""/>
@@ -26,5 +26,46 @@
         <![CDATA[<p>Article body</p>]]>
       </content:encoded>
     </item>
+    <item>
+      <guid isPermaLink="true">https://heatworld.com/celebrity/news/love-island-dr-alex-baby/</guid>
+      <title>embeds (instagram) via lazy load + gallery</title>
+      <link>https://heatworld.com/celebrity/news/love-island-dr-alex-baby/</link>
+      <pubDate>Tue, 15 Mar 2022 14:09:28 GMT</pubDate>
+      <media:thumbnail url=""/>
+      <content:encoded>
+        <![CDATA[<p>Article body</p>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://heatworld.com/celebrity/news/chloe-ferry-wayne-lineker-friends-benefits/</guid>
+      <title>embeds (instagram) via lazy load + gallery + youtube</title>
+      <link>https://heatworld.com/celebrity/news/chloe-ferry-wayne-lineker-friends-benefits/</link>
+      <pubDate>Tue, 15 Mar 2022 14:09:28 GMT</pubDate>
+      <media:thumbnail url=""/>
+      <content:encoded>
+        <![CDATA[<p>Article body</p>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://heatworld.com/celebrity/news/brooklyn-beckham-girlfriend/</guid>
+      <title>multiple embeds (instagram) via lazy load + youtube</title>
+      <link>https://heatworld.com/celebrity/news/brooklyn-beckham-girlfriend/</link>
+      <pubDate>Tue, 15 Mar 2022 14:09:28 GMT</pubDate>
+      <media:thumbnail url=""/>
+      <content:encoded>
+        <![CDATA[<p>Article body</p>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="true">https://heatworld.com/entertainment/tv-movies/which-married-at-first-sight-australia-couples-still-together/</guid>
+      <title>inline gallery</title>
+      <link>https://heatworld.com/entertainment/tv-movies/which-married-at-first-sight-australia-couples-still-together/</link>
+      <pubDate>Tue, 15 Mar 2022 14:09:28 GMT</pubDate>
+      <media:thumbnail url=""/>
+      <content:encoded>
+        <![CDATA[<p>Article body</p>]]>
+      </content:encoded>
+    </item>
+
   </channel>
 </rss>
