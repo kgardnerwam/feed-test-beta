@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:flatplan="https://www.wearemathematics.co.uk/flatplan-feedspec/">
+  <channel>
+    <atom:link rel="self" type="application/rss+xml" href="https://syndication-service.mmsport.minutesvc.com/feed/01fxqhr1566dak"></atom:link>
+    <description></description>
+    <title>Mentalfloss</title>
+    <link>https://www.mentalfloss.com</link>
+    <item>
+      <title>The National Gallery of Art’s New Game—Artle—Is Basically Wordle for Art Lovers</title>
+      <link>https://www.mentalfloss.com/posts/artle-national-gallery-wordle-for-art-game</link>
+      <author>Ellen Gutoskey</author>
+      <guid isPermaLink="false">01g36w9vjnx4</guid>
+      <description>Games like Wordle continue to proliferate—and thanks to the National Gallery of Art, art lovers now have an ‘-le’ of their own.</description>
+      <pubDate>Tue, 17 May 2022 13:00:00 +0000</pubDate>
+      <media:thumbnail
+        url="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01g36xh3nc1x5nvyh4wd.jpg"
+        caption="&#39;The Boating Party&#39; by Mary Cassatt, circa 1893-1894. | (Painting) National Gallery of Art, Wikimedia Commons // Public Domain; (Background) Qweek/iStock via Getty Images; (Hand and Phone) &#x9;Mutlu Kurtbas/iStock via Getty Images"
+        alt="hand holding phone showing mary cassatt&#39;s &#39;the boating party&#39; painting"></media:thumbnail>
+      <media:content url="https://images2.minutemediacdn.com/image/upload/c_crop,w_1920,h_1080,x_0,y_0/c_fill,w_912,ar_16:9,f_auto,q_auto,g_auto/images/voltaxMediaLibrary/mmsport/mentalfloss/01g36xh3nc1x5nvyh4wd.jpg">
+        <media:description>&#39;The Boating Party&#39; by Mary Cassatt, circa 1893-1894.</media:description>
+        <media:text>hand holding phone showing mary cassatt&#39;s &#39;the boating party&#39; painting</media:text>
+        <media:credit>(Painting) National Gallery of Art, Wikimedia Commons // Public Domain; (Background) Qweek/iStock via Getty Images; (Hand and Phone) &#x9;Mutlu Kurtbas/iStock via Getty Images</media:credit>
+        <media:copyright url="https://commons.wikimedia.org/wiki/File:Mary_Cassatt_-_The_Boating_Party_-_Google_Art_Project.jpg">Wikimedia Commons</media:copyright>
+      </media:content>
+      <flatplan:sponsor></flatplan:sponsor>
+      <keywords>artist,art,game,fun,words,news</keywords>
+      <content:encoded>
+        <![CDATA[<p>You don’t necessarily have to be a <a href="https://www.mentalfloss.com/section/words">word</a> lover in order to appreciate <a href="https://www.mentalfloss.com/article/654650/why-people-love-wordle">Wordle</a>. Maybe you’re a powerhouse at <a href="https://www.mentalfloss.com/article/654304/wordle-tips-secrets">strategizing</a> and like to experiment with different <a href="https://www.mentalfloss.com/posts/best-wordle-opening-words">opening words</a>, or a competitive-minded player whose favorite part is <a href="https://www.mentalfloss.com/posts/wordlebot-wordle-companion">comparing scores</a> with your friends. Perhaps you just enjoy the rush of success that comes from seeing a row of solid green tiles.</p><p>But if you aren’t a word lover, you might find yourself on the hunt for a Wordle-esque guessing game based on whatever you are passionate (or just knowledgeable) about. Luckily, they’re not hard to find: There’s <a href="https://www.heardle.app/" target="_blank">Heardle</a> for music fans; <a href="https://nerdlegame.com/" target="_blank">Nerdle</a> and <a href="https://numberle.org/" target="_blank">Numberle</a> for math fans; and <a href="https://worldle.teuteuf.fr/" target="_blank">Worldle</a> for geography buffs. There’s even <a href="https://digitaltolkien.github.io/vue-wordle/" target="_blank">Lordle of the Rings</a>, where players must guess a five-letter word that appears in <a href="https://www.mentalfloss.com/article/59736/10-things-you-might-not-know-about-jrr-tolkien">J.R.R. Tolkien’s <em>Lord of the Rings</em> trilogy</a>.</p><p>And now, as <a href="https://www.smithsonianmag.com/smart-news/new-daily-game-like-wordle-for-art-180980083/" target="_blank"><em>Smithsonian</em> magazine<em> </em>reports</a>, art aficionados finally have an <em>-le</em> of their own: <a href="https://www.nga.gov/artle.html" target="_blank">Artle</a>, developed by the National Gallery of Art. Basically, you’re shown one of the gallery’s approximately 150,000 <a href="https://www.mentalfloss.com/article/58387/15-things-you-didnt-know-about-famous-art">artworks</a> and you have to guess the <a href="https://www.mentalfloss.com/section/artist">artist</a> behind it. If you’re wrong, you’ll be shown another piece by that creator—a process repeated until you’ve exhausted all four guesses. Don’t worry about spelling errors: The guess box is actually a dropdown menu of all the artists, so as long as you can correctly type in a few successive letters of an artist’s name, it should pop up. Type in <em>mus</em>, for example, and you’ll get <a href="https://www.mentalfloss.com/article/83945/8-bizarre-facts-about-hieronymous-bosch">Hieronymus Bosch</a>, Paul Cadmus, Master of St. Erasmus, and a number of other monikers containing those letters.</p><p>For art historians and other experts in the field, Artle is an entertaining way to flex their skills. For everyone else, it’s a nice daily dose of <a href="https://www.mentalfloss.com/section/art">art</a> with an interactive element tacked on—and according to Steven Garbarino, the museum&#39;s senior product manager, that was the intention behind its creation. As he told <em>Smithsonian</em>, Artle was made to “[help] the public discover art while having fun.” You can try it for yourself <a href="https://www.nga.gov/artle.html" target="_blank">here</a>.</p><p><em>[h/t </em><a href="https://www.smithsonianmag.com/smart-news/new-daily-game-like-wordle-for-art-180980083/" target="_blank"><em>Smithsonian</em></a><em>]</em></p><br><p>This article was originally published on mentalfloss.com as <a href="https://www.mentalfloss.com/posts/artle-national-gallery-wordle-for-art-game?utm_source=RSS">The National Gallery of Art’s New Game—Artle—Is Basically Wordle for Art Lovers</a>. </p>]]>
+      </content:encoded>
+    </item>
+
+  </channel>
+</rss>
