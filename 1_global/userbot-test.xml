@@ -36,11 +36,11 @@
         <p>image 1</p>
 
 
-        <figure><img src="https://staging.flatplan.app/images/{image_name}.jpg"> <figcaption>"image caption text"</figcaption></figure>
+        <figure><img src="https://staging.flatplan.app/images/logo.png"> <figcaption>"image caption text"</figcaption></figure>
 
         <p>image 2</p>
 
-        <figure><img src="https://staging.flatplan.app/images/{image_name}.jpg"> <figcaption>"image caption text"</figcaption></figure>
+        <figure><img src="https://staging.flatplan.app/images/mag-cover.png"> <figcaption>"image caption text"</figcaption></figure>
 
 
         ]]>
