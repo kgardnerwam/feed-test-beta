@@ -1,29 +1,404 @@
-<rss xmlns:media="http://search.yahoo.com/m.rss/" xmlns:flatplan="https://www.flatplan.io/feedspec/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/m.rss/" xmlns:flatplan="https://www.flatplan.io/feedspec/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Indy100</title>
     <pubDate>Wed, 15 Jun 2022 10:56:51 GMT</pubDate>
-    <lastBuildDate>Wed, 15 Jun 2022 10:56:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jun 2022 11:01:26 GMT</lastBuildDate>
     <link>https://www.indy100.com/</link>
     <language>en-gb</language>
     <item>
-      <guid isPermaLink="false">2657511265</guid>
+      <guid isPermaLink="false">2657482008</guid>
       <title>
-        <![CDATA[ Giant bluefin tuna worth thousands dwarfs Edinburgh fishmonger ]]>
+        <![CDATA[Zero emissions hydrofoil ‘flying’ workboat launched]]>
       </title>
       <description>
-        <![CDATA[ A fishmonger has taken delivery of this mammoth catch – a 7ft bluefin tuna tipping the scales at a whopping 150kg which is worth thousands.Campbell Mickel, 51, got the rare fish today (June 15) after buying it from traders in Barcelona on Friday - and said he was so excited he couldn't sleep.It arri... ]]>
+        <![CDATA[The vessel was designed and built in Belfast by maritime innovators Artemis Technologies.]]>
       </description>
-      <dc:creator>James Rushton</dc:creator>
+      <dc:creator>David Young</dc:creator>
+      <flatplan:author name="David Young"/>
+      <link>https://www.indy100.com/news/zero-emissions-hydrofoil-flying-workboat-launched</link>
+      <pubDate>2022-06-15T11:00:41+00:00</pubDate>
+      <media:thumbnail
+        url="https://www.indy100.com/media-library/the-artemis-technologies-workboat-artemis-technologies-pa.jpg?id=29958587&amp;width=1200&amp;coordinates=0%2C440%2C0%2C441&amp;height=600"
+        caption="The Artemis Technologies workboat (Artemis Technologies/PA) / "/>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<div class="body-description"><p>Maritime engineers have launched a &#x201C;world first&#x201D; commercially viable workboat that &#x201C;flies&#x201D; above the water using electric-powered hydrofoils.</p><p>The eco-friendly vessels deploy the same foiling technology used by America&#x2019;s Cup racing yachts, with hydrofoil wings attached to the hull with vertical struts.</p><p>Much like a plane taking off on a runway, the underwater wings drive the workboat up and out of the water as it picks up speed.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/news/island-of-ireland-basks-in-spring-sunshine">Island of Ireland basks in spring sunshine</a></p><p><a href="https://www.indy100.com/news/jude-hill-brands-siblings-copycats-in-adorable-cca-acceptance-speech">Jude Hill brands siblings &#x2018;copycats&#x2019; in adorable CCA acceptance speech</a></p><p><a href="https://www.indy100.com/news/polar-preet-aims-to-inspire-next-generation-of-adventurers">&#x2018;Polar Preet&#x2019; aims to inspire next generation of adventurers</a></p>
+                                    </section>
+                                </section><p>That enables the craft to travel almost silently with its hull raised above the waves &#x2013; thus reducing drag, and operating costs, dramatically.</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img alt class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="7545dd07b990b341cc25d127c5470d5e" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/artemis-technologies-founder-iain-percy-artemis-technologies-pa.jpg?id=29958589&amp;width=980" height="4307" id="2ea02" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 6460 4307&apos;%3E%3C/svg%3E" width="6460"><figcaption>Artemis Technologies founder Iain Percy (Artemis Technologies/PA)</figcaption></p><p>The company behind the new zero emissions vessel, Artemis Technologies, is based in Belfast and headed by Olympic sailing champion Iain Percy.</p><p>The 10-tonne vessels, which can carry 12 passengers, have a top speed of 34 knots and a range of 60 nautical miles.</p><p>Designed for use as workboats or to ferry crew members on to large ships, they can be recharged in one hour and Artemis says its eFoiler propulsion system produces an energy saving of 90% on comparable vessels powered by fossil fuels.</p><p>The workboat is the result of a &#xA3;12 million research and development initiative.</p><p>Artemis says it is the first of its kind available in the commercial market.</p><p>The company currently employs 60 people and has plans to create 1,000 jobs in the next decade as it further develops its range of green transport solutions.</p><p>Artemis Technologies is a spin-off of the Artemis Racing team that competed in the America&#x2019;s Cup.</p><p>Double Olympic champion Mr Percy is a four-time America&#x2019;s Cup veteran.</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img alt class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="0ceb26600048f9d142d8eaf879c83574" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/the-new-artemis-technologies-workboat-foiling-in-belfast-harbour-artemis-technologies-pa.jpg?id=29958590&amp;width=980" height="4423" id="9b2f6" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 6634 4423&apos;%3E%3C/svg%3E" width="6634"><figcaption>The new Artemis Technologies workboat foiling in Belfast harbour (Artemis Technologies/PA)</figcaption></p><p>&#x201C;Combining our experience from the worlds of high-performance sailing, motorsports and advanced manufacturing, the electric propulsion system that we&#x2019;ve designed and developed is an absolute game changer for the industry in terms of range, costs savings and minimal wake created,&#x201D; said Southampton-born Mr Percy.</p><p>&#x201C;The ride comfort of a hydrofoiling vessel through a large seaway has to be experienced to be believed, offering a completely smooth journey whatever the sea state.</p><p>&#x201C;This will allow engineers in crew transfer vessels or port operations to get to their destination and deliver their services without discomfort.</p><p>&#x201C;This is only the beginning. As our vessels transform the commercial workboat and city-to-city passenger ferry sectors over the coming years, Belfast and the UK will be at the forefront, creating thousands of jobs across the supply chain and heralding a green shipbuilding revolution.</p><p>&#x201C;With the global small boat market worth 70 billion dollars, we are immensely proud to launch our first range of zero-emission vessels for the workboat sector, from which we have already received significant pre-market interest.</p><p>&#x201C;This is a hugely significant milestone not only for us but in global decarbonisation efforts, with the International Maritime Organisation requiring emissions to be halved by 2050.&#x201D;</p><p>Maritime UK, an industry umbrella body, welcomed the innovation development.</p><blockquote><p>As an island nation, maritime surrounds all of us, and its impact is felt in every community across the UK</p><cite>Sarah Kenny, Maritime UK</cite></blockquote><p>Chairwoman Sarah Kenny said: &#x201C;As an island nation, maritime surrounds all of us, and its impact is felt in every community across the UK.</p><p>&#x201C;We saw that during the pandemic, through the provision of vital supplies, and we are seeing it now as we bounce back. With maritime driving the net zero agenda and providing skilled jobs in all corners of the country.</p><p>&#x201C;Artemis Technologies&#x2019; launch today shows our heritage as maritime pioneers will continue long into the future. But continued collaboration with government, and investment, will be the key to realising our full potential.&#x201D;</p><p>Secretary of State for Northern Ireland Brandon Lewis said Artemis was making a &#x201C;positive contribution&#x201D; to the UK&#x2019;s efforts to cut emissions.</p><p>&#x201C;The talent and expertise at Artemis Technologies is leading the way in maritime decarbonisation and playing an important role in helping Northern Ireland and the UK reach our net zero targets,&#x201D; he said.</p><p>&#x201C;Artemis is making a positive contribution to the UK&#x2019;s economy, supporting innovation and job growth through the development of zero-emission technology.</p><p>&#x201C;I am delighted that such amazing technology has been developed in Northern Ireland and to have been able to see the eFoiler technology up close during a recent showcase in Belfast.</p><p>&#x201C;The launch of this range of green vessels by Artemis Technologies is a truly positive step in the fight against climate change.&#x201D;</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657237499</guid>
+      <title>
+        <![CDATA[Glasgow’s OVO Hydro becomes first arena in world to achieve special green status]]>
+      </title>
+      <description>
+        <![CDATA[The venue has been recognised for its commitment to sustainability by the A Greener Festival organisation.]]>
+      </description>
+      <dc:creator>Katrine Bussey</dc:creator>
+      <flatplan:author name="Katrine Bussey"/>
+      <link>https://www.indy100.com/news/glasgows-ovo-hydro-becomes-first-arena-in-world-to-achieve-special-green-status</link>
+      <pubDate>2022-06-15T11:00:32+00:00</pubDate>
+      <media:thumbnail
+        url="https://www.indy100.com/media-library/the-ovo-hyrdo-in-glasgow-is-the-first-arena-in-the-world-to-be-recognised-for-its-commitment-to-sustainability-scottish-events-campus-pa.jpg?id=29740826&amp;width=1200&amp;coordinates=0%2C456%2C0%2C456&amp;height=600"
+        caption="The OVO Hyrdo in Glasgow is the first arena in the world to be recognised for its commitment to sustainability (Scottish Events Campus/PA) / "/>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<div class="body-description"><p>A Scottish concert venue has become the first arena in the world to be recognised for its efforts to become more sustainable.</p><p>The OVO Hydro, part of the Scottish Event Campus&#xA0;(SEC) in Glasgow, has just been awarded A Greener Arena (AGA) certification.</p><p>The award recognises the venue&#x2019;s commitment to tackling environmental issues, such as emissions, but also its work on issues around&#xA0; staff wellbeing.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/news/flying-frenchman-smashes-bungee-jump-record-off-scottish-bridge">Flying Frenchman smashes bungee jump record off Scottish bridge</a></p><p><a href="https://www.indy100.com/news/frenchman-hopes-stars-are-aligned-as-he-bids-to-break-bungee-jumps-record">Frenchman hopes &#x2018;stars are aligned&#x2019; as he bids to break bungee jumps record</a></p><p><a href="https://www.indy100.com/news/scottish-islands-families-50k-uk">Scottish islands offering &#xA3;50k to families that move there</a></p>
+                                    </section>
+                                </section><p>The Hydro was praised for making the switch to use 100% renewable electricity, as well eliminating the use of single use, plastic cups at live events.</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img alt class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="80b3fc30deaadc1efb269125403e5950" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/the-arena-is-part-of-the-scottish-events-campus-in-glasgow-jane-barlow-pa.jpg?id=29740827&amp;width=980" height="1754" id="6fe3f" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 3000 1754&apos;%3E%3C/svg%3E" width="3000"><figcaption>The arena is part of the Scottish Events Campus in Glasgow (Jane Barlow/PA)</figcaption></p><p>It has also introduced a campus-wide sustainable food strategy, which sees at least 80% of ingredients sourced in Scotland combined with a commitment to cut food waste, and is expanding charging points for electric vehicles.</p><p>The award was presented at the Green Events and Innovations Conference in London by A Greener Festival (AGF) &#x2013; a not for profit company committed to helping events, festivals and venues around the world reduce their environmental impact.</p><p>SEC bosses said the Hydro being the first arena in the world to be given the award was a &#x201C;huge achievement&#x201D;.</p><p>Debbie McWilliams, director of live entertainment at SEC, stated: &#x201C;More than ever we are focused on the impact our business has on the planet and are proud to be awarded A Greener Arena certification.</p><blockquote><p>We&#x2019;re delighted for the team at the OVO Hydro, and we hope that this leads the way for more arenas to get involved in the process</p><cite>Claire O&#x2019;Neill, co-founder, A Greener Festival</cite></blockquote><p>&#x201C;Receiving such an accolade is further proof of our commitment to delivering a greener future for our events.</p><p>&#x201C;Being the first arena in the world to accomplish this is a huge achievement and we hope this paves the way for others to follow.</p><p>&#x201C;It is a significant milestone on our journey towards net zero by 2030, and a real credit to the team who work so passionately on implementing our sustainability strategy.&#x201D;</p><p>James Watts, head of PR and Sponsorships at OVO Energy said: &#x201C;We&#x2019;re proud to work with partners who support our commitment to drive progress to zero-carbon living.</p><p>&#x201C;By becoming the world&#x2019;s first arena to achieve the A Greener Arena certification, the OVO Hydro is sending a clear signal to the industry that lower-impact live events are possible.</p><p>&#x201C;We will continue to support the OVO Hydro to further reduce its carbon footprint, so fans and artists alike can perform in a venue that&#x2019;s supporting our collective goal &#x2013; saving the planet.&#x201D;</p><p>Claire O&#x2019;Neill, co-founder of AGF, said since the organisation was launched in 2007 it had assessed more than&#xA0;1,000 events, tours and venues across five continents, &#x201C;providing the first and only sustainable event certification&#x201D;.</p><p>She added: &#x201C;We&#x2019;re delighted for the team at the OVO Hydro, and we hope that this leads the way for more arenas to get involved in the process.&#x201D;</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511842</guid>
+      <title>
+        <![CDATA[Man wears own trash for a month to show how much waste we create]]>
+      </title>
+      <description>
+        <![CDATA[A climate activist has been walking around wearing his own trash for a month to show how much waste one person creates.Rob Greenfield has been documenting life with clear trash bags taped to him, to make people think differently about throwing out.After 12 days, his homemade suit weighed almost 28kg...]]>
+      </description>
+      <dc:creator>Sophie Thompson</dc:creator>
       <flatplan:author
-        name="James Rushton"
-        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTg1NTU5NC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY5OTY1MjgxMH0.rgUDBfnLi3_hXDd3PiJ7LJqBE67RvwIbtOR8sgjj1EY/image.png"/>
+        name="Sophie Thompson"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTY2MTk1MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1NzY3NzMyM30.hfYWlNjIuMdaKfCwekLAmOb97T5W2Pip1bM5X1pcLDg/image.png"/>
       <flatplan:template identifier="video-author"/>
-      <link>https://www.indy100.com/viral/bluefin-tuna-record-size-edinburgh</link>
-      <pubDate>2022-06-15T08:40:18+00:00</pubDate>
-      <media:thumbnail url="https://www.indy100.com/media-library/monster-yellowfin-tuna.jpg?id=29978787&width=1200&coordinates=0%2C0%2C0%2C80&height=600" caption="Monster Yellowfin Tuna!! / www.youtube.com"/>
+      <link>https://www.indy100.com/lifestyle/rob-greenfield-wears-trash-waste</link>
+      <pubDate>2022-06-15T10:31:11+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/man-wears-own-trash-for-a-month-in-a-bid-to-promote.jpg?id=29979020&amp;width=1200&amp;coordinates=0%2C0%2C0%2C120&amp;height=600" caption=" / "/>
+      <category>Lifestyle</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/Mv8vTBh6-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p> / </p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>A climate activist has been walking around wearing his own trash for a month to show how much waste one person creates.</p><p>Rob Greenfield has been documenting life with clear trash bags taped to him, to make people think differently about throwing out.</p><p>After 12 days, his homemade suit weighed almost 28kg.</p><p>&#x201C;It was about day 12 that I started to really feel the burden of consumerism,&#x201D; he admits. &#x201C;For most people, trash is out of sight, out of mind &#x2013; we throw it away and we never think about it again.&quot;</p><p><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=newsletters&amp;itm_content=video-articles" rel="noopener noreferrer" target="_blank">Click here</a> to sign up to our newsletters.</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511550</guid>
+      <title>
+        <![CDATA[Boomers think Netflix and takeaways are to blame for young people struggling to buy homes]]>
+      </title>
+      <description>
+        <![CDATA[Boomers are back at it again with the brilliant life advice - are you taking notes?A new study by researchers at King’s College London has found that more than half of baby boomers think "luxury" lifestyle choices like getting takeaways and watching Netflix are to blame for young people struggling t...]]>
+      </description>
+      <dc:creator>Kate Plummer</dc:creator>
+      <flatplan:author
+        name="Kate Plummer"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yODgxMzk3Ny9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY3MjQxNTI4M30.MiMOS3eGfWyc48CRdWKfDz2zGHCakngz-kU4JkTcv7g/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/news/boomers-netflix-takeaways-homes</link>
+      <pubDate>2022-06-15T10:31:09+00:00</pubDate>
+      <media:thumbnail
+        url="https://www.indy100.com/media-library/the-revolution-generation-millennials-versus-boomers.jpg?id=28049314&amp;width=1200&amp;coordinates=0%2C0%2C0%2C0&amp;height=600"
+        caption="The Revolution Generation: Millennials Versus Boomers / Indy"/>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/idSw8HOm-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p>The Revolution Generation: Millennials Versus Boomers / Indy</p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>Boomers are back at it again with the brilliant life advice - are you taking notes?</p><p>A <a href="https://www.kcl.ac.uk/policy-institute/assets/housing-hard-work-and-identity-generational-experiences-and-attitudes.pdf" target="_blank">new study</a> by researchers at King&#x2019;s College London has found that more than half of baby boomers think &quot;luxury&quot; lifestyle choices like getting takeaways and watching Netflix are to blame for young people struggling to get on the housing ladder. <em>Give us strength...</em></p><p>The study also suggests that 48 per cent of millennials believe that young people are too careless with their money when trying to save, just below the 52 per cent of baby boomers with the same view.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/news/netflix-employees-quit-harmful-content">Netflix memo tells employees to quit if shows are &quot;harmful&quot; to them</a></p><p><a href="https://www.indy100.com/news/boris-johnson-car-crash-house">Car crashes into Boris Johnson&#x2019;s &#xA3;1.3m south London townhouse</a></p><p><a href="https://www.indy100.com/news/netflix-nuclear-documentary-rotten-tomatoes">This new Netflix documentary already has 100% rating on Rotten Tomatoes</a></p>
+                                    </section>
+                                </section><p>The study comes while housing is... not great. According to the UK <a href="https://www.kcl.ac.uk/policy-institute/assets/housing-hard-work-and-identity-generational-experiences-and-attitudes.pdf" target="_blank">study</a>, only a quarter of people aged 25 to 34 own their own home. That&apos;s down from two thirds of people in 1995.</p><p><strong><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=footer&amp;itm_audience=prospecting&amp;itm_content=newsletters" target="_blank">Sign up</a> to our new free Indy100 weekly newsletter</strong></p><p>Houses are not cheap and, comparatively, Netflix is so why that is touted as a factor who knows. But at least they had one foot in reality and according to the <a href="https://www.kcl.ac.uk/policy-institute/assets/housing-hard-work-and-identity-generational-experiences-and-attitudes.pdf" target="_blank">research</a>, 76 per cent of people think buying a home is harder for young adults today.</p><p>Director of the Policy Institute at King&#x2019;s College London, Bobby Duffy, said the solutions offered up by baby boomers were &quot;minor factors&quot; compared to the &quot;huge increases in house prices and required deposits&quot;</p><p>&quot;The suggestion that the huge challenges young people face in buying their own home can be solved by skipping fancy coffees and Netflix entirely misses the point, but it&#x2019;s still believed by half the public,&quot; he said, according to <a href="https://www.thetimes.co.uk/article/baby-boomers-say-struggling-young-should-cut-netflix-8pzg372dx" target="_blank"><em>The Times</em></a><u><em>.</em></u></p><p><span></span>&quot;It also reflects our general tendency to think bad of today&#x2019;s young people. Throughout history people always think the current youth are the worst ever.&quot;</p><p><span></span>No s**t.</p><p><strong><em>Have your say in our news democracy. Click the </em></strong><strong><em>upvote icon at the top of the page to help raise this article through the indy100 rankings.</em></strong></p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511514</guid>
+      <title>
+        <![CDATA[China claims it has spotted signs of alien civilisations]]>
+      </title>
+      <description>
+        <![CDATA[It’s been a big week in the UFO world, and now China has claimed it has spotted signs of alien civilisations.
+It comes after NASA announced it is making a team to study unidentified aerial phenomena (UAPs), while Russia has also stepped up its investigations into UFOs after pilots reported sightings...]]>
+      </description>
+      <dc:creator>Harry Fletcher</dc:creator>
+      <flatplan:author
+        name="Harry Fletcher"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTI0Mjg2OC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTcwMzMwNTk3NX0.li1WR4WKNajKsYN5m3TO2aOSGIk927m6vg0vTOAQjwo/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/science-tech/china-signs-alien-civilisations</link>
+      <pubDate>2022-06-15T10:22:57+00:00</pubDate>
+      <media:thumbnail
+        url="https://www.indy100.com/media-library/british-astronaut-tim-peake-claims-aliens-and-time-travellers-could-be-behind.jpg?id=29978911&amp;width=1200&amp;coordinates=0%2C210%2C0%2C210&amp;height=600"
+        caption="British astronaut Tim Peake claims aliens and time travellers could be behind ... / IndyTV"/>
+      <category>Science &amp; Tech</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/KVz6cKuq-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p>British astronaut Tim Peake claims aliens and time travellers could be behind ... / IndyTV</p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>It&#x2019;s been a big week in the UFO world, and now China has claimed it has spotted signs of alien civilisations.</p><p>It comes after NASA announced it is making a team to <a href="https://www.indy100.com/science-tech/nasa-confirms-ufo-action" target="_self">study unidentified aerial phenomena</a> (UAPs), while Russia has also stepped up its <a href="https://www.indy100.com/science-tech/russia-ufo-sighting-research-pilot" target="_self">investigations into UFOs</a> after pilots reported sightings after test flights.</p><p>Now, China has said that its Sky Eye telescope might well have picked up signs of alien activity, <a href="https://www.bloomberg.com/news/articles/2022-06-15/china-says-it-may-have-detected-signals-from-alien-civilizations" rel="noopener noreferrer" target="_blank"><em>Bloomberg</em></a> reports.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/science-tech/astronomer-robots-have-replaced-aliens">Astronomer claims robots have replaced aliens and humans are next</a></p><p><a href="https://www.indy100.com/science-tech/aliens-live-among-us-2657507995">Aliens are among us and abducting people from earth, professor says</a></p><p><a href="https://www.indy100.com/science-tech/russia-ufo-sighting-research-pilot">Russia ramps up UFO research after pilot sightings</a></p>
+                                    </section>
+                                </section><p>The report is somewhat shrouded in mystery, after state-backed Science and Technology Daily published it before subsequently deleting it again.</p><p><strong><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=footer&amp;itm_audience=prospecting&amp;itm_content=newsletters" rel="noopener noreferrer" target="_blank">Sign up</a> to our free Indy100 weekly newsletter</strong></p><p>But it hasn&#x2019;t stopped people speculating on social network Weibo over the findings, which revolve around narrow-band electromagnetic signals detected by Sky Eye.</p><p>Those cited in the report include Zhang Tonjie, who is chief scientist of an extraterrestrial civilization search team founded by Beijing Normal University, the National Astronomical Observatory of the Chinese Academy of Sciences and the University of California, Berkeley. </p><p>An explanation as to why the report was later deleted has yet been announced.</p><p class="shortcode-media shortcode-media-youtube"><span class="rm-shortcode" data-rm-shortcode-id="e45cd3967e108a8c8f5024440a0bbab8" style="display:block;position:relative;padding-top:56.25%;"><iframe frameborder="0" height="auto" type="lazy-iframe" scrolling="no" data-runner-src="https://www.youtube.com/embed/YnCTsOXO_ZY?rel=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" width="100%"></iframe></span><figcaption>China Sky Eye: world&apos;s largest single dish radio telescope / www.youtube.com</figcaption></p><p>However, the original findings focus on findings from Sky Eye, the largest radio telescope in the world, which began a search for alien life in September 2020.</p><p>As the report attested, there were suspicious signals detected in 2020, as well as another one in 2022 &#x2013; which was discovered when data from exoplanet targets was being investigated.</p><p>The true cause and meaning of the signals have yet to be publicly revealed. However, as Zhang reports to have said, the Sky Eye is crucial in the search for alien life in the universe.</p><p>It could all be some form of radio interference, mind, but we like the idea about indicating alien life more. </p><p>It comes after the head of Russia&apos;s Roscosmos space agency, Dmitry Rogozin, announced that it is to <a href="https://www.indy100.com/science-tech/russia-ufo-sighting-research-pilot" target="_blank">conduct studies into UFO</a> reports based on accounts provided by pilots.</p><p>Speaking to the Rossiya-24 news channel, Rogozin said (translated from Russian to English) that the majority of reports were later explained as &#x201C;atmospheric and other physical phenomena&#x201D; but he didn&#x2019;t rule out the possibility that &#x201C;we might be a subject to some external observation&#x201D;.</p><p><strong><em>H</em><em>ave your say in our news democracy. Click the upvote icon at the top of the page to help raise this article through the indy100 rankings.</em></strong></p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657509610</guid>
+      <title>
+        <![CDATA[Dame Emma Thompson congratulates Scottish school in running for global award]]>
+      </title>
+      <description>
+        <![CDATA[The actress has a long standing affiliation with Dunoon in Argyll and Bute where Dunoon Grammar is shortlisted for an international award.]]>
+      </description>
+      <dc:creator>Lauren Gilmour</dc:creator>
+      <flatplan:author name="Lauren Gilmour"/>
+      <link>https://www.indy100.com/news/dame-emma-thompson-congratulates-scottish-school-in-running-for-global-award</link>
+      <pubDate>2022-06-15T10:00:45+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/emma-thompson-ian-west-pa.jpg?id=29977717&amp;width=1200&amp;coordinates=0%2C1533%2C0%2C1533&amp;height=600" caption="Emma Thompson (Ian West/PA) / PA Archive/PA Images - Ian West"/>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<div class="body-description"><p>A school in the running to be crowned the world&#x2019;s best has received a message from an A-list celebrity.</p><p>Actress and screenwriter Dame Emma Thompson has congratulated staff and pupils at Dunoon Grammar in Argyll and Bute for reaching the final 10 of the T4 Education World&#x2019;s Best Schools Award for community collaboration.</p><p>In a video to the school, Dame Emma said the news was &#x201C;amazing&#x201D; and added: &#x201C;I&#x2019;m here to congratulate you so, so much on this extraordinary global award category that you&#x2019;re in, &#x2018;Community Collaboration in the World&#x2019;s Best Schools Awards&#x2019;.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/news/amber-heard-nbc-interview-brats">Amber Heard admits she and Depp might look like &#x2018;Hollywood brats&#x2019;</a></p><p><a href="https://www.indy100.com/news/carole-middleton-ascot-dress-kate">Kate Middleton&apos;s mum just borrowed her dress for Royal Ascot</a></p><p><a href="https://www.indy100.com/news/fox-news-transgender-story-gorka">Former Trump aide bashes Fox News for covering a trans story</a></p>
+                                    </section>
+                                </section><p>&#x201C;It means that all you wonderful young people have been going out nationally, internationally and locally, and sharing your skills, learning and giving. It is an amazing initiative to be part of.</p><p><span class="rm-shortcode" data-rm-shortcode-id="190a8afc07942cf1a233d689f48c8d6b" style="display:block;position:relative;padding-top:56.25%;"><iframe frameborder="0" height="auto" type="lazy-iframe" scrolling="no" data-runner-src="https://www.youtube.com/embed/dyqe3kmpdOA?rel=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" width="100%"></iframe></span></p><p>&#x201C;You are all so extraordinary and I cannot wait to hear about the outcome later in the year. Good luck, congratulations, well done and lots of love.&#x201D;</p><p>Dame Emma has a long standing affiliation with Dunoon and had planned to visit the school to hear the announcement, but prior work commitments meant this was not possible. Her husband, actor Greg Wise, attended in her place.</p><p>David Mitchell, headteacher at Dunoon Grammar, said it was a &#x201C;true honour&#x201D; to have the couple&#x2019;s support.</p><p>He added: &#x201C;Dame Emma is a long-time friend and supporter of the school so it means a lot to everyone that she has kindly taken time out from her busy schedule to send us this lovely video.</p><p>&#x201C;Being shortlisted for the World&#x2019;s Best School is obviously an amazing achievement for us, so it is great to see it acknowledged by two globally recognised actors.</p><p>&#x201C;Greg is also a great friend and supporter of Dunoon Grammar, so it was a true honour to have him in attendance at the school when we announced the news to staff and pupils.</p><p>&#x201C;I really appreciate the efforts that both Dame Emma and Greg have gone to and would like to sincerely, thank them for their best wishes. It means a lot.&#x201D;</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657509608</guid>
+      <title>
+        <![CDATA[Geri Horner to receive honorary doctorate for her philanthropic work]]>
+      </title>
+      <description>
+        <![CDATA[The former Spice Girls singer will collect her award at a degree ceremony in November.]]>
+      </description>
+      <dc:creator>Alex Green</dc:creator>
+      <flatplan:author name="Alex Green"/>
+      <link>https://www.indy100.com/news/geri-horner-to-receive-honorary-doctorate-for-her-philanthropic-work</link>
+      <pubDate>2022-06-15T10:00:43+00:00</pubDate>
+      <media:thumbnail
+        url="https://www.indy100.com/media-library/geri-horner-has-received-an-honorary-doctorate-from-sheffield-hallam-university-steven-paston-pa.jpg?id=29977714&amp;width=1200&amp;coordinates=0%2C468%2C0%2C469&amp;height=600"
+        caption="Geri Horner has received an honorary doctorate from Sheffield Hallam University (Steven Paston/PA) / PA Archive/PA Images - Steven Paston"/>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<div class="body-description"><p>Spice Girls star Geri Horner will receive an honorary doctorate award from Sheffield Hallam University for her work championing children, young people and women&#x2019;s rights.</p><p>The 49-year-old singer, known to fans as Ginger Spice, said it was a &#x201C;great privilege&#x201D; to be honoured and described education as a &#x201C;superpower&#x201D;.</p><p>She will collect her award at a degree ceremony during Sheffield Hallam&#x2019;s graduation fortnight in November, where more than 12,000 students will be graduating from the university this year.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/news/the-beatles-ed-sheeran-elton-john-spice-girls-instagram-b1973798">LadBaby enlists famous friends in bid for fourth Christmas number one</a></p><p><a href="https://www.indy100.com/news/charles-prince-of-wales-the-prince-s-trust-trust-kate-garraway-b1942968">Charles moved to tears by young man helped by Prince&#x2019;s Trust</a></p><p><a href="https://www.indy100.com/news/spice-girls-coldplay-lil-nas-x-twitter-b1925474">Teletubbies reunite for new album ahead of 25th anniversary</a></p>
+                                    </section>
+                                </section><p>Horner recently visited the campus to meet vice-chancellor, Professor Sir Chris Husbands, and students in media, arts and communication.</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img alt class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="bd27e5e4573a46c3e7d9fc78869794db" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/geri-horner-and-professor-sir-chris-husbands-sheffield-hallam-university-pa.jpg?id=29977715&amp;width=980" height="577" id="017d5" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 838 577&apos;%3E%3C/svg%3E" width="838"><figcaption>Geri Horner and Professor Sir Chris Husbands (Sheffield Hallam University/PA)</figcaption></p><p>She was introduced to the South Yorkshire Children&#x2019;s University initiative, which provides inclusive extra-curricular activities to children and young people, particularly those from disadvantaged backgrounds.</p><p>Horner also met with women&#x2019;s rights expert Dr Suni Toor, whose work has helped support female victims of violence in India and won an Asian Women of Achievement Award.</p><p>Horner said: &#x201C;It is a great privilege to receive this honorary award from Sheffield Hallam University.</p><p>&#x201C;I sincerely believe education is a superpower, supporting young people with the confidence, perspective and experience to pursue their life goals and dreams.</p><p>&#x201C;I&#x2019;m delighted to receive the award and very much look forward to returning to Sheffield Hallam for the graduation ceremony later this year.&#x201D;</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img alt="Spice Girls reunion tour" class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="40964476eb5fdeb8dbbd24872b0f33e8" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/spice-girls-reunion-tour.jpg?id=29977716&amp;width=980" height="428" id="52d61" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 640 428&apos;%3E%3C/svg%3E" width="640"><figcaption>The Spice Girls in concert at Wembley Stadium (Andrew Timms/PA) / PA Media - Andrew Timms</figcaption></p><p>Sir Chris said: &#x201C;Geri Halliwell-Horner&#x2019;s contribution to raising the aspirations of children and young people alongside her commitment to promoting women&#x2019;s rights align closely with the university&#x2019;s mission to transform lives.</p><p>&#x201C;I am delighted that she has accepted our offer to award her an honorary doctorate in recognition of her philanthropic work, and look forward to welcoming her to our community.&#x201D;</p><p>Horner, born Halliwell, shot to fame in the 1990s as part of the Spice Girls, who scored nine number one singles and two number one albums during their pomp.</p><p>She is also vice-patron of Breast Cancer Care, inaugural ambassador for the Royal Commonwealth Society and a long-standing ambassador of The Prince&#x2019;s Trust.</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657335882</guid>
+      <title>
+        <![CDATA[I can’t stop smiling, says LGBTQ+ fan after Blackpool player comes out]]>
+      </title>
+      <description>
+        <![CDATA[Joe White said said the statement from Jake Daniels could have a “powerful” effect for LGBTQ+ fans.]]>
+      </description>
+      <dc:creator>Alistair Mason</dc:creator>
+      <flatplan:author name="Alistair Mason"/>
+      <link>https://www.indy100.com/sport/i-cant-stop-smiling-says-lgbtq-fan-after-blackpool-player-comes-out</link>
+      <pubDate>2022-06-15T10:00:42+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/rainbow-laces-nick-potts-pa.jpg?id=29813989&amp;width=1200&amp;coordinates=0%2C141%2C0%2C141&amp;height=600" caption="Rainbow laces (Nick Potts/PA) / PA Wire/PA Images - Nick Potts"/>
+      <category>Sport</category>
+      <content:encoded>
+        <![CDATA[<div class="body-description"><p>An LGBTQ+ football fan said they &#x201C;can&#x2019;t stop smiling&#x201D; after a Blackpool player became the first professional in the men&#x2019;s game to come out as gay in 30 years.</p><p>Jake Daniels, 17, released a statement on Monday saying he has always known he is gay and that he was ready to &#x201C;come out and be myself&#x201D;.</p><p>For Joe White, co-chair of Pride In Football, a network of UK LGBTQ+ fan groups, it was a big moment.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/sport/callum-wilson-tooth-falls-out">Grim moment footballer&apos;s tooth falls out on live TV</a></p><p><a href="https://www.indy100.com/sport/its-a-wonderful-feeling-josh-cavallo-on-inspiring-jake-daniels-to-come-out">&#x2018;It&#x2019;s a wonderful feeling&#x2019; &#x2013; Josh Cavallo on inspiring Jake Daniels to come out</a></p><p><a href="https://www.indy100.com/sport/jake-daniels-gay-footballer-praised">Footballer Jake Daniels widely praised after coming out as gay</a></p>
+                                    </section>
+                                </section><p>Describing their feelings to PA, they said: &#x201C;It&#x2019;s just a lot of amazement, awe at Jake, and it&#x2019;s just wonderful.</p><p>&#x201C;I can&#x2019;t stop smiling whenever we&#x2019;re talking about it so I think that says it all.&#x201D;</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img alt="Joe White at an England game" class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="b6bb1d22fb1afc4afb403e087c9afef0" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/joe-white-at-an-england-game.jpg?id=29813990&amp;width=980" height="2316" id="903fb" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 3088 2316&apos;%3E%3C/svg%3E" width="3088"><figcaption>Joe White is also co-chair of Three Lions Pride (Joe White)</figcaption></p><p>Mx White said that when they were younger football was &#x201C;not a welcoming place&#x201D; for LGBTQ+ people.</p><p>&#x201C;I&#x2019;d go to games and you&#x2019;d hear homophobic chanting, homophobic slurs,&#x201D; they said.</p><p>&#x201C;And when you realise that, actually, those words are about someone like you, it makes it feel like football is an alienating place and not somewhere that you are welcome as your authentic self.&#x201D;</p><p>Since then football has made &#x201C;a lot of progress quickly&#x201D;, they said, but there has been no openly gay player in the professional men&#x2019;s game in England since Justin Fashanu.</p><p>Having an openly gay footballer in the men&#x2019;s game and &#x201C;just seeing someone like you on the pitch&#x201D; could therefore have a &#x201C;powerful&#x201D; effect for LGBTQ+ fans, they said.</p><p>Daniels received messages of support online from a host of Premier League clubs, governing bodies and players, including England captain Harry Kane and Manchester United goalkeeper David De Gea.</p><p>The leaders of the Conservative, Labour and Liberal Democrat parties also expressed their support, along with figures from the wider worlds of sport and entertainment.</p><div class="rm-shortcode" data-rm-shortcode-id="bd4a84bc23ae78291e563e6806b6aadb" id="1b57c"><blockquote class="rm-embed twitter-custom-tweet" data-partner="rebelmouse" data-twitter-tweet-id="1526232455002345473"><div style="margin:1em 0">A message from Jake Daniels.
+
+https://t.co/R2wEsniXKV https://t.co/dcznYKtSaD</div> &#x2014; Blackpool FC (@Blackpool FC)
+        <a href="https://twitter.com/BlackpoolFC/statuses/1526232455002345473">1652717147</a></blockquote></div><p>Mx White, who is also co-chair of Arsenal and England LGBTQ+ fan groups, said they were pleased to see Daniels&#x2019; statement had been greeted with &#x201C;overwhelming positivity&#x201D;.</p><p>&#x201C;It&#x2019;s been really promising to see how many people are getting behind and showing their support for him on social media,&#x201D; they said.</p><p>&#x201C;The Premier League clubs have been tweeting already and sadly, yes, you do get a few trolls and homophobes still, but it&#x2019;s been lovely to see overwhelming positivity across the board.&#x201D;</p><p>Mx White predicted there will &#x201C;most definitely&#x201D; be a number of LGBTQ+ fans keeping an eye on Blackpool next season.</p><p>&#x201C;It&#x2019;s just lovely to see people living their authentic life and being as good as they can be,&#x201D; they said.</p><p>&#x201C;And if he becomes the next English superstar, I really hope that he comes to Arsenal.&#x201D;</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511691</guid>
+      <title>
+        <![CDATA[Jennifer Lopez says attention on her bum caused 'very low self-esteem']]>
+      </title>
+      <description>
+        <![CDATA[In Jennifer Lopez's new Netflix documentary, Halftime, the singer opens up about how the world's fixation on her bum caused her to have low self-esteem.“It was hard when you think people think you’re a joke, like you’re a punchline," she said in the trailer, as an awkward interview clip of her being...]]>
+      </description>
+      <dc:creator>Sophie Thompson</dc:creator>
+      <flatplan:author
+        name="Sophie Thompson"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTY2MTk1MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1NzY3NzMyM30.hfYWlNjIuMdaKfCwekLAmOb97T5W2Pip1bM5X1pcLDg/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/showbiz/jennifer-lopez-self-esteem-halftime</link>
+      <pubDate>2022-06-15T09:58:02+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/halftime-jennifer-lopez-official-trailer.jpg?id=29978930&amp;width=1200&amp;coordinates=0%2C0%2C0%2C120&amp;height=600" caption=" / "/>
+      <category>Showbiz</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/killhqYC-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p> / </p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>In Jennifer Lopez&apos;s new Netflix documentary, <em>Halftime</em>, the singer opens up about how the world&apos;s fixation on her bum caused her to have low self-esteem.</p><p>&#x201C;It was hard when you think people think you&#x2019;re a joke, like you&#x2019;re a punchline,&quot; she said in the trailer, as an awkward interview clip of her being quizzed about her famous behind played. &quot;But I wound up affecting things in a way that I never intended to affect them.&quot;</p><p>&#x201C;I just had very low self-esteem. I really believed a lot of what they said.&quot;</p><p><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=newsletters&amp;itm_content=video-articles" rel="noopener noreferrer" target="_blank">Click here</a> to sign up to our newsletters.</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511620</guid>
+      <title>
+        <![CDATA[Amber Heard admits she and Depp might look like ‘Hollywood brats’]]>
+      </title>
+      <description>
+        <![CDATA[Amber Heard acknowledged how the public's view of her and Johnny Depp may have changed post-trial, as she sat down for an interview with NBC's Today Show.“I would not blame the average person for looking at this and how it’s covered and seeing it as Hollywood brats at their worst,” she said.“It’s ac...]]>
+      </description>
+      <dc:creator>Sophie Thompson</dc:creator>
+      <flatplan:author
+        name="Sophie Thompson"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTY2MTk1MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1NzY3NzMyM30.hfYWlNjIuMdaKfCwekLAmOb97T5W2Pip1bM5X1pcLDg/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/news/amber-heard-nbc-interview-brats</link>
+      <pubDate>2022-06-15T09:39:33+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/amber-heard-admits-she-and-depp-might-look-like-hollywood-brats.jpg?id=29978875&amp;width=1200&amp;coordinates=0%2C71%2C0%2C49&amp;height=600" caption=" / "/>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/chdk7UJi-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p> / </p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>Amber Heard acknowledged how the public&apos;s view of her and Johnny Depp may have changed post-trial, as she sat down for an interview with NBC&apos;s<em> Today Show.</em></p><p>&#x201C;I would not blame the average person for looking at this and how it&#x2019;s covered and seeing it as Hollywood brats at their worst,&#x201D; she said.</p><p>&#x201C;It&#x2019;s actually so much more than that,&#x201D; Heard continued, arguing that she was unsurprised the jury sided with Depp, as he&apos;s a pop culture icon and a &quot;beloved character&quot;.</p><p><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=newsletters&amp;itm_content=video-articles" rel="noopener noreferrer" target="_blank">Click here</a> to sign up to our newsletters.</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511599</guid>
+      <title>
+        <![CDATA[Ukrainian refugee reveals his favourite thing about the UK is salt and vinegar crisps]]>
+      </title>
+      <description>
+        <![CDATA[A Ukrainian refugee has been revealing his favourite things about the UK since fleeing the war and moving to London.Leo (@LeoShurovv) cited weather changes, the tube, and Guinness as some of the best, but what came on top may surprise many.Salt and vinegar crisps and coleslaw were crowned the best t...]]>
+      </description>
+      <dc:creator>Sophie Thompson</dc:creator>
+      <flatplan:author
+        name="Sophie Thompson"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTY2MTk1MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1NzY3NzMyM30.hfYWlNjIuMdaKfCwekLAmOb97T5W2Pip1bM5X1pcLDg/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/viral/ukrainian-refugee-favourite-things-uk</link>
+      <pubDate>2022-06-15T09:32:40+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/ukrainian-refugee-reveals-favourite-things-about-london.jpg?id=29978865&amp;width=1200&amp;coordinates=0%2C102%2C0%2C18&amp;height=600" caption=" / "/>
       <category>Viral</category>
       <content:encoded>
-        <![CDATA[ <iframe width="560" height="315" src="https://www.youtube.com/embed/y-Wj685wPIY" </iframe><section class="flatplan-stack" data-stack-id="indy-video-caption"> <section> <p>Monster Yellowfin Tuna!! / www.youtube.com</p> </section> </section>nullnull<div class="body-description"><p>A fishmonger has taken delivery of this mammoth catch &#x2013; a 7ft bluefin tuna tipping the scales at a whopping 150kg which is worth thousands.</p><p>Campbell Mickel, 51, got the rare fish today (June 15) after buying it from traders in Barcelona on Friday - and said he was so excited he couldn&apos;t sleep.</p><p>It arrived in the UK yesterday and was transported to Eddie&#x2019;s Seafood Market, Edinburgh, overnight.</p><section class="flatplan-stack" data-stack-id="indy-recommended"> <section> <p><a href="https://www.indy100.com/viral/alpaca-car-ride-traffic-scotland">Alpaca riding shotgun could be Scotland&apos;s latest celebrity</a></p><p><a href="https://www.indy100.com/viral/rat-wetherspoons-birmingham-bishop-vesey">Rat at Wetherspoons causes chaos as it scurries over people&#x2019;s feet</a></p><p><a href="https://www.indy100.com/viral/dolphin-in-living-room-brazil">Dolphin moves into family&apos;s living room after flooding</a></p> </section> </section><p>It took four people to haul the huge tuna onto the window display at the fish market - and Campbell said he will have to fillet it in on the floor as it doesn&apos;t fit on the counter.</p><p>Campbell said he would not normally advocate eating bluefin tuna but said the 7ft fish was farmed rather than caught in the wild.</p><p>It was captured at a young age and farmed in a pen in the Mediterranean until it matured before being sold.</p><p>Campbell was asked by a customer who owns a sushi restaurant to source the bluefin.</p><p>He spent nearly three months trying to find the fish, which he said is worth thousands.</p><p>Campbell will now spend around two hours cutting it up into four fillets before handing it over to the owners of sushi restaurants Bentoya and Kenji in Edinburgh.</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img alt="Campbell lies down next to the giant tuna" class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="7e84645880c7f70e3f0cae9e3b53e2ff" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/campbell-lies-down-next-to-the-giant-tuna.jpg?id=29978738&amp;width=980" height="3272" id="09616" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 5439 3272&apos;%3E%3C/svg%3E" width="5439"><figcaption>Campbell lies down next to the giant tuna / Katielee Arrowsmith SWNS</figcaption></p><p>The fish will be super frozen at minus 60 degrees to protect the quality of it.</p><p>Campbell said: &#x201C;I bought it from Barcelona on Friday and it arrived in the UK yesterday after being transported overnight - I didn&#x2019;t sleep at all last night I was so excited.</p><p>&quot;It weighs 150kg and is about 7ft long.</p><p>&#x201C;Bluefin tuna are highly endangered so we wouldn&#x2019;t normally advocate eating it.</p><p>&#x201C;But this one was caught when it was young and farmed until it was mature in a pen &#x2013; so it&#x2019;s classed as farmed as opposed to wild.</p><p>&#x201C;It was farmed in the Mediterranean off the east coast of Spain.</p><p>&#x201C;I bought it through traders in Barcelona and they handle everything needed to get it to the UK.</p><p>&#x201C;It cost me a thousands.</p><p>&#x201C;It took four of us to try and get it on display but we had to really wrestle with it, you can&#x2019;t get your arms around it at all and it&#x2019;s so slippery.</p><p>&#x201C;You can&#x2019;t comprehend the size of this fish until you see it in real life.</p><p>&#x201C;It has been sold to one customer, a sushi restaurant, who will super freeze it to minus 60 degrees to protect the quality of it.</p><p>&#x201C;The customer asked me to located the fish for him and I have been working on it for two or three months.</p><p>&#x201C;We supply sushi restaurants in Edinburgh, Glasgow and Dundee but we don&#x2019;t normally deal with bluefin tuna.</p><p>&#x201C;But because this was a farmed product I wanted to try it.</p><p>&#x201C;For a sushi restaurant this fish is as good as it gets, it&#x2019;s the creme de la creme - it&#x2019;s their lobster, caviar and champagne all in one meal.&#x201D;</p><p><em>by Ellie Forbes</em></p><p><strong><strong><strong><em>Have your say in our news democracy. Click the upvote icon at the top of the page to help raise this article through the indy100 rankings.</em></strong></strong></strong></p></div> ]]>
+        <![CDATA[<iframe width="560" height="315" src="https://www.youtube.com/embed/y-Wj685wPIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p> / </p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>A Ukrainian refugee has been revealing his favourite things about the UK since fleeing the war and moving to London.</p><p>Leo (<a href="https://www.tiktok.com/@leoshurovv" target="_blank">@LeoShurovv</a>) cited weather changes, the tube, and Guinness as some of the best, but what came on top may surprise many.Salt and vinegar crisps and coleslaw were crowned the best things about being in London. Who knew?</p><p>In a separate video, he also joked that one thing Ukrainians and British people have in common is their love of beer...so settling in shouldn&apos;t be a problem. </p><p><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=newsletters&amp;itm_content=video-articles" rel="noopener noreferrer" target="_blank">Click here</a> to sign up to our newsletters.</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511567</guid>
+      <title>
+        <![CDATA[Hospital helps college sweethearts tie the knot following stroke]]>
+      </title>
+      <description>
+        <![CDATA[A hospital in Houston has been helping two college sweethearts tie the knot, after the husband suffered a stroke right before they were due to get married.Keith and Titilayo Smith reunited on Facebook after losing touch and fell in love again several years later, when the incident happened just days...]]>
+      </description>
+      <dc:creator>Sophie Thompson</dc:creator>
+      <flatplan:author
+        name="Sophie Thompson"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTY2MTk1MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1NzY3NzMyM30.hfYWlNjIuMdaKfCwekLAmOb97T5W2Pip1bM5X1pcLDg/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/lifestyle/keith-titilayo-stroke-hospital-wedding</link>
+      <pubDate>2022-06-15T09:26:17+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/houston-hospital-helps-college-sweethearts-tie-the-knot.png?id=29978851&amp;width=1200&amp;coordinates=0%2C0%2C0%2C89&amp;height=600" caption=" / "/>
+      <category>Lifestyle</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/XZSOMM8F-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p> / </p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>A hospital in Houston has been helping two college sweethearts tie the knot, after the husband suffered a stroke right before they were due to get married.</p><p>Keith and Titilayo Smith reunited on Facebook after losing touch and fell in love again several years later, when the incident happened just days before the wedding.</p><p>When Keith was unable to leave hospital to make it, Houston Mainland Hospital brought the ceremony to them, providing music, their invited guests, and flowers, so they could still have their special day.</p><p><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=newsletters&amp;itm_content=video-articles" rel="noopener noreferrer" target="_blank">Click here</a> to sign up to our newsletters.</p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511245</guid>
+      <title>
+        <![CDATA[Astronomer claims robots have replaced aliens and they’re targeting humans next]]>
+      </title>
+      <description>
+        <![CDATA[An astronomer has claimed aliens are set to be replaced by robots – and humans are next.Lord Martin Rees of Ludlow is the UK's Astronomer Royal, a member of the House of Lords and a former President of the Royal Society. He explores space, black holes, galaxy formation, the multiverse and prospects ...]]>
+      </description>
+      <dc:creator>Becca Monaghan</dc:creator>
+      <flatplan:author
+        name="Becca Monaghan"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yODgxMzk4Ny9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1OTM1MDI3OH0.Hw2NvACryAUm18KJuYZLrFhscPeV4d1L485RUuLvmiU/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/science-tech/astronomer-robots-have-replaced-aliens</link>
+      <pubDate>2022-06-15T09:06:25+00:00</pubDate>
+      <media:thumbnail
+        url="https://www.indy100.com/media-library/scientists-develop-self-healing-human-skin-for-robots.jpg?id=29978707&amp;width=1200&amp;coordinates=0%2C402%2C0%2C187&amp;height=600"
+        caption="Scientists develop 'self-healing' human skin for robots / SWNS"/>
+      <category>Science &amp; Tech</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/hjlXPeE4-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p>Scientists develop 'self-healing' human skin for robots / SWNS</p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>An astronomer has claimed <a href="/topic/aliens" target="_blank">aliens</a> are set to be replaced by <a href="/topic/robots" target="_blank">robots</a> &#x2013; and humans are next.</p><p>Lord Martin Rees of Ludlow is the UK&apos;s <a href="https://www.indy100.com/topic/astronomers" target="_blank">Astronomer</a> Royal, a member of the House of Lords and a former President of the Royal Society. He explores space, black holes, galaxy formation, the multiverse and prospects for extraterrestrial life. </p><p>At the Cheltenham <a href="/topic/science" target="_blank">Science</a> Festival, Lord Rees said that incredibly advanced robots have already possibly taken over &quot;flesh and blood&quot; aliens. He suggested that humans will be &quot;superseded&quot; by robots too within the next millennium.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/science-tech/aliens-live-among-us-2657507995">Aliens are among us and abducting people from earth, professor says</a></p><p><a href="https://www.indy100.com/science-tech/russia-ufo-sighting-research-pilot">Russia ramps up UFO research after pilot sightings</a></p><p><a href="https://www.indy100.com/science-tech/stars-form-aliens-existence-scientist">The way stars form could help us understand whether aliens exist</a></p>
+                                    </section>
+                                </section><p>Speaking about future society, he explained: &quot;What will we expect this life to be like? I think if we were to detect anything... it would not be a flesh and blood civilisation like ours. It will be something robotic and electronic.&quot;</p><p><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=footer&amp;itm_audience=prospecting&amp;itm_content=newsletters" target="_blank"><strong>Sign up</strong></a><strong> to our free Indy100 weekly newsletter</strong></p><p>According to the <em><a href="https://www.dailystar.co.uk/tech/news/astronomer-royal-says-humanity-replaced-27227512" target="_blank">Daily Star</a></em>, the robots we see today are just the first steps toward a new civilisation of synthetic life. He claimed it will be &quot;near-immortal&quot; and have the capability to outlive humanity. </p><p>He said: &quot;It is certainly on the cards that after a few centuries more&#x2026; 1,000 years&#x2026; we will have been superseded by electronic entities and they will be near-immortal and could go on for the rest of the universe&#x2019;s history..&quot;</p><p>Lord Rees also hinted at the possibility that aliens have already taken over planets &quot;inhabited by the remote electronic progeny of some long-dead civilisation.&quot; </p><p>SETI (Search for Extra-Terrestrial Intelligence) expert Seth Shostak said that the first entities interstellar travellers will meet will be AI-based rather than living beings. </p><p> &quot;Given that they would be more likely to be machines than living beings anyway, it&#x2019;d be hard to gauge what they&#x2019;d be interested in,&quot; he <a href="https://www.dailystar.co.uk/tech/news/astronomer-royal-says-humanity-replaced-27227512" target="_blank">said</a> about their motive. </p><p><strong></strong><strong><strong><strong><em>Have your say in our news democracy. Click the upvote icon at the top of the page to help raise this article through the indy100 rankings.</em></strong></strong></strong></p><p><strong><em></em></strong></p></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511393</guid>
+      <title>
+        <![CDATA[Howard Stern blasts Phil Mickelson for playing for 'piece of s**t' Saudis in LIV golf series]]>
+      </title>
+      <description>
+        <![CDATA[The controversial LIV golf series continues to attract criticism, and now Howard Stern has put Phil Mickelson on blast over his involvement.
+Mickelson is one of the biggest names taking part in the breakaway series backed by Saudi Arabia’s Public Investment Fund, with clear links to the regime in S...]]>
+      </description>
+      <dc:creator>Harry Fletcher</dc:creator>
+      <flatplan:author
+        name="Harry Fletcher"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTI0Mjg2OC9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTcwMzMwNTk3NX0.li1WR4WKNajKsYN5m3TO2aOSGIk927m6vg0vTOAQjwo/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/sport/howard-stern-phil-mickelsen-liv-golf</link>
+      <pubDate>2022-06-15T09:05:00+00:00</pubDate>
+      <media:thumbnail
+        url="https://www.indy100.com/media-library/i-respect-rory-but-players-can-make-their-own-decisions-mickelson.jpg?id=29978767&amp;width=1200&amp;coordinates=0%2C112%2C0%2C388&amp;height=600"
+        caption="'I respect Rory .... but players can make their own decisions' Mickelson / IndyTV"/>
+      <category>Sport</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/sAgkdq2A-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p>'I respect Rory .... but players can make their own decisions' Mickelson / IndyTV</p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>The <a href="https://www.indy100.com/sport/liv-golf-series-controversial" target="_blank">controversial LIV golf series</a> continues to attract criticism, and now Howard Stern has put Phil Mickelson on blast over his involvement. </p><p>Mickelson is one of the biggest names taking part in the breakaway series backed by Saudi Arabia&#x2019;s Public Investment Fund, with clear links to the regime in Saudi Arabia.</p><p>The Saudi Arabian government&apos;s record on human rights has long been questioned and criticised by groups such as Amnesty International &#x2013; and the players who have signed up for the series have been grilled on their involvement ever since moving over.</p><section class="flatplan-stack" data-stack-id="indy-recommended">
+                                    <section>
+                                    <p><a href="https://www.indy100.com/sport/liv-golf-pga-tour">LIV Golf players suspended by PGA after entering Saudi-backed tour</a></p><p><a href="https://www.indy100.com/sport/liv-golf-series-controversial">What is the LIV Golf Series and why is it so controversial?</a></p><p><a href="https://www.indy100.com/sport/tom-brady-hole-in-one">Tom Brady sparks debate after &apos;hitting hole in one&apos; in viral video</a></p>
+                                    </section>
+                                </section><p>Along with Dustin Johnson, Mickelson is the biggest name to have committed to playing on in the LIV after reportedly being paid $200million to join &#x2013; and Stern isn&#x2019;t at all happy about it.</p><p><strong><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=footer&amp;itm_audience=prospecting&amp;itm_content=newsletters" rel="noopener noreferrer" target="_blank">Sign up</a> to our free Indy100 weekly newsletter</strong></p><p>Stern spoke about Mickelson, other golfers involved and the Saudi regime on his SiriusXM show [via <em><a href="https://www.mediaite.com/sports/howard-stern-destroys-phil-mickelson-and-other-saudi-tour-defectors-theyre-selling-out-to-real-pieces-of-sht/" target="_blank">Mediaite</a></em>], saying: &#x201C;They&#x2019;re selling out.&#x201D;</p><p>&#x201C;They&#x2019;re real pieces of sh** and they got a lot of money so it allows them to be pieces of sh** on a big level,&#x201D; Stern said. &#x201C;Normally, if they didn&#x2019;t have oil there, you wouldn&#x2019;t hear from these guys, you&#x2019;d never know what they believe, they&#x2019;d be talking to a sheep and a camel.&#x201D;</p><p class="shortcode-media shortcode-media-rebelmouse-image"><img class="rm-shortcode rm-lazyloadable-image" data-rm-shortcode-id="77628f59f38b5a198e058c82b2e2f476" data-rm-shortcode-name="rebelmouse-image" data-runner-src="https://www.indy100.com/media-library/stern-isn-t-happy-about-mickelson-s-actions.jpg?id=29978808&amp;width=980" height="2000" id="7b59b" lazy-loadable="true" src="data:image/svg+xml,%3Csvg xmlns=&apos;http://www.w3.org/2000/svg&apos; viewBox=&apos;0 0 3000 2000&apos;%3E%3C/svg%3E" width="3000"><figcaption>Stern isn&apos;t happy about Mickelson&apos;s actions / Getty</figcaption></p><p>&#x201C;But they, unfortunately, have so much money that they can spread their diseased brain power all over the world and now they wanna start a golf tournament, not a tournament, a league.&#x201D;</p><p>Mickelson is one of the golfers who has been suspended from the PGA Tour after joining the LIV.</p><p>It comes after players were hit with difficult questions over their involvement earlier this month before the first event at the Centurion Club in St Albans.</p><p>Touching on some of the most troubling aspects of life under the Saudi government, Graeme McDowell was asked at the first press conference for the event, &#x201C;how is that journey helping women who are oppressed in Saudi Arabia, the migrant groups whose rights are violated, the LGBTQ individuals who are criminalised, the families of the 81 men who were executed by the kingdom in March, and those being bombed in Yemen?&#x201D;</p><p>&#x201C;I wish I had the ability to be able to have that conversation with you,&#x201D; McDowell replied.</p><em><strong>H</strong></em><em><strong>ave your say in our news democracy. Click the upvote icon at the top of the page to help raise this article through the indy100 rankings.</strong></em></div>]]>
+      </content:encoded>
+    </item>
+    <item>
+      <guid isPermaLink="false">2657511480</guid>
+      <title>
+        <![CDATA[Kate Middleton's mum just borrowed her dress for Royal Ascot]]>
+      </title>
+      <description>
+        <![CDATA[Either Kate Middleton and mum Carole share the same great taste, or the Duchess' family have been raiding her wardrobe - as eagle-eyed fans spotted the 67-year-old wearing one of Kate's previous dresses.The sold-out £450 bubblegum pink dress from ME+EM was seen on the Duchess of Cambridge last year ...]]>
+      </description>
+      <dc:creator>Sophie Thompson</dc:creator>
+      <flatplan:author
+        name="Sophie Thompson"
+        url="https://www.indy100.com/media-library/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yOTY2MTk1MS9vcmlnaW4ucG5nIiwiZXhwaXJlc19hdCI6MTY1NzY3NzMyM30.hfYWlNjIuMdaKfCwekLAmOb97T5W2Pip1bM5X1pcLDg/image.png"/>
+      <flatplan:template identifier="video-author"/>
+      <link>https://www.indy100.com/news/carole-middleton-ascot-dress-kate</link>
+      <pubDate>2022-06-15T09:04:39+00:00</pubDate>
+      <media:thumbnail url="https://www.indy100.com/media-library/carole-middleton-wears-daughter-kate-s-dress-to-royal-ascot.png?id=29978811&amp;width=1200&amp;coordinates=0%2C13%2C0%2C53&amp;height=600" caption=" / "/>
+      <category>News</category>
+      <content:encoded>
+        <![CDATA[<iframe src="https://content.jwplatform.com/players/OjVw4dhy-eAScNFE4.js-default.js"></iframe><section class="flatplan-stack" data-stack-id="indy-video-caption">
+                    <section>
+                    <p> / </p>
+                    </section>
+                </section>nullnull<div class="body-description"><p>Either Kate Middleton and mum Carole share the same great taste, or the Duchess&apos; family have been raiding her wardrobe - as eagle-eyed fans spotted the 67-year-old wearing one of Kate&apos;s previous dresses.</p><p>The sold-out &#xA3;450 bubblegum pink dress from ME+EM was seen on the Duchess of Cambridge last year when she went to visit young cancer patient, Mila Sneddon.</p><p>Meanwhile, Carole attended the first day of Royal Ascot wearing what appears to be the same dress - pulled off just as elegantly, naturally.</p><p><a href="https://www.independent.co.uk/newsletters?itm_channel=native&amp;itm_campaign=newsletters&amp;itm_content=video-articles" rel="noopener noreferrer" target="_blank">Click here</a> to sign up to our newsletters.</p></div>]]>
       </content:encoded>
     </item>
   </channel>
