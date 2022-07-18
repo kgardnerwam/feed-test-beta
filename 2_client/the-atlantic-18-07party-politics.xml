@@ -1,0 +1,26 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:flatplan="https://www.flatplan.io/feedspec/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The Atlantic</title>
+    <pubDate>Mon, 18 Jul 2022 16:10:12 GMT</pubDate>
+    <lastBuildDate>Mon, 18 Jul 2022 16:10:31 GMT</lastBuildDate>
+    <link>https://www.theatlantic.com/</link>
+    <language>en-us</language>
+    <item>
+      <guid isPermaLink="true">https://www.theatlantic.com/books/archive/2022/07/poem-kyle-carrero-lopez-party-politics/670523/?utm_source=apple_news</guid>
+      <flatplan:campaignData nobids="true"/>
+      <title>
+        <![CDATA[ Party Politics ]]>
+      </title>
+      <link>https://www.theatlantic.com/books/archive/2022/07/poem-kyle-carrero-lopez-party-politics/670523/?utm_source=apple_news</link>
+      <pubDate>2022-07-17T12:00:00Z</pubDate>
+      <flatplan:author name="Kyle Carrero Lopez"/>
+      <description>A poem for Sunday</description>
+      <category>Poem</category>
+      <media:thumbnail url="https://cdn.theatlantic.com/thumbor/3EbZ_NK3gyH6ZtIot_OPfAewBe4=/0x0:1600x2000/648x810/media/img/2022/07/16/July_2022_PartyPolitics_PacificoSilano_SharpedDressedMan_1_/original.jpg" caption="Pacifico Silano"/>
+      <flatplan:template identifier="standard"/>
+      <content:encoded>
+        ...
+      </content:encoded>
+    </item>
+  </channel>
+</rss>
