@@ -6,7 +6,8 @@
   xmlns:dc="http://purl.org/dc/elements/1.1/"
   xmlns:atom="http://www.w3.org/2005/Atom"
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
-  xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:media="http://search.yahoo.com/m.rss/">
   <channel>
 
     <title>uDiscover Music - Apple News</title>
@@ -352,7 +353,7 @@
       <link>https://www.udiscovermusic.com/stories/tom-wilson-feature/</link>
       <pubDate>Wed, 27 Jul 2022 14:15:36 +0100</pubDate>
 
-      <media:thumbnail url="https://www.udiscovermusic.com/wp-content/uploads/2022/07/Tom-Wilson-GettyImages-169816351.jpg" alt="Tom Wilson recording " The="The" Music="Music" Factory" Radio Show"="Factory" Radio="Radio" Show""="Show"""/>
+      <media:thumbnail url="https://www.udiscovermusic.com/wp-content/uploads/2022/07/Tom-Wilson-GettyImages-169816351.jpg" alt="Tom Wilson recording " The="The" Music="Music" Factory" Radio Show"="Factory" Radio="Radio" Show""="Show" ""/>
       <dc:creator>
         <![CDATA[Jim Allen]]>
       </dc:creator>
