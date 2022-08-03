@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss
+  version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+  xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+  xmlns:media="http://search.yahoo.com/m.rss/"
+  xmlns:flatplan="https://www.flatplan.io/feedspec/">
+  <channel>
+
+    <title>uDiscover Music - Apple News</title>
+    <link>https://www.udiscovermusic.com</link>
+    <pubDate>Wed, 27 Jul 2022 17:10:52 +0000</pubDate>
+    <description>Discover more about the world’s greatest music</description>
+    <lastBuildDate>Wed, 27 Jul 2022 17:10:52 +0000</lastBuildDate>
+    <language>en-US</language>
+
+    <generator>https://wordpress.org/?v=5.8.3</generator>
+    <item>
+      <!-- REQUIRED — must be unique to each article (it can contain slug data or article URL) and be set once and never change -->
+      <guid isPermaLink="false">2691523</guid>
+      <title>
+        Daniele Luppi And Cigarettes & After Sex’s Greg Gonzalez Unveil Charm Of Pleasure
+      </title>
+      <link>https://www.udiscovermusic.com/news/daniele-luppi-greg-gonzalez-unveil-charm-of-pleasure/</link>
+      <pubDate>Wed, 27 Jul 2022 18:10:30 +0100</pubDate>
+
+      <media:thumbnail url="https://www.udiscovermusic.com/wp-content/uploads/2022/07/Greg-Gonzalez-Daniele-Luppi-Courtesy-Slowplay-Verve.jpg" alt="Charm of Pleasure photo - Courtesy: Slowplay/Verve"/>
+      <dc:creator>
+        <![CDATA[Paul Sexton]]>
+      </dc:creator>
+      <description>
+        <![CDATA[Their upcoming EP is introduced by the single ‘You Never Loved.’]]>
+      </description>
+      <category>
+        <![CDATA[News]]>
+      </category>
+      <flatplan:keywords>Alternative,Charm of Pleasure,Cigarettes After Sex,Daniele Luppi,Featured News,Greg Gonzalez</flatplan:keywords>
+      <flatplan:standfirst>
+        <![CDATA[Their upcoming EP is introduced by the single ‘You Never Loved.’]]>
+      </flatplan:standfirst>
+      <!-- Apple News specifc metadata -->
+      <flatplan:parameters isPreview="false" isCandidateToBeFeatured="false" isHidden="false" maturityRating="GENERAL" isPaid="false"/>
+      <content:encoded>
+        <![CDATA[
+                        <p>Los Angeles-based artist, Daniele Luppi and Cigarettes After Sex’s Greg Gonzalez have announced their new collaborative project, Charm of Pleasure. The upcoming EP of that title, due on September 16, is introduced today (27) by the single “You Never Loved.”</p>
+<p>The five-track EP takes both artists into new creative terrain, blending their elegant songwriting and dream-pop excellence into a fresh sound that nevertheless complements their respective catalogs. “You Never Loved” arrives with a striking video directed by Luppi himself, featuring a contemporary dancer floating around a vacant library in an emerald green suit. A limited edition vinyl release <a href="https://danieleluppi.lnk.to/charmofpleasure" target="_blank" rel="noopener"><strong>can be pre-ordered here</strong></a>.</p>
+<div class='uD-YT-container'><iframe src='https://www.youtube.com/embed/t6PuhCPfwTE?rel=0' name='YouTube Embed' title='YouTube Embed' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen class='uD-YT-video'></iframe></div>
+<p>Luppi and Gonzalez's inspiration for the new project came from a number of sources, including the “futuristic decay” of <em>Blade Runner</em> and the architecture of Frank Lloyd Wright. Luppi and Gonzalez met via a mutual friend and swiftly formed a close artistic bond. “I was really impressed with his taste,” says Luppi. “When we met, we discovered we had a remarkable amount in common.”</p>
+<p>When Luppi returned to Los Angeles, the pair went into the studio and created “Another Life” on their first day of working together. “I was blown away by what I heard – just totally floored,” recalls Luppi. “If that song didn’t happen the way it did, I don’t know if everything else would’ve come together.”</p>
+<p>He adds of Charm of Pleasure: “Everything was created in a very spontaneous way. All the music was written down, but Greg’s vocals were almost improvised, in a way.”</p>
+<p>The EP follows Milano, Luppi's 2017 album collaboration with Parquet Courts frontman Andrew Savage and Karen O. Capturing the underground energy of 1980s Milan, it was hailed by <em>Pitchfork</em> as "superficial, vibrant, and full of possibility." Earlier, in 2011, Luppi had created the Rome project with Danger Mouse, and he is also known for his work with <a href="https://www.udiscovermusic.com/artist/red-hot-chili-peppers/"><strong>Red Hot Chili Peppers</strong></a>, Gnarls Barkley, John Legend, Broken Bells, and others.</p>
+<p><strong>Pre-order <em><a href="https://danieleluppi.lnk.to/charmofpleasure" target="_blank" rel="noopener">Charm of Pleasure</a>, </em>which is released on September 16,</strong></p>
+<div><p>For the latest music news and exclusive features, check out <strong><a href="https://www.udiscovermusic.com/" target="_blank" rel="noopener">uDiscover Music</a></strong>.</p>
+<p><em style="font-size:1.1em">uDiscover Music is operated by Universal Music Group (UMG). Some recording artists included in uDiscover Music articles are affiliated with UMG.</em></p>
+</div><div>For the latest music news and exclusive features, check out <strong><a href="https://www.udiscovermusic.com/" target="_blank" rel="noopener">uDiscover Music</a></strong>.
+
+<em style="font-size:1.1em">uDiscover Music is operated by Universal Music Group (UMG). Some recording artists included in uDiscover Music articles are affiliated with UMG.</em>
+</div>                    ]]>
+      </content:encoded>
+    </item>
+
+  </channel>
+
+</rss>
