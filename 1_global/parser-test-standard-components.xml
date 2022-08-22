@@ -14,8 +14,6 @@
     <link>https://flatplan.io</link>
     <language>en-US</language>
 
-    <flatplan:campaignData nobids="true"/>
-
     <item>
       <!-- must be unique and alphanumeric only, not contain slug data or artilce URL -->
       <guid isPermaLink="false">128sgdh234hgfghj29s</guid>
